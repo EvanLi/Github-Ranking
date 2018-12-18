@@ -72,7 +72,7 @@ def get_all_repos(languages):
 def write_head_contents():
 # write the head and contents of README.md
     write_time = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-    head = "[Github Most Stars and Forks](./README.md)\n==========\n\n\
+    head = "[Github Ranking](./README.md)\n==========\n\n\
 **A list of the most github stars and forks repositories.**\n\
 \n*Last Automatic Update Time: {}*\n\n".format(write_time)
     contents = '''## Table of Contents\n
@@ -112,7 +112,7 @@ def write_readme_lang_md(repos_stars, repos_forks, repos_languages,languages,lan
     save_ranking('README.md','a',repos_stars[0:10])
     print("Save most stars in README.md!")
     os.makedirs('Top100',exist_ok=True)
-    write_text('Top100/Top-100-stars.md','w','[Github Most Stars and Forks](../README.md)\n==========\n\n## Github Top 100 Stars\n\n')
+    write_text('Top100/Top-100-stars.md','w','[Github Ranking](../README.md)\n==========\n\n## Github Top 100 Stars\n\n')
     save_ranking('Top100/Top-100-stars.md','a',repos_stars)
     print("Save most stars in Top100/Top-100-stars.md!\n")
     
@@ -120,7 +120,7 @@ def write_readme_lang_md(repos_stars, repos_forks, repos_languages,languages,lan
     write_text("README.md",'a',"## Most Forks\n\nThis is top 10 list, for more click **[Github Top 100 Forks](Top100/Top-100-forks.md)**\n\n")
     save_ranking('README.md','a',repos_forks[0:10])
     print("Save most forks in README.md!")
-    write_text('Top100/Top-100-forks.md','w','[Github Most Stars and Forks](../README.md)\n==========\n\n## Github Top 100 Forks\n\n')
+    write_text('Top100/Top-100-forks.md','w','[Github Ranking](../README.md)\n==========\n\n## Github Top 100 Forks\n\n')
     save_ranking('Top100/Top-100-forks.md','a',repos_forks)
     print("Save most forks in Top100/Top-100-forks.md!\n")
     
@@ -130,7 +130,7 @@ def write_readme_lang_md(repos_stars, repos_forks, repos_languages,languages,lan
         write_text('README.md','a',"## {}\n\nThis is top 10 list, for more click **[Top 100 Stars in {}](Top100/{}.md)**\n\n".format(languages_md[i],languages_md[i],lang))
         save_ranking('README.md','a',repos_languages[lang][0:10])
         print("Save most stars of {} in README.md!".format(lang))
-        write_text('Top100/'+lang+'.md','w',"[Github Most Stars and Forks](../README.md)\n==========\n\n## Top 100 Stars in {}\n\n".format(languages_md[i]))
+        write_text('Top100/'+lang+'.md','w',"[Github Ranking](../README.md)\n==========\n\n## Top 100 Stars in {}\n\n".format(languages_md[i]))
         save_ranking('Top100/'+lang+'.md','a',repos_languages[lang])
         print("Save most stars of {} in Top100/{}.md!\n".format(lang,lang))
     
