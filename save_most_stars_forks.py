@@ -29,8 +29,9 @@ def save_ranking(file_name,method,repos):
         count = 0
         for repo in repos:
             count += 1
-            if repo['description'] is not None:
-                repo_description = repo['description'].replace('|','\|') #in case there is '|' in description
+            repo_description = repo['description']
+            if repo_description is not None:
+                repo_description = repo_description.replace('|','\|') #in case there is '|' in description
             f.write('| {} | [{}]({}) | {} | {} | {} | {} | {} | {} |\n'.format(count,
                                                                      repo['name'],
                                                                      repo['html_url'],
