@@ -5,17 +5,17 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 6984 | 106 | ActionScript | 20 | Petition to open source Flash and Shockwave spec | 2019-02-16T01:49:23Z |
-| 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2213 | 880 | ActionScript | 95 | The Cross Platform Game Engine | 2019-01-29T10:24:37Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 6994 | 106 | ActionScript | 20 | Petition to open source Flash and Shockwave spec | 2019-02-16T01:49:23Z |
+| 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2214 | 880 | ActionScript | 95 | The Cross Platform Game Engine | 2019-01-29T10:24:37Z |
 | 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 1880 | 676 | ActionScript | 124 | HTML5 Webcam Image Capture Library with Flash Fallback | 2018-10-16T03:35:39Z |
 | 4 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1502 | 465 | ActionScript | 122 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
-| 5 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1215 | 480 | ActionScript | 350 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
+| 5 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1216 | 480 | ActionScript | 350 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 6 | [flixel](https://github.com/AdamAtomic/flixel) | 1138 | 203 | ActionScript | 74 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 7 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1089 | 218 | ActionScript | 7 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
-| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1075 | 195 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
+| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1076 | 195 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 9 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 979 | 270 | ActionScript | 17 | An ActionScript 3 application framework for Flash and Flex | 2015-03-13T19:01:22Z |
 | 10 | [feathers](https://github.com/BowlerHatLLC/feathers) | 948 | 416 | ActionScript | 174 | User interface components for Starling Framework and Adobe AIR | 2019-02-04T17:25:11Z |
-| 11 | [flashls](https://github.com/mangui/flashls) | 744 | 278 | ActionScript | 170 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
+| 11 | [flashls](https://github.com/mangui/flashls) | 745 | 279 | ActionScript | 170 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 12 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 672 | 291 | ActionScript | 113 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 13 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 636 | 192 | ActionScript | 22 | Minimal ActionScript 3.0 UI Components for Flash | 2015-06-26T18:19:31Z |
 | 14 | [bfxr](https://github.com/increpare/bfxr) | 578 | 58 | ActionScript | 13 | Flash + AIR sound effects generator.   Based on Sfxr. | 2015-09-01T10:30:47Z |
@@ -97,9 +97,9 @@
 | 90 | [purePDF](https://github.com/sephiroth74/purePDF) | 134 | 63 | ActionScript | 9 | A complete actionscript PDF library | 2013-07-08T18:27:22Z |
 | 91 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 134 | 159 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
 | 92 | [graphicscorelib](https://github.com/thibaultimbert/graphicscorelib) | 132 | 53 | ActionScript | 5 | None | 2017-05-11T09:04:49Z |
-| 93 | [starlingMVC](https://github.com/CreativeBottle/starlingMVC) | 130 | 30 | ActionScript | 10 | IOC Framework for Starling based games | 2017-04-24T17:52:02Z |
-| 94 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 130 | 34 | ActionScript | 1 | WebView Adobe Air Native Extension for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2019-02-15T20:24:12Z |
-| 95 | [FairyGUI-layabox](https://github.com/fairygui/FairyGUI-layabox) | 129 | 33 | ActionScript | 4 | A flexible UI framework for LayaAir | 2019-01-21T11:12:52Z |
+| 93 | [FairyGUI-layabox](https://github.com/fairygui/FairyGUI-layabox) | 130 | 33 | ActionScript | 4 | A flexible UI framework for LayaAir | 2019-01-21T11:12:52Z |
+| 94 | [starlingMVC](https://github.com/CreativeBottle/starlingMVC) | 130 | 30 | ActionScript | 10 | IOC Framework for Starling based games | 2017-04-24T17:52:02Z |
+| 95 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 130 | 35 | ActionScript | 1 | WebView Adobe Air Native Extension for OSX 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2019-02-15T20:24:12Z |
 | 96 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 128 | 50 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2013-08-17T17:48:06Z |
 | 97 | [ABPlayer](https://github.com/jabbany/ABPlayer) | 128 | 42 | ActionScript | 1 | A Flex based live comment displayer for online video comment sharing. 一个基于Flex的在线弹幕播放器。  | 2014-11-26T17:23:30Z |
 | 98 | [actionjson](https://github.com/mherkender/actionjson) | 128 | 12 | ActionScript | 2 | A faster, more advanced ActionScript 3 JSON library | 2012-02-06T03:07:18Z |
