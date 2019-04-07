@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [laravel](https://github.com/laravel/laravel) | 51323 | 15628 | PHP | 27 | A PHP framework for web artisans | 2019-04-05T16:56:16Z |
-| 2 | [symfony](https://github.com/symfony/symfony) | 20340 | 6797 | PHP | 837 | The Symfony PHP framework | 2019-04-05T17:40:50Z |
-| 3 | [Faker](https://github.com/fzaninotto/Faker) | 20120 | 2360 | PHP | 188 | Faker is a PHP library that generates fake data for you | 2019-04-04T19:49:54Z |
-| 4 | [composer](https://github.com/composer/composer) | 19144 | 5434 | PHP | 370 | Dependency Manager for PHP | 2019-04-05T14:23:33Z |
-| 5 | [SecLists](https://github.com/danielmiessler/SecLists) | 17460 | 6559 | PHP | 5 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2019-04-05T07:35:36Z |
-| 6 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 17137 | 7672 | PHP | 78 | Open Source PHP Framework (originally from EllisLab) | 2019-04-05T11:42:40Z |
-| 7 | [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | 17044 | 3679 | PHP | 2 | sample code for several design patterns in PHP | 2019-03-24T22:56:25Z |
-| 8 | [framework](https://github.com/laravel/framework) | 16821 | 6353 | PHP | 99 | None | 2019-04-05T22:06:47Z |
-| 9 | [guzzle](https://github.com/guzzle/guzzle) | 16218 | 1912 | PHP | 305 | Guzzle, an extensible PHP HTTP client | 2019-03-20T15:56:57Z |
-| 10 | [monolog](https://github.com/Seldaek/monolog) | 14251 | 1514 | PHP | 60 | Sends your logs to files, sockets, inboxes, databases and various web services | 2019-04-05T10:52:22Z |
-| 11 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 13546 | 1702 | PHP | 84 | The PHP Unit Testing framework. | 2019-04-05T22:34:03Z |
-| 12 | [PHPMailer](https://github.com/PHPMailer/PHPMailer) | 12869 | 7102 | PHP | 33 | The classic email sending library for PHP | 2019-03-31T22:52:21Z |
-| 13 | [yii2](https://github.com/yiisoft/yii2) | 12770 | 6735 | PHP | 884 | Yii 2: The Fast, Secure and Professional PHP Framework | 2019-04-05T07:12:46Z |
-| 14 | [WordPress](https://github.com/WordPress/WordPress) | 12250 | 7416 | PHP | 0 | WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead. | 2019-04-05T17:02:13Z |
-| 15 | [Carbon](https://github.com/briannesbitt/Carbon) | 12155 | 1053 | PHP | 7 | A simple PHP API extension for DateTime. | 2019-04-02T09:56:33Z |
-| 16 | [matomo](https://github.com/matomo-org/matomo) | 11000 | 1725 | PHP | 1794 | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  | 2019-04-06T02:26:05Z |
-| 17 | [PHPExcel](https://github.com/PHPOffice/PHPExcel) | 10800 | 3717 | PHP | 668 | ARCHIVED | 2019-01-02T01:38:48Z |
-| 18 | [grav](https://github.com/getgrav/grav) | 10673 | 1054 | PHP | 315 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS | 2019-04-05T23:42:39Z |
-| 19 | [phabricator](https://github.com/phacility/phabricator) | 10614 | 1351 | PHP | 1 | Open software engineering platform and fun adventure game | 2019-04-05T16:17:32Z |
-| 20 | [parsedown](https://github.com/erusev/parsedown) | 10571 | 871 | PHP | 70 | Better Markdown Parser in PHP | 2019-04-02T19:27:49Z |
-| 21 | [koel](https://github.com/phanan/koel) | 10078 | 1174 | PHP | 76 | 🎶A personal music streaming server that works. | 2019-04-05T04:54:52Z |
-| 22 | [PHP-Parser](https://github.com/nikic/PHP-Parser) | 10030 | 604 | PHP | 44 | A PHP parser written in PHP | 2019-03-06T03:36:17Z |
-| 23 | [sage](https://github.com/roots/sage) | 9934 | 2864 | PHP | 25 | WordPress starter theme with a modern development workflow | 2019-04-05T21:10:53Z |
-| 24 | [whoops](https://github.com/filp/whoops) | 9791 | 517 | PHP | 57 | PHP errors for cool kids  | 2019-02-28T14:15:17Z |
-| 25 | [Slim](https://github.com/slimphp/Slim) | 9680 | 1827 | PHP | 33 | Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. | 2019-04-05T21:10:54Z |
-| 26 | [cphalcon](https://github.com/phalcon/cphalcon) | 9576 | 1749 | PHP | 114 | High performance, full-stack PHP framework delivered as a C extension. | 2019-04-06T03:59:26Z |
-| 27 | [Cachet](https://github.com/CachetHQ/Cachet) | 9503 | 1096 | PHP | 172 | 📛 An open source status page system for everyone. | 2019-04-04T14:00:40Z |
-| 28 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 9137 | 893 | PHP | 324 | Laravel Debugbar (Integrates PHP Debug Bar) | 2019-03-25T09:55:27Z |
-| 29 | [phpdotenv](https://github.com/vlucas/phpdotenv) | 9101 | 425 | PHP | 1 | Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. | 2019-03-28T22:45:10Z |
-| 30 | [flysystem](https://github.com/thephpleague/flysystem) | 9064 | 502 | PHP | 30 | Abstraction for local and remote filesystems | 2019-03-30T13:23:50Z |
-| 31 | [image](https://github.com/Intervention/image) | 9035 | 1042 | PHP | 266 | PHP Image Manipulation | 2019-03-27T08:50:43Z |
-| 32 | [flarum](https://github.com/flarum/flarum) | 8718 | 961 | PHP | 1 | Composer starter project for Flarum | 2019-02-04T07:07:47Z |
-| 33 | [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 8585 | 2284 | PHP | 177 | Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment. | 2019-03-06T10:47:05Z |
-| 34 | [uuid](https://github.com/ramsey/uuid) | 8512 | 312 | PHP | 32 | A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID). | 2019-01-18T15:23:53Z |
-| 35 | [october](https://github.com/octobercms/october) | 8405 | 1932 | PHP | 421 | Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. | 2019-04-05T16:55:05Z |
-| 36 | [api](https://github.com/dingo/api) | 8268 | 1161 | PHP | 203 | A RESTful API package for the Laravel and Lumen frameworks. | 2019-04-04T03:17:02Z |
-| 37 | [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | 8108 | 776 | PHP | 323 | Laravel IDE Helper | 2019-03-27T04:56:32Z |
-| 38 | [voyager](https://github.com/the-control-group/voyager) | 7903 | 1883 | PHP | 225 | Voyager - The Missing Laravel Admin | 2019-04-05T13:25:25Z |
-| 39 | [cakephp](https://github.com/cakephp/cakephp) | 7820 | 3405 | PHP | 234 | CakePHP: The Rapid Development Framework for PHP - Official Repository | 2019-04-05T14:19:23Z |
-| 40 | [wechat](https://github.com/overtrue/wechat) | 7704 | 1913 | PHP | 16 | :package: It is probably the best SDK in the world for developing WeChat App. | 2019-04-05T23:26:22Z |
-| 41 | [swiftmailer](https://github.com/swiftmailer/swiftmailer) | 7654 | 733 | PHP | 337 | Comprehensive mailing tools for PHP | 2019-03-31T03:39:26Z |
-| 42 | [jwt-auth](https://github.com/tymondesigns/jwt-auth) | 7597 | 940 | PHP | 402 | 🔐 JSON Web Token Authentication for Laravel & Lumen | 2019-04-05T06:41:21Z |
-| 43 | [mockery](https://github.com/mockery/mockery) | 7528 | 353 | PHP | 62 | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). | 2019-04-05T02:13:26Z |
-| 44 | [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) | 7426 | 998 | PHP | 294 | A tool to automatically fix PHP Coding Standards issues | 2019-04-05T20:59:53Z |
-| 45 | [Workerman](https://github.com/walkor/Workerman) | 7323 | 1900 | PHP | 4 | An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket, SSL and other custom protocols. Supports libevent, HHVM, ReactPHP. | 2019-04-05T10:40:17Z |
-| 46 | [psysh](https://github.com/bobthecow/psysh) | 7213 | 218 | PHP | 74 | A REPL for PHP | 2019-04-01T22:13:11Z |
-| 47 | [labs](https://github.com/docker/labs) | 7189 | 3123 | PHP | 52 | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. | 2019-03-14T21:54:43Z |
-| 48 | [magento2](https://github.com/magento/magento2) | 7123 | 6158 | PHP | 1380 | All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html | 2019-04-05T21:16:26Z |
-| 49 | [Goutte](https://github.com/FriendsOfPHP/Goutte) | 7122 | 868 | PHP | 113 | Goutte, a simple PHP Web Scraper | 2019-03-29T02:08:41Z |
-| 50 | [server](https://github.com/nextcloud/server) | 7080 | 1262 | PHP | 1931 | ☁️ Nextcloud server, a safe home for all your data | 2019-04-06T00:13:32Z |
-| 51 | [monica](https://github.com/monicahq/monica) | 6898 | 800 | PHP | 390 | Personal CRM. Remember everything about your friends and family. | 2019-04-05T14:38:07Z |
-| 52 | [react](https://github.com/reactphp/react) | 6775 | 667 | PHP | 1 | Event-driven, non-blocking I/O with PHP. | 2019-01-28T12:13:46Z |
-| 53 | [php-ml](https://github.com/php-ai/php-ml) | 6773 | 930 | PHP | 78 | PHP-ML - Machine Learning library for PHP | 2019-04-05T19:23:10Z |
-| 54 | [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) | 6757 | 1119 | PHP | 20 | 🚀 Supercharged Excel exports and imports in Laravel | 2019-04-05T14:02:36Z |
-| 55 | [log](https://github.com/php-fig/log) | 6738 | 119 | PHP | 11 | None | 2018-12-26T16:11:59Z |
-| 56 | [deployer](https://github.com/deployphp/deployer) | 6715 | 961 | PHP | 233 | A deployment tool written in PHP with support for popular frameworks out of the box | 2019-04-01T14:12:17Z |
-| 57 | [inflector](https://github.com/doctrine/inflector) | 6699 | 88 | PHP | 6 | Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words. | 2019-03-17T21:29:15Z |
-| 58 | [core](https://github.com/owncloud/core) | 6543 | 1902 | PHP | 1430 | :cloud: ownCloud web server core (Files, DAV, etc.) | 2019-04-06T03:23:28Z |
-| 59 | [instantiator](https://github.com/doctrine/instantiator) | 6521 | 41 | PHP | 5 | None | 2019-03-22T08:42:11Z |
-| 60 | [lexer](https://github.com/doctrine/lexer) | 6499 | 28 | PHP | 4 | Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. | 2019-03-11T23:35:17Z |
-| 61 | [phpstan](https://github.com/phpstan/phpstan) | 6472 | 448 | PHP | 261 | PHP Static Analysis Tool - discover bugs in your code without running it! | 2019-04-04T07:12:04Z |
-| 62 | [think](https://github.com/top-think/think) | 6456 | 1438 | PHP | 73 | PHP Framework ThinkPHP5——为API开发而设计的高性能PHP框架 | 2019-04-01T10:11:37Z |
-| 63 | [console](https://github.com/symfony/console) | 6397 | 163 | PHP | 0 | The Console component eases the creation of beautiful and testable command line interfaces. | 2019-04-02T19:05:51Z |
-| 64 | [EmailValidator](https://github.com/egulias/EmailValidator) | 6382 | 85 | PHP | 26 | PHP Email validator library inspired in @dominicsayers isemail function https://github.com/dominicsayers/isemail | 2019-04-05T15:41:41Z |
-| 65 | [container](https://github.com/php-fig/container) | 6260 | 20 | PHP | 5 | None | 2018-12-29T15:36:04Z |
-| 66 | [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | 6258 | 1053 | PHP | 182 | PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards. | 2019-04-03T04:27:01Z |
-| 67 | [clean-code-php](https://github.com/jupeter/clean-code-php) | 6222 | 1015 | PHP | 19 | :bathtub: Clean Code concepts adapted for PHP | 2019-01-29T08:02:40Z |
-| 68 | [orm](https://github.com/doctrine/orm) | 6167 | 2068 | PHP | 1222 | :left_right_arrow: Doctrine Object Relational Mapper (ORM) | 2019-04-05T06:59:22Z |
-| 69 | [lumen](https://github.com/laravel/lumen) | 6161 | 817 | PHP | 0 | None | 2019-03-05T14:31:28Z |
-| 70 | [simple-cache](https://github.com/php-fig/simple-cache) | 6143 | 23 | PHP | 5 | None | 2019-02-15T12:51:45Z |
-| 71 | [prophecy](https://github.com/phpspec/prophecy) | 6118 | 190 | PHP | 96 | Highly opinionated mocking framework for PHP 5.3+ | 2019-03-26T09:41:55Z |
-| 72 | [entrust](https://github.com/Zizaco/entrust) | 6078 | 1218 | PHP | 412 | Role-based Permissions for Laravel 5 | 2018-08-29T23:59:11Z |
-| 73 | [Twig](https://github.com/twigphp/Twig) | 5989 | 1031 | PHP | 66 | Twig, the flexible, fast, and secure template language for PHP | 2019-04-05T17:11:25Z |
-| 74 | [http-foundation](https://github.com/symfony/http-foundation) | 5985 | 197 | PHP | 0 | The HttpFoundation component defines an object-oriented layer for the HTTP specification. | 2019-04-03T09:36:56Z |
-| 75 | [random_compat](https://github.com/paragonie/random_compat) | 5951 | 86 | PHP | 4 | PHP 5.x support for random_bytes() and random_int() | 2019-01-03T20:59:32Z |
-| 76 | [thanks](https://github.com/symfony/thanks) | 5947 | 27 | PHP | 4 | Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)! | 2019-03-08T16:06:02Z |
-| 77 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | 5910 | 2752 | PHP | 30 | A PHP client library for accessing Google APIs | 2019-04-03T03:37:57Z |
-| 78 | [laravel-admin](https://github.com/z-song/laravel-admin) | 5906 | 1623 | PHP | 618 | Build a full-featured administrative interface in ten minutes | 2019-04-05T19:44:06Z |
-| 79 | [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) | 5899 | 64 | PHP | 5 | None | 2018-10-30T08:13:42Z |
-| 80 | [laravel-permission](https://github.com/spatie/laravel-permission) | 5894 | 794 | PHP | 15 | Associate users with roles and permissions | 2019-04-03T13:45:43Z |
-| 81 | [php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) | 5868 | 280 | PHP | 15 | Library that provides collection, processing, and rendering functionality for PHP code coverage information. | 2019-03-29T06:00:44Z |
-| 82 | [dompdf](https://github.com/dompdf/dompdf) | 5796 | 1173 | PHP | 691 | HTML to PDF converter (PHP5) | 2019-03-11T19:59:32Z |
-| 83 | [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) | 5787 | 1055 | PHP | 79 | A pure PHP library for reading and writing spreadsheet files | 2019-04-05T05:02:38Z |
-| 84 | [event-dispatcher](https://github.com/symfony/event-dispatcher) | 5772 | 38 | PHP | 0 | The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them. | 2019-04-02T19:05:53Z |
-| 85 | [TypeResolver](https://github.com/phpDocumentor/TypeResolver) | 5770 | 24 | PHP | 3 | A PSR-5 based resolver of Class names, Types and Structural Element Names | 2019-03-29T22:16:36Z |
-| 86 | [finder](https://github.com/symfony/finder) | 5744 | 32 | PHP | 0 | The Finder component finds files and directories via an intuitive fluent interface. | 2019-04-03T09:54:33Z |
-| 87 | [debug](https://github.com/symfony/debug) | 5717 | 31 | PHP | 0 | The Debug component provides tools to ease debugging PHP code. | 2019-04-02T19:05:53Z |
-| 88 | [ReflectionCommon](https://github.com/phpDocumentor/ReflectionCommon) | 5697 | 8 | PHP | 0 | None | 2018-08-08T12:29:35Z |
-| 89 | [polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) | 5596 | 17 | PHP | 0 | This component provides a partial, native PHP implementation for the Mbstring extension. | 2019-03-22T11:00:58Z |
-| 90 | [http-kernel](https://github.com/symfony/http-kernel) | 5591 | 55 | PHP | 0 | The HttpKernel component provides a structured process for converting a Request into a Response. | 2019-04-05T12:50:15Z |
-| 91 | [php-pm](https://github.com/php-pm/php-pm) | 5583 | 320 | PHP | 19 | PPM is a process manager, supercharger and load balancer for modern PHP applications. | 2019-03-20T08:29:58Z |
-| 92 | [predis](https://github.com/nrk/predis) | 5550 | 774 | PHP | 107 | Flexible and feature-complete Redis client for PHP and HHVM | 2019-03-25T16:57:55Z |
-| 93 | [DeepCopy](https://github.com/myclabs/DeepCopy) | 5534 | 56 | PHP | 8 | Create deep copies (clones) of your objects | 2019-03-31T13:44:12Z |
-| 94 | [process](https://github.com/symfony/process) | 5460 | 74 | PHP | 0 | The Process component executes commands in sub-processes. | 2019-04-02T19:05:52Z |
-| 95 | [routing](https://github.com/symfony/routing) | 5452 | 68 | PHP | 0 | The Routing component maps an HTTP request to a set of configuration variables. | 2019-04-03T14:11:56Z |
-| 96 | [typecho](https://github.com/typecho/typecho) | 5449 | 1230 | PHP | 254 | A PHP Blogging Platform. Simple and Powerful. | 2019-03-16T06:50:31Z |
-| 97 | [WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) | 5434 | 1502 | PHP | 106 | [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins. | 2019-03-22T15:58:58Z |
-| 98 | [var-dumper](https://github.com/symfony/var-dumper) | 5320 | 54 | PHP | 0 | The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump(). | 2019-04-02T19:05:53Z |
-| 99 | [assert](https://github.com/webmozart/assert) | 5276 | 56 | PHP | 18 | Assertions to validate method input/output with nice error messages. | 2019-02-23T15:43:28Z |
-| 100 | [diff](https://github.com/sebastianbergmann/diff) | 5202 | 49 | PHP | 0 | Diff implementation | 2019-02-21T08:48:18Z |
+| 1 | [laravel](https://github.com/laravel/laravel) | 51344 | 15635 | PHP | 27 | A PHP framework for web artisans | 2019-04-05T16:56:16Z |
+| 2 | [symfony](https://github.com/symfony/symfony) | 20347 | 6802 | PHP | 778 | The Symfony PHP framework | 2019-04-06T23:31:36Z |
+| 3 | [Faker](https://github.com/fzaninotto/Faker) | 20130 | 2360 | PHP | 188 | Faker is a PHP library that generates fake data for you | 2019-04-04T19:49:54Z |
+| 4 | [composer](https://github.com/composer/composer) | 19154 | 5435 | PHP | 371 | Dependency Manager for PHP | 2019-04-06T15:53:44Z |
+| 5 | [SecLists](https://github.com/danielmiessler/SecLists) | 17473 | 6569 | PHP | 5 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2019-04-05T07:35:36Z |
+| 6 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 17136 | 7669 | PHP | 78 | Open Source PHP Framework (originally from EllisLab) | 2019-04-05T11:42:40Z |
+| 7 | [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | 17044 | 3676 | PHP | 2 | sample code for several design patterns in PHP | 2019-03-24T22:56:25Z |
+| 8 | [framework](https://github.com/laravel/framework) | 16829 | 6355 | PHP | 104 | None | 2019-04-06T23:40:43Z |
+| 9 | [guzzle](https://github.com/guzzle/guzzle) | 16220 | 1912 | PHP | 305 | Guzzle, an extensible PHP HTTP client | 2019-03-20T15:56:57Z |
+| 10 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 13557 | 1702 | PHP | 89 | The PHP Unit Testing framework. | 2019-04-05T22:34:03Z |
+| 11 | [PHPMailer](https://github.com/PHPMailer/PHPMailer) | 12874 | 7107 | PHP | 33 | The classic email sending library for PHP | 2019-03-31T22:52:21Z |
+| 12 | [WordPress](https://github.com/WordPress/WordPress) | 12253 | 7415 | PHP | 0 | WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead. | 2019-04-06T18:44:11Z |
+| 13 | [Carbon](https://github.com/briannesbitt/Carbon) | 12165 | 1052 | PHP | 5 | A simple PHP API extension for DateTime. | 2019-04-06T19:00:16Z |
+| 14 | [PHPExcel](https://github.com/PHPOffice/PHPExcel) | 10800 | 3718 | PHP | 668 | ARCHIVED | 2019-01-02T01:38:48Z |
+| 15 | [parsedown](https://github.com/erusev/parsedown) | 10579 | 872 | PHP | 70 | Better Markdown Parser in PHP | 2019-04-06T20:48:31Z |
+| 16 | [koel](https://github.com/phanan/koel) | 10080 | 1175 | PHP | 76 | 🎶A personal music streaming server that works. | 2019-04-05T04:54:52Z |
+| 17 | [PHP-Parser](https://github.com/nikic/PHP-Parser) | 10038 | 604 | PHP | 43 | A PHP parser written in PHP | 2019-03-06T03:36:17Z |
+| 18 | [sage](https://github.com/roots/sage) | 9935 | 2864 | PHP | 25 | WordPress starter theme with a modern development workflow | 2019-04-05T21:10:53Z |
+| 19 | [Slim](https://github.com/slimphp/Slim) | 9683 | 1828 | PHP | 33 | Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. | 2019-04-06T13:38:11Z |
+| 20 | [cphalcon](https://github.com/phalcon/cphalcon) | 9579 | 1749 | PHP | 114 | High performance, full-stack PHP framework delivered as a C extension. | 2019-04-07T02:13:07Z |
+| 21 | [Cachet](https://github.com/CachetHQ/Cachet) | 9505 | 1096 | PHP | 173 | 📛 An open source status page system for everyone. | 2019-04-04T14:00:40Z |
+| 22 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 9142 | 892 | PHP | 324 | Laravel Debugbar (Integrates PHP Debug Bar) | 2019-03-25T09:55:27Z |
+| 23 | [phpdotenv](https://github.com/vlucas/phpdotenv) | 9106 | 426 | PHP | 1 | Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. | 2019-03-28T22:45:10Z |
+| 24 | [flysystem](https://github.com/thephpleague/flysystem) | 9071 | 502 | PHP | 30 | Abstraction for local and remote filesystems | 2019-03-30T13:23:50Z |
+| 25 | [image](https://github.com/Intervention/image) | 9039 | 1042 | PHP | 266 | PHP Image Manipulation | 2019-03-27T08:50:43Z |
+| 26 | [flarum](https://github.com/flarum/flarum) | 8718 | 962 | PHP | 1 | Composer starter project for Flarum | 2019-02-04T07:07:47Z |
+| 27 | [uuid](https://github.com/ramsey/uuid) | 8520 | 312 | PHP | 32 | A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID). | 2019-01-18T15:23:53Z |
+| 28 | [october](https://github.com/octobercms/october) | 8408 | 1933 | PHP | 422 | Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. | 2019-04-06T11:50:47Z |
+| 29 | [api](https://github.com/dingo/api) | 8270 | 1159 | PHP | 203 | A RESTful API package for the Laravel and Lumen frameworks. | 2019-04-04T03:17:02Z |
+| 30 | [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | 8115 | 776 | PHP | 323 | Laravel IDE Helper | 2019-03-27T04:56:32Z |
+| 31 | [voyager](https://github.com/the-control-group/voyager) | 7904 | 1882 | PHP | 228 | Voyager - The Missing Laravel Admin | 2019-04-06T17:54:57Z |
+| 32 | [wechat](https://github.com/overtrue/wechat) | 7705 | 1912 | PHP | 15 | :package: It is probably the best SDK in the world for developing WeChat App. | 2019-04-06T08:12:49Z |
+| 33 | [swiftmailer](https://github.com/swiftmailer/swiftmailer) | 7661 | 733 | PHP | 337 | Comprehensive mailing tools for PHP | 2019-03-31T03:39:26Z |
+| 34 | [jwt-auth](https://github.com/tymondesigns/jwt-auth) | 7600 | 940 | PHP | 403 | 🔐 JSON Web Token Authentication for Laravel & Lumen | 2019-04-05T06:41:21Z |
+| 35 | [mockery](https://github.com/mockery/mockery) | 7534 | 353 | PHP | 62 | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). | 2019-04-05T02:13:26Z |
+| 36 | [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) | 7428 | 998 | PHP | 296 | A tool to automatically fix PHP Coding Standards issues | 2019-04-06T09:59:44Z |
+| 37 | [psysh](https://github.com/bobthecow/psysh) | 7219 | 218 | PHP | 74 | A REPL for PHP | 2019-04-01T22:13:11Z |
+| 38 | [magento2](https://github.com/magento/magento2) | 7124 | 6161 | PHP | 1391 | All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html | 2019-04-07T01:53:42Z |
+| 39 | [server](https://github.com/nextcloud/server) | 7085 | 1261 | PHP | 1932 | ☁️ Nextcloud server, a safe home for all your data | 2019-04-07T01:12:41Z |
+| 40 | [react](https://github.com/reactphp/react) | 6777 | 668 | PHP | 1 | Event-driven, non-blocking I/O with PHP. | 2019-01-28T12:13:46Z |
+| 41 | [php-ml](https://github.com/php-ai/php-ml) | 6775 | 930 | PHP | 77 | PHP-ML - Machine Learning library for PHP | 2019-04-05T19:23:10Z |
+| 42 | [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) | 6759 | 1119 | PHP | 21 | 🚀 Supercharged Excel exports and imports in Laravel | 2019-04-05T14:02:36Z |
+| 43 | [log](https://github.com/php-fig/log) | 6746 | 120 | PHP | 11 | None | 2018-12-26T16:11:59Z |
+| 44 | [deployer](https://github.com/deployphp/deployer) | 6716 | 961 | PHP | 233 | A deployment tool written in PHP with support for popular frameworks out of the box | 2019-04-01T14:12:17Z |
+| 45 | [inflector](https://github.com/doctrine/inflector) | 6706 | 88 | PHP | 6 | Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words. | 2019-03-17T21:29:15Z |
+| 46 | [core](https://github.com/owncloud/core) | 6543 | 1902 | PHP | 1429 | :cloud: ownCloud web server core (Files, DAV, etc.) | 2019-04-06T05:55:06Z |
+| 47 | [instantiator](https://github.com/doctrine/instantiator) | 6528 | 41 | PHP | 5 | None | 2019-03-22T08:42:11Z |
+| 48 | [lexer](https://github.com/doctrine/lexer) | 6506 | 28 | PHP | 4 | Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. | 2019-03-11T23:35:17Z |
+| 49 | [phpstan](https://github.com/phpstan/phpstan) | 6473 | 448 | PHP | 251 | PHP Static Analysis Tool - discover bugs in your code without running it! | 2019-04-06T20:58:21Z |
+| 50 | [console](https://github.com/symfony/console) | 6406 | 164 | PHP | 0 | The Console component eases the creation of beautiful and testable command line interfaces. | 2019-04-06T16:39:39Z |
+| 51 | [EmailValidator](https://github.com/egulias/EmailValidator) | 6389 | 85 | PHP | 26 | PHP Email validator library inspired in @dominicsayers isemail function https://github.com/dominicsayers/isemail | 2019-04-05T15:41:41Z |
+| 52 | [container](https://github.com/php-fig/container) | 6268 | 20 | PHP | 5 | None | 2018-12-29T15:36:04Z |
+| 53 | [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | 6260 | 1052 | PHP | 181 | PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards. | 2019-04-03T04:27:01Z |
+| 54 | [clean-code-php](https://github.com/jupeter/clean-code-php) | 6224 | 1014 | PHP | 19 | :bathtub: Clean Code concepts adapted for PHP | 2019-01-29T08:02:40Z |
+| 55 | [lumen](https://github.com/laravel/lumen) | 6164 | 817 | PHP | 0 | None | 2019-03-05T14:31:28Z |
+| 56 | [simple-cache](https://github.com/php-fig/simple-cache) | 6151 | 23 | PHP | 5 | None | 2019-02-15T12:51:45Z |
+| 57 | [prophecy](https://github.com/phpspec/prophecy) | 6125 | 190 | PHP | 96 | Highly opinionated mocking framework for PHP 5.3+ | 2019-03-26T09:41:55Z |
+| 58 | [entrust](https://github.com/Zizaco/entrust) | 6078 | 1218 | PHP | 412 | Role-based Permissions for Laravel 5 | 2018-08-29T23:59:11Z |
+| 59 | [http-foundation](https://github.com/symfony/http-foundation) | 5993 | 197 | PHP | 0 | The HttpFoundation component defines an object-oriented layer for the HTTP specification. | 2019-04-06T14:05:55Z |
+| 60 | [Twig](https://github.com/twigphp/Twig) | 5992 | 1031 | PHP | 65 | Twig, the flexible, fast, and secure template language for PHP | 2019-04-06T14:42:07Z |
+| 61 | [random_compat](https://github.com/paragonie/random_compat) | 5958 | 86 | PHP | 4 | PHP 5.x support for random_bytes() and random_int() | 2019-01-03T20:59:32Z |
+| 62 | [thanks](https://github.com/symfony/thanks) | 5954 | 27 | PHP | 4 | Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)! | 2019-03-08T16:06:02Z |
+| 63 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | 5912 | 2751 | PHP | 31 | A PHP client library for accessing Google APIs | 2019-04-03T03:37:57Z |
+| 64 | [laravel-admin](https://github.com/z-song/laravel-admin) | 5910 | 1625 | PHP | 619 | Build a full-featured administrative interface in ten minutes | 2019-04-06T05:42:16Z |
+| 65 | [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) | 5907 | 64 | PHP | 5 | None | 2018-10-30T08:13:42Z |
+| 66 | [laravel-permission](https://github.com/spatie/laravel-permission) | 5900 | 795 | PHP | 15 | Associate users with roles and permissions | 2019-04-03T13:45:43Z |
+| 67 | [php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) | 5874 | 280 | PHP | 15 | Library that provides collection, processing, and rendering functionality for PHP code coverage information. | 2019-03-29T06:00:44Z |
+| 68 | [dompdf](https://github.com/dompdf/dompdf) | 5799 | 1174 | PHP | 692 | HTML to PDF converter (PHP5) | 2019-03-11T19:59:32Z |
+| 69 | [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) | 5790 | 1055 | PHP | 78 | A pure PHP library for reading and writing spreadsheet files | 2019-04-05T05:02:38Z |
+| 70 | [event-dispatcher](https://github.com/symfony/event-dispatcher) | 5780 | 38 | PHP | 0 | The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them. | 2019-04-06T14:06:46Z |
+| 71 | [TypeResolver](https://github.com/phpDocumentor/TypeResolver) | 5778 | 24 | PHP | 3 | A PSR-5 based resolver of Class names, Types and Structural Element Names | 2019-03-29T22:16:36Z |
+| 72 | [finder](https://github.com/symfony/finder) | 5751 | 32 | PHP | 0 | The Finder component finds files and directories via an intuitive fluent interface. | 2019-04-06T14:05:49Z |
+| 73 | [debug](https://github.com/symfony/debug) | 5724 | 31 | PHP | 0 | The Debug component provides tools to ease debugging PHP code. | 2019-04-06T19:29:45Z |
+| 74 | [ReflectionCommon](https://github.com/phpDocumentor/ReflectionCommon) | 5705 | 8 | PHP | 0 | None | 2018-08-08T12:29:35Z |
+| 75 | [polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) | 5603 | 17 | PHP | 0 | This component provides a partial, native PHP implementation for the Mbstring extension. | 2019-03-22T11:00:58Z |
+| 76 | [php-pm](https://github.com/php-pm/php-pm) | 5583 | 320 | PHP | 19 | PPM is a process manager, supercharger and load balancer for modern PHP applications. | 2019-03-20T08:29:58Z |
+| 77 | [predis](https://github.com/nrk/predis) | 5552 | 774 | PHP | 106 | Flexible and feature-complete Redis client for PHP and HHVM | 2019-03-25T16:57:55Z |
+| 78 | [DeepCopy](https://github.com/myclabs/DeepCopy) | 5541 | 56 | PHP | 8 | Create deep copies (clones) of your objects | 2019-03-31T13:44:12Z |
+| 79 | [process](https://github.com/symfony/process) | 5467 | 74 | PHP | 0 | The Process component executes commands in sub-processes. | 2019-04-02T19:05:52Z |
+| 80 | [routing](https://github.com/symfony/routing) | 5459 | 68 | PHP | 0 | The Routing component maps an HTTP request to a set of configuration variables. | 2019-04-06T14:05:15Z |
+| 81 | [typecho](https://github.com/typecho/typecho) | 5451 | 1230 | PHP | 254 | A PHP Blogging Platform. Simple and Powerful. | 2019-03-16T06:50:31Z |
+| 82 | [WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) | 5435 | 1502 | PHP | 106 | [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins. | 2019-03-22T15:58:58Z |
+| 83 | [var-dumper](https://github.com/symfony/var-dumper) | 5327 | 54 | PHP | 0 | The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump(). | 2019-04-02T19:05:53Z |
+| 84 | [diff](https://github.com/sebastianbergmann/diff) | 5210 | 49 | PHP | 0 | Diff implementation | 2019-02-21T08:48:18Z |
+| 85 | [woocommerce](https://github.com/woocommerce/woocommerce) | 5177 | 5273 | PHP | 57 | An open source eCommerce plugin for WordPress. | 2019-04-05T23:22:24Z |
+| 86 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 5166 | 1334 | PHP | 1 | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） | 2017-04-01T09:15:32Z |
+| 87 | [php-timer](https://github.com/sebastianbergmann/php-timer) | 5155 | 45 | PHP | 0 | Utility class for timing | 2019-02-20T14:16:58Z |
+| 88 | [Sylius](https://github.com/Sylius/Sylius) | 5121 | 1528 | PHP | 233 | Open Source eCommerce Framework on top of Symfony | 2019-04-06T18:27:14Z |
+| 89 | [TrustedProxy](https://github.com/fideloper/TrustedProxy) | 5114 | 77 | PHP | 17 | Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries. | 2019-02-17T16:45:20Z |
+| 90 | [pagekit](https://github.com/pagekit/pagekit) | 5103 | 589 | PHP | 143 | Pagekit CMS | 2019-01-18T12:42:53Z |
+| 91 | [php-file-iterator](https://github.com/sebastianbergmann/php-file-iterator) | 5003 | 38 | PHP | 0 | FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria. | 2019-02-11T12:49:21Z |
+| 92 | [translation](https://github.com/symfony/translation) | 4991 | 44 | PHP | 0 | The Translation component provides tools to internationalize your application. | 2019-04-06T19:20:22Z |
+| 93 | [php-token-stream](https://github.com/sebastianbergmann/php-token-stream) | 4979 | 43 | PHP | 1 | Wrapper around PHP's tokenizer extension. | 2019-02-11T12:50:52Z |
+| 94 | [php-text-template](https://github.com/sebastianbergmann/php-text-template) | 4945 | 25 | PHP | 0 | A simple template engine. | 2018-05-15T05:53:24Z |
+| 95 | [Validation](https://github.com/Respect/Validation) | 4940 | 756 | PHP | 57 | The most awesome validation engine ever created for PHP | 2019-04-07T03:36:07Z |
+| 96 | [comparator](https://github.com/sebastianbergmann/comparator) | 4872 | 44 | PHP | 6 | Provides the functionality to compare PHP values for equality. | 2019-02-11T12:51:09Z |
+| 97 | [Lychee](https://github.com/electerious/Lychee) | 4832 | 623 | PHP | 0 | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | 2019-02-21T13:57:37Z |
+| 98 | [manifest](https://github.com/phar-io/manifest) | 4811 | 3 | PHP | 1 | Component for reading phar.io manifest information from a PHP Archive (PHAR) | 2018-10-30T11:52:25Z |
+| 99 | [exporter](https://github.com/sebastianbergmann/exporter) | 4763 | 14 | PHP | 3 | Provides the functionality to export PHP variables for visualization | 2019-02-11T12:49:49Z |
+| 100 | [environment](https://github.com/sebastianbergmann/environment) | 4748 | 13 | PHP | 1 | Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths | 2019-02-11T12:51:55Z |
 
