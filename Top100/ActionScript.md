@@ -5,13 +5,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7050 | 111 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-04-16T05:09:09Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7049 | 111 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-04-16T05:09:09Z |
 | 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2220 | 878 | ActionScript | 76 | The Cross Platform Game Engine | 2019-04-15T10:55:14Z |
-| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 1942 | 702 | ActionScript | 128 | HTML5 Webcam Image Capture Library with Flash Fallback | 2018-10-16T03:35:39Z |
+| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 1943 | 704 | ActionScript | 128 | HTML5 Webcam Image Capture Library with Flash Fallback | 2018-10-16T03:35:39Z |
 | 4 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1498 | 464 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
-| 5 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1241 | 488 | ActionScript | 351 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
+| 5 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1242 | 488 | ActionScript | 351 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 6 | [flixel](https://github.com/AdamAtomic/flixel) | 1136 | 202 | ActionScript | 74 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
-| 7 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1086 | 215 | ActionScript | 8 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
+| 7 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1087 | 215 | ActionScript | 8 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1086 | 196 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 9 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 983 | 269 | ActionScript | 17 | An ActionScript 3 application framework for Flash and Flex | 2015-03-13T19:01:22Z |
 | 10 | [feathers](https://github.com/BowlerHatLLC/feathers) | 950 | 415 | ActionScript | 174 | User interface components for Starling Framework and Adobe AIR | 2019-04-12T23:34:25Z |
@@ -21,7 +21,7 @@
 | 14 | [bfxr](https://github.com/increpare/bfxr) | 589 | 58 | ActionScript | 13 | Flash + AIR sound effects generator.   Based on Sfxr. | 2015-09-01T10:30:47Z |
 | 15 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 556 | 248 | ActionScript | 67 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
 | 16 | [as3swf](https://github.com/claus/as3swf) | 533 | 122 | ActionScript | 14 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
-| 17 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 497 | 250 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
+| 17 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 498 | 250 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 18 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 469 | 114 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 19 | [emulator](https://github.com/nesbox/emulator) | 450 | 225 | ActionScript | 81 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Ash](https://github.com/richardlord/Ash) | 431 | 92 | ActionScript | 6 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
@@ -39,13 +39,13 @@
 | 32 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 322 | 148 | ActionScript | 1 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2018-09-18T08:03:23Z |
 | 33 | [Zoe](https://github.com/CreateJS/Zoe) | 311 | 101 | ActionScript | 7 | Zoë is an open source tool for generating spritesheet images and frame data from SWF files. It enables illustrators to maintain a familiar workflow while generating animations for EaselJS and other formats. | 2015-09-01T06:54:47Z |
 | 34 | [flex-sdk](https://github.com/apache/flex-sdk) | 310 | 135 | ActionScript | 6 | Mirror of Apache Flex SDK | 2018-12-11T03:21:13Z |
-| 35 | [Flare](https://github.com/prefuse/Flare) | 309 | 72 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
+| 35 | [Flare](https://github.com/prefuse/Flare) | 310 | 72 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 36 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 289 | 88 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 37 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 289 | 90 | ActionScript | 33 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 38 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 286 | 24 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 39 | [chess_server](https://github.com/YKPublicGame/chess_server) | 282 | 143 | ActionScript | 4 | 开源棋牌服务器框架，使用skynet，网络协议使用pbc版的protobuf，数据库使用mongodb。 | 2018-11-12T12:14:17Z |
 | 40 | [as3-utils](https://github.com/as3/as3-utils) | 280 | 65 | ActionScript | 2 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
-| 41 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 277 | 60 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
+| 41 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 276 | 60 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 42 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 275 | 34 | ActionScript | 28 | A simple music making program | 2019-03-26T01:00:36Z |
 | 43 | [flash](https://github.com/flowplayer/flash) | 275 | 184 | ActionScript | 104 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 44 | [flexunit](https://github.com/flexunit/flexunit) | 271 | 92 | ActionScript | 4 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
@@ -53,14 +53,14 @@
 | 46 | [mBlock](https://github.com/Makeblock-official/mBlock) | 261 | 206 | ActionScript | 32 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 47 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 112 | ActionScript | 17 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 48 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 245 | 81 | ActionScript | 12 | HTTP Client for AS3 | 2015-04-15T06:45:12Z |
-| 49 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 243 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
-| 50 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 242 | 110 | ActionScript | 34 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
+| 49 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 243 | 110 | ActionScript | 34 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
+| 50 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 243 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 51 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 239 | 90 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 52 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 238 | 50 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
 | 53 | [swiz-framework](https://github.com/swiz/swiz-framework) | 232 | 48 | ActionScript | 19 | Swiz framework for AS3 and Flex | 2013-06-19T04:19:12Z |
-| 54 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 227 | 95 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
+| 54 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 227 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 55 | [ANE-Facebook](https://github.com/freshplanet/ANE-Facebook) | 225 | 131 | ActionScript | 12 | Air Native Extension (iOS and Android) for the Facebook mobile SDK | 2019-03-05T20:19:51Z |
-| 56 | [royale-asjs](https://github.com/apache/royale-asjs) | 220 | 67 | ActionScript | 83 | Apache Royale ASJS | 2019-04-16T14:44:20Z |
+| 56 | [royale-asjs](https://github.com/apache/royale-asjs) | 220 | 67 | ActionScript | 83 | Apache Royale ASJS | 2019-04-17T22:21:55Z |
 | 57 | [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) | 214 | 75 | ActionScript | 13 | Library to help Flash, Flex and ActionScript clients connect to Socket.IO servers. | 2016-09-22T20:16:49Z |
 | 58 | [Starling-Filters](https://github.com/devon-o/Starling-Filters) | 210 | 50 | ActionScript | 0 | A collection of filters for use with the Starling AS3 framework. | 2017-12-12T17:18:45Z |
 | 59 | [flexlib](https://github.com/flex-users/flexlib) | 209 | 92 | ActionScript | 285 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
@@ -74,8 +74,8 @@
 | 67 | [Flashbang](https://github.com/cure53/Flashbang) | 181 | 48 | ActionScript | 13 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 68 | [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) | 178 | 38 | ActionScript | 11 | A RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS | 2017-07-08T01:07:49Z |
 | 69 | [skyui](https://github.com/schlangster/skyui) | 175 | 103 | ActionScript | 20 | SkyUI interface mod for Skyrim. | 2016-11-02T23:10:05Z |
-| 70 | [MMORPG](https://github.com/dianbaer/MMORPG) | 172 | 77 | ActionScript | 1 | MMORPG是一个可以用来学习ARPG核心战斗的项目（不再维护）。http://v.youku.com/v_show/id_XOTE5NDg1MTg0.html?firsttime=0 | 2018-03-12T12:38:25Z |
-| 71 | [GPUImage](https://github.com/inspirit/GPUImage) | 171 | 28 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
+| 70 | [GPUImage](https://github.com/inspirit/GPUImage) | 171 | 28 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
+| 71 | [MMORPG](https://github.com/dianbaer/MMORPG) | 171 | 77 | ActionScript | 1 | MMORPG是一个可以用来学习ARPG核心战斗的项目（不再维护）。http://v.youku.com/v_show/id_XOTE5NDg1MTg0.html?firsttime=0 | 2018-03-12T12:38:25Z |
 | 72 | [Hungry-Hero](https://github.com/creativesharpener/Hungry-Hero) | 168 | 107 | ActionScript | 2 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 73 | [kingdom](https://github.com/noio/kingdom) | 168 | 52 | ActionScript | 2 | A minimal game. | 2013-10-28T10:59:35Z |
 | 74 | [promise-as3](https://github.com/CodeCatalyst/promise-as3) | 167 | 51 | ActionScript | 16 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
