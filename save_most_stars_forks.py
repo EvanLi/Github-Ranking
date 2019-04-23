@@ -163,6 +163,8 @@ def save_to_csv(repos_stars,repos_forks,repos_languages):
     print('Save data to Data/github-ranking-'+save_date+'.csv')
 
 if __name__=="__main__":
+    os.chdir('/home/li/code/github/Github-Ranking')
+    
     languages = ["ActionScript","C","CSharp","CPP","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","JavaScript","Lua","MATLAB","Objective-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim-script"]
     languages_md = ["ActionScript","C","C\#","C\+\+","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","JavaScript","Lua","MATLAB","Objective\-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim script"]
     
