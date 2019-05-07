@@ -5,24 +5,24 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [kong](https://github.com/Kong/kong) | 21419 | 2597 | Lua | 316 | :gorilla: The Cloud-Native API Gateway  | 2019-05-07T00:18:00Z |
-| 2 | [neural-style](https://github.com/jcjohnson/neural-style) | 16772 | 2555 | Lua | 314 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
+| 1 | [kong](https://github.com/Kong/kong) | 21420 | 2597 | Lua | 316 | :gorilla: The Cloud-Native API Gateway  | 2019-05-07T00:18:00Z |
+| 2 | [neural-style](https://github.com/jcjohnson/neural-style) | 16773 | 2556 | Lua | 314 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
 | 3 | [waifu2x](https://github.com/nagadomi/waifu2x) | 14426 | 1642 | Lua | 82 | Image Super-Resolution for Anime-Style Art | 2019-03-16T10:36:17Z |
-| 4 | [openface](https://github.com/cmusatyalab/openface) | 12024 | 2926 | Lua | 8 | Face recognition with deep neural networks. | 2019-05-01T18:16:53Z |
-| 5 | [char-rnn](https://github.com/karpathy/char-rnn) | 9333 | 2273 | Lua | 106 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 2018-05-04T15:25:25Z |
+| 4 | [openface](https://github.com/cmusatyalab/openface) | 12026 | 2925 | Lua | 8 | Face recognition with deep neural networks. | 2019-05-01T18:16:53Z |
+| 5 | [char-rnn](https://github.com/karpathy/char-rnn) | 9334 | 2273 | Lua | 106 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 2018-05-04T15:25:25Z |
 | 6 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 8343 | 1332 | Lua | 32 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 2018-12-11T19:28:43Z |
 | 7 | [pix2pix](https://github.com/phillipi/pix2pix) | 6095 | 996 | Lua | 54 | Image-to-image translation with conditional adversarial nets | 2019-04-14T21:14:16Z |
 | 8 | [dockercraft](https://github.com/docker/dockercraft) | 5207 | 304 | Lua | 14 | Docker + Minecraft = Dockercraft | 2018-06-18T12:15:21Z |
 | 9 | [koreader](https://github.com/koreader/koreader) | 4890 | 631 | Lua | 368 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2019-05-06T07:31:12Z |
-| 10 | [VeryNginx](https://github.com/alexazhou/VeryNginx) | 4725 | 735 | Lua | 85 |  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.  | 2019-02-01T11:43:45Z |
+| 10 | [VeryNginx](https://github.com/alexazhou/VeryNginx) | 4725 | 736 | Lua | 85 |  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.  | 2019-02-01T11:43:45Z |
 | 11 | [lsyncd](https://github.com/axkibe/lsyncd) | 3493 | 339 | Lua | 87 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets | 2019-04-12T21:58:34Z |
 | 12 | [DenseNet](https://github.com/liuzhuang13/DenseNet) | 3443 | 832 | Lua | 24 | Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award). | 2018-04-25T23:37:39Z |
 | 13 | [fairseq](https://github.com/facebookresearch/fairseq) | 3408 | 591 | Lua | 8 | Facebook AI Research Sequence-to-Sequence Toolkit | 2019-02-25T06:01:33Z |
 | 14 | [fast-neural-style](https://github.com/jcjohnson/fast-neural-style) | 3138 | 623 | Lua | 129 | Feedforward style transfer | 2018-09-19T22:54:43Z |
 | 15 | [luvit](https://github.com/luvit/luvit) | 3035 | 324 | Lua | 80 | Lua + libUV + jIT = pure awesomesauce | 2019-04-04T08:00:29Z |
 | 16 | [deepmask](https://github.com/facebookresearch/deepmask) | 3017 | 526 | Lua | 48 | Torch implementation of DeepMask and SharpMask | 2019-01-16T17:21:51Z |
-| 17 | [jsproxy](https://github.com/EtherDream/jsproxy) | 2820 | 457 | Lua | 14 | 一个基于浏览器端 JS 实现的在线代理 | 2019-05-03T08:06:30Z |
-| 18 | [ntopng](https://github.com/ntop/ntopng) | 2616 | 315 | Lua | 85 | Web-based Traffic and Security Network Traffic Monitoring | 2019-05-06T09:52:46Z |
+| 17 | [jsproxy](https://github.com/EtherDream/jsproxy) | 2822 | 457 | Lua | 14 | 一个基于浏览器端 JS 实现的在线代理 | 2019-05-03T08:06:30Z |
+| 18 | [ntopng](https://github.com/ntop/ntopng) | 2617 | 316 | Lua | 85 | Web-based Traffic and Security Network Traffic Monitoring | 2019-05-06T09:52:46Z |
 | 19 | [awesome](https://github.com/awesomeWM/awesome) | 2475 | 315 | Lua | 291 | awesome window manager | 2019-05-06T00:58:00Z |
 | 20 | [ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) | 2439 | 1024 | Lua | 73 | ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙 | 2019-04-26T04:14:46Z |
 | 21 | [snabb](https://github.com/snabbco/snabb) | 2270 | 295 | Lua | 239 | Snabb: Simple and fast packet networking | 2019-05-06T13:29:45Z |
@@ -35,16 +35,16 @@
 | 28 | [CorsixTH](https://github.com/CorsixTH/CorsixTH) | 2012 | 242 | Lua | 278 | Open source clone of Theme Hospital | 2019-05-07T01:10:09Z |
 | 29 | [siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) | 1977 | 277 | Lua | 13 | Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.  | 2017-08-24T08:40:12Z |
 | 30 | [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) | 1820 | 427 | Lua | 81 | Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, LuaJIT and other Lua interpreters on Windows, macOS, and Linux | 2019-03-08T14:11:13Z |
-| 31 | [luci](https://github.com/openwrt/luci) | 1771 | 946 | Lua | 182 | LuCI - OpenWrt Configuration Interface | 2019-05-06T15:25:26Z |
+| 31 | [luci](https://github.com/openwrt/luci) | 1772 | 947 | Lua | 182 | LuCI - OpenWrt Configuration Interface | 2019-05-06T15:25:26Z |
 | 32 | [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) | 1754 | 591 | Lua | 62 | Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts | 2019-04-16T16:20:58Z |
 | 33 | [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner) | 1738 | 539 | Lua | 23 | The original code from the DeepMind article + my tweaks | 2018-01-23T03:06:50Z |
 | 34 | [awesome-copycats](https://github.com/lcpz/awesome-copycats) | 1733 | 382 | Lua | 2 | Awesome WM themes | 2019-05-03T14:44:19Z |
 | 35 | [orange](https://github.com/sumory/orange) | 1589 | 421 | Lua | 34 | OpenResty/Nginx Gateway for API Monitoring and Management. | 2019-04-11T06:58:04Z |
 | 36 | [MemNN](https://github.com/facebook/MemNN) | 1582 | 368 | Lua | 15 | Memory Networks implementations | 2019-03-27T22:45:51Z |
 | 37 | [Anycomplete](https://github.com/nathancahill/Anycomplete) | 1530 | 45 | Lua | 3 | The magic of Google Autocomplete while you're typing. Anywhere. | 2017-04-04T18:29:04Z |
-| 38 | [luarocks](https://github.com/luarocks/luarocks) | 1469 | 266 | Lua | 155 | LuaRocks is the package manager for the Lua programming language. | 2019-05-06T18:41:24Z |
+| 38 | [luarocks](https://github.com/luarocks/luarocks) | 1469 | 266 | Lua | 154 | LuaRocks is the package manager for the Lua programming language. | 2019-05-06T18:41:24Z |
 | 39 | [ResNeXt](https://github.com/facebookresearch/ResNeXt) | 1433 | 235 | Lua | 7 | Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks | 2019-01-16T00:47:02Z |
-| 40 | [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | 1413 | 199 | Lua | 3 | NSE script based on Vulners.com API | 2018-12-11T14:26:06Z |
+| 40 | [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | 1414 | 199 | Lua | 3 | NSE script based on Vulners.com API | 2018-12-11T14:26:06Z |
 | 41 | [multipathnet](https://github.com/facebookresearch/multipathnet) | 1356 | 296 | Lua | 23 | A Torch implementation of the object detection network from "A MultiPath Network for Object Detection" (https://arxiv.org/abs/1604.02135) | 2019-03-22T18:15:44Z |
 | 42 | [PathOfBuilding](https://github.com/Openarl/PathOfBuilding) | 1356 | 516 | Lua | 545 | Offline build planner for Path of Exile. | 2019-04-10T08:09:16Z |
 | 43 | [luafun](https://github.com/luafun/luafun) | 1324 | 80 | Lua | 25 | Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. | 2017-10-06T06:35:52Z |
@@ -66,7 +66,7 @@
 | 59 | [texture_nets](https://github.com/DmitryUlyanov/texture_nets) | 1029 | 196 | Lua | 41 | Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images" paper. | 2018-01-07T06:56:34Z |
 | 60 | [vulscan](https://github.com/scipag/vulscan) | 1018 | 273 | Lua | 3 | Advanced vulnerability scanning with Nmap NSE | 2019-04-17T06:24:59Z |
 | 61 | [Penlight](https://github.com/stevedonovan/Penlight) | 991 | 183 | Lua | 31 | A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries. | 2019-04-28T23:02:15Z |
-| 62 | [nProbe](https://github.com/ntop/nProbe) | 973 | 24 | Lua | 44 | Open source components and extensions for nProbe | 2019-02-07T15:38:08Z |
+| 62 | [nProbe](https://github.com/ntop/nProbe) | 973 | 24 | Lua | 45 | Open source components and extensions for nProbe | 2019-02-07T15:38:08Z |
 | 63 | [torchnet](https://github.com/torchnet/torchnet) | 971 | 201 | Lua | 2 | Torch on steroids | 2019-03-27T22:21:16Z |
 | 64 | [luacheck](https://github.com/mpeterv/luacheck) | 962 | 168 | Lua | 33 |  A tool for linting and static analysis of Lua code.  | 2019-04-23T01:14:34Z |
 | 65 | [wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks) | 913 | 242 | Lua | 28 | 3.8% and 18.3% on CIFAR-10 and CIFAR-100 | 2018-11-16T10:00:04Z |
@@ -79,9 +79,9 @@
 | 72 | [doomrl](https://github.com/ChaosForge/doomrl) | 806 | 111 | Lua | 19 | D**m, the Roguelike | 2018-10-03T03:25:35Z |
 | 73 | [NAMAS](https://github.com/facebookarchive/NAMAS) | 800 | 245 | Lua | 18 | Neural Attention Model for Abstractive Summarization | 2018-04-25T14:40:20Z |
 | 74 | [busted](https://github.com/Olivine-Labs/busted) | 800 | 123 | Lua | 49 | Elegant Lua unit testing. | 2019-02-03T16:13:19Z |
-| 75 | [KikiAuth](https://github.com/fossasia/KikiAuth) | 795 | 1 | Lua | 0 | CommonsNet KikiAuth for OpenWrt | 2018-11-23T17:17:23Z |
+| 75 | [KikiAuth](https://github.com/fossasia/KikiAuth) | 796 | 1 | Lua | 0 | CommonsNet KikiAuth for OpenWrt | 2018-11-23T17:17:23Z |
 | 76 | [lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn) | 774 | 219 | Lua | 14 | LSTM language model with CNN over characters | 2016-08-24T12:53:43Z |
-| 77 | [CNNMRF](https://github.com/chuanli11/CNNMRF) | 771 | 138 | Lua | 7 | code for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis" | 2018-03-28T19:17:58Z |
+| 77 | [CNNMRF](https://github.com/chuanli11/CNNMRF) | 772 | 138 | Lua | 7 | code for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis" | 2018-03-28T19:17:58Z |
 | 78 | [lor](https://github.com/sumory/lor) | 765 | 151 | Lua | 17 | a fast, minimalist web framework for lua based on OpenResty | 2019-01-24T02:35:43Z |
 | 79 | [Fennel](https://github.com/bakpakin/Fennel) | 761 | 44 | Lua | 5 | Lua Lisp Language | 2019-04-25T17:19:21Z |
 | 80 | [Neural-Dialogue-Generation](https://github.com/jiweil/Neural-Dialogue-Generation) | 756 | 213 | Lua | 15 | None | 2017-07-12T12:18:28Z |
