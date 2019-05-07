@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7054 | 112 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-04-16T05:09:09Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7054 | 112 | ActionScript | 24 | Petition to open source Flash and Shockwave spec | 2019-04-16T05:09:09Z |
 | 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2220 | 876 | ActionScript | 76 | The Cross Platform Game Engine | 2019-04-15T10:55:14Z |
 | 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 1956 | 716 | ActionScript | 129 | HTML5 Webcam Image Capture Library with Flash Fallback | 2018-10-16T03:35:39Z |
 | 4 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1495 | 464 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -20,9 +20,9 @@
 | 13 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 635 | 187 | ActionScript | 22 | Minimal ActionScript 3.0 UI Components for Flash | 2015-06-26T18:19:31Z |
 | 14 | [bfxr](https://github.com/increpare/bfxr) | 596 | 58 | ActionScript | 14 | Flash + AIR sound effects generator.   Based on Sfxr. | 2015-09-01T10:30:47Z |
 | 15 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 554 | 247 | ActionScript | 67 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
-| 16 | [as3swf](https://github.com/claus/as3swf) | 533 | 122 | ActionScript | 14 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
+| 16 | [as3swf](https://github.com/claus/as3swf) | 532 | 122 | ActionScript | 14 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 17 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 501 | 251 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
-| 18 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 471 | 114 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
+| 18 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 472 | 114 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 19 | [emulator](https://github.com/nesbox/emulator) | 453 | 227 | ActionScript | 82 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Ash](https://github.com/richardlord/Ash) | 432 | 92 | ActionScript | 6 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 417 | 151 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2018-08-30T08:51:47Z |
@@ -69,7 +69,7 @@
 | 62 | [FileReader](https://github.com/Jahdrien/FileReader) | 193 | 60 | ActionScript | 32 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 63 | [glitch-avatars](https://github.com/tinyspeck/glitch-avatars) | 186 | 89 | ActionScript | 1 | Art and source for Glitch's customizable avatars | 2013-12-03T01:51:08Z |
 | 64 | [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) | 184 | 26 | ActionScript | 22 | Port of hamcrest to ActionScript 3,  a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively, to be used in other frameworks. Typical scenarios include testing frameworks, mocking libraries and UI validation rules. | 2012-03-21T11:48:40Z |
-| 65 | [Flashbang](https://github.com/cure53/Flashbang) | 183 | 49 | ActionScript | 13 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
+| 65 | [Flashbang](https://github.com/cure53/Flashbang) | 184 | 49 | ActionScript | 13 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 66 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 183 | 102 | ActionScript | 32 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 67 | [fzip](https://github.com/claus/fzip) | 181 | 62 | ActionScript | 5 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 68 | [Spike](https://github.com/SpikeApp/Spike) | 179 | 104 | ActionScript | 23 | Get The Most Out Of Your CGM Transmitter | 2019-05-05T09:21:50Z |
