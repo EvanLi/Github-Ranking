@@ -25,10 +25,10 @@
 | 18 | [Aerial](https://github.com/JohnCoates/Aerial) | 14223 | 760 | Swift | 14 | Apple TV Aerial Screensaver for Mac | 2019-05-06T13:05:34Z |
 | 19 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 14042 | 1546 | Swift | 26 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2019-04-24T14:05:57Z |
 | 20 | [Perfect](https://github.com/PerfectlySoft/Perfect) | 13404 | 960 | Swift | 50 | Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…) | 2019-04-24T20:36:36Z |
-| 21 | [Spring](https://github.com/MengTo/Spring) | 13111 | 1542 | Swift | 159 | A library to simplify iOS animations in Swift. | 2019-04-30T12:52:16Z |
-| 22 | [Carthage](https://github.com/Carthage/Carthage) | 12809 | 1248 | Swift | 151 | A simple, decentralized dependency manager for Cocoa | 2019-05-03T21:12:14Z |
+| 21 | [Spring](https://github.com/MengTo/Spring) | 13112 | 1542 | Swift | 159 | A library to simplify iOS animations in Swift. | 2019-04-30T12:52:16Z |
+| 22 | [Carthage](https://github.com/Carthage/Carthage) | 12810 | 1248 | Swift | 151 | A simple, decentralized dependency manager for Cocoa | 2019-05-03T21:12:14Z |
 | 23 | [SwiftLint](https://github.com/realm/SwiftLint) | 11681 | 1242 | Swift | 282 | A tool to enforce Swift style and conventions. | 2019-05-06T23:24:33Z |
-| 24 | [PromiseKit](https://github.com/mxcl/PromiseKit) | 11372 | 1075 | Swift | 11 | Promises for Swift & ObjC. | 2019-05-01T20:25:09Z |
+| 24 | [PromiseKit](https://github.com/mxcl/PromiseKit) | 11374 | 1075 | Swift | 11 | Promises for Swift & ObjC. | 2019-05-01T20:25:09Z |
 | 25 | [Material](https://github.com/CosmicMind/Material) | 10895 | 1180 | Swift | 10 | A UI/UX framework for creating beautiful applications. | 2019-04-26T15:08:56Z |
 | 26 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 10661 | 1978 | Swift | 8 | A self-taught project to learn Swift. | 2019-02-06T06:45:40Z |
 | 27 | [Moya](https://github.com/Moya/Moya) | 10630 | 1238 | Swift | 41 | Network abstraction layer written in Swift. | 2019-05-04T10:33:25Z |

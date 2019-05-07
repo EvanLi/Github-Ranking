@@ -39,7 +39,7 @@
 | 32 | [the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 1347 | 156 | TeX | 2 | None | 2019-01-20T14:15:04Z |
 | 33 | [the-little-mongodb-book](https://github.com/karlseguin/the-little-mongodb-book) | 1342 | 329 | TeX | 6 | The Little MongoDB Book | 2018-04-15T11:01:52Z |
 | 34 | [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) | 1296 | 373 | TeX | 5 | A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. | 2017-12-03T12:27:58Z |
-| 35 | [docs-cn](https://github.com/pingcap/docs-cn) | 1251 | 461 | TeX | 58 | TiDB/TiKV/PD documents in Chinese. | 2019-05-07T06:15:12Z |
+| 35 | [docs-cn](https://github.com/pingcap/docs-cn) | 1251 | 461 | TeX | 57 | TiDB/TiKV/PD documents in Chinese. | 2019-05-07T06:16:31Z |
 | 36 | [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) | 1230 | 196 | TeX | 2 | List of articles related to deep learning applied to music | 2019-05-01T12:18:33Z |
 | 37 | [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) | 1217 | 455 | TeX | 3 | None | 2015-11-06T12:30:43Z |
 | 38 | [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) | 1179 | 234 | TeX | 3 | A machine translation reading list maintained by Tsinghua Natural Language Processing Group | 2019-05-05T14:34:20Z |
@@ -57,7 +57,7 @@
 | 50 | [ucasthesis](https://github.com/mohuangrui/ucasthesis) | 943 | 366 | TeX | 1 |  [最新样式] 中国科学院大学学位论文 LaTeX 模板  LaTeX Thesis Template for the University of Chinese Academy of Sciences  | 2019-04-24T05:05:13Z |
 | 51 | [cv-boilerplate](https://github.com/mrzool/cv-boilerplate) | 892 | 102 | TeX | 1 | Programmatic generation of high-quality CVs | 2018-11-27T20:32:14Z |
 | 52 | [gobook](https://github.com/miekg/gobook) | 875 | 91 | TeX | 3 | A complete introduction into Go, superseded by https://github.com/miekg/learninggo | 2018-09-29T21:45:08Z |
-| 53 | [Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) | 870 | 337 | TeX | 0 | Deep Learning Papers on Medical Image Analysis | 2019-04-09T06:32:23Z |
+| 53 | [Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) | 871 | 337 | TeX | 0 | Deep Learning Papers on Medical Image Analysis | 2019-04-09T06:32:23Z |
 | 54 | [moderncv](https://github.com/xdanaux/moderncv) | 865 | 235 | TeX | 63 | A modern curriculum vitae class for LaTeX | 2019-03-08T10:24:53Z |
 | 55 | [yellowpaper](https://github.com/ethereum/yellowpaper) | 864 | 320 | TeX | 88 | The "Yellow Paper": Ethereum's formal specification | 2019-05-06T22:13:52Z |
 | 56 | [G.E.R.T](https://github.com/ycoroneos/G.E.R.T) | 863 | 28 | TeX | 1 | None | 2017-08-10T22:00:20Z |

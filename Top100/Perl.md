@@ -43,7 +43,7 @@
 | 36 | [xcode_shell](https://github.com/webfrogs/xcode_shell) | 984 | 394 | Perl | 0 | shell script that used to auto-build xcode project | 2017-03-22T07:10:45Z |
 | 37 | [AirChat](https://github.com/lulzlabs/AirChat) | 961 | 145 | Perl | 16 | Free Communications For Everyone. | 2019-01-10T23:43:30Z |
 | 38 | [vanilla](https://github.com/idevz/vanilla) | 957 | 229 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
-| 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 930 | 121 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
+| 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 931 | 121 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
 | 40 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 909 | 1942 | Perl | 54 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2019-04-06T10:38:03Z |
 | 41 | [evilgrade](https://github.com/infobyte/evilgrade) | 885 | 224 | Perl | 4 | None | 2018-01-24T19:17:02Z |
 | 42 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 880 | 204 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
@@ -54,7 +54,7 @@
 | 47 | [gitprep](https://github.com/yuki-kimoto/gitprep) | 805 | 100 | Perl | 25 | Portable GitHub system into your own server | 2018-11-12T22:35:58Z |
 | 48 | [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | 804 | 205 | Perl | 27 | High-performance WAF built on the OpenResty stack | 2019-05-02T14:03:53Z |
 | 49 | [git-deploy](https://github.com/git-deploy/git-deploy) | 802 | 65 | Perl | 19 | Tool to manage using git as a deployment management tool | 2017-06-24T07:44:41Z |
-| 50 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 795 | 149 | Perl | 5 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-05-03T15:36:42Z |
+| 50 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 796 | 150 | Perl | 5 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-05-03T15:36:42Z |
 | 51 | [code2ebook](https://github.com/agentzh/code2ebook) | 792 | 122 | Perl | 2 | Generate pretty ebooks in various formats from source trees in various programming languages | 2018-08-30T03:36:08Z |
 | 52 | [authentic-theme](https://github.com/authentic-theme/authentic-theme) | 786 | 149 | Perl | 7 | Official theme for the best server management panel of the 21st Century | 2019-05-05T20:53:14Z |
 | 53 | [openkore](https://github.com/OpenKore/openkore) | 775 | 805 | Perl | 114 | A free/open source client and automation tool for Ragnarok Online | 2019-05-06T16:26:36Z |
@@ -95,7 +95,7 @@
 | 88 | [Plack](https://github.com/plack/Plack) | 459 | 204 | Perl | 89 | PSGI toolkit and server adapters | 2019-04-11T11:37:27Z |
 | 89 | [rt](https://github.com/bestpractical/rt) | 456 | 163 | Perl | 80 | Request Tracker, an enterprise-grade issue tracking system | 2019-05-06T21:00:47Z |
 | 90 | [musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 454 | 191 | Perl | 38 | The official musicbrainz-server codebase | 2019-05-06T20:41:37Z |
-| 91 | [SmokePing](https://github.com/oetiker/SmokePing) | 452 | 107 | Perl | 45 | The Active Monitoring System | 2019-03-13T22:22:53Z |
+| 91 | [SmokePing](https://github.com/oetiker/SmokePing) | 453 | 107 | Perl | 45 | The Active Monitoring System | 2019-03-13T22:22:53Z |
 | 92 | [slimserver](https://github.com/Logitech/slimserver) | 452 | 148 | Perl | 29 | Server for Logitech Squeezebox players. This server is also called Logitech Media Server | 2019-05-04T23:12:16Z |
 | 93 | [awesome-perl](https://github.com/hachiojipm/awesome-perl) | 451 | 71 | Perl | 5 | A curated list of awesome Perl frameworks and libraries. Come on Pull Requests! | 2018-12-29T03:39:46Z |
 | 94 | [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) | 446 | 111 | Perl | 18 | [SUNSET] Initiate consistent EBS snapshots in Amazon EC2 | 2019-01-23T22:11:10Z |

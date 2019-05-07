@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [animate.css](https://github.com/daneden/animate.css) | 59262 | 12564 | CSS | 21 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2019-04-03T10:25:56Z |
-| 2 | [material-design-icons](https://github.com/google/material-design-icons) | 37880 | 7687 | CSS | 548 | Material Design icons by Google | 2019-04-12T18:02:27Z |
+| 2 | [material-design-icons](https://github.com/google/material-design-icons) | 37881 | 7687 | CSS | 548 | Material Design icons by Google | 2019-04-12T18:02:27Z |
 | 3 | [normalize.css](https://github.com/necolas/normalize.css) | 34901 | 7059 | CSS | 24 | A modern alternative to CSS resets | 2019-05-01T07:56:48Z |
 | 4 | [bulma](https://github.com/jgthms/bulma) | 34562 | 2750 | CSS | 294 | Modern CSS framework based on Flexbox | 2019-05-05T04:42:58Z |
 | 5 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 33664 | 1250 | CSS | 117 | The FreeCodeCamp.cn(FCC China) open source codebase and curriculum. Learn to code and help nonprofits. | 2018-10-24T10:40:34Z |
