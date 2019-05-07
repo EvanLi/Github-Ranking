@@ -61,7 +61,7 @@
 | 54 | [fp-course](https://github.com/tonymorris/fp-course) | 865 | 1049 | Haskell | 16 | Functional Programming Course | 2019-03-12T06:19:53Z |
 | 55 | [leksah](https://github.com/leksah/leksah) | 848 | 108 | Haskell | 213 | Haskell IDE | 2019-03-11T22:34:49Z |
 | 56 | [penrose](https://github.com/penrose/penrose) | 846 | 28 | Haskell | 88 | Create beautiful diagrams just by typing mathematical notation in plain text. | 2019-05-06T20:05:42Z |
-| 57 | [asterius](https://github.com/tweag/asterius) | 836 | 22 | Haskell | 24 | A Haskell to WebAssembly compiler | 2019-05-06T15:58:09Z |
+| 57 | [asterius](https://github.com/tweag/asterius) | 837 | 22 | Haskell | 24 | A Haskell to WebAssembly compiler | 2019-05-06T15:58:09Z |
 | 58 | [aeson](https://github.com/bos/aeson) | 821 | 203 | Haskell | 68 | A fast Haskell JSON library | 2019-05-01T14:39:00Z |
 | 59 | [agda](https://github.com/agda/agda) | 808 | 114 | Haskell | 499 | Agda is a dependently typed programming language / interactive theorem prover. | 2019-05-07T06:01:44Z |
 | 60 | [toodles](https://github.com/aviaviavi/toodles) | 802 | 27 | Haskell | 12 | Project management directly from the TODOs in your codebase | 2019-02-20T01:44:50Z |

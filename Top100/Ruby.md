@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [rails](https://github.com/rails/rails) | 42983 | 17312 | Ruby | 1135 | Ruby on Rails | 2019-05-07T05:02:17Z |
-| 2 | [jekyll](https://github.com/jekyll/jekyll) | 37587 | 8177 | Ruby | 138 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2019-05-07T03:31:16Z |
+| 2 | [jekyll](https://github.com/jekyll/jekyll) | 37588 | 8177 | Ruby | 138 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2019-05-07T03:31:16Z |
 | 3 | [discourse](https://github.com/discourse/discourse) | 28116 | 6405 | Ruby | 19 | A platform for community discussion. Free, open, simple. | 2019-05-07T05:19:53Z |
 | 4 | [fastlane](https://github.com/fastlane/fastlane) | 25307 | 3873 | Ruby | 226 | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 2019-05-07T03:57:52Z |
 | 5 | [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 24149 | 3021 | Ruby | 6 | A curated list of awesome awesomeness | 2019-04-29T08:18:10Z |
@@ -17,7 +17,7 @@
 | 10 | [vagrant](https://github.com/hashicorp/vagrant) | 18369 | 3713 | Ruby | 419 | Vagrant is a tool for building and distributing development environments. | 2019-05-06T19:44:09Z |
 | 11 | [mastodon](https://github.com/tootsuite/mastodon) | 17533 | 3082 | Ruby | 1229 | Your self-hosted, globally interconnected microblogging community | 2019-05-07T05:50:52Z |
 | 12 | [brew](https://github.com/Homebrew/brew) | 17472 | 3884 | Ruby | 16 | 🍺 The missing package manager for macOS (or Linux) | 2019-05-07T02:50:26Z |
-| 13 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 16268 | 8081 | Ruby | 683 | Metasploit Framework | 2019-05-07T06:00:44Z |
+| 13 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 16268 | 8081 | Ruby | 682 | Metasploit Framework | 2019-05-07T06:17:57Z |
 | 14 | [ruby](https://github.com/ruby/ruby) | 15697 | 4176 | Ruby | 201 | The Ruby Programming Language [mirror] | 2019-05-06T18:24:12Z |
 | 15 | [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | 15232 | 1755 | Ruby | 25 | A curated list of engineering blogs | 2019-05-02T10:34:00Z |
 | 16 | [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 15226 | 7171 | Ruby | 25 | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | 2019-05-07T05:10:15Z |
@@ -66,7 +66,7 @@
 | 59 | [progit](https://github.com/progit/progit) | 5901 | 2498 | Ruby | 19 | Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2) | 2019-04-04T07:17:36Z |
 | 60 | [chef](https://github.com/chef/chef) | 5777 | 2322 | Ruby | 555 | A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure. | 2019-05-07T05:47:58Z |
 | 61 | [guard](https://github.com/guard/guard) | 5743 | 486 | Ruby | 63 | Guard is a command line tool to easily handle events on file system modifications. | 2019-04-17T20:40:20Z |
-| 62 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | 5715 | 6225 | Ruby | 132 | 🍻 Default formulae for the missing package manager for macOS | 2019-05-07T05:48:06Z |
+| 62 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | 5715 | 6225 | Ruby | 131 | 🍻 Default formulae for the missing package manager for macOS | 2019-05-07T05:48:06Z |
 | 63 | [puma](https://github.com/puma/puma) | 5680 | 959 | Ruby | 100 | A Ruby/Rack web server built for concurrency | 2019-05-06T14:26:14Z |
 | 64 | [pry](https://github.com/pry/pry) | 5598 | 506 | Ruby | 166 | A runtime developer console and IRB alternative with powerful introspection capabilities. | 2019-05-06T20:34:40Z |
 | 65 | [bullet](https://github.com/flyerhzm/bullet) | 5524 | 294 | Ruby | 67 | help to kill N+1 queries and unused eager loading | 2019-04-28T01:09:47Z |

@@ -15,7 +15,7 @@
 | 8 | [dokku](https://github.com/dokku/dokku) | 17432 | 1426 | Shell | 34 | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2019-05-06T17:21:27Z |
 | 9 | [fonts](https://github.com/powerline/fonts) | 15584 | 2016 | Shell | 134 | Patched fonts for Powerline users. | 2019-04-03T15:12:05Z |
 | 10 | [pyenv](https://github.com/pyenv/pyenv) | 15238 | 1309 | Shell | 150 | Simple Python version management | 2019-05-01T03:58:17Z |
-| 11 | [pi-hole](https://github.com/pi-hole/pi-hole) | 15172 | 1055 | Shell | 63 | A black hole for Internet advertisements | 2019-05-05T20:34:27Z |
+| 11 | [pi-hole](https://github.com/pi-hole/pi-hole) | 15173 | 1055 | Shell | 63 | A black hole for Internet advertisements | 2019-05-05T20:34:27Z |
 | 12 | [professional-programming](https://github.com/charlax/professional-programming) | 13103 | 1114 | Shell | 2 | A collection of full-stack resources for programmers. | 2019-04-27T17:25:35Z |
 | 13 | [fish-shell](https://github.com/fish-shell/fish-shell) | 12859 | 1101 | Shell | 462 | The user-friendly command line shell. | 2019-05-06T15:27:04Z |
 | 14 | [git-extras](https://github.com/tj/git-extras) | 12662 | 947 | Shell | 106 | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more | 2019-05-05T07:48:49Z |
@@ -97,7 +97,7 @@
 | 90 | [sshrc](https://github.com/Russell91/sshrc) | 4470 | 161 | Shell | 33 | bring your .bashrc, .vimrc, etc. with you when you ssh | 2018-12-05T16:29:53Z |
 | 91 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 4425 | 787 | Shell | 10 | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 2019-05-01T16:55:55Z |
 | 92 | [fasd](https://github.com/clvv/fasd) | 4423 | 162 | Shell | 101 | Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. | 2019-04-12T19:30:22Z |
-| 93 | [vscodium](https://github.com/VSCodium/vscodium) | 4376 | 134 | Shell | 16 | binary releases of VS Code without MS branding/telemetry/licensing | 2019-05-04T09:39:33Z |
+| 93 | [vscodium](https://github.com/VSCodium/vscodium) | 4377 | 134 | Shell | 16 | binary releases of VS Code without MS branding/telemetry/licensing | 2019-05-04T09:39:33Z |
 | 94 | [dehydrated](https://github.com/lukas2511/dehydrated) | 4370 | 573 | Shell | 28 | letsencrypt/acme client implemented as a shell-script – just add water | 2019-05-01T14:38:19Z |
 | 95 | [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) | 4322 | 847 | Shell | 89 | An open source Vagrant configuration for developing with WordPress | 2019-05-06T17:07:33Z |
 | 96 | [git-ftp](https://github.com/git-ftp/git-ftp) | 4293 | 570 | Shell | 144 | Uses Git to upload only changed files to FTP servers. | 2019-05-06T10:06:05Z |

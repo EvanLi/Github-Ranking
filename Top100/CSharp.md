@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 36810 | 12411 | C# | 134 | If you want to keep a secret, you must also hide it from yourself. | 2019-04-17T13:09:16Z |
+| 1 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 36811 | 12412 | C# | 134 | If you want to keep a secret, you must also hide it from yourself. | 2019-04-17T13:09:16Z |
 | 2 | [CodeHub](https://github.com/CodeHubApp/CodeHub) | 20112 | 541 | C# | 196 | CodeHub is an iOS application written using Xamarin | 2019-03-05T05:00:28Z |
 | 3 | [corefx](https://github.com/dotnet/corefx) | 16442 | 4901 | C# | 2665 | CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others. | 2019-05-07T05:22:25Z |
-| 4 | [PowerShell](https://github.com/PowerShell/PowerShell) | 13382 | 2171 | C# | 1940 | PowerShell for every system! | 2019-05-07T05:22:02Z |
+| 4 | [PowerShell](https://github.com/PowerShell/PowerShell) | 13383 | 2171 | C# | 1940 | PowerShell for every system! | 2019-05-07T05:22:02Z |
 | 5 | [Wox](https://github.com/Wox-launcher/Wox) | 13088 | 1295 | C# | 702 | Launcher for Windows, an alternative to Alfred and Launchy. | 2019-04-26T08:08:22Z |
 | 6 | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | 11744 | 587 | C# | 1 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics. | 2019-03-22T15:04:59Z |
 | 7 | [coreclr](https://github.com/dotnet/coreclr) | 11403 | 2700 | C# | 2077 | CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes. | 2019-05-07T05:38:10Z |
@@ -19,13 +19,13 @@
 | 12 | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 9654 | 3843 | C# | 48 | Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.2, Docker engine and optionally Azure, Kubernetes or Service Fabric. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. | 2019-05-06T20:01:25Z |
 | 13 | [dnSpy](https://github.com/0xd4d/dnSpy) | 9492 | 1536 | C# | 74 | .NET debugger and assembly editor | 2019-05-05T20:33:06Z |
 | 14 | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | 8748 | 1311 | C# | 35 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | 2019-04-27T16:56:05Z |
-| 15 | [Blazor](https://github.com/aspnet/Blazor) | 7982 | 644 | C# | 0 | Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly | 2019-05-03T15:15:28Z |
-| 16 | [mono](https://github.com/mono/mono) | 7772 | 3145 | C# | 1215 | Mono open source ECMA CLI, C# and .NET implementation. | 2019-05-07T05:37:16Z |
+| 15 | [Blazor](https://github.com/aspnet/Blazor) | 7983 | 644 | C# | 0 | Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly | 2019-05-03T15:15:28Z |
+| 16 | [mono](https://github.com/mono/mono) | 7772 | 3145 | C# | 1215 | Mono open source ECMA CLI, C# and .NET implementation. | 2019-05-07T06:19:33Z |
 | 17 | [SignalR](https://github.com/SignalR/SignalR) | 7671 | 2190 | C# | 48 | Incredibly simple real-time web for .NET | 2019-04-10T18:24:12Z |
 | 18 | [ILSpy](https://github.com/icsharpcode/ILSpy) | 7630 | 1672 | C# | 106 | .NET Decompiler | 2019-05-05T16:26:11Z |
 | 19 | [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) | 7508 | 1953 | C# | 1306 | Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology | 2019-05-06T23:47:28Z |
 | 20 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 6958 | 789 | C# | 156 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | 2019-04-25T16:06:05Z |
-| 21 | [react-native-windows](https://github.com/microsoft/react-native-windows) | 6829 | 560 | C# | 309 | A framework for building native Windows apps with React. | 2019-05-07T01:34:56Z |
+| 21 | [react-native-windows](https://github.com/microsoft/react-native-windows) | 6835 | 560 | C# | 309 | A framework for building native Windows apps with React. | 2019-05-07T01:34:56Z |
 | 22 | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 6766 | 2329 | C# | 303 | Json.NET is a popular high-performance JSON framework for .NET | 2019-04-28T13:34:18Z |
 | 23 | [Nancy](https://github.com/NancyFx/Nancy) | 6697 | 1456 | C# | 189 | Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono | 2019-04-27T10:09:01Z |
 | 24 | [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 6683 | 2619 | C# | 158 | ASP.NET Boilerplate - Web Application Framework | 2019-05-06T15:32:18Z |
@@ -43,7 +43,7 @@
 | 36 | [CefSharp](https://github.com/cefsharp/CefSharp) | 5683 | 2019 | C# | 59 | .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework | 2019-05-04T02:32:43Z |
 | 37 | [choco](https://github.com/chocolatey/choco) | 5352 | 538 | C# | 569 | Chocolatey - the package manager for Windows | 2019-04-30T14:59:50Z |
 | 38 | [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) | 5205 | 951 | C# | 0 | Unity C# reference source code | 2019-05-06T23:40:11Z |
-| 39 | [AspNetCore.Docs](https://github.com/aspnet/AspNetCore.Docs) | 5026 | 12674 | C# | 426 | Documentation for ASP.NET Core | 2019-05-07T02:17:50Z |
+| 39 | [AspNetCore.Docs](https://github.com/aspnet/AspNetCore.Docs) | 5027 | 12675 | C# | 426 | Documentation for ASP.NET Core | 2019-05-07T02:17:50Z |
 | 40 | [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) | 4990 | 1334 | C# | 0 | 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book  | 2019-05-04T00:46:50Z |
 | 41 | [orleans](https://github.com/dotnet/orleans) | 4969 | 1208 | C# | 462 | Orleans - Distributed Virtual Actor Model | 2019-05-07T01:34:55Z |
 | 42 | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) | 4910 | 3387 | C# | 92 | 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#. | 2019-05-06T08:31:21Z |
@@ -64,12 +64,12 @@
 | 57 | [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 3979 | 426 | C# | 115 | Powerful .NET library for benchmarking | 2019-05-06T09:41:01Z |
 | 58 | [Humanizer](https://github.com/Humanizr/Humanizer) | 3926 | 603 | C# | 103 | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities | 2019-04-27T14:10:37Z |
 | 59 | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | 3910 | 501 | C# | 4 | C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. | 2019-05-07T01:24:57Z |
-| 60 | [msbuild](https://github.com/microsoft/msbuild) | 3862 | 900 | C# | 1090 | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. | 2019-05-07T00:17:43Z |
+| 60 | [msbuild](https://github.com/microsoft/msbuild) | 3863 | 900 | C# | 1090 | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. | 2019-05-07T00:17:43Z |
 | 61 | [gitextensions](https://github.com/gitextensions/gitextensions) | 3844 | 1213 | C# | 813 | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2010/2012/2013/2015/2017). | 2019-05-06T23:48:02Z |
 | 62 | [LiteDB](https://github.com/mbdavid/LiteDB) | 3843 | 650 | C# | 462 | LiteDB - A .NET NoSQL Document Store in a single data file - www.litedb.org | 2019-05-06T23:20:27Z |
 | 63 | [NLog](https://github.com/NLog/NLog) | 3772 | 1043 | C# | 181 | NLog - Advanced and Structured Logging for Various .NET Platforms | 2019-05-07T05:20:58Z |
 | 64 | [asm-dude](https://github.com/HJLebbink/asm-dude) | 3768 | 43 | C# | 19 | Visual Studio extension for assembly syntax highlighting and code completion in assembly files and the disassembly window | 2019-01-08T21:41:17Z |
-| 65 | [FluentTerminal](https://github.com/felixse/FluentTerminal) | 3729 | 174 | C# | 121 | A Terminal Emulator based on UWP and web technologies. | 2019-05-07T03:16:01Z |
+| 65 | [FluentTerminal](https://github.com/felixse/FluentTerminal) | 3731 | 174 | C# | 121 | A Terminal Emulator based on UWP and web technologies. | 2019-05-07T03:16:01Z |
 | 66 | [Opserver](https://github.com/opserver/Opserver) | 3704 | 736 | C# | 53 | Stack Exchange's Monitoring System | 2019-04-18T13:01:57Z |
 | 67 | [Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) | 3589 | 994 | C# | 393 | A deck tracker and deck manager for Hearthstone on Windows | 2019-04-14T00:17:50Z |
 | 68 | [reactive](https://github.com/dotnet/reactive) | 3567 | 493 | C# | 132 | The Reactive Extensions for .NET | 2019-05-06T12:20:12Z |
@@ -83,7 +83,7 @@
 | 76 | [FASTER](https://github.com/microsoft/FASTER) | 3439 | 231 | C# | 7 | Fast key-value store from Microsoft Research | 2019-04-26T09:57:35Z |
 | 77 | [QuickLook](https://github.com/QL-Win/QuickLook) | 3400 | 277 | C# | 165 | Bring macOS “Quick Look” feature to Windows | 2019-04-07T09:17:10Z |
 | 78 | [framework](https://github.com/accord-net/framework) | 3385 | 1601 | C# | 436 | Machine learning, computer vision, statistics and general scientific computing for .NET | 2019-05-03T14:33:46Z |
-| 79 | [OptiKey](https://github.com/OptiKey/OptiKey) | 3380 | 442 | C# | 22 | OptiKey - Full computer control and speech with your eyes | 2019-05-06T20:51:38Z |
+| 79 | [OptiKey](https://github.com/OptiKey/OptiKey) | 3381 | 442 | C# | 22 | OptiKey - Full computer control and speech with your eyes | 2019-05-06T20:51:38Z |
 | 80 | [UniRx](https://github.com/neuecc/UniRx) | 3347 | 500 | C# | 154 | Reactive Extensions for Unity | 2019-04-16T09:19:26Z |
 | 81 | [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | 3266 | 1294 | C# | 1392 | Xamarin.Forms Official Home | 2019-05-07T04:31:15Z |
 | 82 | [EventStore](https://github.com/EventStore/EventStore) | 3242 | 501 | C# | 219 | The stream database optimised for event sourcing | 2019-05-03T07:00:25Z |

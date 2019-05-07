@@ -8,7 +8,7 @@
 | 1 | [coffeescript](https://github.com/jashkenas/coffeescript) | 15189 | 1993 | CoffeeScript | 37 | Unfancy JavaScript | 2019-05-06T04:07:05Z |
 | 2 | [trix](https://github.com/basecamp/trix) | 13448 | 626 | CoffeeScript | 24 | A rich text editor for everyday writing | 2019-04-19T20:49:29Z |
 | 3 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 12210 | 2017 | CoffeeScript | 179 | Manage and switch between multiple proxies quickly & easily. | 2019-02-07T21:11:00Z |
-| 4 | [cypress](https://github.com/cypress-io/cypress) | 11884 | 601 | CoffeeScript | 1019 | Fast, easy and reliable testing for anything that runs in a browser. | 2019-05-06T23:23:34Z |
+| 4 | [cypress](https://github.com/cypress-io/cypress) | 11884 | 601 | CoffeeScript | 1019 | Fast, easy and reliable testing for anything that runs in a browser. | 2019-05-07T06:15:33Z |
 | 5 | [vimium](https://github.com/philc/vimium) | 10805 | 1284 | CoffeeScript | 634 | The hacker's browser. | 2019-04-29T23:43:36Z |
 | 6 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 10121 | 646 | CoffeeScript | 84 | Low-Budget Password Strength Estimation | 2019-02-17T15:38:53Z |
 | 7 | [marp](https://github.com/yhatt/marp) | 7977 | 452 | CoffeeScript | 107 | Markdown presentation writer, powered by Electron. | 2019-02-17T10:39:19Z |

@@ -44,7 +44,7 @@
 | 37 | [vimwiki](https://github.com/vimwiki/vimwiki) | 3426 | 314 | Vim script | 99 | Personal Wiki for Vim | 2019-05-06T21:17:31Z |
 | 38 | [dotfiles](https://github.com/paulirish/dotfiles) | 3423 | 1333 | Vim script | 9 | paul's shell, git, etc config files. also homebrew, migration setup. good stuff.  | 2019-04-19T21:38:40Z |
 | 39 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 3385 | 233 | Vim script | 145 | fzf :heart: vim | 2019-04-29T04:33:17Z |
-| 40 | [nerdcommenter](https://github.com/scrooloose/nerdcommenter) | 3249 | 340 | Vim script | 71 | Vim plugin for intensely orgasmic commenting | 2019-05-01T12:43:21Z |
+| 40 | [nerdcommenter](https://github.com/scrooloose/nerdcommenter) | 3250 | 340 | Vim script | 71 | Vim plugin for intensely orgasmic commenting | 2019-05-01T12:43:21Z |
 | 41 | [vim-javascript](https://github.com/pangloss/vim-javascript) | 3088 | 325 | Vim script | 44 | Vastly improved Javascript indentation and syntax support in Vim. | 2019-04-16T21:11:20Z |
 | 42 | [molokai](https://github.com/tomasr/molokai) | 2901 | 1399 | VimL | 37 | Molokai color scheme for Vim | 2018-06-01T09:05:55Z |
 | 43 | [vim-markdown](https://github.com/plasticboy/vim-markdown) | 2896 | 370 | Vim script | 136 | Markdown Vim Mode | 2019-04-23T07:22:31Z |

@@ -8,7 +8,7 @@
 | 1 | [spark](https://github.com/apache/spark) | 21703 | 18810 | Scala | 460 | Apache Spark | 2019-05-07T05:34:13Z |
 | 2 | [prisma](https://github.com/prisma/prisma) | 14109 | 815 | Scala | 536 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) | 2019-05-06T18:05:59Z |
 | 3 | [predictionio](https://github.com/apache/predictionio) | 11763 | 1909 | Scala | 73 | PredictionIO, a machine learning server for developers and ML engineers. | 2019-04-07T13:16:39Z |
-| 4 | [scala](https://github.com/scala/scala) | 11556 | 2690 | Scala | 84 | The Scala programming language | 2019-05-07T02:25:33Z |
+| 4 | [scala](https://github.com/scala/scala) | 11556 | 2690 | Scala | 84 | The Scala programming language | 2019-05-07T06:17:29Z |
 | 5 | [playframework](https://github.com/playframework/playframework) | 11110 | 3734 | Scala | 385 | Play Framework | 2019-05-07T03:48:19Z |
 | 6 | [akka](https://github.com/akka/akka) | 9825 | 3008 | Scala | 882 | Build highly concurrent, distributed, and resilient message-driven applications on the JVM | 2019-05-06T18:05:12Z |
 | 7 | [gitbucket](https://github.com/gitbucket/gitbucket) | 7664 | 1052 | Scala | 292 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2019-04-30T15:18:39Z |
@@ -25,7 +25,7 @@
 | 18 | [fpinscala](https://github.com/fpinscala/fpinscala) | 4319 | 2419 | Scala | 113 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2019-04-30T23:27:00Z |
 | 19 | [gatling](https://github.com/gatling/gatling) | 4208 | 895 | Scala | 32 | Async Scala-Akka-Netty based Load Test Tool | 2019-05-06T12:30:02Z |
 | 20 | [chronos](https://github.com/mesos/chronos) | 4145 | 558 | Scala | 229 | Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules | 2018-09-29T20:34:37Z |
-| 21 | [scalaz](https://github.com/scalaz/scalaz) | 4120 | 692 | Scala | 157 | Principled Functional Programming in Scala | 2019-04-30T23:12:20Z |
+| 21 | [scalaz](https://github.com/scalaz/scalaz) | 4121 | 692 | Scala | 157 | Principled Functional Programming in Scala | 2019-04-30T23:12:20Z |
 | 22 | [source-han-serif](https://github.com/adobe-fonts/source-han-serif) | 4011 | 390 | Scala | 7 | Source Han Serif \| 思源宋体 \| 思源宋體 \| 源ノ明朝 \| 본명조 | 2019-02-04T12:46:12Z |
 | 23 | [incubator-openwhisk](https://github.com/apache/incubator-openwhisk) | 3982 | 763 | Scala | 439 | Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project. | 2019-05-06T15:54:51Z |
 | 24 | [marathon](https://github.com/mesosphere/marathon) | 3838 | 879 | Scala | 15 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. | 2019-05-06T15:25:12Z |
