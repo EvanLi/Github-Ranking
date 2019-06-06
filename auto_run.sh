@@ -1,5 +1,7 @@
 #!/bin/sh
 # crontab auto run this file
+echo -e "\n----------Run Time:----------"
+date
 cd /home/li/code/github/Github-Ranking
 git pull
 source /home/li/tf36/bin/activate
