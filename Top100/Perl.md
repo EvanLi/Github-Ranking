@@ -5,26 +5,26 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11825 | 247 | Perl | 10 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
-| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7874 | 901 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
+| 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11827 | 247 | Perl | 10 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
+| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7877 | 902 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
 | 3 | [gitolite](https://github.com/sitaramc/gitolite) | 7438 | 957 | Perl | 3 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2019-04-22T03:17:12Z |
-| 4 | [cloc](https://github.com/AlDanial/cloc) | 7385 | 474 | Perl | 12 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-05T02:47:56Z |
-| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 5292 | 848 | Perl | 34 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2019-05-21T18:04:55Z |
+| 4 | [cloc](https://github.com/AlDanial/cloc) | 7386 | 474 | Perl | 12 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-05T02:47:56Z |
+| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 5293 | 849 | Perl | 34 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2019-05-21T18:04:55Z |
 | 6 | [Expose](https://github.com/Jack000/Expose) | 4064 | 234 | Perl | 20 | A simple static site generator for photoessays | 2018-02-25T19:23:11Z |
 | 7 | [EQGRP](https://github.com/x0rz/EQGRP) | 3553 | 2107 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
 | 8 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 3372 | 410 | Perl | 7 | SICP PDF with Texinfo and LaTeX source | 2019-01-01T21:40:21Z |
-| 9 | [nikto](https://github.com/sullo/nikto) | 3031 | 512 | Perl | 82 | Nikto web server scanner | 2019-05-08T02:42:04Z |
+| 9 | [nikto](https://github.com/sullo/nikto) | 3032 | 512 | Perl | 82 | Nikto web server scanner | 2019-05-08T02:42:04Z |
 | 10 | [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2254 | 386 | Perl | 2 | Nginx Tutorials | 2017-12-27T02:29:20Z |
 | 11 | [rcm](https://github.com/thoughtbot/rcm) | 2124 | 99 | Perl | 19 | rc file (dotfile) management | 2019-05-01T13:54:51Z |
 | 12 | [mojo](https://github.com/mojolicious/mojo) | 2112 | 497 | Perl | 22 | :sparkles: Mojolicious - Perl real-time web framework | 2019-06-07T10:35:05Z |
 | 13 | [afterglow-theme](https://github.com/YabataDesign/afterglow-theme) | 2098 | 139 | Perl | 49 | A minimal dark Theme for Sublime Text 2 and 3 | 2018-10-10T22:59:44Z |
 | 14 | [ua-parser](https://github.com/tobie/ua-parser) | 1965 | 523 | Perl | 0 | A multi-language port of Browserscope's user agent parser. | 2016-12-26T21:13:22Z |
-| 15 | [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 1875 | 628 | Perl | 72 | None | 2018-10-14T07:05:17Z |
+| 15 | [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 1876 | 629 | Perl | 72 | None | 2018-10-14T07:05:17Z |
 | 16 | [Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) | 1802 | 358 | Perl | 14 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 | 2019-04-10T06:21:40Z |
-| 17 | [sqitch](https://github.com/sqitchers/sqitch) | 1766 | 158 | Perl | 51 | Sane database change management | 2019-06-09T15:42:50Z |
+| 17 | [sqitch](https://github.com/sqitchers/sqitch) | 1769 | 159 | Perl | 51 | Sane database change management | 2019-06-09T15:42:50Z |
 | 18 | [postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 1764 | 91 | Perl | 7 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice | 2019-05-19T18:18:58Z |
 | 19 | [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 1720 | 538 | Perl | 180 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | 2019-06-09T11:48:39Z |
-| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1640 | 196 | Perl | 10 | A fast PostgreSQL Log Analyzer | 2019-06-07T21:56:06Z |
+| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1640 | 196 | Perl | 11 | A fast PostgreSQL Log Analyzer | 2019-06-10T07:57:50Z |
 | 21 | [ack2](https://github.com/beyondgrep/ack2) | 1521 | 148 | Perl | 120 | ack 2.0 is a greplike tool optimized for programmers searching large heterogeneous trees of source code.  **ack 3 is the latest version.** | 2019-03-19T14:41:58Z |
 | 22 | [rsnapshot](https://github.com/rsnapshot/rsnapshot) | 1468 | 166 | Perl | 75 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss) | 2018-12-06T12:24:34Z |
 | 23 | [duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1461 | 215 | Perl | 31 | DuckDuckGo Instant Answer Infrastructure | 2019-05-06T22:38:58Z |
@@ -36,16 +36,16 @@
 | 29 | [get_iplayer](https://github.com/get-iplayer/get_iplayer) | 1078 | 134 | Perl | 0 | A utility for downloading TV and radio programmes from BBC iPlayer | 2019-02-25T20:43:45Z |
 | 30 | [git-cal](https://github.com/k4rthik/git-cal) | 1061 | 60 | Perl | 16 | github like contributions calendar on terminal | 2017-02-01T04:38:36Z |
 | 31 | [rainbarf](https://github.com/creaktive/rainbarf) | 1039 | 64 | Perl | 2 | it's like Rainmeter, but for CLI! | 2018-11-08T13:55:36Z |
-| 32 | [Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin) | 1016 | 233 | Perl | 24 | 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 | 2019-04-28T14:41:48Z |
+| 32 | [Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin) | 1016 | 233 | Perl | 26 | 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 | 2019-04-28T14:41:48Z |
 | 33 | [contrib](https://github.com/munin-monitoring/contrib) | 1014 | 637 | Perl | 52 | Contributed stuff for munin (plugins, tools, etc...) | 2019-06-06T18:58:02Z |
-| 34 | [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1006 | 533 | Perl | 5 | Expanded perl version of John Gruber's original Markdown --- No longer under active development since MMD 3 | 2011-07-10T02:15:34Z |
+| 34 | [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1005 | 533 | Perl | 5 | Expanded perl version of John Gruber's original Markdown --- No longer under active development since MMD 3 | 2011-07-10T02:15:34Z |
 | 35 | [webmin](https://github.com/webmin/webmin) | 1001 | 303 | Perl | 225 | Powerful and flexible web-based server management control panel | 2019-06-08T23:18:35Z |
 | 36 | [xcode_shell](https://github.com/webfrogs/xcode_shell) | 989 | 396 | Perl | 0 | shell script that used to auto-build xcode project | 2017-03-22T07:10:45Z |
 | 37 | [AirChat](https://github.com/lulzlabs/AirChat) | 963 | 143 | Perl | 16 | Free Communications For Everyone. | 2019-01-10T23:43:30Z |
 | 38 | [vanilla](https://github.com/idevz/vanilla) | 963 | 228 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
 | 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 936 | 120 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
 | 40 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 911 | 1939 | Perl | 56 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2019-05-31T17:02:51Z |
-| 41 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 901 | 110 | Perl | 32 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-06T16:26:31Z |
+| 41 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 901 | 110 | Perl | 30 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-06T16:26:31Z |
 | 42 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 893 | 206 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
 | 43 | [evilgrade](https://github.com/infobyte/evilgrade) | 891 | 228 | Perl | 5 | None | 2018-01-24T19:17:02Z |
 | 44 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 879 | 163 | Perl | 3 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-07T09:13:39Z |
@@ -58,8 +58,8 @@
 | 51 | [code2ebook](https://github.com/agentzh/code2ebook) | 795 | 122 | Perl | 2 | Generate pretty ebooks in various formats from source trees in various programming languages | 2018-08-30T03:36:08Z |
 | 52 | [authentic-theme](https://github.com/authentic-theme/authentic-theme) | 789 | 149 | Perl | 6 | Official theme for the best server management panel of the 21st Century | 2019-06-07T21:42:46Z |
 | 53 | [openkore](https://github.com/OpenKore/openkore) | 780 | 806 | Perl | 114 | A free/open source client and automation tool for Ragnarok Online | 2019-06-10T02:47:33Z |
-| 54 | [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) | 755 | 310 | Perl | 1 | Code coverage for Xcode projects (Objective-C only) | 2019-02-02T00:20:41Z |
-| 55 | [dank-selfhosted](https://github.com/cullum/dank-selfhosted) | 722 | 35 | Perl | 0 | Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD. | 2019-03-15T11:28:25Z |
+| 54 | [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) | 756 | 310 | Perl | 1 | Code coverage for Xcode projects (Objective-C only) | 2019-02-02T00:20:41Z |
+| 55 | [dank-selfhosted](https://github.com/cullum/dank-selfhosted) | 723 | 36 | Perl | 0 | Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD. | 2019-03-15T11:28:25Z |
 | 56 | [Dancer](https://github.com/PerlDancer/Dancer) | 710 | 236 | Perl | 77 | The easiest way to write web applications with Perl (Perl web micro-framework) | 2019-04-22T13:10:10Z |
 | 57 | [st](https://github.com/nferraz/st) | 700 | 48 | Perl | 11 | simple statistics from the command line | 2018-12-03T17:33:07Z |
 | 58 | [Monitorix](https://github.com/mikaku/Monitorix) | 667 | 132 | Perl | 36 | Monitorix is a free, open source, lightweight system monitoring tool. | 2019-05-27T10:49:18Z |
@@ -93,11 +93,11 @@
 | 86 | [ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) | 475 | 109 | Perl | 14 | ModSecurity v3 Nginx Connector | 2019-01-29T17:03:08Z |
 | 87 | [SmokePing](https://github.com/oetiker/SmokePing) | 470 | 111 | Perl | 46 | The Active Monitoring System | 2019-06-07T16:39:08Z |
 | 88 | [everything-curl](https://github.com/bagder/everything-curl) | 460 | 105 | Perl | 1 | The book documenting the curl project, the curl tool, libcurl and everything related to this. | 2019-05-15T07:54:34Z |
-| 89 | [slimserver](https://github.com/Logitech/slimserver) | 459 | 147 | Perl | 28 | Server for Logitech Squeezebox players. This server is also called Logitech Media Server | 2019-06-05T14:35:27Z |
-| 90 | [rt](https://github.com/bestpractical/rt) | 459 | 164 | Perl | 81 | Request Tracker, an enterprise-grade issue tracking system | 2019-06-07T23:17:19Z |
-| 91 | [musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 459 | 191 | Perl | 34 | The official musicbrainz-server codebase | 2019-06-08T14:48:44Z |
-| 92 | [Plack](https://github.com/plack/Plack) | 459 | 204 | Perl | 89 | PSGI toolkit and server adapters | 2019-04-11T11:37:27Z |
-| 93 | [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 458 | 64 | Perl | 0 | Next-Generation Linux Kernel Exploit Suggester | 2019-06-04T22:38:21Z |
+| 89 | [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 459 | 64 | Perl | 0 | Next-Generation Linux Kernel Exploit Suggester | 2019-06-04T22:38:21Z |
+| 90 | [slimserver](https://github.com/Logitech/slimserver) | 459 | 147 | Perl | 28 | Server for Logitech Squeezebox players. This server is also called Logitech Media Server | 2019-06-05T14:35:27Z |
+| 91 | [rt](https://github.com/bestpractical/rt) | 459 | 164 | Perl | 81 | Request Tracker, an enterprise-grade issue tracking system | 2019-06-07T23:17:19Z |
+| 92 | [musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 459 | 191 | Perl | 34 | The official musicbrainz-server codebase | 2019-06-08T14:48:44Z |
+| 93 | [Plack](https://github.com/plack/Plack) | 459 | 204 | Perl | 89 | PSGI toolkit and server adapters | 2019-04-11T11:37:27Z |
 | 94 | [awesome-perl](https://github.com/hachiojipm/awesome-perl) | 457 | 74 | Perl | 6 | A curated list of awesome Perl frameworks and libraries. Come on Pull Requests! | 2019-05-11T11:05:03Z |
 | 95 | [thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 452 | 51 | Perl | 36 | Infrastructure for examining and patching Thinkpad embedded controller firmware | 2019-05-18T23:28:29Z |
 | 96 | [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) | 447 | 111 | Perl | 18 | [SUNSET] Initiate consistent EBS snapshots in Amazon EC2 | 2019-01-23T22:11:10Z |
