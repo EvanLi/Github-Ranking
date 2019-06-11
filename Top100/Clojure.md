@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 35475 | 1135 | Clojure | 189 | Monospaced font with programming ligatures | 2019-06-09T15:17:34Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 15248 | 2023 | Clojure | 2168 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2019-06-11T00:48:54Z |
-| 3 | [LightTable](https://github.com/LightTable/LightTable) | 10638 | 905 | Clojure | 187 | The Light Table IDE ⛺ | 2019-04-21T18:09:00Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 35483 | 1135 | Clojure | 189 | Monospaced font with programming ligatures | 2019-06-09T15:17:34Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 15251 | 2027 | Clojure | 2168 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2019-06-11T00:48:54Z |
+| 3 | [LightTable](https://github.com/LightTable/LightTable) | 10638 | 905 | Clojure | 188 | The Light Table IDE ⛺ | 2019-04-21T18:09:00Z |
 | 4 | [clojurescript](https://github.com/clojure/clojurescript) | 8095 | 720 | Clojure | 3 | Clojure to JS compiler | 2019-06-04T11:15:35Z |
 | 5 | [om](https://github.com/omcljs/om) | 6609 | 372 | Clojure | 77 | ClojureScript interface to Facebook's React | 2019-02-17T20:19:25Z |
 | 6 | [leiningen](https://github.com/technomancy/leiningen) | 6399 | 1487 | Clojure | 190 | Automate Clojure projects without setting your hair on fire. | 2019-06-10T07:47:26Z |
@@ -25,7 +25,7 @@
 | 18 | [ring](https://github.com/ring-clojure/ring) | 2807 | 429 | Clojure | 31 | Clojure HTTP server abstraction | 2019-04-24T20:32:07Z |
 | 19 | [modern-cljs](https://github.com/magomimmo/modern-cljs) | 2788 | 307 | Clojure | 37 | A series of tutorials on ClojureScript | 2018-08-30T16:05:03Z |
 | 20 | [lein-figwheel](https://github.com/bhauman/lein-figwheel) | 2712 | 219 | Clojure | 93 | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! | 2019-05-27T20:15:29Z |
-| 21 | [status-react](https://github.com/status-im/status-react) | 2680 | 677 | Clojure | 464 | a free (libre) open source, mobile OS for Ethereum | 2019-06-11T02:10:18Z |
+| 21 | [status-react](https://github.com/status-im/status-react) | 2680 | 677 | Clojure | 464 | a free (libre) open source, mobile OS for Ethereum | 2019-06-11T06:22:15Z |
 | 22 | [quil](https://github.com/quil/quil) | 2311 | 149 | Clojure | 24 | Main repo. Quil source code. | 2019-06-10T08:14:11Z |
 | 23 | [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) | 2158 | 396 | Clojure | 40 | This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com | 2018-12-27T14:38:31Z |
 | 24 | [aleph](https://github.com/ztellman/aleph) | 2158 | 200 | Clojure | 71 | asynchronous communication for clojure | 2019-06-01T20:39:22Z |
