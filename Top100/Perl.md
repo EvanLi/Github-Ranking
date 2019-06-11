@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11829 | 247 | Perl | 10 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
+| 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11830 | 247 | Perl | 10 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
 | 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7880 | 902 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
 | 3 | [gitolite](https://github.com/sitaramc/gitolite) | 7438 | 957 | Perl | 3 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2019-04-22T03:17:12Z |
 | 4 | [cloc](https://github.com/AlDanial/cloc) | 7392 | 475 | Perl | 13 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-10T11:04:53Z |
@@ -13,7 +13,7 @@
 | 6 | [Expose](https://github.com/Jack000/Expose) | 4065 | 234 | Perl | 20 | A simple static site generator for photoessays | 2018-02-25T19:23:11Z |
 | 7 | [EQGRP](https://github.com/x0rz/EQGRP) | 3553 | 2108 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
 | 8 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 3376 | 410 | Perl | 7 | SICP PDF with Texinfo and LaTeX source | 2019-01-01T21:40:21Z |
-| 9 | [nikto](https://github.com/sullo/nikto) | 3033 | 512 | Perl | 82 | Nikto web server scanner | 2019-05-08T02:42:04Z |
+| 9 | [nikto](https://github.com/sullo/nikto) | 3032 | 512 | Perl | 82 | Nikto web server scanner | 2019-05-08T02:42:04Z |
 | 10 | [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2254 | 386 | Perl | 2 | Nginx Tutorials | 2017-12-27T02:29:20Z |
 | 11 | [rcm](https://github.com/thoughtbot/rcm) | 2128 | 99 | Perl | 19 | rc file (dotfile) management | 2019-05-01T13:54:51Z |
 | 12 | [mojo](https://github.com/mojolicious/mojo) | 2112 | 497 | Perl | 23 | :sparkles: Mojolicious - Perl real-time web framework | 2019-06-10T12:08:33Z |
@@ -32,7 +32,7 @@
 | 25 | [munin](https://github.com/munin-monitoring/munin) | 1310 | 380 | Perl | 129 | Main repository for munin master / node / plugins | 2019-06-10T02:26:26Z |
 | 26 | [imapsync](https://github.com/imapsync/imapsync) | 1287 | 244 | Perl | 29 | Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two other are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  | 2019-04-22T22:37:08Z |
 | 27 | [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1256 | 364 | Perl | 3 | Linux Exploit Suggester; based on operating system release number  | 2014-05-19T06:23:20Z |
-| 28 | [openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | 1145 | 243 | Perl | 19 | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap | 2018-08-16T07:05:05Z |
+| 28 | [openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | 1145 | 242 | Perl | 19 | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap | 2018-08-16T07:05:05Z |
 | 29 | [get_iplayer](https://github.com/get-iplayer/get_iplayer) | 1078 | 134 | Perl | 0 | A utility for downloading TV and radio programmes from BBC iPlayer | 2019-02-25T20:43:45Z |
 | 30 | [git-cal](https://github.com/k4rthik/git-cal) | 1061 | 60 | Perl | 16 | github like contributions calendar on terminal | 2017-02-01T04:38:36Z |
 | 31 | [rainbarf](https://github.com/creaktive/rainbarf) | 1040 | 64 | Perl | 2 | it's like Rainmeter, but for CLI! | 2018-11-08T13:55:36Z |
@@ -42,20 +42,20 @@
 | 35 | [webmin](https://github.com/webmin/webmin) | 1002 | 303 | Perl | 225 | Powerful and flexible web-based server management control panel | 2019-06-08T23:18:35Z |
 | 36 | [xcode_shell](https://github.com/webfrogs/xcode_shell) | 989 | 396 | Perl | 0 | shell script that used to auto-build xcode project | 2017-03-22T07:10:45Z |
 | 37 | [AirChat](https://github.com/lulzlabs/AirChat) | 963 | 143 | Perl | 16 | Free Communications For Everyone. | 2019-01-10T23:43:30Z |
-| 38 | [vanilla](https://github.com/idevz/vanilla) | 963 | 228 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
+| 38 | [vanilla](https://github.com/idevz/vanilla) | 963 | 227 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
 | 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 936 | 120 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
 | 40 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 911 | 1939 | Perl | 56 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2019-05-31T17:02:51Z |
 | 41 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 901 | 111 | Perl | 31 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-06T16:26:31Z |
 | 42 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 893 | 206 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
-| 43 | [evilgrade](https://github.com/infobyte/evilgrade) | 891 | 228 | Perl | 5 | None | 2018-01-24T19:17:02Z |
-| 44 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 888 | 164 | Perl | 3 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-07T09:13:39Z |
+| 43 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 892 | 164 | Perl | 3 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-07T09:13:39Z |
+| 44 | [evilgrade](https://github.com/infobyte/evilgrade) | 891 | 228 | Perl | 5 | None | 2018-01-24T19:17:02Z |
 | 45 | [nodebrew](https://github.com/hokaccha/nodebrew) | 873 | 52 | Perl | 13 | Node.js version manager | 2019-01-07T14:50:34Z |
 | 46 | [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 845 | 317 | Perl | 45 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part | 2019-05-16T19:52:15Z |
 | 47 | [ack1](https://github.com/beyondgrep/ack1) | 824 | 94 | Perl | 0 | This repository is for ack 1.x, which is **no longer being maintained**.  DO NOT SUBMIT ISSUES HERE.  ack 2.0 has a new GitHub project at | 2013-08-30T16:08:03Z |
-| 48 | [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | 813 | 208 | Perl | 27 | High-performance WAF built on the OpenResty stack | 2019-05-02T14:03:53Z |
+| 48 | [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | 814 | 209 | Perl | 27 | High-performance WAF built on the OpenResty stack | 2019-05-02T14:03:53Z |
 | 49 | [gitprep](https://github.com/yuki-kimoto/gitprep) | 806 | 102 | Perl | 29 | Portable GitHub system into your own server | 2019-05-08T04:55:25Z |
 | 50 | [git-deploy](https://github.com/git-deploy/git-deploy) | 804 | 64 | Perl | 19 | Tool to manage using git as a deployment management tool | 2017-06-24T07:44:41Z |
-| 51 | [code2ebook](https://github.com/agentzh/code2ebook) | 797 | 122 | Perl | 2 | Generate pretty ebooks in various formats from source trees in various programming languages | 2018-08-30T03:36:08Z |
+| 51 | [code2ebook](https://github.com/agentzh/code2ebook) | 797 | 121 | Perl | 2 | Generate pretty ebooks in various formats from source trees in various programming languages | 2018-08-30T03:36:08Z |
 | 52 | [authentic-theme](https://github.com/authentic-theme/authentic-theme) | 789 | 149 | Perl | 5 | Official theme for the best server management panel of the 21st Century | 2019-06-10T11:49:58Z |
 | 53 | [openkore](https://github.com/OpenKore/openkore) | 781 | 806 | Perl | 114 | A free/open source client and automation tool for Ragnarok Online | 2019-06-11T01:20:41Z |
 | 54 | [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) | 756 | 310 | Perl | 1 | Code coverage for Xcode projects (Objective-C only) | 2019-02-02T00:20:41Z |
@@ -69,7 +69,7 @@
 | 62 | [mlf](https://github.com/huichen/mlf) | 644 | 235 | Perl | 2 | 大数据机器学习框架 | 2015-12-13T14:15:36Z |
 | 63 | [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) | 630 | 223 | Perl | 10 | Th3Inspector 🕵️ Best Tool For Information Gathering 🔎 | 2019-02-06T22:28:15Z |
 | 64 | [packetfence](https://github.com/inverse-inc/packetfence) | 629 | 184 | Perl | 402 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. | 2019-06-10T22:37:17Z |
-| 65 | [opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training) | 627 | 436 | Perl | 6 | Learn how to train your own OpenCV Haar classifier | 2017-04-24T11:02:40Z |
+| 65 | [opencv-haar-classifier-training](https://github.com/mrnugget/opencv-haar-classifier-training) | 628 | 437 | Perl | 6 | Learn how to train your own OpenCV Haar classifier | 2017-04-24T11:02:40Z |
 | 66 | [App-perlbrew](https://github.com/gugod/App-perlbrew) | 626 | 209 | Perl | 172 | Manage perl installations in your $HOME | 2019-05-22T22:50:00Z |
 | 67 | [modern_perl_book](https://github.com/chromatic/modern_perl_book) | 615 | 184 | Perl | 22 | Modern Perl: the book | 2018-01-31T17:05:25Z |
 | 68 | [clusterssh](https://github.com/duncs/clusterssh) | 598 | 57 | Perl | 24 | Cluster SSH - Cluster Admin Via SSH | 2019-03-28T22:53:43Z |
@@ -90,7 +90,7 @@
 | 83 | [cli](https://github.com/linode/cli) | 485 | 42 | Perl | 0 | This is the DEPRECATED Linode CLI. Use https://github.com/linode/linode-cli | 2018-07-05T13:22:18Z |
 | 84 | [vghetto-scripts](https://github.com/lamw/vghetto-scripts) | 479 | 335 | Perl | 31 | Various virtuallyGhetto scripts for VMware based solutions | 2019-05-30T19:42:36Z |
 | 85 | [fwknop](https://github.com/mrash/fwknop) | 478 | 106 | Perl | 69 | Single Packet Authorization > Port Knocking | 2019-03-12T04:57:24Z |
-| 86 | [ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) | 475 | 110 | Perl | 12 | ModSecurity v3 Nginx Connector | 2019-01-29T17:03:08Z |
+| 86 | [ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) | 476 | 111 | Perl | 12 | ModSecurity v3 Nginx Connector | 2019-01-29T17:03:08Z |
 | 87 | [SmokePing](https://github.com/oetiker/SmokePing) | 470 | 111 | Perl | 44 | The Active Monitoring System | 2019-06-10T09:33:39Z |
 | 88 | [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 461 | 65 | Perl | 0 | Next-Generation Linux Kernel Exploit Suggester | 2019-06-04T22:38:21Z |
 | 89 | [rt](https://github.com/bestpractical/rt) | 460 | 164 | Perl | 81 | Request Tracker, an enterprise-grade issue tracking system | 2019-06-11T00:14:59Z |
