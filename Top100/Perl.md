@@ -8,8 +8,8 @@
 | 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11847 | 247 | Perl | 11 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
 | 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7916 | 912 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
 | 3 | [gitolite](https://github.com/sitaramc/gitolite) | 7441 | 957 | Perl | 3 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2019-06-14T08:26:07Z |
-| 4 | [cloc](https://github.com/AlDanial/cloc) | 7427 | 477 | Perl | 13 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-12T01:33:24Z |
-| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 5306 | 851 | Perl | 35 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2019-06-11T19:49:58Z |
+| 4 | [cloc](https://github.com/AlDanial/cloc) | 7428 | 477 | Perl | 13 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-12T01:33:24Z |
+| 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 5307 | 851 | Perl | 35 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2019-06-11T19:49:58Z |
 | 6 | [Expose](https://github.com/Jack000/Expose) | 4066 | 233 | Perl | 20 | A simple static site generator for photoessays | 2018-02-25T19:23:11Z |
 | 7 | [EQGRP](https://github.com/x0rz/EQGRP) | 3556 | 2108 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
 | 8 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 3380 | 410 | Perl | 7 | SICP PDF with Texinfo and LaTeX source | 2019-01-01T21:40:21Z |
@@ -19,12 +19,12 @@
 | 12 | [mojo](https://github.com/mojolicious/mojo) | 2115 | 497 | Perl | 21 | :sparkles: Mojolicious - Perl real-time web framework | 2019-06-17T07:29:39Z |
 | 13 | [afterglow-theme](https://github.com/YabataDesign/afterglow-theme) | 2099 | 139 | Perl | 49 | A minimal dark Theme for Sublime Text 2 and 3 | 2018-10-10T22:59:44Z |
 | 14 | [ua-parser](https://github.com/tobie/ua-parser) | 1965 | 522 | Perl | 0 | A multi-language port of Browserscope's user agent parser. | 2016-12-26T21:13:22Z |
-| 15 | [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 1880 | 630 | Perl | 72 | None | 2018-10-14T07:05:17Z |
+| 15 | [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 1881 | 630 | Perl | 72 | None | 2018-10-14T07:05:17Z |
 | 16 | [Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) | 1800 | 358 | Perl | 14 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 | 2019-04-10T06:21:40Z |
 | 17 | [sqitch](https://github.com/sqitchers/sqitch) | 1786 | 159 | Perl | 50 | Sane database change management | 2019-06-10T23:29:50Z |
 | 18 | [postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 1767 | 91 | Perl | 7 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice | 2019-05-19T18:18:58Z |
-| 19 | [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 1726 | 539 | Perl | 184 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | 2019-06-17T20:44:27Z |
-| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1647 | 196 | Perl | 4 | A fast PostgreSQL Log Analyzer | 2019-06-17T20:12:53Z |
+| 19 | [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 1727 | 539 | Perl | 184 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | 2019-06-17T20:44:27Z |
+| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1647 | 196 | Perl | 3 | A fast PostgreSQL Log Analyzer | 2019-06-18T08:28:17Z |
 | 21 | [ack2](https://github.com/beyondgrep/ack2) | 1521 | 148 | Perl | 120 | ack 2.0 is a greplike tool optimized for programmers searching large heterogeneous trees of source code.  **ack 3 is the latest version.** | 2019-03-19T14:41:58Z |
 | 22 | [rsnapshot](https://github.com/rsnapshot/rsnapshot) | 1474 | 167 | Perl | 75 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss) | 2018-12-06T12:24:34Z |
 | 23 | [duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1465 | 215 | Perl | 31 | DuckDuckGo Instant Answer Infrastructure | 2019-05-06T22:38:58Z |
@@ -45,8 +45,8 @@
 | 38 | [vanilla](https://github.com/idevz/vanilla) | 962 | 227 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
 | 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 935 | 120 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
 | 40 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 911 | 1939 | Perl | 55 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2019-06-17T17:02:59Z |
-| 41 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 908 | 208 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
-| 42 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 907 | 169 | Perl | 2 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-15T20:28:11Z |
+| 41 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 908 | 170 | Perl | 2 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-15T20:28:11Z |
+| 42 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 908 | 208 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
 | 43 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 903 | 114 | Perl | 35 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-18T06:34:52Z |
 | 44 | [evilgrade](https://github.com/infobyte/evilgrade) | 894 | 229 | Perl | 5 | None | 2018-01-24T19:17:02Z |
 | 45 | [nodebrew](https://github.com/hokaccha/nodebrew) | 874 | 52 | Perl | 13 | Node.js version manager | 2019-01-07T14:50:34Z |
@@ -86,7 +86,7 @@
 | 79 | [convos](https://github.com/Nordaaker/convos) | 533 | 43 | Perl | 33 |  Convos :busts_in_silhouette: is the simplest way to use IRC in your browser | 2019-06-06T08:46:16Z |
 | 80 | [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 502 | 209 | Perl | 0 | Advanced Search & Mass Exploit Scanner | 2019-06-10T16:14:35Z |
 | 81 | [youtube-viewer](https://github.com/trizen/youtube-viewer) | 497 | 45 | Perl | 18 | Lightweight application for searching and streaming videos from YouTube. | 2019-05-09T21:16:34Z |
-| 82 | [innotop](https://github.com/innotop/innotop) | 495 | 93 | Perl | 17 | A realtime terminal-based top-like monitor for MySQL | 2018-12-19T06:46:32Z |
+| 82 | [innotop](https://github.com/innotop/innotop) | 496 | 93 | Perl | 17 | A realtime terminal-based top-like monitor for MySQL | 2018-12-19T06:46:32Z |
 | 83 | [mt-aws-glacier](https://github.com/vsespb/mt-aws-glacier) | 489 | 55 | Perl | 35 | Perl Multithreaded Multipart sync to Amazon Glacier | 2017-03-10T02:56:49Z |
 | 84 | [cli](https://github.com/linode/cli) | 485 | 41 | Perl | 0 | This is the DEPRECATED Linode CLI. Use https://github.com/linode/linode-cli | 2018-07-05T13:22:18Z |
 | 85 | [ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) | 482 | 112 | Perl | 13 | ModSecurity v3 Nginx Connector | 2019-01-29T17:03:08Z |
