@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 35730 | 1144 | Clojure | 190 | Monospaced font with programming ligatures | 2019-06-09T15:17:34Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 15350 | 2043 | Clojure | 2169 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2019-06-18T06:13:27Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 35729 | 1144 | Clojure | 190 | Monospaced font with programming ligatures | 2019-06-09T15:17:34Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 15353 | 2046 | Clojure | 2170 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2019-06-18T08:48:54Z |
 | 3 | [LightTable](https://github.com/LightTable/LightTable) | 10651 | 905 | Clojure | 185 | The Light Table IDE ⛺ | 2019-04-21T18:09:00Z |
 | 4 | [clojurescript](https://github.com/clojure/clojurescript) | 8099 | 720 | Clojure | 3 | Clojure to JS compiler | 2019-06-14T20:37:00Z |
 | 5 | [om](https://github.com/omcljs/om) | 6608 | 373 | Clojure | 78 | ClojureScript interface to Facebook's React | 2019-02-17T20:19:25Z |
@@ -34,7 +34,7 @@
 | 27 | [pedestal](https://github.com/pedestal/pedestal) | 2062 | 234 | Clojure | 40 | The Pedestal Server-side Libraries | 2019-06-13T15:03:43Z |
 | 28 | [schema](https://github.com/plumatic/schema) | 1964 | 236 | Clojure | 21 | Clojure(Script) library for declarative data description and validation | 2019-06-13T01:48:59Z |
 | 29 | [hiccup](https://github.com/weavejester/hiccup) | 1915 | 146 | Clojure | 28 | Fast library for rendering HTML in Clojure | 2019-01-22T01:02:10Z |
-| 30 | [onyx](https://github.com/onyx-platform/onyx) | 1879 | 199 | Clojure | 85 | Distributed, masterless, high performance, fault tolerant data processing | 2019-06-08T00:24:54Z |
+| 30 | [onyx](https://github.com/onyx-platform/onyx) | 1881 | 199 | Clojure | 85 | Distributed, masterless, high performance, fault tolerant data processing | 2019-06-08T00:24:54Z |
 | 31 | [klipse](https://github.com/viebel/klipse) | 1877 | 92 | Clojure | 78 | Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp | 2019-06-17T05:59:03Z |
 | 32 | [specter](https://github.com/nathanmarz/specter) | 1874 | 75 | Clojure | 26 | Clojure(Script)'s missing piece | 2019-01-29T19:25:16Z |
 | 33 | [awesome-clojure](https://github.com/razum2um/awesome-clojure) | 1692 | 139 | Clojure | 6 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff | 2019-06-06T23:14:58Z |
@@ -77,7 +77,7 @@
 | 70 | [frak](https://github.com/noprompt/frak) | 1035 | 39 | Clojure | 1 | Transform collections of strings into regular expressions. | 2019-04-10T22:38:00Z |
 | 71 | [lux](https://github.com/LuxLang/lux) | 1034 | 40 | Clojure | 6 | The Lux Programming Language | 2019-06-16T08:07:04Z |
 | 72 | [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) | 1028 | 164 | Clojure | 50 | Leiningen plugin to make ClojureScript development easy. | 2018-07-02T13:39:11Z |
-| 73 | [garden](https://github.com/noprompt/garden) | 1019 | 61 | Clojure | 35 | Generate CSS with Clojure | 2019-04-10T22:38:13Z |
+| 73 | [garden](https://github.com/noprompt/garden) | 1018 | 61 | Clojure | 35 | Generate CSS with Clojure | 2019-04-10T22:38:13Z |
 | 74 | [honeysql](https://github.com/jkk/honeysql) | 980 | 106 | Clojure | 9 | Turn Clojure data structures into SQL | 2019-05-28T17:06:02Z |
 | 75 | [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) | 971 | 67 | Clojure | 17 | Functional, persistent, off-heap, high performance data structure | 2018-07-22T21:01:33Z |
 | 76 | [swarmpit](https://github.com/swarmpit/swarmpit) | 969 | 94 | Clojure | 58 | Lightweight mobile-friendly Docker Swarm management UI | 2019-06-16T13:54:12Z |
