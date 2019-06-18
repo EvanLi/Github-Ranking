@@ -12,7 +12,7 @@
 | 5 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15297 | 3452 | Objective-C | 58 | MBProgressHUD + Customizations | 2019-06-14T09:19:02Z |
 | 6 | [realm-cocoa](https://github.com/realm/realm-cocoa) | 13274 | 1709 | Objective-C | 463 | Realm is a mobile database: a replacement for Core Data & SQLite | 2019-06-15T02:55:01Z |
 | 7 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 13190 | 2064 | Objective-C | 29 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2019-06-14T14:56:38Z |
-| 8 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 13065 | 2034 | Objective-C | 130 | None | 2019-04-22T13:02:11Z |
+| 8 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 13066 | 2034 | Objective-C | 130 | None | 2019-04-22T13:02:11Z |
 | 9 | [YYKit](https://github.com/ibireme/YYKit) | 13059 | 3450 | Objective-C | 241 | A collection of iOS components. | 2019-04-13T07:40:05Z |
 | 10 | [fmdb](https://github.com/ccgus/fmdb) | 13043 | 2760 | Objective-C | 244 | A Cocoa / Objective-C wrapper around SQLite | 2019-04-16T10:31:51Z |
 | 11 | [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 12794 | 3449 | Objective-C | 591 | An easy way to use pull-to-refresh. | 2019-05-31T02:20:55Z |
@@ -82,7 +82,7 @@
 | 75 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode) | 6098 | 533 | Objective-C | 82 | Runtime Code Injection for Objective-C & Swift | 2018-01-29T16:05:58Z |
 | 76 | [facebook-objc-sdk](https://github.com/facebook/facebook-objc-sdk) | 6051 | 2453 | Objective-C | 0 | Used to integrate the Facebook Platform with your iOS & tvOS apps. | 2019-06-17T19:38:09Z |
 | 77 | [react-native-code-push](https://github.com/microsoft/react-native-code-push) | 5938 | 803 | Objective-C | 27 | React Native module for CodePush | 2019-06-14T09:58:03Z |
-| 78 | [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 5928 | 1198 | Objective-C | 54 | For macOS.百度网盘 破解SVIP、下载速度限制~ | 2019-01-25T03:11:43Z |
+| 78 | [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 5929 | 1198 | Objective-C | 54 | For macOS.百度网盘 破解SVIP、下载速度限制~ | 2019-01-25T03:11:43Z |
 | 79 | [YTKNetwork](https://github.com/yuantiku/YTKNetwork) | 5899 | 1558 | Objective-C | 96 | YTKNetwork is a high level request util based on AFNetworking. | 2019-05-21T03:21:23Z |
 | 80 | [asi-http-request](https://github.com/pokeb/asi-http-request) | 5810 | 1457 | Objective-C | 166 | Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone | 2019-01-15T18:31:03Z |
 | 81 | [DTCoreText](https://github.com/Cocoanetics/DTCoreText) | 5781 | 1096 | Objective-C | 18 | Methods to allow using HTML code with CoreText | 2019-05-23T11:16:02Z |

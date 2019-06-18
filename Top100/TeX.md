@@ -41,7 +41,7 @@
 | 34 | [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) | 1332 | 380 | TeX | 6 | A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. | 2019-06-04T11:16:00Z |
 | 35 | [Cookbook](https://github.com/andkret/Cookbook) | 1326 | 198 | TeX | 2 | The Data Engineering Cookbook | 2019-06-16T22:50:24Z |
 | 36 | [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) | 1313 | 211 | TeX | 2 | List of articles related to deep learning applied to music | 2019-05-27T17:12:08Z |
-| 37 | [docs-cn](https://github.com/pingcap/docs-cn) | 1280 | 488 | TeX | 90 | TiDB/TiKV/PD documents in Chinese. | 2019-06-18T06:35:42Z |
+| 37 | [docs-cn](https://github.com/pingcap/docs-cn) | 1280 | 488 | TeX | 90 | TiDB/TiKV/PD documents in Chinese. | 2019-06-18T07:15:22Z |
 | 38 | [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) | 1260 | 260 | TeX | 3 | A machine translation reading list maintained by Tsinghua Natural Language Processing Group | 2019-06-15T06:00:28Z |
 | 39 | [the-little-redis-book](https://github.com/karlseguin/the-little-redis-book) | 1226 | 470 | TeX | 3 | None | 2015-11-06T12:30:43Z |
 | 40 | [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) | 1214 | 236 | TeX | 13 | Book about interpretable machine learning | 2019-06-17T10:53:19Z |

@@ -10,7 +10,7 @@
 | 3 | [postgrest](https://github.com/PostgREST/postgrest) | 12448 | 575 | Haskell | 113 | REST API for any Postgres database | 2019-06-17T21:54:46Z |
 | 4 | [purescript](https://github.com/purescript/purescript) | 5794 | 425 | Haskell | 221 | A strongly-typed language that compiles to JavaScript | 2019-06-17T23:26:40Z |
 | 5 | [compiler](https://github.com/elm/compiler) | 5255 | 421 | Haskell | 138 | Compiler for Elm, a functional language for reliable webapps. | 2019-06-14T16:54:24Z |
-| 6 | [semantic](https://github.com/github/semantic) | 4913 | 138 | Haskell | 85 | Parsing, analyzing, and comparing source code across many languages | 2019-06-17T22:23:52Z |
+| 6 | [semantic](https://github.com/github/semantic) | 4914 | 138 | Haskell | 85 | Parsing, analyzing, and comparing source code across many languages | 2019-06-17T22:23:52Z |
 | 7 | [Haxl](https://github.com/facebook/Haxl) | 3550 | 285 | Haskell | 6 | A Haskell library that simplifies access to remote data, such as databases or web-based services.  | 2019-05-17T15:03:25Z |
 | 8 | [cardano-sl](https://github.com/input-output-hk/cardano-sl) | 3262 | 560 | Haskell | 200 | Cryptographic currency implementing Ouroboros PoS protocol | 2019-06-18T06:10:00Z |
 | 9 | [luna](https://github.com/luna/luna) | 3151 | 87 | Haskell | 84 | Hybrid textual and visual functional programming. | 2019-06-17T10:05:53Z |
