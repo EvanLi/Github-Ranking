@@ -49,7 +49,7 @@
 | 42 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 6994 | 799 | Swift | 21 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2019-06-09T19:17:45Z |
 | 43 | [swift-package-manager](https://github.com/apple/swift-package-manager) | 6988 | 842 | Swift | 33 | The Package Manager for the Swift Programming Language | 2019-06-18T06:17:25Z |
 | 44 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) | 6943 | 727 | Swift | 33 | [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift. | 2019-04-09T14:02:45Z |
-| 45 | [Cartography](https://github.com/robb/Cartography) | 6880 | 494 | Swift | 54 | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | 2019-05-27T16:11:26Z |
+| 45 | [Cartography](https://github.com/robb/Cartography) | 6881 | 494 | Swift | 54 | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | 2019-05-27T16:11:26Z |
 | 46 | [ios-oss](https://github.com/kickstarter/ios-oss) | 6784 | 987 | Swift | 8 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2019-06-18T03:44:41Z |
 | 47 | [Lona](https://github.com/airbnb/Lona) | 6514 | 198 | Swift | 22 | A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts. | 2019-06-15T00:31:10Z |
 | 48 | [R.swift](https://github.com/mac-cain13/R.swift) | 6321 | 406 | Swift | 56 | Get strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2019-06-13T10:14:07Z |

@@ -50,7 +50,7 @@
 | 43 | [wire-android](https://github.com/wireapp/wire-android) | 2246 | 431 | Scala | 399 | :phone: Wire for Android | 2019-06-17T18:32:47Z |
 | 44 | [slick](https://github.com/slick/slick) | 2228 | 533 | Scala | 404 | Scala Language Integrated Connection Kit | 2019-06-15T12:24:47Z |
 | 45 | [s3_website](https://github.com/laurilehmijoki/s3_website) | 2199 | 163 | Scala | 71 | Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features. | 2019-01-22T14:01:17Z |
-| 46 | [lagom](https://github.com/lagom/lagom) | 2199 | 527 | Scala | 364 | Reactive Microservices for the JVM | 2019-06-18T06:54:11Z |
+| 46 | [lagom](https://github.com/lagom/lagom) | 2199 | 527 | Scala | 365 | Reactive Microservices for the JVM | 2019-06-18T07:15:28Z |
 | 47 | [gizzard](https://github.com/twitter-archive/gizzard) | 2186 | 206 | Scala | 11 | [Archived] A flexible sharding framework for creating eventually-consistent distributed datastores | 2017-03-16T23:21:54Z |
 | 48 | [scaloid](https://github.com/pocorall/scaloid) | 2117 | 166 | Scala | 17 | Scaloid makes your Android code easy to understand and maintain. | 2018-08-07T08:10:53Z |
 | 49 | [summingbird](https://github.com/twitter/summingbird) | 2028 | 262 | Scala | 163 | Streaming MapReduce with Scalding and Storm | 2019-06-06T17:24:18Z |
@@ -76,7 +76,7 @@
 | 69 | [spark](https://github.com/mesos/spark) | 1450 | 389 | Scala | 15 | Lightning-fast cluster computing in Java, Scala and Python. | 2014-04-08T20:31:01Z |
 | 70 | [doobie](https://github.com/tpolecat/doobie) | 1444 | 228 | Scala | 108 | Functional JDBC layer for Scala. | 2019-06-17T03:24:36Z |
 | 71 | [fs2](https://github.com/functional-streams-for-scala/fs2) | 1434 | 363 | Scala | 30 | Compositional, streaming I/O library for Scala | 2019-06-17T19:39:23Z |
-| 72 | [quill](https://github.com/getquill/quill) | 1429 | 214 | Scala | 155 | Compile-time Language Integrated Queries for Scala | 2019-06-18T05:36:32Z |
+| 72 | [quill](https://github.com/getquill/quill) | 1430 | 214 | Scala | 155 | Compile-time Language Integrated Queries for Scala | 2019-06-18T05:36:32Z |
 | 73 | [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) | 1409 | 98 | Scala | 44 | Reactive data-binding for Scala | 2019-06-16T11:45:11Z |
 | 74 | [graphcool-framework](https://github.com/prisma/graphcool-framework) | 1408 | 95 | Scala | 519 | None | 2019-05-14T17:03:29Z |
 | 75 | [postgresql-async](https://github.com/mauricio/postgresql-async) | 1392 | 208 | Scala | 68 | Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala | 2019-01-26T21:38:12Z |
