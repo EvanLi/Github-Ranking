@@ -6,81 +6,81 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [animate.css](https://github.com/daneden/animate.css) | 60182 | 12732 | CSS | 17 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2019-06-13T00:23:23Z |
-| 2 | [material-design-icons](https://github.com/google/material-design-icons) | 38187 | 7769 | CSS | 551 | Material Design icons by Google | 2019-04-12T18:02:27Z |
-| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 35300 | 7146 | CSS | 26 | A modern alternative to CSS resets | 2019-05-16T10:02:32Z |
-| 4 | [bulma](https://github.com/jgthms/bulma) | 35266 | 2825 | CSS | 286 | Modern CSS framework based on Flexbox | 2019-06-10T11:36:21Z |
-| 5 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 34442 | 1285 | CSS | 124 | The FreeCodeCamp.cn(FCC China) open source codebase and curriculum. Learn to code and help nonprofits. | 2018-10-24T10:40:34Z |
-| 6 | [weui](https://github.com/Tencent/weui) | 22448 | 5768 | CSS | 121 | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | 2019-06-01T01:46:17Z |
-| 7 | [Hover](https://github.com/IanLunn/Hover) | 21368 | 4641 | CSS | 29 | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. | 2019-03-12T15:25:36Z |
-| 8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 20233 | 4365 | CSS | 103 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2019-05-07T08:50:53Z |
+| 2 | [material-design-icons](https://github.com/google/material-design-icons) | 38188 | 7770 | CSS | 551 | Material Design icons by Google | 2019-04-12T18:02:27Z |
+| 3 | [normalize.css](https://github.com/necolas/normalize.css) | 35302 | 7145 | CSS | 26 | A modern alternative to CSS resets | 2019-05-16T10:02:32Z |
+| 4 | [bulma](https://github.com/jgthms/bulma) | 35267 | 2825 | CSS | 285 | Modern CSS framework based on Flexbox | 2019-06-10T11:36:21Z |
+| 5 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 34446 | 1285 | CSS | 124 | The FreeCodeCamp.cn(FCC China) open source codebase and curriculum. Learn to code and help nonprofits. | 2018-10-24T10:40:34Z |
+| 6 | [weui](https://github.com/Tencent/weui) | 22450 | 5768 | CSS | 121 | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | 2019-06-01T01:46:17Z |
+| 7 | [Hover](https://github.com/IanLunn/Hover) | 21370 | 4642 | CSS | 29 | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. | 2019-03-12T15:25:36Z |
+| 8 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 20234 | 4367 | CSS | 103 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2019-05-07T08:50:53Z |
 | 9 | [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) | 19895 | 3309 | CSS | 47 | Material design theme for Bootstrap 3 and 4 | 2019-05-23T17:56:34Z |
-| 10 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 18587 | 4928 | CSS | 1 | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | 2019-06-16T12:43:04Z |
-| 11 | [Skeleton](https://github.com/dhg/Skeleton) | 16778 | 2922 | CSS | 132 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2019-05-17T07:26:00Z |
-| 12 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 16099 | 1532 | CSS | 22 | A collection of loading indicators animated with CSS | 2019-01-21T14:49:32Z |
-| 13 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 14873 | 916 | CSS | 111 | :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack | 2019-06-07T07:12:06Z |
+| 10 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 18588 | 4928 | CSS | 1 | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | 2019-06-16T12:43:04Z |
+| 11 | [Skeleton](https://github.com/dhg/Skeleton) | 16778 | 2923 | CSS | 132 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2019-05-17T07:26:00Z |
+| 12 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 16100 | 1532 | CSS | 22 | A collection of loading indicators animated with CSS | 2019-01-21T14:49:32Z |
+| 13 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 14875 | 916 | CSS | 111 | :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack | 2019-06-07T07:12:06Z |
 | 14 | [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) | 14834 | 610 | CSS | 3 | List of applications and tools that make my macOS experience even more amazing | 2019-06-16T21:20:12Z |
-| 15 | [uikit](https://github.com/uikit/uikit) | 14571 | 2091 | CSS | 637 | A lightweight and modular front-end framework for developing fast and powerful web interfaces | 2019-06-14T15:12:10Z |
+| 15 | [uikit](https://github.com/uikit/uikit) | 14573 | 2092 | CSS | 637 | A lightweight and modular front-end framework for developing fast and powerful web interfaces | 2019-06-14T15:12:10Z |
 | 16 | [pace](https://github.com/HubSpot/pace) | 14473 | 1898 | CSS | 300 | Automatically add a progress bar to your site. #hubspot-open-source | 2018-10-29T21:03:14Z |
-| 17 | [Flat-UI](https://github.com/designmodo/Flat-UI) | 14468 | 2454 | CSS | 9 | Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. | 2019-02-13T17:29:09Z |
+| 17 | [Flat-UI](https://github.com/designmodo/Flat-UI) | 14469 | 2454 | CSS | 9 | Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. | 2019-02-13T17:29:09Z |
 | 18 | [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) | 14390 | 3749 | CSS | 49 | Elegant theme for Hexo.  | 2019-06-10T11:00:09Z |
 | 19 | [ratchet](https://github.com/twbs/ratchet) | 14379 | 1526 | CSS | 223 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2018-10-14T20:01:33Z |
-| 20 | [NES.css](https://github.com/nostalgic-css/NES.css) | 12984 | 1094 | CSS | 28 | NES-style CSS Framework \| ファミコン風CSSフレームワーク | 2019-06-17T04:38:56Z |
-| 21 | [tailwindcss](https://github.com/tailwindcss/tailwindcss) | 12504 | 567 | CSS | 31 | A utility-first CSS framework for rapid UI development. | 2019-06-17T07:57:37Z |
+| 20 | [NES.css](https://github.com/nostalgic-css/NES.css) | 12985 | 1094 | CSS | 28 | NES-style CSS Framework \| ファミコン風CSSフレームワーク | 2019-06-17T04:38:56Z |
+| 21 | [tailwindcss](https://github.com/tailwindcss/tailwindcss) | 12508 | 567 | CSS | 31 | A utility-first CSS framework for rapid UI development. | 2019-06-17T07:57:37Z |
 | 22 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 12438 | 3011 | CSS | 110 | Tomorrow Theme now lives on at https://github.com/chriskempson/base16 | 2019-06-08T11:18:32Z |
 | 23 | [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | 11956 | 711 | CSS | 26 | CSS is powerful, you can do a lot of things without JS. | 2019-04-03T08:48:37Z |
 | 24 | [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 11733 | 978 | CSS | 20 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. | 2019-04-25T19:32:04Z |
 | 25 | [Effeckt.css](https://github.com/h5bp/Effeckt.css) | 11206 | 1510 | CSS | 0 | This repo is archived. Thanks! | 2019-03-01T16:28:55Z |
-| 26 | [hacker101](https://github.com/Hacker0x01/hacker101) | 10525 | 1159 | CSS | 24 | Hacker101 | 2019-04-22T20:38:24Z |
+| 26 | [hacker101](https://github.com/Hacker0x01/hacker101) | 10527 | 1159 | CSS | 24 | Hacker101 | 2019-04-22T20:38:24Z |
 | 27 | [card](https://github.com/jessepollak/card) | 10431 | 1244 | CSS | 118 | :credit_card: make your credit card form better in one line of code | 2019-06-05T23:02:46Z |
 | 28 | [2048](https://github.com/gabrielecirulli/2048) | 10071 | 15810 | CSS | 101 | A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024) | 2019-06-13T10:06:17Z |
-| 29 | [spectre](https://github.com/picturepan2/spectre) | 9394 | 663 | CSS | 143 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2019-05-06T15:36:53Z |
+| 29 | [spectre](https://github.com/picturepan2/spectre) | 9399 | 663 | CSS | 143 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2019-05-06T15:36:53Z |
 | 30 | [loaders.css](https://github.com/ConnorAtherton/loaders.css) | 9227 | 1146 | CSS | 10 | Delightful, performance-focused pure css loading animations. | 2018-09-20T11:12:43Z |
 | 31 | [_s](https://github.com/Automattic/_s) | 9184 | 2825 | CSS | 73 | Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for. | 2019-05-27T15:56:21Z |
 | 32 | [photon](https://github.com/connors/photon) | 9017 | 521 | CSS | 83 | The fastest way to build beautiful Electron apps using simple HTML and CSS | 2018-10-13T17:09:16Z |
-| 33 | [tachyons](https://github.com/tachyons-css/tachyons) | 8922 | 566 | CSS | 55 | Functional css for humans | 2019-06-14T20:17:25Z |
+| 33 | [tachyons](https://github.com/tachyons-css/tachyons) | 8924 | 566 | CSS | 55 | Functional css for humans | 2019-06-14T20:17:25Z |
 | 34 | [colors](https://github.com/mrmrs/colors) | 8456 | 519 | CSS | 22 | Smarter defaults for colors on the web. | 2019-05-17T00:15:00Z |
 | 35 | [offline](https://github.com/HubSpot/offline) | 8451 | 849 | CSS | 114 | Automatically display online/offline indication to your users | 2018-11-20T21:23:05Z |
-| 36 | [css](https://github.com/primer/css) | 8367 | 618 | CSS | 102 | The CSS design system that powers GitHub | 2019-06-18T00:45:27Z |
+| 36 | [css](https://github.com/primer/css) | 8367 | 618 | CSS | 102 | The CSS design system that powers GitHub | 2019-06-18T06:50:23Z |
 | 37 | [arc-theme](https://github.com/horst3180/arc-theme) | 7999 | 542 | CSS | 177 | A flat theme with transparent elements | 2019-04-28T18:43:46Z |
 | 38 | [material-dashboard](https://github.com/creativetimofficial/material-dashboard) | 7856 | 811 | CSS | 22 | Material Dashboard - Open Source Bootstrap 4 Material Design Admin | 2019-05-24T12:18:41Z |
 | 39 | [hint.css](https://github.com/chinchang/hint.css) | 7804 | 703 | CSS | 35 | A CSS only tooltip library for your lovely websites. | 2019-05-11T06:27:58Z |
 | 40 | [icheck](https://github.com/fronteed/icheck) | 7409 | 1685 | CSS | 182 | Highly customizable checkboxes and radio buttons (jQuery & Zepto) | 2018-12-23T00:03:48Z |
-| 41 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | 7393 | 953 | CSS | 172 | Switch hosts quickly! | 2019-04-27T08:39:26Z |
-| 42 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 7265 | 3077 | CSS | 30 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2019-06-16T16:28:53Z |
+| 41 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | 7398 | 954 | CSS | 172 | Switch hosts quickly! | 2019-04-27T08:39:26Z |
+| 42 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 7266 | 3078 | CSS | 30 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2019-06-16T16:28:53Z |
 | 43 | [compass](https://github.com/Compass/compass) | 6913 | 1234 | CSS | 463 | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | 2018-12-09T20:46:29Z |
 | 44 | [vex](https://github.com/HubSpot/vex) | 6770 | 496 | CSS | 52 | A modern dialog library which is highly configurable and easy to style. #hubspot-open-source | 2019-04-11T18:27:33Z |
 | 45 | [odometer](https://github.com/HubSpot/odometer) | 6768 | 573 | CSS | 94 | Smoothly transitions numbers with ease. #hubspot-open-source | 2018-06-30T03:01:51Z |
-| 46 | [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) | 6693 | 3995 | CSS | 30 | A free, open source, Bootstrap admin theme created by Start Bootstrap | 2019-06-17T01:38:23Z |
-| 47 | [cheatsheets](https://github.com/rstacruz/cheatsheets) | 6681 | 1525 | CSS | 450 | My cheatsheets | 2019-06-16T20:18:46Z |
+| 46 | [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) | 6694 | 3996 | CSS | 30 | A free, open source, Bootstrap admin theme created by Start Bootstrap | 2019-06-17T01:38:23Z |
+| 47 | [cheatsheets](https://github.com/rstacruz/cheatsheets) | 6682 | 1525 | CSS | 450 | My cheatsheets | 2019-06-16T20:18:46Z |
 | 48 | [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) | 6161 | 1969 | CSS | 14 | Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only. | 2019-06-17T15:46:46Z |
-| 49 | [purecss-francine](https://github.com/cyanharlow/purecss-francine) | 6089 | 300 | CSS | 35 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. | 2019-01-16T08:14:02Z |
-| 50 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 6078 | 24726 | CSS | 208 | Build a Jekyll blog in minutes, without touching the command line. | 2019-06-17T14:54:59Z |
-| 51 | [DataTables](https://github.com/DataTables/DataTables) | 6047 | 1854 | CSS | 124 | Tables plug-in for jQuery | 2019-06-07T21:53:05Z |
+| 49 | [purecss-francine](https://github.com/cyanharlow/purecss-francine) | 6090 | 301 | CSS | 35 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. | 2019-01-16T08:14:02Z |
+| 50 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 6078 | 24722 | CSS | 208 | Build a Jekyll blog in minutes, without touching the command line. | 2019-06-17T14:54:59Z |
+| 51 | [DataTables](https://github.com/DataTables/DataTables) | 6048 | 1855 | CSS | 124 | Tables plug-in for jQuery | 2019-06-07T21:53:05Z |
 | 52 | [css-loaders](https://github.com/lukehaas/css-loaders) | 6008 | 942 | CSS | 18 | A collection of loading spinners animated with CSS | 2018-07-25T14:05:31Z |
 | 53 | [bounce.js](https://github.com/tictail/bounce.js) | 5920 | 428 | CSS | 12 | Create beautiful CSS3 powered animations in no time. | 2018-12-31T01:57:13Z |
 | 54 | [magic](https://github.com/miniMAC/magic) | 5901 | 1074 | CSS | 0 | CSS3 Animations with special effects | 2019-05-29T09:42:38Z |
 | 55 | [json-api](https://github.com/json-api/json-api) | 5875 | 689 | CSS | 151 | A specification for building JSON APIs | 2019-06-05T19:24:16Z |
-| 56 | [jupyter-themes](https://github.com/dunovank/jupyter-themes) | 5666 | 625 | CSS | 120 | Custom Jupyter Notebook Themes | 2019-05-03T23:31:24Z |
-| 57 | [paperless](https://github.com/the-paperless-project/paperless) | 5645 | 362 | CSS | 88 | Scan, index, and archive all of your paper documents | 2019-06-12T15:57:24Z |
+| 56 | [jupyter-themes](https://github.com/dunovank/jupyter-themes) | 5669 | 625 | CSS | 120 | Custom Jupyter Notebook Themes | 2019-05-03T23:31:24Z |
+| 57 | [paperless](https://github.com/the-paperless-project/paperless) | 5647 | 362 | CSS | 88 | Scan, index, and archive all of your paper documents | 2019-06-12T15:57:24Z |
 | 58 | [blueprint-css](https://github.com/joshuaclayton/blueprint-css) | 5430 | 623 | CSS | 10 | A CSS framework that aims to cut down on your CSS development time | 2016-06-27T05:08:49Z |
-| 59 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 5397 | 382 | CSS | 17 | :octocat: Dark GitHub style | 2019-06-17T19:12:05Z |
-| 60 | [hamburgers](https://github.com/jonsuh/hamburgers) | 5253 | 1057 | CSS | 12 | Tasty CSS-animated Hamburgers | 2019-05-15T21:47:45Z |
-| 61 | [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 5253 | 9053 | CSS | 16 | :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios. | 2019-06-12T19:39:26Z |
-| 62 | [popcorn-app](https://github.com/popcorn-time/popcorn-app) | 5248 | 1859 | CSS | 186 | An experiment using the peerflix module of nodejs and connecting a bunch of APIs. | 2015-06-25T19:15:19Z |
-| 63 | [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) | 5239 | 1193 | CSS | 76 | A starter template for TypeScript and Node with a detailed README describing how to use the two together. | 2019-06-14T04:01:50Z |
+| 59 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 5399 | 382 | CSS | 18 | :octocat: Dark GitHub style | 2019-06-18T05:59:33Z |
+| 60 | [hamburgers](https://github.com/jonsuh/hamburgers) | 5255 | 1058 | CSS | 12 | Tasty CSS-animated Hamburgers | 2019-05-15T21:47:45Z |
+| 61 | [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 5253 | 9055 | CSS | 16 | :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios. | 2019-06-12T19:39:26Z |
+| 62 | [popcorn-app](https://github.com/popcorn-time/popcorn-app) | 5248 | 1860 | CSS | 186 | An experiment using the peerflix module of nodejs and connecting a bunch of APIs. | 2015-06-25T19:15:19Z |
+| 63 | [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) | 5241 | 1193 | CSS | 76 | A starter template for TypeScript and Node with a detailed README describing how to use the two together. | 2019-06-14T04:01:50Z |
 | 64 | [weather-icons](https://github.com/erikflowers/weather-icons) | 5237 | 660 | CSS | 85 | 215 Weather Themed Icons and CSS | 2019-04-07T03:17:34Z |
 | 65 | [basscss](https://github.com/basscss/basscss) | 5227 | 302 | CSS | 15 | Low-level CSS Toolkit | 2019-06-14T22:28:28Z |
-| 66 | [gitmoji](https://github.com/carloscuesta/gitmoji) | 5216 | 317 | CSS | 49 | An emoji guide for your commit messages. 😜  | 2019-06-14T15:18:23Z |
+| 66 | [gitmoji](https://github.com/carloscuesta/gitmoji) | 5217 | 318 | CSS | 49 | An emoji guide for your commit messages. 😜  | 2019-06-14T15:18:23Z |
 | 67 | [uswds](https://github.com/uswds/uswds) | 5214 | 699 | CSS | 38 | The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites. | 2019-06-13T23:17:34Z |
-| 68 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5199 | 1363 | CSS | 23 | Javascript tutorial book | 2019-02-19T06:27:55Z |
-| 69 | [material-kit](https://github.com/creativetimofficial/material-kit) | 5087 | 507 | CSS | 20 |  Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design | 2019-03-26T01:39:36Z |
+| 68 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5200 | 1363 | CSS | 23 | Javascript tutorial book | 2019-02-19T06:27:55Z |
+| 69 | [material-kit](https://github.com/creativetimofficial/material-kit) | 5088 | 507 | CSS | 20 |  Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design | 2019-03-26T01:39:36Z |
 | 70 | [north](https://github.com/north/north) | 4972 | 299 | CSS | 27 | Design and development standards to align and guide your project. | 2016-01-07T16:43:56Z |
-| 71 | [chardin.js](https://github.com/heelhook/chardin.js) | 4673 | 498 | CSS | 65 | Simple overlay instructions for your apps. | 2018-10-02T00:21:40Z |
-| 72 | [iview-weapp](https://github.com/TalkingData/iview-weapp) | 4547 | 798 | CSS | 282 | 一套高质量的微信小程序 UI 组件库 | 2019-05-08T08:12:50Z |
+| 71 | [chardin.js](https://github.com/heelhook/chardin.js) | 4673 | 499 | CSS | 65 | Simple overlay instructions for your apps. | 2018-10-02T00:21:40Z |
+| 72 | [iview-weapp](https://github.com/TalkingData/iview-weapp) | 4548 | 799 | CSS | 282 | 一套高质量的微信小程序 UI 组件库 | 2019-05-08T08:12:50Z |
 | 73 | [retinajs](https://github.com/strues/retinajs) | 4450 | 657 | CSS | 44 | JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants | 2018-04-17T14:50:41Z |
-| 74 | [smoothState.js](https://github.com/miguel-perez/smoothState.js) | 4337 | 535 | CSS | 120 | Unobtrusive page transitions with jQuery. | 2018-05-20T15:22:57Z |
-| 75 | [easings.net](https://github.com/ai/easings.net) | 4337 | 431 | CSS | 5 | Easing Functions Cheat Sheet | 2019-05-04T07:12:18Z |
-| 76 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) | 4314 | 3044 | CSS | 72 | My Blog / Jekyll Themes / PWA | 2019-06-08T07:32:21Z |
+| 74 | [easings.net](https://github.com/ai/easings.net) | 4338 | 431 | CSS | 5 | Easing Functions Cheat Sheet | 2019-05-04T07:12:18Z |
+| 75 | [smoothState.js](https://github.com/miguel-perez/smoothState.js) | 4337 | 535 | CSS | 120 | Unobtrusive page transitions with jQuery. | 2018-05-20T15:22:57Z |
+| 76 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) | 4315 | 3044 | CSS | 72 | My Blog / Jekyll Themes / PWA | 2019-06-08T07:32:21Z |
 | 77 | [balloon.css](https://github.com/kazzkiq/balloon.css) | 4244 | 421 | CSS | 1 | Simple tooltips made of pure CSS | 2019-06-17T13:36:58Z |
 | 78 | [helios](https://github.com/helios-framework/helios) | 4195 | 355 | CSS | 3 | An extensible open-source mobile backend framework | 2015-09-30T17:16:45Z |
 | 79 | [Fira](https://github.com/mozilla/Fira) | 4156 | 287 | CSS | 87 | Mozilla's new typeface, used in Firefox OS | 2019-05-10T17:36:59Z |
@@ -95,14 +95,14 @@
 | 88 | [icono](https://github.com/saeedalipoor/icono) | 3842 | 288 | CSS | 17 | One tag One icon, no font or svg, Pure CSS | 2018-12-01T07:30:45Z |
 | 89 | [megaboilerplate](https://github.com/sahat/megaboilerplate) | 3830 | 277 | CSS | 78 | Handcrafted starter projects, optimized for simplicity and ease of use. | 2018-09-06T10:04:17Z |
 | 90 | [assemble](https://github.com/assemble/assemble) | 3698 | 255 | CSS | 28 | Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.   | 2019-06-16T03:58:49Z |
-| 91 | [hexo-theme-material](https://github.com/viosey/hexo-theme-material) | 3688 | 571 | CSS | 90 | Material Design theme for hexo. | 2019-05-08T06:45:41Z |
-| 92 | [animsition](https://github.com/blivesta/animsition) | 3676 | 777 | CSS | 72 | A simple and easy jQuery plugin for CSS animated page transitions. | 2018-01-05T20:10:54Z |
+| 91 | [hexo-theme-material](https://github.com/viosey/hexo-theme-material) | 3689 | 572 | CSS | 90 | Material Design theme for hexo. | 2019-05-08T06:45:41Z |
+| 92 | [animsition](https://github.com/blivesta/animsition) | 3677 | 777 | CSS | 72 | A simple and easy jQuery plugin for CSS animated page transitions. | 2018-01-05T20:10:54Z |
 | 93 | [emmet](https://github.com/emmetio/emmet) | 3650 | 475 | CSS | 170 | The essential toolkit for web-developers | 2019-06-12T03:58:39Z |
 | 94 | [sanitize.css](https://github.com/csstools/sanitize.css) | 3642 | 237 | CSS | 0 | A best-practices CSS foundation | 2019-06-04T12:26:41Z |
 | 95 | [Flatabulous](https://github.com/anmoljagetia/Flatabulous) | 3627 | 259 | CSS | 50 | This is a Flat theme for Ubuntu and other Gnome based Linux Systems. | 2018-10-18T17:20:14Z |
 | 96 | [open-color](https://github.com/yeun/open-color) | 3620 | 163 | CSS | 10 | Color scheme for UI design. | 2019-06-11T21:39:47Z |
 | 97 | [instagram.css](https://github.com/picturepan2/instagram.css) | 3600 | 215 | CSS | 5 | Instagram.css - Complete set of Instagram filters in pure CSS | 2018-11-18T07:32:50Z |
-| 98 | [loading](https://github.com/jxnblk/loading) | 3563 | 258 | CSS | 11 | This could take a while | 2016-05-29T11:03:52Z |
-| 99 | [mvvm](https://github.com/DMQ/mvvm) | 3545 | 871 | CSS | 12 | 剖析vue实现原理，自己动手实现mvvm | 2019-03-27T09:29:51Z |
+| 98 | [loading](https://github.com/jxnblk/loading) | 3564 | 258 | CSS | 11 | This could take a while | 2016-05-29T11:03:52Z |
+| 99 | [mvvm](https://github.com/DMQ/mvvm) | 3548 | 873 | CSS | 12 | 剖析vue实现原理，自己动手实现mvvm | 2019-03-27T09:29:51Z |
 | 100 | [960-Grid-System](https://github.com/nathansmith/960-Grid-System) | 3518 | 537 | CSS | 1 | The 960 Grid System is an effort to streamline web development workflow. | 2018-03-07T15:07:01Z |
 
