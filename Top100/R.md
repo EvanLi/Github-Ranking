@@ -9,7 +9,7 @@
 | 2 | [awesome-R](https://github.com/qinwf/awesome-R) | 3547 | 1183 | R | 2 | A curated list of awesome R packages, frameworks and software. | 2019-06-10T10:45:17Z |
 | 3 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3508 | 2229 | R | 34 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
 | 4 | [shiny](https://github.com/rstudio/shiny) | 3433 | 1499 | R | 431 | Easy interactive web applications with R | 2019-06-17T18:50:14Z |
-| 5 | [dplyr](https://github.com/tidyverse/dplyr) | 2958 | 1082 | R | 99 | dplyr: A grammar of data manipulation | 2019-06-18T06:46:10Z |
+| 5 | [dplyr](https://github.com/tidyverse/dplyr) | 2958 | 1082 | R | 97 | dplyr: A grammar of data manipulation | 2019-06-18T08:50:51Z |
 | 6 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 2941 | 670 | R | 67 | Anomaly Detection with R | 2019-03-01T02:37:44Z |
 | 7 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 2935 | 6165 | R | 127 | :mortar_board: A collection of interactive courses for the swirl R package. | 2019-04-16T16:17:21Z |
 | 8 | [r4ds](https://github.com/hadley/r4ds) | 1943 | 2394 | R | 98 | R for data science | 2019-06-14T19:43:26Z |
@@ -37,8 +37,8 @@
 | 30 | [blogdown](https://github.com/rstudio/blogdown) | 960 | 214 | R | 9 | Create Blogs and Websites with R Markdown | 2019-06-14T21:08:25Z |
 | 31 | [CausalImpact](https://github.com/google/CausalImpact) | 955 | 161 | R | 19 | An R package for causal inference in time series | 2019-04-17T12:47:39Z |
 | 32 | [reticulate](https://github.com/rstudio/reticulate) | 904 | 157 | R | 203 | R Interface to Python | 2019-06-17T23:19:20Z |
-| 33 | [plumber](https://github.com/trestletech/plumber) | 895 | 166 | R | 119 | Turn your R code into a web API. | 2019-06-11T18:15:32Z |
-| 34 | [tidytuesday](https://github.com/rfordatascience/tidytuesday) | 877 | 432 | R | 46 | Official repo for the #tidytuesday project | 2019-06-17T20:18:36Z |
+| 33 | [plumber](https://github.com/trestletech/plumber) | 895 | 166 | R | 118 | Turn your R code into a web API. | 2019-06-11T18:15:32Z |
+| 34 | [tidytuesday](https://github.com/rfordatascience/tidytuesday) | 878 | 432 | R | 46 | Official repo for the #tidytuesday project | 2019-06-17T20:18:36Z |
 | 35 | [drake](https://github.com/ropensci/drake) | 865 | 82 | R | 5 | An R-focused pipeline toolkit for reproducibility and high-performance computing | 2019-06-17T21:50:12Z |
 | 36 | [broom](https://github.com/tidymodels/broom) | 863 | 232 | R | 146 | Convert statistical analysis objects from R into tidy format | 2019-06-14T21:29:26Z |
 | 37 | [swirl](https://github.com/swirldev/swirl) | 820 | 540 | R | 175 | :cyclone: Learn R, in R. | 2019-05-15T00:43:31Z |
@@ -53,7 +53,7 @@
 | 46 | [tidytext](https://github.com/juliasilge/tidytext) | 768 | 152 | R | 8 | Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles: | 2019-06-14T17:00:33Z |
 | 47 | [forecast](https://github.com/robjhyndman/forecast) | 732 | 255 | R | 10 | forecast package for R | 2019-06-16T10:29:41Z |
 | 48 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 728 | 271 | R | 1 | Shiny tips & tricks for improving your apps and solving common problems | 2019-05-20T07:34:57Z |
-| 49 | [readr](https://github.com/tidyverse/readr) | 706 | 211 | R | 83 | Read flat files (csv, tsv, fwf) into R | 2019-06-12T05:25:52Z |
+| 49 | [readr](https://github.com/tidyverse/readr) | 706 | 211 | R | 84 | Read flat files (csv, tsv, fwf) into R | 2019-06-12T05:25:52Z |
 | 50 | [tidyverse](https://github.com/tidyverse/tidyverse) | 705 | 144 | R | 5 | Easily install and load packages from the tidyverse | 2019-05-15T19:50:10Z |
 | 51 | [googlesheets](https://github.com/jennybc/googlesheets) | 698 | 176 | R | 88 | Google Spreadsheets R API | 2019-05-28T23:50:21Z |
 | 52 | [magrittr](https://github.com/tidyverse/magrittr) | 698 | 129 | R | 25 | Improve the readability of R code with the pipe | 2019-01-05T16:37:00Z |
@@ -75,16 +75,16 @@
 | 68 | [testthat](https://github.com/r-lib/testthat) | 604 | 245 | R | 32 | An R 📦 to make testing 😀 | 2019-05-08T01:07:46Z |
 | 69 | [perceptions](https://github.com/zonination/perceptions) | 601 | 76 | R | 0 | Perceptions of Probability and Numbers | 2017-08-25T14:34:20Z |
 | 70 | [text2vec](https://github.com/dselivanov/text2vec) | 600 | 101 | R | 27 | Fast vectorization, topic modeling, distances and GloVe word embeddings in R. | 2019-02-25T17:27:57Z |
-| 71 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 597 | 116946 | R | 2769 | Repository for Programming Assignment 2 for R Programming on Coursera | 2019-06-17T08:25:09Z |
+| 71 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 597 | 116947 | R | 2769 | Repository for Programming Assignment 2 for R Programming on Coursera | 2019-06-17T08:25:09Z |
 | 72 | [lintr](https://github.com/jimhester/lintr) | 583 | 106 | R | 134 | Static Code Analysis for R | 2019-05-31T21:50:41Z |
 | 73 | [RStartHere](https://github.com/rstudio/RStartHere) | 561 | 205 | R | 5 | A guide to some of the most useful R Packages that we know about | 2018-04-02T18:39:27Z |
-| 74 | [ggthemr](https://github.com/cttobin/ggthemr) | 555 | 78 | R | 3 | Themes for ggplot2. | 2019-05-17T20:17:09Z |
+| 74 | [ggthemr](https://github.com/cttobin/ggthemr) | 555 | 77 | R | 3 | Themes for ggplot2. | 2019-05-17T20:17:09Z |
 | 75 | [keras](https://github.com/rstudio/keras) | 552 | 191 | R | 10 | R Interface to Keras | 2019-06-14T13:15:00Z |
 | 76 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 547 | 56 | R | 16 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2019-04-09T12:46:39Z |
 | 77 | [ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) | 545 | 154 | R | 17 | A template utility for R projects that provides a skeletal project. | 2019-04-16T00:31:02Z |
 | 78 | [brms](https://github.com/paul-buerkner/brms) | 540 | 70 | R | 47 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan | 2019-06-15T19:17:06Z |
 | 79 | [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 528 | 55 | R | 16 | Collection of functions to enhance ggplot2 plots with results from statistical tests. | 2019-06-14T20:35:06Z |
-| 80 | [sf](https://github.com/r-spatial/sf) | 527 | 136 | R | 35 | Simple Features for R | 2019-06-17T21:20:17Z |
+| 80 | [sf](https://github.com/r-spatial/sf) | 527 | 137 | R | 34 | Simple Features for R | 2019-06-18T09:07:15Z |
 | 81 | [asdfree](https://github.com/ajdamico/asdfree) | 526 | 437 | R | 91 | analyze survey data for free | 2019-01-26T13:39:07Z |
 | 82 | [ggmap](https://github.com/dkahle/ggmap) | 526 | 201 | R | 80 | A package for plotting maps in R with ggplot2 | 2019-05-12T04:49:38Z |
 | 83 | [book_sample](https://github.com/rnorm/book_sample) | 525 | 29 | R | 1 | another book on data science | 2019-05-31T01:10:03Z |
@@ -100,7 +100,7 @@
 | 93 | [ESL-CN](https://github.com/szcf-weiya/ESL-CN) | 474 | 136 | R | 95 | The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。 | 2019-06-14T13:54:44Z |
 | 94 | [geocompr](https://github.com/Robinlovelace/geocompr) | 471 | 212 | R | 13 | Open source book: Geocomputation with R | 2019-06-15T06:51:39Z |
 | 95 | [engsoccerdata](https://github.com/jalapic/engsoccerdata) | 449 | 129 | R | 14 | English and European soccer results 1871-2017 | 2019-04-20T14:10:20Z |
-| 96 | [seurat](https://github.com/satijalab/seurat) | 447 | 292 | R | 48 | R toolkit for single cell genomics | 2019-06-18T02:51:21Z |
+| 96 | [seurat](https://github.com/satijalab/seurat) | 447 | 292 | R | 49 | R toolkit for single cell genomics | 2019-06-18T02:51:21Z |
 | 97 | [mindr](https://github.com/pzhaonet/mindr) | 446 | 38 | R | 0 | an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms) | 2019-05-02T12:02:48Z |
 | 98 | [waffle](https://github.com/hrbrmstr/waffle) | 444 | 63 | R | 29 | :maple_leaf: Make waffle (square pie) charts in R | 2019-05-17T01:34:22Z |
 | 99 | [highcharter](https://github.com/jbkunst/highcharter) | 442 | 92 | R | 148 | R wrapper for highcharts based on htmlwidgets  | 2019-06-10T18:45:33Z |
