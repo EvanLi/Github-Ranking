@@ -6,11 +6,11 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 11847 | 247 | Perl | 11 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2019-05-22T00:20:46Z |
-| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7915 | 912 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
-| 3 | [gitolite](https://github.com/sitaramc/gitolite) | 7440 | 957 | Perl | 3 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2019-06-14T08:26:07Z |
-| 4 | [cloc](https://github.com/AlDanial/cloc) | 7425 | 477 | Perl | 12 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-12T01:33:24Z |
+| 2 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 7916 | 912 | Perl | 91 | Stack trace visualizer | 2019-02-21T18:35:37Z |
+| 3 | [gitolite](https://github.com/sitaramc/gitolite) | 7441 | 957 | Perl | 3 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2019-06-14T08:26:07Z |
+| 4 | [cloc](https://github.com/AlDanial/cloc) | 7427 | 477 | Perl | 13 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2019-06-12T01:33:24Z |
 | 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 5306 | 851 | Perl | 35 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2019-06-11T19:49:58Z |
-| 6 | [Expose](https://github.com/Jack000/Expose) | 4067 | 233 | Perl | 20 | A simple static site generator for photoessays | 2018-02-25T19:23:11Z |
+| 6 | [Expose](https://github.com/Jack000/Expose) | 4066 | 233 | Perl | 20 | A simple static site generator for photoessays | 2018-02-25T19:23:11Z |
 | 7 | [EQGRP](https://github.com/x0rz/EQGRP) | 3556 | 2108 | Perl | 14 | Decrypted content of eqgrp-auction-file.tar.xz | 2017-05-24T21:12:59Z |
 | 8 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 3380 | 410 | Perl | 7 | SICP PDF with Texinfo and LaTeX source | 2019-01-01T21:40:21Z |
 | 9 | [nikto](https://github.com/sullo/nikto) | 3041 | 516 | Perl | 83 | Nikto web server scanner | 2019-06-13T05:47:35Z |
@@ -24,7 +24,7 @@
 | 17 | [sqitch](https://github.com/sqitchers/sqitch) | 1786 | 159 | Perl | 50 | Sane database change management | 2019-06-10T23:29:50Z |
 | 18 | [postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 1767 | 91 | Perl | 7 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice | 2019-05-19T18:18:58Z |
 | 19 | [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 1726 | 539 | Perl | 184 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | 2019-06-17T20:44:27Z |
-| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1646 | 195 | Perl | 4 | A fast PostgreSQL Log Analyzer | 2019-06-17T20:12:53Z |
+| 20 | [pgbadger](https://github.com/darold/pgbadger) | 1647 | 196 | Perl | 4 | A fast PostgreSQL Log Analyzer | 2019-06-17T20:12:53Z |
 | 21 | [ack2](https://github.com/beyondgrep/ack2) | 1521 | 148 | Perl | 120 | ack 2.0 is a greplike tool optimized for programmers searching large heterogeneous trees of source code.  **ack 3 is the latest version.** | 2019-03-19T14:41:58Z |
 | 22 | [rsnapshot](https://github.com/rsnapshot/rsnapshot) | 1474 | 167 | Perl | 75 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss) | 2018-12-06T12:24:34Z |
 | 23 | [duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1465 | 215 | Perl | 31 | DuckDuckGo Instant Answer Infrastructure | 2019-05-06T22:38:58Z |
@@ -45,10 +45,10 @@
 | 38 | [vanilla](https://github.com/idevz/vanilla) | 962 | 227 | Perl | 3 | An OpenResty Lua MVC Web Framework | 2019-01-09T05:09:42Z |
 | 39 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 935 | 120 | Perl | 5 | Golang - Regular Expression Tutorial | 2018-11-20T09:16:55Z |
 | 40 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 911 | 1939 | Perl | 55 | DuckDuckGo Instant Answers based on Perl & JavaScript | 2019-06-17T17:02:59Z |
-| 41 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 907 | 208 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
-| 42 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 906 | 169 | Perl | 2 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-15T20:28:11Z |
-| 43 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 903 | 114 | Perl | 34 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-14T17:24:29Z |
-| 44 | [evilgrade](https://github.com/infobyte/evilgrade) | 893 | 229 | Perl | 5 | None | 2018-01-24T19:17:02Z |
+| 41 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 908 | 208 | Perl | 4 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2018-10-22T14:22:56Z |
+| 42 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | 907 | 169 | Perl | 2 | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. | 2019-06-15T20:28:11Z |
+| 43 | [sanoid](https://github.com/jimsalterjrs/sanoid) | 903 | 114 | Perl | 35 | Policy-driven snapshot management and replication tools.  Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. | 2019-06-18T06:34:52Z |
+| 44 | [evilgrade](https://github.com/infobyte/evilgrade) | 894 | 229 | Perl | 5 | None | 2018-01-24T19:17:02Z |
 | 45 | [nodebrew](https://github.com/hokaccha/nodebrew) | 874 | 52 | Perl | 13 | Node.js version manager | 2019-01-07T14:50:34Z |
 | 46 | [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 847 | 317 | Perl | 45 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part | 2019-05-16T19:52:15Z |
 | 47 | [ack1](https://github.com/beyondgrep/ack1) | 824 | 94 | Perl | 0 | This repository is for ack 1.x, which is **no longer being maintained**.  DO NOT SUBMIT ISSUES HERE.  ack 2.0 has a new GitHub project at | 2013-08-30T16:08:03Z |
@@ -58,7 +58,7 @@
 | 51 | [code2ebook](https://github.com/agentzh/code2ebook) | 797 | 121 | Perl | 2 | Generate pretty ebooks in various formats from source trees in various programming languages | 2018-08-30T03:36:08Z |
 | 52 | [authentic-theme](https://github.com/authentic-theme/authentic-theme) | 789 | 149 | Perl | 5 | Official theme for the best server management panel of the 21st Century | 2019-06-17T20:23:41Z |
 | 53 | [openkore](https://github.com/OpenKore/openkore) | 782 | 807 | Perl | 115 | A free/open source client and automation tool for Ragnarok Online | 2019-06-17T22:58:27Z |
-| 54 | [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) | 757 | 311 | Perl | 1 | Code coverage for Xcode projects (Objective-C only) | 2019-02-02T00:20:41Z |
+| 54 | [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) | 758 | 311 | Perl | 1 | Code coverage for Xcode projects (Objective-C only) | 2019-02-02T00:20:41Z |
 | 55 | [dank-selfhosted](https://github.com/cullum/dank-selfhosted) | 722 | 36 | Perl | 1 | Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD. | 2019-06-10T09:43:54Z |
 | 56 | [Dancer](https://github.com/PerlDancer/Dancer) | 710 | 234 | Perl | 77 | The easiest way to write web applications with Perl (Perl web micro-framework) | 2019-04-22T13:10:10Z |
 | 57 | [st](https://github.com/nferraz/st) | 702 | 47 | Perl | 11 | simple statistics from the command line | 2018-12-03T17:33:07Z |
@@ -91,7 +91,7 @@
 | 84 | [cli](https://github.com/linode/cli) | 485 | 41 | Perl | 0 | This is the DEPRECATED Linode CLI. Use https://github.com/linode/linode-cli | 2018-07-05T13:22:18Z |
 | 85 | [ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) | 482 | 112 | Perl | 13 | ModSecurity v3 Nginx Connector | 2019-01-29T17:03:08Z |
 | 86 | [fwknop](https://github.com/mrash/fwknop) | 480 | 108 | Perl | 69 | Single Packet Authorization > Port Knocking | 2019-03-12T04:57:24Z |
-| 87 | [vghetto-scripts](https://github.com/lamw/vghetto-scripts) | 477 | 335 | Perl | 31 | Various virtuallyGhetto scripts for VMware based solutions | 2019-05-30T19:42:36Z |
+| 87 | [vghetto-scripts](https://github.com/lamw/vghetto-scripts) | 477 | 336 | Perl | 31 | Various virtuallyGhetto scripts for VMware based solutions | 2019-05-30T19:42:36Z |
 | 88 | [SmokePing](https://github.com/oetiker/SmokePing) | 473 | 114 | Perl | 43 | The Active Monitoring System | 2019-06-16T15:16:44Z |
 | 89 | [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 466 | 67 | Perl | 1 | Next-Generation Linux Kernel Exploit Suggester | 2019-06-04T22:38:21Z |
 | 90 | [everything-curl](https://github.com/bagder/everything-curl) | 463 | 108 | Perl | 1 | The book documenting the curl project, the curl tool, libcurl and everything related to this. | 2019-06-12T20:12:40Z |
