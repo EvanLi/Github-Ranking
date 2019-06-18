@@ -40,7 +40,7 @@
 | 33 | [babun](https://github.com/babun/babun) | 8608 | 549 | Shell | 408 | Babun - a Windows shell you will love! | 2019-06-11T15:45:50Z |
 | 34 | [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) | 8606 | 540 | Shell | 7 | :zap: From finding text to search and replace, from sorting to beautifying text and more :art: | 2019-05-30T04:32:05Z |
 | 35 | [caffe2](https://github.com/facebookarchive/caffe2) | 8448 | 2123 | Shell | 580 | Caffe2 is a lightweight, modular, and scalable deep learning framework. | 2018-11-21T01:11:19Z |
-| 36 | [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) | 8424 | 552 | Shell | 1 | These notes describes how to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100. | 2019-06-15T07:21:01Z |
+| 36 | [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) | 8424 | 552 | Shell | 1 | These notes describes how to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100. | 2019-06-18T07:14:44Z |
 | 37 | [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) | 8312 | 505 | Shell | 109 | :rocket::star: A Zsh prompt for Astronauts | 2019-06-16T10:51:11Z |
 | 38 | [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 8064 | 436 | Shell | 77 | 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. | 2019-06-12T15:04:51Z |
 | 39 | [boot2docker](https://github.com/boot2docker/boot2docker) | 7964 | 1131 | Shell | 341 | Lightweight Linux for Docker | 2019-06-17T23:18:33Z |
@@ -88,7 +88,7 @@
 | 81 | [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 5100 | 1471 | Shell | 55 | Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook | 2019-06-01T09:52:03Z |
 | 82 | [docker-alpine](https://github.com/gliderlabs/docker-alpine) | 5094 | 486 | Shell | 98 | Alpine Linux Docker image. Win at minimalism! | 2019-05-08T20:07:59Z |
 | 83 | [antigen](https://github.com/zsh-users/antigen) | 5060 | 194 | Shell | 51 | The plugin manager for zsh. | 2018-03-15T15:32:53Z |
-| 84 | [vscodium](https://github.com/VSCodium/vscodium) | 5044 | 156 | Shell | 12 | binary releases of VS Code without MS branding/telemetry/licensing | 2019-06-18T06:47:59Z |
+| 84 | [vscodium](https://github.com/VSCodium/vscodium) | 5043 | 156 | Shell | 12 | binary releases of VS Code without MS branding/telemetry/licensing | 2019-06-18T06:47:59Z |
 | 85 | [distributions](https://github.com/nodesource/distributions) | 5036 | 890 | Shell | 111 | NodeSource Node.js Binary Distributions | 2019-06-15T10:48:39Z |
 | 86 | [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) | 5000 | 753 | Shell | 83 | An informative and fancy bash prompt for Git users | 2019-04-29T17:48:53Z |
 | 87 | [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) | 4991 | 364 | Shell | 67 | The Fish Shell Framework | 2019-06-14T04:12:17Z |
@@ -102,7 +102,7 @@
 | 95 | [jsproxy](https://github.com/EtherDream/jsproxy) | 4562 | 1040 | Shell | 28 | 一个基于浏览器端 JS 实现的在线代理 | 2019-06-17T09:24:11Z |
 | 96 | [sshrc](https://github.com/Russell91/sshrc) | 4515 | 165 | Shell | 33 | bring your .bashrc, .vimrc, etc. with you when you ssh | 2018-12-05T16:29:53Z |
 | 97 | [fasd](https://github.com/clvv/fasd) | 4503 | 164 | Shell | 101 | Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. | 2019-04-12T19:30:22Z |
-| 98 | [v2ray](https://github.com/233boy/v2ray) | 4433 | 5342 | Shell | 119 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 2019-06-18T06:16:44Z |
+| 98 | [v2ray](https://github.com/233boy/v2ray) | 4434 | 5342 | Shell | 119 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 2019-06-18T06:16:44Z |
 | 99 | [dehydrated](https://github.com/lukas2511/dehydrated) | 4401 | 574 | Shell | 31 | letsencrypt/acme client implemented as a shell-script – just add water | 2019-05-16T14:14:43Z |
 | 100 | [kubectx](https://github.com/ahmetb/kubectx) | 4399 | 272 | Shell | 16 | Switch faster between clusters and namespaces in kubectl | 2019-06-07T20:14:05Z |
 

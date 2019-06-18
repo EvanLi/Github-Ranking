@@ -49,8 +49,8 @@
 | 42 | [tofsims](https://github.com/fossasia/tofsims) | 797 | 5 | R | 0 | None | 2017-11-29T19:16:12Z |
 | 43 | [httr](https://github.com/r-lib/httr) | 787 | 1846 | R | 17 | httr: a friendly http package for R | 2019-05-18T12:16:16Z |
 | 44 | [purrr](https://github.com/tidyverse/purrr) | 773 | 182 | R | 74 | A functional programming toolkit for R | 2019-06-14T13:07:08Z |
-| 45 | [tidytext](https://github.com/juliasilge/tidytext) | 768 | 152 | R | 8 | Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles: | 2019-06-14T17:00:33Z |
-| 46 | [tidyr](https://github.com/tidyverse/tidyr) | 768 | 299 | R | 11 | Easily tidy data with spread and gather functions. | 2019-06-05T15:23:56Z |
+| 45 | [tidyr](https://github.com/tidyverse/tidyr) | 768 | 299 | R | 11 | Easily tidy data with spread and gather functions. | 2019-06-05T15:23:56Z |
+| 46 | [tidytext](https://github.com/juliasilge/tidytext) | 768 | 152 | R | 8 | Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles: | 2019-06-14T17:00:33Z |
 | 47 | [forecast](https://github.com/robjhyndman/forecast) | 732 | 255 | R | 10 | forecast package for R | 2019-06-16T10:29:41Z |
 | 48 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 728 | 271 | R | 1 | Shiny tips & tricks for improving your apps and solving common problems | 2019-05-20T07:34:57Z |
 | 49 | [readr](https://github.com/tidyverse/readr) | 706 | 211 | R | 83 | Read flat files (csv, tsv, fwf) into R | 2019-06-12T05:25:52Z |
@@ -102,7 +102,7 @@
 | 95 | [engsoccerdata](https://github.com/jalapic/engsoccerdata) | 449 | 129 | R | 14 | English and European soccer results 1871-2017 | 2019-04-20T14:10:20Z |
 | 96 | [seurat](https://github.com/satijalab/seurat) | 447 | 292 | R | 48 | R toolkit for single cell genomics | 2019-06-18T02:51:21Z |
 | 97 | [mindr](https://github.com/pzhaonet/mindr) | 446 | 38 | R | 0 | an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms) | 2019-05-02T12:02:48Z |
-| 98 | [waffle](https://github.com/hrbrmstr/waffle) | 443 | 63 | R | 29 | :maple_leaf: Make waffle (square pie) charts in R | 2019-05-17T01:34:22Z |
+| 98 | [waffle](https://github.com/hrbrmstr/waffle) | 444 | 63 | R | 29 | :maple_leaf: Make waffle (square pie) charts in R | 2019-05-17T01:34:22Z |
 | 99 | [highcharter](https://github.com/jbkunst/highcharter) | 442 | 92 | R | 148 | R wrapper for highcharts based on htmlwidgets  | 2019-06-10T18:45:33Z |
 | 100 | [renjin](https://github.com/bedatadriven/renjin) | 442 | 74 | R | 69 | JVM-based interpreter for the R language for the statistical analysis. | 2019-06-17T22:41:12Z |
 

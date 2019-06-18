@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [go](https://github.com/golang/go) | 59515 | 8238 | Go | 4635 | The Go programming language | 2019-06-18T03:43:03Z |
-| 2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 54108 | 18749 | Go | 3183 | Production-Grade Container Scheduling and Management | 2019-06-18T07:08:31Z |
+| 2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 54109 | 18749 | Go | 3183 | Production-Grade Container Scheduling and Management | 2019-06-18T07:08:31Z |
 | 3 | [moby](https://github.com/moby/moby) | 53755 | 15512 | Go | 3715 | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | 2019-06-18T03:09:05Z |
 | 4 | [awesome-go](https://github.com/avelino/awesome-go) | 44983 | 5885 | Go | 25 | A curated list of awesome Go frameworks, libraries and software | 2019-06-18T04:10:07Z |
 | 5 | [lantern](https://github.com/getlantern/lantern) | 42840 | 9316 | Go | 2546 | 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴 | 2019-06-13T16:32:29Z |
@@ -24,7 +24,7 @@
 | 17 | [fzf](https://github.com/junegunn/fzf) | 22129 | 856 | Go | 135 | :cherry_blossom: A command-line fuzzy finder | 2019-06-12T10:14:13Z |
 | 18 | [beego](https://github.com/astaxie/beego) | 20836 | 4238 | Go | 647 | beego is an open-source, high-performance web framework for the Go programming language. | 2019-06-18T04:09:42Z |
 | 19 | [mkcert](https://github.com/FiloSottile/mkcert) | 19176 | 692 | Go | 16 | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | 2019-06-17T17:20:20Z |
-| 20 | [tidb](https://github.com/pingcap/tidb) | 19159 | 2780 | Go | 899 | TiDB is a distributed HTAP database compatible with the MySQL protocol  | 2019-06-18T07:09:14Z |
+| 20 | [tidb](https://github.com/pingcap/tidb) | 19159 | 2780 | Go | 900 | TiDB is a distributed HTAP database compatible with the MySQL protocol  | 2019-06-18T07:13:40Z |
 | 21 | [drone](https://github.com/drone/drone) | 18564 | 1828 | Go | 82 | Drone is a Container-Native, Continuous Delivery Platform | 2019-06-17T06:51:38Z |
 | 22 | [istio](https://github.com/istio/istio) | 18134 | 2998 | Go | 1022 | Connect, secure, control, and observe services. | 2019-06-18T06:49:31Z |
 | 23 | [v2ray-core](https://github.com/v2ray/v2ray-core) | 18029 | 4126 | Go | 109 | A platform for building proxies to bypass network restrictions. | 2019-06-14T13:49:57Z |
@@ -54,7 +54,7 @@
 | 47 | [cayley](https://github.com/cayleygraph/cayley) | 12563 | 1124 | Go | 81 | An open-source graph database | 2019-04-29T22:24:04Z |
 | 48 | [gotty](https://github.com/yudai/gotty) | 12480 | 831 | Go | 84 | Share your terminal as a web application | 2019-06-04T23:08:41Z |
 | 49 | [cobra](https://github.com/spf13/cobra) | 12381 | 1067 | Go | 219 | A Commander for modern Go CLI interactions | 2019-06-17T21:14:56Z |
-| 50 | [dep](https://github.com/golang/dep) | 12300 | 1006 | Go | 278 | Go dependency management tool | 2019-06-14T17:07:49Z |
+| 50 | [dep](https://github.com/golang/dep) | 12301 | 1006 | Go | 278 | Go dependency management tool | 2019-06-14T17:07:49Z |
 | 51 | [lazygit](https://github.com/jesseduffield/lazygit) | 12283 | 400 | Go | 72 | simple terminal UI for git commands | 2019-06-08T10:29:36Z |
 | 52 | [helm](https://github.com/helm/helm) | 12230 | 3937 | Go | 848 | The Kubernetes Package Manager | 2019-06-17T21:49:45Z |
 | 53 | [rancher](https://github.com/rancher/rancher) | 11769 | 1308 | Go | 1680 | Complete container management platform | 2019-06-18T01:41:29Z |
@@ -68,7 +68,7 @@
 | 61 | [martini](https://github.com/go-martini/martini) | 10578 | 1091 | Go | 5 | Classy web framework for Go | 2019-02-13T00:05:11Z |
 | 62 | [kcptun](https://github.com/xtaci/kcptun) | 10438 | 2043 | Go | 10 | A Stable & Secure Tunnel Based On KCP with N:M Multiplexing | 2019-06-11T13:12:40Z |
 | 63 | [primitive](https://github.com/fogleman/primitive) | 10242 | 484 | Go | 37 | Reproducing images with geometric primitives. | 2019-02-14T20:09:32Z |
-| 64 | [go-patterns](https://github.com/tmrts/go-patterns) | 9960 | 848 | Go | 43 | Curated list of Go design patterns, recipes and idioms | 2019-05-06T14:43:52Z |
+| 64 | [go-patterns](https://github.com/tmrts/go-patterns) | 9961 | 848 | Go | 43 | Curated list of Go design patterns, recipes and idioms | 2019-05-06T14:43:52Z |
 | 65 | [bolt](https://github.com/boltdb/bolt) | 9822 | 1048 | Go | 84 | An embedded key/value database for Go. | 2018-03-02T18:00:53Z |
 | 66 | [dgraph](https://github.com/dgraph-io/dgraph) | 9789 | 686 | Go | 142 | Fast, Distributed Graph DB | 2019-06-18T03:54:22Z |
 | 67 | [grumpy](https://github.com/google/grumpy) | 9738 | 601 | Go | 79 | Grumpy is a Python to Go source code transcompiler and runtime. | 2018-05-22T22:34:54Z |

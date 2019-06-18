@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 31745 | 2303 | Vim script | 882 | Vim-fork focused on extensibility and usability | 2019-06-18T04:31:58Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 31746 | 2303 | Vim script | 882 | Vim-fork focused on extensibility and usability | 2019-06-18T04:31:58Z |
 | 2 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 19865 | 2268 | Vim script | 188 | Vundle, the plug-in manager for Vim | 2019-04-28T11:36:41Z |
 | 3 | [vimrc](https://github.com/amix/vimrc) | 18267 | 5182 | Vim script | 112 | The ultimate Vim configuration: vimrc | 2019-06-16T14:51:56Z |
 | 4 | [vim](https://github.com/vim/vim) | 17024 | 2189 | Vim script | 843 | The official Vim repository | 2019-06-17T20:40:51Z |
@@ -33,7 +33,7 @@
 | 26 | [macvim](https://github.com/macvim-dev/macvim) | 5185 | 552 | Vim script | 116 | Vim - the text editor - for Mac OS X | 2019-06-17T19:00:43Z |
 | 27 | [emmet-vim](https://github.com/mattn/emmet-vim) | 4705 | 356 | Vim script | 71 | emmet for vim: http://emmet.io/ | 2019-06-17T18:56:46Z |
 | 28 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 4535 | 731 | Vim script | 6 | Vim 从入门到精通 | 2019-05-05T08:44:05Z |
-| 29 | [k-vim](https://github.com/wklken/k-vim) | 4436 | 1810 | Vim script | 17 | vim配置 | 2019-05-04T09:54:49Z |
+| 29 | [k-vim](https://github.com/wklken/k-vim) | 4436 | 1811 | Vim script | 17 | vim配置 | 2019-05-04T09:54:49Z |
 | 30 | [vim-easymotion](https://github.com/easymotion/vim-easymotion) | 4388 | 247 | Vim script | 50 | Vim motions on speed! | 2019-03-23T12:29:21Z |
 | 31 | [tagbar](https://github.com/majutsushi/tagbar) | 4080 | 371 | Vim script | 126 | Vim plugin that displays tags in a window, ordered by scope | 2019-04-27T06:07:10Z |
 | 32 | [jedi-vim](https://github.com/davidhalter/jedi-vim) | 4000 | 332 | Vim script | 84 | Using the jedi autocompletion library for VIM. | 2019-06-16T07:45:11Z |
