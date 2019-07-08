@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7064 | 113 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-05-24T06:08:28Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7063 | 113 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-05-24T06:08:28Z |
 | 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2222 | 874 | ActionScript | 77 | The Cross Platform Game Engine | 2019-06-24T21:36:26Z |
 | 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2005 | 754 | ActionScript | 133 | HTML5 Webcam Image Capture Library with Flash Fallback | 2018-10-16T03:35:39Z |
 | 4 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1495 | 464 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -44,7 +44,7 @@
 | 37 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 289 | 86 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 38 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 286 | 24 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 39 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 285 | 90 | ActionScript | 33 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
-| 40 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 282 | 35 | ActionScript | 31 | A simple music making program | 2019-07-03T08:33:11Z |
+| 40 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 283 | 35 | ActionScript | 31 | A simple music making program | 2019-07-03T08:33:11Z |
 | 41 | [as3-utils](https://github.com/as3/as3-utils) | 278 | 65 | ActionScript | 2 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 42 | [flash](https://github.com/flowplayer/flash) | 277 | 182 | ActionScript | 104 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 43 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 274 | 60 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
@@ -54,7 +54,7 @@
 | 47 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 246 | 113 | ActionScript | 17 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 48 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 244 | 111 | ActionScript | 34 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
 | 49 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 244 | 79 | ActionScript | 12 | HTTP Client for AS3 | 2015-04-15T06:45:12Z |
-| 50 | [royale-asjs](https://github.com/apache/royale-asjs) | 242 | 72 | ActionScript | 86 | Apache Royale ASJS | 2019-07-05T13:34:43Z |
+| 50 | [royale-asjs](https://github.com/apache/royale-asjs) | 242 | 72 | ActionScript | 85 | Apache Royale ASJS | 2019-07-07T08:16:37Z |
 | 51 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 242 | 89 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 52 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 242 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 53 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 237 | 50 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
@@ -65,10 +65,10 @@
 | 58 | [GrindPlayer](https://github.com/kutu/GrindPlayer) | 209 | 66 | ActionScript | 7 | OSMF + Flex based flash video player, which provides most needed functionality in nowadays | 2014-10-02T17:32:44Z |
 | 59 | [Starling-Filters](https://github.com/devon-o/Starling-Filters) | 208 | 50 | ActionScript | 0 | A collection of filters for use with the Starling AS3 framework. | 2017-12-12T17:18:45Z |
 | 60 | [flexlib](https://github.com/flex-users/flexlib) | 207 | 93 | ActionScript | 285 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
-| 61 | [Spike](https://github.com/SpikeApp/Spike) | 199 | 123 | ActionScript | 34 | Get The Most Out Of Your CGM Transmitter | 2019-05-31T09:34:57Z |
+| 61 | [Spike](https://github.com/SpikeApp/Spike) | 200 | 123 | ActionScript | 34 | Get The Most Out Of Your CGM Transmitter | 2019-05-31T09:34:57Z |
 | 62 | [FileReader](https://github.com/Jahdrien/FileReader) | 196 | 59 | ActionScript | 32 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 63 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 195 | 28 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
-| 64 | [Flashbang](https://github.com/cure53/Flashbang) | 188 | 49 | ActionScript | 13 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
+| 64 | [Flashbang](https://github.com/cure53/Flashbang) | 189 | 49 | ActionScript | 13 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 65 | [glitch-avatars](https://github.com/tinyspeck/glitch-avatars) | 186 | 90 | ActionScript | 1 | Art and source for Glitch's customizable avatars | 2013-12-03T01:51:08Z |
 | 66 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 185 | 102 | ActionScript | 32 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 67 | [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) | 183 | 26 | ActionScript | 22 | Port of hamcrest to ActionScript 3,  a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively, to be used in other frameworks. Typical scenarios include testing frameworks, mocking libraries and UI validation rules. | 2012-03-21T11:48:40Z |
