@@ -5,30 +5,30 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9360 | 1368 | Matlab | 30 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2017-08-12T08:07:42Z |
-| 2 | [PRMLT](https://github.com/PRML/PRMLT) | 4316 | 1820 | MATLAB | 0 | Matlab code for machine learning algorithms in book PRML | 2019-07-25T08:12:43Z |
-| 3 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 4004 | 1353 | MATLAB | 156 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2019-09-01T23:34:23Z |
-| 4 | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3386 | 2187 | Matlab | 83 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. | 2018-10-13T18:08:01Z |
-| 5 | [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn) | 2184 | 1142 | Matlab | 139 | Faster R-CNN | 2018-07-26T04:26:32Z |
-| 6 | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2174 | 887 | Matlab | 44 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks | 2018-04-04T03:17:19Z |
+| 1 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9361 | 1369 | Matlab | 30 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2017-08-12T08:07:42Z |
+| 2 | [PRMLT](https://github.com/PRML/PRMLT) | 4320 | 1821 | MATLAB | 0 | Matlab code for machine learning algorithms in book PRML | 2019-07-25T08:12:43Z |
+| 3 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 4005 | 1355 | MATLAB | 156 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2019-09-01T23:34:23Z |
+| 4 | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3388 | 2188 | Matlab | 83 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. | 2018-10-13T18:08:01Z |
+| 5 | [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn) | 2184 | 1144 | Matlab | 139 | Faster R-CNN | 2018-07-26T04:26:32Z |
+| 6 | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2175 | 887 | Matlab | 44 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks | 2018-04-04T03:17:19Z |
 | 7 | [OpenTLD](https://github.com/zk00006/OpenTLD) | 2060 | 1294 | Matlab | 38 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html | 2016-02-01T11:28:11Z |
-| 8 | [rcnn](https://github.com/rbgirshick/rcnn) | 1911 | 891 | Matlab | 55 | R-CNN: Regions with Convolutional Neural Network Features | 2017-04-03T16:16:14Z |
-| 9 | [eviltransform](https://github.com/googollee/eviltransform) | 1788 | 396 | Matlab | 13 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). | 2018-11-23T17:35:39Z |
+| 8 | [rcnn](https://github.com/rbgirshick/rcnn) | 1912 | 890 | Matlab | 55 | R-CNN: Regions with Convolutional Neural Network Features | 2017-04-03T16:16:14Z |
+| 9 | [eviltransform](https://github.com/googollee/eviltransform) | 1789 | 396 | Matlab | 13 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). | 2018-11-23T17:35:39Z |
 | 10 | [Coding-Guide](https://github.com/ecmadao/Coding-Guide) | 1332 | 177 | MATLAB | 0 | 自己随手记录的东西 | 2019-05-15T06:25:51Z |
-| 11 | [crfasrnn](https://github.com/torrvision/crfasrnn) | 1280 | 475 | MATLAB | 47 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/ | 2019-06-05T10:13:53Z |
-| 12 | [R-FCN](https://github.com/daijifeng001/R-FCN) | 1150 | 526 | Matlab | 30 | R-FCN: Object Detection via Region-based Fully Convolutional Networks | 2017-05-05T15:50:59Z |
+| 11 | [crfasrnn](https://github.com/torrvision/crfasrnn) | 1280 | 476 | MATLAB | 47 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/ | 2019-06-05T10:13:53Z |
+| 12 | [R-FCN](https://github.com/daijifeng001/R-FCN) | 1150 | 528 | Matlab | 30 | R-FCN: Object Detection via Region-based Fully Convolutional Networks | 2017-05-05T15:50:59Z |
 | 13 | [CAM](https://github.com/metalbubble/CAM) | 1057 | 322 | Matlab | 8 | Class Activation Mapping | 2018-05-02T19:30:19Z |
-| 14 | [tiny](https://github.com/peiyunh/tiny) | 1008 | 304 | MATLAB | 10 | Tiny Face Detector, CVPR 2017 | 2019-07-30T19:46:58Z |
-| 15 | [machine-learning-coursera-1](https://github.com/Borye/machine-learning-coursera-1) | 967 | 872 | None | 6 | This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. | 2019-07-28T13:49:39Z |
+| 14 | [tiny](https://github.com/peiyunh/tiny) | 1009 | 305 | MATLAB | 10 | Tiny Face Detector, CVPR 2017 | 2019-07-30T19:46:58Z |
+| 15 | [machine-learning-coursera-1](https://github.com/Borye/machine-learning-coursera-1) | 969 | 872 | None | 6 | This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. | 2019-07-28T13:49:39Z |
 | 16 | [BPL](https://github.com/brendenlake/BPL) | 909 | 311 | Matlab | 0 | Bayesian Program Learning model for one-shot learning | 2015-12-28T20:48:56Z |
-| 17 | [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 828 | 203 | MATLAB | 213 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. | 2019-10-31T17:26:06Z |
+| 17 | [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 828 | 205 | MATLAB | 213 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. | 2019-10-31T17:26:06Z |
 | 18 | [omniglot](https://github.com/brendenlake/omniglot) | 723 | 223 | MATLAB | 1 | Omniglot data set for one-shot learning | 2019-02-13T15:11:01Z |
 | 19 | [toolbox](https://github.com/pdollar/toolbox) | 714 | 469 | Matlab | 38 | Piotr's Image & Video Matlab Toolbox | 2019-05-06T18:46:16Z |
-| 20 | [export_fig](https://github.com/altmany/export_fig) | 711 | 244 | MATLAB | 45 | A MATLAB toolbox for exporting publication quality figures | 2019-11-08T19:12:37Z |
+| 20 | [export_fig](https://github.com/altmany/export_fig) | 711 | 246 | MATLAB | 45 | A MATLAB toolbox for exporting publication quality figures | 2019-11-08T19:12:37Z |
 | 21 | [face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment) | 697 | 331 | Matlab | 2 | Original Caffe Version for LightCNN-9. Highly recommend to use Pytorch Version (https://github.com/AlfredXiangWu/LightCNN)  | 2017-02-10T09:19:33Z |
-| 22 | [Octave](https://github.com/schneems/Octave) | 683 | 417 | Matlab | 10 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course | 2019-10-05T10:15:03Z |
-| 23 | [DnCNN](https://github.com/cszn/DnCNN) | 620 | 335 | MATLAB | 15 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) | 2019-03-30T02:50:05Z |
-| 24 | [edges](https://github.com/pdollar/edges) | 613 | 327 | Matlab | 17 | Structured Edge Detection Toolbox | 2016-07-06T17:58:06Z |
+| 22 | [Octave](https://github.com/schneems/Octave) | 683 | 419 | Matlab | 10 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course | 2019-10-05T10:15:03Z |
+| 23 | [DnCNN](https://github.com/cszn/DnCNN) | 622 | 337 | MATLAB | 14 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) | 2019-03-30T02:50:05Z |
+| 24 | [edges](https://github.com/pdollar/edges) | 614 | 328 | Matlab | 17 | Structured Edge Detection Toolbox | 2016-07-06T17:58:06Z |
 | 25 | [convnet-burden](https://github.com/albanie/convnet-burden) | 583 | 83 | MATLAB | 4 | Memory consumption and FLOP count estimates for convnets | 2019-01-17T11:15:00Z |
 | 26 | [CNN-for-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Image-Retrieval) | 545 | 221 | MATLAB | 1 | :sunrise:The code of post "Image retrieval using MatconvNet and pre-trained imageNet" | 2019-07-14T09:12:22Z |
 | 27 | [activityrecognition](https://github.com/jindongwang/activityrecognition) | 536 | 264 | MATLAB | 0 | Resources about activity recognition-行为识别资料 | 2019-08-20T05:46:37Z |
@@ -39,8 +39,8 @@
 | 32 | [Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU) | 523 | 310 | Matlab | 13 | None | 2017-08-03T13:31:31Z |
 | 33 | [lrslibrary](https://github.com/andrewssobral/lrslibrary) | 516 | 283 | Matlab | 2 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos | 2018-04-08T18:49:08Z |
 | 34 | [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) | 486 | 126 | MATLAB | 0 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained | 2018-12-22T08:52:56Z |
-| 35 | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course) | 482 | 345 | Matlab | 1 | machine learning course programming exercise | 2011-12-25T10:04:23Z |
-| 36 | [SemanticSoftSegmentation](https://github.com/yaksoy/SemanticSoftSegmentation) | 465 | 127 | Matlab | 5 | Spectral segmentation described in Aksoy et al., "Semantic Soft Segmentation", ACM TOG (Proc. SIGGRAPH), 2018 | 2018-07-30T12:54:45Z |
+| 35 | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course) | 482 | 346 | Matlab | 1 | machine learning course programming exercise | 2011-12-25T10:04:23Z |
+| 36 | [SemanticSoftSegmentation](https://github.com/yaksoy/SemanticSoftSegmentation) | 465 | 128 | Matlab | 5 | Spectral segmentation described in Aksoy et al., "Semantic Soft Segmentation", ACM TOG (Proc. SIGGRAPH), 2018 | 2018-07-30T12:54:45Z |
 | 37 | [Detect-Track](https://github.com/feichtenhofer/Detect-Track) | 465 | 101 | Matlab | 19 | Code release for "Detect to Track and Track to Detect", ICCV 2017 | 2018-07-03T16:38:41Z |
 | 38 | [ECO](https://github.com/martin-danelljan/ECO) | 459 | 216 | MATLAB | 8 | Matlab implementation of the ECO tracker. | 2019-10-24T11:11:11Z |
 | 39 | [refinenet](https://github.com/guosheng/refinenet) | 459 | 142 | MATLAB | 0 |  RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | 2019-06-01T05:40:49Z |
@@ -54,40 +54,40 @@
 | 47 | [AMSoftmax](https://github.com/happynear/AMSoftmax) | 402 | 113 | Matlab | 6 | A simple yet effective loss function for face verification. | 2018-08-03T02:13:10Z |
 | 48 | [exemplarsvm](https://github.com/quantombone/exemplarsvm) | 399 | 162 | Matlab | 23 | Ensemble of Exemplar-SVMs for Object Detection and Beyond | 2015-10-24T17:52:03Z |
 | 49 | [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset) | 386 | 83 | MATLAB | 0 | Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind. | 2019-10-30T16:34:27Z |
-| 50 | [SelfExSR](https://github.com/jbhuang0604/SelfExSR) | 383 | 195 | Matlab | 5 | Single Image Super-Resolution from Transformed Self-Exemplars (CVPR 2015) | 2016-05-31T16:29:23Z |
+| 50 | [SelfExSR](https://github.com/jbhuang0604/SelfExSR) | 384 | 195 | Matlab | 5 | Single Image Super-Resolution from Transformed Self-Exemplars (CVPR 2015) | 2016-05-31T16:29:23Z |
 | 51 | [fashion-detection](https://github.com/liuziwei7/fashion-detection) | 378 | 95 | MATLAB | 5 | Fashion Detection in the Wild (Deep Clothes Detector) | 2019-02-27T05:45:06Z |
-| 52 | [gramm](https://github.com/piermorel/gramm) | 371 | 111 | Matlab | 18 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library. | 2018-11-18T13:05:01Z |
+| 52 | [gramm](https://github.com/piermorel/gramm) | 372 | 111 | Matlab | 18 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library. | 2018-11-18T13:05:01Z |
 | 53 | [IRCNN](https://github.com/cszn/IRCNN) | 364 | 129 | Matlab | 7 | Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) | 2018-08-13T08:02:08Z |
 | 54 | [MDP_Tracking](https://github.com/yuxng/MDP_Tracking) | 364 | 167 | Matlab | 17 | Learning to Track: Online Multi-Object Tracking by Decision Making | 2017-03-13T03:55:31Z |
 | 55 | [LapSRN](https://github.com/phoenix104104/LapSRN) | 347 | 106 | Matlab | 5 | Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution (CVPR 2017) | 2017-12-09T18:38:42Z |
 | 56 | [ml-class-assignments](https://github.com/everpeace/ml-class-assignments) | 346 | 334 | Matlab | 7 | Programming Exercises on http://ml-class.org | 2017-08-20T09:52:30Z |
-| 57 | [fieldtrip](https://github.com/fieldtrip/fieldtrip) | 343 | 368 | MATLAB | 63 | The MATLAB toolbox for MEG, EEG and iEEG analysis | 2019-11-08T10:12:14Z |
+| 57 | [fieldtrip](https://github.com/fieldtrip/fieldtrip) | 344 | 368 | MATLAB | 63 | The MATLAB toolbox for MEG, EEG and iEEG analysis | 2019-11-11T08:32:22Z |
 | 58 | [SPP_net](https://github.com/ShaoqingRen/SPP_net) | 341 | 225 | Matlab | 19 | SPP_net : Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition | 2016-07-11T08:56:26Z |
-| 59 | [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie) | 332 | 96 | MATLAB | 0 | Betting Strategy to Beat the Bookies at Football Games | 2019-10-01T02:39:17Z |
+| 59 | [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie) | 334 | 96 | MATLAB | 0 | Betting Strategy to Beat the Bookies at Football Games | 2019-10-01T02:39:17Z |
 | 60 | [NormFace](https://github.com/happynear/NormFace) | 331 | 103 | Matlab | 5 | NormFace: L2 HyperSphere Embedding for Face Verification, 99.21% on LFW | 2017-12-13T02:15:01Z |
-| 61 | [Coursera-Machine-Learning-Stanford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) | 323 | 298 | Matlab | 1 | Machine learning-Stanford University | 2018-10-17T12:00:57Z |
+| 61 | [Coursera-Machine-Learning-Stanford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) | 324 | 298 | Matlab | 1 | Machine learning-Stanford University | 2018-10-17T12:00:57Z |
 | 62 | [ml-class](https://github.com/merwan/ml-class) | 322 | 272 | Matlab | 6 | Machine learning programming exercises | 2017-05-14T13:08:24Z |
 | 63 | [robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 322 | 199 | MATLAB | 42 | Robotics Toolbox for MATLAB | 2019-10-30T07:38:21Z |
 | 64 | [face-alignment](https://github.com/jwyang/face-alignment) | 318 | 194 | Matlab | 31 | Face alignment in 3000 FPS | 2017-02-06T20:33:50Z |
 | 65 | [DeconvNet](https://github.com/HyeonwooNoh/DeconvNet) | 310 | 147 | Matlab | 10 | DeconvNet : Learning Deconvolution Network for Semantic Segmentation | 2015-06-23T08:26:49Z |
 | 66 | [rcnn-depth](https://github.com/s-gupta/rcnn-depth) | 300 | 141 | Matlab | 28 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | 2016-10-07T05:34:04Z |
-| 67 | [clothing-co-parsing](https://github.com/bearpaw/clothing-co-parsing) | 297 | 83 | MATLAB | 2 | CCP dataset from "Clothing Co-Parsing by Joint Image Segmentation and Labeling " (CVPR 2014) | 2019-05-21T22:12:02Z |
+| 67 | [clothing-co-parsing](https://github.com/bearpaw/clothing-co-parsing) | 298 | 83 | MATLAB | 2 | CCP dataset from "Clothing Co-Parsing by Joint Image Segmentation and Labeling " (CVPR 2014) | 2019-05-21T22:12:02Z |
 | 68 | [cs229](https://github.com/econti/cs229) | 297 | 123 | Matlab | 0 | Stanford CS229 (Autumn 2017) | 2018-01-16T03:52:51Z |
 | 69 | [fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks) | 297 | 100 | Matlab | 6 | Fashion Landmark Detection in the Wild | 2017-06-28T08:16:12Z |
-| 70 | [vot-toolkit](https://github.com/votchallenge/vot-toolkit) | 294 | 155 | MATLAB | 23 | Visual Object Tracking (VOT) challenge evaluation toolkit | 2019-06-04T09:53:10Z |
+| 70 | [vot-toolkit](https://github.com/votchallenge/vot-toolkit) | 295 | 155 | MATLAB | 23 | Visual Object Tracking (VOT) challenge evaluation toolkit | 2019-06-04T09:53:10Z |
 | 71 | [bnt](https://github.com/bayesnet/bnt) | 290 | 181 | MATLAB | 61 | Bayes Net Toolbox for Matlab | 2019-09-20T04:14:10Z |
-| 72 | [chebfun](https://github.com/chebfun/chebfun) | 289 | 81 | MATLAB | 222 | Chebfun:  numerical computing with functions. | 2019-11-09T19:50:19Z |
+| 72 | [chebfun](https://github.com/chebfun/chebfun) | 289 | 81 | MATLAB | 223 | Chebfun:  numerical computing with functions. | 2019-11-10T17:20:52Z |
 | 73 | [FaceDatasets](https://github.com/happynear/FaceDatasets) | 288 | 114 | Matlab | 10 | Some scripts to process face datasets. | 2018-09-16T12:07:31Z |
 | 74 | [gptoolbox](https://github.com/alecjacobson/gptoolbox) | 286 | 106 | MATLAB | 38 | Matlab toolbox for Geometry Processing. | 2019-11-08T14:48:24Z |
-| 75 | [deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) | 282 | 119 | Matlab | 0 | Deep Recurrent Neural Networks for Source Separation | 2018-01-21T03:58:30Z |
+| 75 | [deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) | 283 | 120 | Matlab | 0 | Deep Recurrent Neural Networks for Source Separation | 2018-01-21T03:58:30Z |
 | 76 | [machineLearning](https://github.com/quinnliu/machineLearning) | 282 | 603 | Matlab | 10 | supervised & unsupervised algorithms from Andrew Ng's machine learning class | 2018-04-20T21:19:40Z |
 | 77 | [Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16) | 279 | 117 | MATLAB | 3 | Main repository for Deep Metric Learning via Lifted Structured Feature Embedding | 2019-09-15T04:54:45Z |
 | 78 | [Mathematics](https://github.com/Ewenwan/Mathematics) | 277 | 115 | MATLAB | 0 | 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 | 2019-04-03T04:26:15Z |
 | 79 | [LayoutNet](https://github.com/zouchuhang/LayoutNet) | 277 | 73 | MATLAB | 25 | Torch implementation for CVPR 18 paper: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image" | 2019-10-10T00:54:29Z |
 | 80 | [netvlad](https://github.com/Relja/netvlad) | 268 | 85 | Matlab | 0 | NetVLAD: CNN architecture for weakly supervised place recognition | 2017-07-22T17:41:15Z |
-| 81 | [vgg_face2](https://github.com/ox-vgg/vgg_face2) | 266 | 58 | MATLAB | 1 | None | 2019-10-29T10:06:35Z |
+| 81 | [vgg_face2](https://github.com/ox-vgg/vgg_face2) | 267 | 58 | MATLAB | 1 | None | 2019-10-29T10:06:35Z |
 | 82 | [caffe-vdsr](https://github.com/huangzehao/caffe-vdsr) | 257 | 126 | Matlab | 6 | A Caffe-based implementation of very deep convolution network for image super-resolution | 2019-03-28T13:54:46Z |
-| 83 | [hctsa](https://github.com/benfulcher/hctsa) | 254 | 136 | MATLAB | 5 | Highly comparative time-series analysis code repository | 2019-09-09T04:59:28Z |
+| 83 | [hctsa](https://github.com/benfulcher/hctsa) | 255 | 136 | MATLAB | 5 | Highly comparative time-series analysis code repository | 2019-09-09T04:59:28Z |
 | 84 | [BTCpredictor](https://github.com/panditanvita/BTCpredictor) | 253 | 97 | Matlab | 3 | Bitcoin price prediction algorithm using bayesian regression techniques | 2018-01-07T04:40:22Z |
 | 85 | [SIMS](https://github.com/xjqicuhk/SIMS) | 246 | 35 | Matlab | 4 | Semi-parametric Image Synthesis | 2018-07-21T15:28:38Z |
 | 86 | [feature-extraction](https://github.com/adikhosla/feature-extraction) | 243 | 118 | Matlab | 7 | Computer vision feature extraction toolbox for image classification | 2019-02-12T12:47:33Z |
@@ -96,13 +96,13 @@
 | 89 | [mvcnn](https://github.com/suhangpro/mvcnn) | 240 | 108 | MATLAB | 11 | Multi-view CNN (MVCNN) for shape recognition | 2019-01-03T20:27:20Z |
 | 90 | [RSA-for-object-detection](https://github.com/sciencefans/RSA-for-object-detection) | 238 | 80 | Matlab | 3 | Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017 | 2017-11-23T08:51:43Z |
 | 91 | [SRMD](https://github.com/cszn/SRMD) | 236 | 62 | Matlab | 16 | Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018)  | 2018-11-27T11:10:42Z |
-| 92 | [machine-learning-programming-assignments-coursera-andrew-ng](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng) | 233 | 236 | Matlab | 6 | Solutions to Andrew NG's machine learning course on Coursera | 2019-05-22T04:37:43Z |
+| 92 | [machine-learning-programming-assignments-coursera-andrew-ng](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng) | 233 | 237 | Matlab | 6 | Solutions to Andrew NG's machine learning course on Coursera | 2019-05-22T04:37:43Z |
 | 93 | [Mask-RCNN](https://github.com/jasjeetIM/Mask-RCNN) | 228 | 150 | MATLAB | 10 | Implementation of Mask-RCNN in Caffe https://arxiv.org/pdf/1703.06870.pdf | 2019-06-21T16:29:15Z |
 | 94 | [machine-learning-coursera](https://github.com/yhyap/machine-learning-coursera) | 228 | 201 | Matlab | 8 | Programming assignments from Coursera's Machine Learning course taught by Andrew Ng. | 2018-05-26T19:40:50Z |
 | 95 | [mcg](https://github.com/jponttuset/mcg) | 228 | 129 | Matlab | 4 | Multiscale Combinatorial Grouping - Object Proposals and Segmentation | 2018-07-20T01:55:29Z |
-| 96 | [JULE.torch](https://github.com/jwyang/JULE.torch) | 221 | 78 | MATLAB | 15 | Torch code for our CVPR 2016 paper "Joint Unsupervised LEarning of Deep Representations and Image Clusters" | 2019-08-27T02:27:16Z |
-| 97 | [LightNet](https://github.com/yechengxi/LightNet) | 221 | 111 | MATLAB | 0 | Efficient, transparent deep learning in hundreds of lines of code.  | 2019-04-25T14:54:07Z |
-| 98 | [coursera-machine-learning](https://github.com/vugsus/coursera-machine-learning) | 221 | 382 | Matlab | 2 | Coursera's Machine Learning by Andrew Ng | 2017-08-01T19:40:59Z |
+| 96 | [coursera-machine-learning](https://github.com/vugsus/coursera-machine-learning) | 222 | 382 | Matlab | 2 | Coursera's Machine Learning by Andrew Ng | 2017-08-01T19:40:59Z |
+| 97 | [JULE.torch](https://github.com/jwyang/JULE.torch) | 221 | 78 | MATLAB | 15 | Torch code for our CVPR 2016 paper "Joint Unsupervised LEarning of Deep Representations and Image Clusters" | 2019-08-27T02:27:16Z |
+| 98 | [LightNet](https://github.com/yechengxi/LightNet) | 221 | 111 | MATLAB | 0 | Efficient, transparent deep learning in hundreds of lines of code.  | 2019-04-25T14:54:07Z |
 | 99 | [flandmark](https://github.com/uricamic/flandmark) | 219 | 152 | Matlab | 20 | Open-source implementation of facial landmark detector | 2018-07-26T23:40:18Z |
 | 100 | [realtime-action-detection](https://github.com/gurkirt/realtime-action-detection) | 218 | 84 | MATLAB | 2 | This repository  host the code for real-time action detection paper  | 2019-09-01T09:22:24Z |
 
