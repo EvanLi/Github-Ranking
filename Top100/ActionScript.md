@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7093 | 116 | ActionScript | 23 | Petition to open source Flash and Shockwave spec | 2019-10-16T10:53:56Z |
 | 2 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2243 | 864 | ActionScript | 78 | The Cross Platform Game Engine | 2019-09-23T13:50:48Z |
-| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2065 | 817 | ActionScript | 136 | HTML5 Webcam Image Capture Library with Flash Fallback | 2019-10-20T00:33:30Z |
+| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2066 | 817 | ActionScript | 136 | HTML5 Webcam Image Capture Library with Flash Fallback | 2019-10-20T00:33:30Z |
 | 4 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1497 | 463 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 5 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1275 | 503 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 6 | [flixel](https://github.com/AdamAtomic/flixel) | 1129 | 199 | ActionScript | 74 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
@@ -52,14 +52,14 @@
 | 45 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 272 | 59 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 46 | [flexunit](https://github.com/flexunit/flexunit) | 270 | 92 | ActionScript | 3 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 47 | [Flint](https://github.com/richardlord/Flint) | 267 | 53 | ActionScript | 2 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
-| 48 | [royale-asjs](https://github.com/apache/royale-asjs) | 256 | 77 | ActionScript | 95 | Apache Royale ASJS | 2019-11-24T07:10:27Z |
+| 48 | [royale-asjs](https://github.com/apache/royale-asjs) | 256 | 77 | ActionScript | 101 | Apache Royale ASJS | 2019-11-25T06:15:02Z |
 | 49 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 246 | 109 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
 | 50 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 246 | 113 | ActionScript | 17 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 51 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 244 | 78 | ActionScript | 12 | HTTP Client for AS3 | 2015-04-15T06:45:12Z |
 | 52 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 244 | 92 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 53 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 242 | 44 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 54 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 235 | 50 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
-| 55 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 231 | 98 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
+| 55 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 231 | 97 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 56 | [swiz-framework](https://github.com/swiz/swiz-framework) | 230 | 47 | ActionScript | 19 | Swiz framework for AS3 and Flex | 2013-06-19T04:19:12Z |
 | 57 | [Spike](https://github.com/SpikeApp/Spike) | 228 | 145 | ActionScript | 42 | Get The Most Out Of Your CGM Transmitter | 2019-09-10T16:51:57Z |
 | 58 | [ANE-Facebook](https://github.com/freshplanet/ANE-Facebook) | 225 | 132 | ActionScript | 13 | Air Native Extension (iOS and Android) for the Facebook mobile SDK | 2019-09-18T16:20:28Z |
