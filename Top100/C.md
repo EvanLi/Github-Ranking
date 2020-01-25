@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [linux](https://github.com/torvalds/linux) | 85423 | 29889 | C | 321 | Linux kernel source tree | 2020-01-17T10:47:56Z |
-| 2 | [netdata](https://github.com/netdata/netdata) | 44150 | 4012 | C | 698 | Real-time performance monitoring, done right! https://my-netdata.io/ | 2020-01-17T10:02:51Z |
-| 3 | [redis](https://github.com/antirez/redis) | 40817 | 15875 | C | 2514 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2020-01-17T08:22:52Z |
-| 4 | [git](https://github.com/git/git) | 31069 | 18024 | C | 22 | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2020-01-17T00:09:02Z |
-| 5 | [php-src](https://github.com/php/php-src) | 26249 | 5919 | C | 200 | The PHP Interpreter | 2020-01-17T10:45:15Z |
-| 6 | [ijkplayer](https://github.com/bilibili/ijkplayer) | 25628 | 6678 | C | 2414 | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | 2020-01-03T21:06:40Z |
-| 7 | [wrk](https://github.com/wg/wrk) | 23144 | 1931 | C | 129 | Modern HTTP benchmarking tool | 2019-12-06T20:40:08Z |
-| 8 | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 19348 | 1153 | C | 445 | A code-searching tool similar to ack, but faster. | 2020-01-10T19:25:45Z |
-| 9 | [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) | 18544 | 3227 | C | 74 | How to Make a Computer Operating System in C++ | 2019-02-11T22:32:16Z |
-| 10 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 18062 | 6427 | C | 2 | Mirror of git://source.ffmpeg.org/ffmpeg.git | 2020-01-17T10:01:13Z |
-| 11 | [os-tutorial](https://github.com/cfenollosa/os-tutorial) | 16963 | 1915 | C | 48 | How to create an OS from scratch | 2019-12-29T03:55:47Z |
-| 12 | [tmux](https://github.com/tmux/tmux) | 16292 | 1119 | C | 6 | tmux source code | 2020-01-14T16:02:33Z |
-| 13 | [darknet](https://github.com/pjreddie/darknet) | 16095 | 10269 | C | 1507 | Convolutional Neural Networks | 2020-01-17T07:15:03Z |
-| 14 | [jq](https://github.com/stedolan/jq) | 16053 | 941 | C | 525 | Command-line JSON processor | 2020-01-14T16:18:24Z |
-| 15 | [curl](https://github.com/curl/curl) | 16022 | 3494 | C | 59 | A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features | 2020-01-17T09:58:23Z |
-| 16 | [obs-studio](https://github.com/obsproject/obs-studio) | 16001 | 3266 | C | 66 | OBS Studio - Free and open source software for live streaming and screen recording | 2020-01-16T23:48:21Z |
-| 17 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 15258 | 4749 | C | 8 | 浙江大学课程攻略共享计划 | 2020-01-14T10:23:35Z |
-| 18 | [libuv](https://github.com/libuv/libuv) | 14282 | 2301 | C | 120 | Cross-platform asynchronous I/O | 2020-01-17T05:57:49Z |
-| 19 | [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 13419 | 2522 | C | 45 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 | 2019-09-09T07:12:18Z |
-| 20 | [nuklear](https://github.com/vurtun/nuklear) | 13196 | 1056 | C | 239 | A single-header ANSI C gui library | 2020-01-03T21:36:41Z |
-| 21 | [numpy](https://github.com/numpy/numpy) | 12728 | 4171 | C | 1973 | The fundamental package for scientific computing with Python. | 2020-01-17T07:28:22Z |
-| 22 | [openssl](https://github.com/openssl/openssl) | 12167 | 5336 | C | 1071 | TLS/SSL and crypto library | 2020-01-17T10:51:20Z |
-| 23 | [radare2](https://github.com/radareorg/radare2) | 11768 | 2082 | C | 1330 | UNIX-like reverse engineering framework and command-line toolset | 2020-01-17T10:29:37Z |
-| 24 | [masscan](https://github.com/robertdavidgraham/masscan) | 11716 | 1943 | C | 293 | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 2020-01-04T03:35:52Z |
-| 25 | [stb](https://github.com/nothings/stb) | 11670 | 3328 | C | 177 | stb single-file public domain libraries for C/C++ | 2020-01-02T10:49:21Z |
-| 26 | [zstd](https://github.com/facebook/zstd) | 11478 | 1060 | C | 34 | Zstandard - Fast real-time compression algorithm | 2020-01-16T18:47:35Z |
-| 27 | [nginx](https://github.com/nginx/nginx) | 11079 | 4178 | C | 0 | An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html | 2020-01-14T11:22:29Z |
-| 28 | [TDengine](https://github.com/taosdata/TDengine) | 10835 | 2865 | C | 263 | An open-source big data platform designed and optimized for the Internet of Things (IoT). | 2020-01-17T10:39:45Z |
-| 29 | [Arduino](https://github.com/esp8266/Arduino) | 10650 | 8737 | C | 347 | ESP8266 core for Arduino | 2020-01-17T02:50:39Z |
-| 30 | [goaccess](https://github.com/allinurl/goaccess) | 10610 | 736 | C | 279 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | 2019-12-13T22:13:50Z |
-| 31 | [micropython](https://github.com/micropython/micropython) | 9896 | 3092 | C | 875 | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems | 2020-01-16T17:09:24Z |
-| 32 | [rufus](https://github.com/pbatard/rufus) | 9717 | 1139 | C | 9 | The Reliable USB Formatting Utility | 2020-01-12T23:16:54Z |
-| 33 | [memcached](https://github.com/memcached/memcached) | 9672 | 2728 | C | 61 | memcached development tree | 2020-01-16T10:42:44Z |
-| 34 | [twemproxy](https://github.com/twitter/twemproxy) | 9562 | 1714 | C | 209 | A fast, light-weight proxy for memcached and redis | 2019-10-26T11:11:36Z |
-| 35 | [tengine](https://github.com/alibaba/tengine) | 9517 | 2189 | C | 266 | A distribution of Nginx with some advanced features | 2020-01-13T20:04:20Z |
-| 36 | [libui](https://github.com/andlabs/libui) | 9174 | 530 | C | 206 | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. | 2020-01-12T18:00:04Z |
-| 37 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | 9025 | 2017 | C | 50 | A little tool to play with Windows security | 2020-01-04T18:27:23Z |
-| 38 | [h2o](https://github.com/h2o/h2o) | 8899 | 673 | C | 527 | H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server | 2020-01-17T08:35:03Z |
-| 39 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 8831 | 2608 | C | 932 | NGINX-based Media Streaming Server | 2020-01-15T03:46:41Z |
-| 40 | [skynet](https://github.com/cloudwu/skynet) | 8640 | 3265 | C | 36 | A lightweight online game framework | 2020-01-10T01:45:11Z |
-| 41 | [toxcore](https://github.com/irungentoo/toxcore) | 8595 | 1227 | C | 101 | The future of online communications. | 2018-10-03T12:46:21Z |
-| 42 | [tig](https://github.com/jonas/tig) | 8565 | 498 | C | 170 | Text-mode interface for git | 2020-01-16T06:38:05Z |
-| 43 | [robotjs](https://github.com/octalmage/robotjs) | 8506 | 560 | C | 55 | Node.js Desktop Automation.  | 2020-01-16T00:45:29Z |
-| 44 | [torch7](https://github.com/torch/torch7) | 8469 | 2352 | C | 276 | http://torch.ch | 2019-04-17T21:12:08Z |
-| 45 | [wcdb](https://github.com/Tencent/wcdb) | 8093 | 1082 | C | 74 | WCDB is a cross-platform database framework developed by WeChat. | 2019-12-26T09:10:27Z |
-| 46 | [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | 8086 | 1676 | C | 239 | Embed the Power of Lua into NGINX HTTP servers | 2020-01-14T00:32:50Z |
-| 47 | [phpredis](https://github.com/phpredis/phpredis) | 8072 | 1956 | C | 91 | A PHP extension for Redis | 2020-01-14T05:18:41Z |
-| 48 | [timescaledb](https://github.com/timescale/timescaledb) | 8030 | 436 | C | 184 | An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension. | 2020-01-17T10:56:00Z |
-| 49 | [openresty](https://github.com/openresty/openresty) | 7978 | 1092 | C | 138 | Turning Nginx into a Full-Fledged Scriptable Web Platform | 2020-01-05T06:58:00Z |
-| 50 | [libsodium](https://github.com/jedisct1/libsodium) | 7961 | 1244 | C | 0 | A modern, portable, easy to use crypto library. | 2020-01-06T02:02:05Z |
-| 51 | [japronto](https://github.com/squeaky-pl/japronto) | 7816 | 538 | C | 85 |  Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. | 2019-11-02T16:11:21Z |
-| 52 | [darwin-xnu](https://github.com/apple/darwin-xnu) | 7629 | 1211 | C | 16 | The Darwin Kernel (mirror) | 2019-11-18T11:57:30Z |
-| 53 | [Craft](https://github.com/fogleman/Craft) | 7620 | 938 | C | 89 | A simple Minecraft clone written in C using modern OpenGL (shaders). | 2019-12-12T21:13:09Z |
-| 54 | [disque](https://github.com/antirez/disque) | 7557 | 526 | C | 59 | Disque is a distributed message broker | 2017-10-12T05:46:24Z |
-| 55 | [kcp](https://github.com/skywind3000/kcp) | 7467 | 1536 | C | 97 | KCP - A Fast and Reliable ARQ Protocol | 2020-01-16T10:04:58Z |
-| 56 | [seafile](https://github.com/haiwen/seafile) | 7412 | 1196 | C | 217 | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | 2020-01-17T10:17:16Z |
-| 57 | [libgit2](https://github.com/libgit2/libgit2) | 7283 | 1869 | C | 281 | A cross-platform, linkable library implementation of Git that you can use in your application. | 2020-01-17T08:17:16Z |
-| 58 | [reactos](https://github.com/reactos/reactos) | 7184 | 781 | C | 115 | A free Windows-compatible Operating System | 2020-01-16T23:20:39Z |
-| 59 | [nnn](https://github.com/jarun/nnn) | 7176 | 266 | C | 3 | :dolphin: The missing terminal file manager for X. | 2020-01-17T00:34:04Z |
-| 60 | [hashcat](https://github.com/hashcat/hashcat) | 7168 | 1257 | C | 87 | World's fastest and most advanced password recovery utility | 2020-01-16T18:21:11Z |
-| 61 | [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 7053 | 606 | C | 19 | Learning operating system development using Linux kernel and Raspberry Pi | 2020-01-01T21:46:22Z |
-| 62 | [sway](https://github.com/swaywm/sway) | 6974 | 549 | C | 293 | i3-compatible Wayland compositor | 2020-01-17T03:29:53Z |
-| 63 | [lede](https://github.com/coolsnowwolf/lede) | 6718 | 5749 | C | 62 | Lean's OpenWrt source | 2020-01-17T07:25:40Z |
-| 64 | [matrix](https://github.com/Tencent/matrix) | 6686 | 874 | C | 114 | Matrix is a plugin style, non-invasive APM system developed by WeChat. | 2020-01-16T08:46:42Z |
-| 65 | [ccv](https://github.com/liuliu/ccv) | 6600 | 1704 | C | 84 | C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library | 2020-01-16T07:02:40Z |
-| 66 | [kphp-kdb](https://github.com/vk-com/kphp-kdb) | 6443 | 227 | C | 21 | VK-KittenPHP/DB/Engine suite | 2019-02-09T11:26:03Z |
-| 67 | [linux](https://github.com/raspberrypi/linux) | 6424 | 3141 | C | 282 | Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum | 2020-01-15T18:49:02Z |
-| 68 | [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) | 6409 | 1723 | C | 284 | Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable. | 2020-01-01T12:53:29Z |
-| 69 | [anypixel](https://github.com/googlecreativelab/anypixel) | 6339 | 531 | C | 8 | A web-friendly way for anyone to build unusual displays | 2019-11-02T07:06:46Z |
-| 70 | [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | 6317 | 1476 | C | 174 | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 | 2019-11-02T09:17:58Z |
-| 71 | [postgres](https://github.com/postgres/postgres) | 6264 | 2083 | C | 0 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch | 2020-01-17T05:54:44Z |
-| 72 | [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) | 6105 | 3088 | C | 0 | Leaked Mirai Source Code for Research/IoC Development Purposes | 2017-07-15T21:54:56Z |
-| 73 | [lab](https://github.com/deepmind/lab) | 6043 | 1221 | C | 32 | A customisable 3D platform for agent-based AI research | 2020-01-07T15:52:57Z |
-| 74 | [mongoose](https://github.com/cesanta/mongoose) | 5986 | 1771 | C | 191 | Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.   | 2020-01-11T19:13:56Z |
-| 75 | [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) | 5985 | 1464 | C | 67 | Cheap WiFi hacks | 2020-01-16T22:06:53Z |
-| 76 | [systemd](https://github.com/systemd/systemd) | 5934 | 1925 | C | 1277 | The systemd System and Service Manager  | 2020-01-17T10:48:03Z |
-| 77 | [fastdfs](https://github.com/happyfish100/fastdfs) | 5888 | 1494 | C | 310 | FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs | 2019-12-30T23:48:39Z |
-| 78 | [glfw](https://github.com/glfw/glfw) | 5865 | 1832 | C | 339 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input | 2020-01-17T01:05:51Z |
-| 79 | [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) | 5843 | 2731 | C | 22 | 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 | 2019-10-16T02:12:41Z |
-| 80 | [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) | 5836 | 2649 | C | 152 | Lua based interactive firmware for ESP8266, ESP8285 and ESP32 | 2020-01-15T20:42:50Z |
-| 81 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 5798 | 11099 | C | 496 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2020-01-17T10:08:13Z |
-| 82 | [borg](https://github.com/borgbackup/borg) | 5779 | 450 | C | 426 | Deduplicating archiver with compression and authenticated encryption. | 2020-01-17T06:14:02Z |
-| 83 | [libevent](https://github.com/libevent/libevent) | 5770 | 2254 | C | 87 | Event notification library | 2020-01-14T20:02:42Z |
-| 84 | [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 5747 | 726 | C | 78 | proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead. | 2019-11-26T02:34:11Z |
-| 85 | [vlc](https://github.com/videolan/vlc) | 5661 | 2106 | C | 2 | VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/ | 2020-01-17T08:10:06Z |
-| 86 | [winfile](https://github.com/microsoft/winfile) | 5569 | 621 | C | 53 | Original Windows File Manager (winfile) with enhancements | 2019-12-18T13:20:21Z |
-| 87 | [c4](https://github.com/rswier/c4) | 5555 | 960 | C | 15 | C in four functions | 2019-11-07T14:11:26Z |
-| 88 | [HandBrake](https://github.com/HandBrake/HandBrake) | 5429 | 614 | C | 191 | HandBrake's main development repository  | 2020-01-17T02:32:12Z |
-| 89 | [Undecimus](https://github.com/pwn20wndstuff/Undecimus) | 5411 | 1161 | C | 728 | unc0ver jailbreak for iOS 11.0 - 12.4 | 2020-01-03T10:04:49Z |
-| 90 | [beanstalkd](https://github.com/beanstalkd/beanstalkd) | 5394 | 775 | C | 34 | Beanstalk is a simple, fast work queue. | 2019-12-17T09:38:41Z |
-| 91 | [xLua](https://github.com/Tencent/xLua) | 5244 | 1664 | C | 26 | xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | 2019-12-24T01:46:48Z |
-| 92 | [macvim](https://github.com/b4winckler/macvim) | 5234 | 419 | C | 13 | Vim - the text editor - for Mac OS X | 2017-08-05T22:27:23Z |
-| 93 | [rofi](https://github.com/davatorium/rofi) | 5231 | 284 | C | 69 | Rofi: A window switcher, application launcher and dmenu replacement | 2020-01-16T18:12:24Z |
-| 94 | [openwrt](https://github.com/openwrt/openwrt) | 5203 | 3437 | C | 358 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org | 2020-01-17T10:16:51Z |
-| 95 | [AppImageKit](https://github.com/AppImage/AppImageKit) | 5185 | 337 | C | 194 | Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net | 2020-01-05T20:58:36Z |
-| 96 | [http-parser](https://github.com/nodejs/http-parser) | 5154 | 1312 | C | 74 | http request/response parser for c | 2019-12-10T15:21:06Z |
-| 97 | [lwan](https://github.com/lpereira/lwan) | 5117 | 539 | C | 50 | Experimental, scalable, high performance HTTP server | 2020-01-16T03:53:14Z |
-| 98 | [zfs](https://github.com/zfsonlinux/zfs) | 5115 | 1061 | C | 1023 | ZFS on Linux - the official OpenZFS implementation for Linux. | 2020-01-17T05:29:36Z |
-| 99 | [i3](https://github.com/i3/i3) | 5099 | 502 | C | 219 | A tiling window manager | 2020-01-16T21:19:27Z |
-| 100 | [mjolnir](https://github.com/mjolnirapp/mjolnir) | 5066 | 134 | C | 14 | Lightweight automation and productivity app for OS X | 2019-10-10T17:40:11Z |
+| 1 | [linux](https://github.com/torvalds/linux) | 85710 | 29964 | C | 323 | Linux kernel source tree | 2020-01-25T03:45:00Z |
+| 2 | [netdata](https://github.com/netdata/netdata) | 44362 | 4024 | C | 696 | Real-time performance monitoring, done right! https://my-netdata.io/ | 2020-01-25T02:32:38Z |
+| 3 | [redis](https://github.com/antirez/redis) | 40898 | 15911 | C | 2527 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2020-01-23T12:57:36Z |
+| 4 | [git](https://github.com/git/git) | 31142 | 18077 | C | 21 | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2020-01-24T22:03:41Z |
+| 5 | [php-src](https://github.com/php/php-src) | 26314 | 5933 | C | 196 | The PHP Interpreter | 2020-01-25T10:30:14Z |
+| 6 | [ijkplayer](https://github.com/bilibili/ijkplayer) | 25657 | 6690 | C | 2418 | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | 2020-01-03T21:06:40Z |
+| 7 | [scrcpy](https://github.com/Genymobile/scrcpy) | 24737 | 2339 | C | 424 | Display and control your Android device | 2020-01-19T15:59:37Z |
+| 8 | [wrk](https://github.com/wg/wrk) | 23206 | 1935 | C | 130 | Modern HTTP benchmarking tool | 2020-01-19T19:13:52Z |
+| 9 | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 19386 | 1153 | C | 446 | A code-searching tool similar to ack, but faster. | 2020-01-10T19:25:45Z |
+| 10 | [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) | 18667 | 6916 | C | 67 | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 | 2019-12-27T09:34:21Z |
+| 11 | [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) | 18558 | 3228 | C | 74 | How to Make a Computer Operating System in C++ | 2019-02-11T22:32:16Z |
+| 12 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 18108 | 6451 | C | 3 | Mirror of git://source.ffmpeg.org/ffmpeg.git | 2020-01-24T23:15:38Z |
+| 13 | [os-tutorial](https://github.com/cfenollosa/os-tutorial) | 17048 | 1929 | C | 49 | How to create an OS from scratch | 2020-01-22T13:26:43Z |
+| 14 | [tmux](https://github.com/tmux/tmux) | 16353 | 1120 | C | 13 | tmux source code | 2020-01-24T18:21:36Z |
+| 15 | [darknet](https://github.com/pjreddie/darknet) | 16147 | 10336 | C | 1516 | Convolutional Neural Networks | 2020-01-23T18:49:20Z |
+| 16 | [jq](https://github.com/stedolan/jq) | 16104 | 946 | C | 516 | Command-line JSON processor | 2020-01-21T16:38:54Z |
+| 17 | [curl](https://github.com/curl/curl) | 16090 | 3512 | C | 62 | A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features | 2020-01-24T16:03:45Z |
+| 18 | [obs-studio](https://github.com/obsproject/obs-studio) | 16068 | 3281 | C | 78 | OBS Studio - Free and open source software for live streaming and screen recording | 2020-01-25T08:36:42Z |
+| 19 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 15304 | 4759 | C | 9 | 浙江大学课程攻略共享计划 | 2020-01-24T09:37:19Z |
+| 20 | [libuv](https://github.com/libuv/libuv) | 14329 | 2307 | C | 119 | Cross-platform asynchronous I/O | 2020-01-23T14:23:24Z |
+| 21 | [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 13434 | 2524 | C | 45 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 | 2019-09-09T07:12:18Z |
+| 22 | [nuklear](https://github.com/vurtun/nuklear) | 13195 | 1059 | C | 239 | A single-header ANSI C gui library | 2020-01-03T21:36:41Z |
+| 23 | [numpy](https://github.com/numpy/numpy) | 12786 | 4194 | C | 1996 | The fundamental package for scientific computing with Python. | 2020-01-25T01:02:05Z |
+| 24 | [openssl](https://github.com/openssl/openssl) | 12197 | 5354 | C | 1092 | TLS/SSL and crypto library | 2020-01-25T10:38:32Z |
+| 25 | [radare2](https://github.com/radareorg/radare2) | 11804 | 2090 | C | 1328 | UNIX-like reverse engineering framework and command-line toolset | 2020-01-25T10:41:19Z |
+| 26 | [masscan](https://github.com/robertdavidgraham/masscan) | 11782 | 1952 | C | 295 | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 2020-01-18T21:36:37Z |
+| 27 | [stb](https://github.com/nothings/stb) | 11707 | 3347 | C | 183 | stb single-file public domain libraries for C/C++ | 2020-01-19T22:52:14Z |
+| 28 | [zstd](https://github.com/facebook/zstd) | 11505 | 1062 | C | 39 | Zstandard - Fast real-time compression algorithm | 2020-01-25T04:16:29Z |
+| 29 | [mpv](https://github.com/mpv-player/mpv) | 11308 | 1542 | C | 407 | 🎥 Command line video player | 2020-01-22T16:05:23Z |
+| 30 | [nginx](https://github.com/nginx/nginx) | 11123 | 4190 | C | 0 | An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html | 2020-01-21T13:48:26Z |
+| 31 | [TDengine](https://github.com/taosdata/TDengine) | 10848 | 2871 | C | 267 | An open-source big data platform designed and optimized for the Internet of Things (IoT). | 2020-01-21T07:32:50Z |
+| 32 | [Arduino](https://github.com/esp8266/Arduino) | 10685 | 8805 | C | 354 | ESP8266 core for Arduino | 2020-01-24T23:33:47Z |
+| 33 | [goaccess](https://github.com/allinurl/goaccess) | 10640 | 737 | C | 280 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | 2020-01-23T01:40:24Z |
+| 34 | [micropython](https://github.com/micropython/micropython) | 9925 | 3115 | C | 887 | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems | 2020-01-24T21:23:53Z |
+| 35 | [rufus](https://github.com/pbatard/rufus) | 9764 | 1145 | C | 8 | The Reliable USB Formatting Utility | 2020-01-12T23:16:54Z |
+| 36 | [memcached](https://github.com/memcached/memcached) | 9689 | 2730 | C | 41 | memcached development tree | 2020-01-23T22:18:47Z |
+| 37 | [twemproxy](https://github.com/twitter/twemproxy) | 9574 | 1717 | C | 209 | A fast, light-weight proxy for memcached and redis | 2019-10-26T11:11:36Z |
+| 38 | [tengine](https://github.com/alibaba/tengine) | 9528 | 2190 | C | 267 | A distribution of Nginx with some advanced features | 2020-01-13T20:04:20Z |
+| 39 | [libui](https://github.com/andlabs/libui) | 9174 | 531 | C | 207 | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. | 2020-01-19T02:18:02Z |
+| 40 | [mimikatz](https://github.com/gentilkiwi/mimikatz) | 9072 | 2024 | C | 55 | A little tool to play with Windows security | 2020-01-23T09:12:27Z |
+| 41 | [h2o](https://github.com/h2o/h2o) | 8912 | 676 | C | 531 | H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server | 2020-01-23T18:29:13Z |
+| 42 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 8849 | 2612 | C | 933 | NGINX-based Media Streaming Server | 2020-01-15T03:46:41Z |
+| 43 | [skynet](https://github.com/cloudwu/skynet) | 8654 | 3260 | C | 35 | A lightweight online game framework | 2020-01-19T12:23:39Z |
+| 44 | [tig](https://github.com/jonas/tig) | 8591 | 500 | C | 173 | Text-mode interface for git | 2020-01-19T05:37:47Z |
+| 45 | [toxcore](https://github.com/irungentoo/toxcore) | 8591 | 1229 | C | 101 | The future of online communications. | 2018-10-03T12:46:21Z |
+| 46 | [robotjs](https://github.com/octalmage/robotjs) | 8525 | 560 | C | 56 | Node.js Desktop Automation.  | 2020-01-16T00:45:29Z |
+| 47 | [torch7](https://github.com/torch/torch7) | 8470 | 2354 | C | 276 | http://torch.ch | 2019-04-17T21:12:08Z |
+| 48 | [brotli](https://github.com/google/brotli) | 8185 | 778 | C | 42 | Brotli compression format | 2019-12-22T21:43:39Z |
+| 49 | [wcdb](https://github.com/Tencent/wcdb) | 8099 | 1085 | C | 77 | WCDB is a cross-platform database framework developed by WeChat. | 2019-12-26T09:10:27Z |
+| 50 | [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | 8097 | 1679 | C | 239 | Embed the Power of Lua into NGINX HTTP servers | 2020-01-23T00:47:23Z |
+| 51 | [phpredis](https://github.com/phpredis/phpredis) | 8085 | 1957 | C | 90 | A PHP extension for Redis | 2020-01-24T15:25:19Z |
+| 52 | [timescaledb](https://github.com/timescale/timescaledb) | 8065 | 438 | C | 192 | An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension. | 2020-01-24T20:19:16Z |
+| 53 | [openresty](https://github.com/openresty/openresty) | 8003 | 1099 | C | 140 | Turning Nginx into a Full-Fledged Scriptable Web Platform | 2020-01-23T23:37:53Z |
+| 54 | [libsodium](https://github.com/jedisct1/libsodium) | 7981 | 1246 | C | 0 | A modern, portable, easy to use crypto library. | 2020-01-06T02:02:05Z |
+| 55 | [japronto](https://github.com/squeaky-pl/japronto) | 7827 | 538 | C | 86 |  Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser. | 2020-01-25T07:32:32Z |
+| 56 | [darwin-xnu](https://github.com/apple/darwin-xnu) | 7647 | 1214 | C | 16 | The Darwin Kernel (mirror) | 2019-11-18T11:57:30Z |
+| 57 | [Craft](https://github.com/fogleman/Craft) | 7631 | 940 | C | 89 | A simple Minecraft clone written in C using modern OpenGL (shaders). | 2019-12-12T21:13:09Z |
+| 58 | [disque](https://github.com/antirez/disque) | 7565 | 526 | C | 59 | Disque is a distributed message broker | 2017-10-12T05:46:24Z |
+| 59 | [kcp](https://github.com/skywind3000/kcp) | 7486 | 1543 | C | 98 | KCP - A Fast and Reliable ARQ Protocol | 2020-01-20T08:24:20Z |
+| 60 | [seafile](https://github.com/haiwen/seafile) | 7425 | 1199 | C | 218 | High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. | 2020-01-21T02:41:26Z |
+| 61 | [libgit2](https://github.com/libgit2/libgit2) | 7287 | 1874 | C | 284 | A cross-platform, linkable library implementation of Git that you can use in your application. | 2020-01-24T21:51:02Z |
+| 62 | [nnn](https://github.com/jarun/nnn) | 7241 | 273 | C | 3 | :dolphin: The missing terminal file manager for X. | 2020-01-25T03:28:09Z |
+| 63 | [hashcat](https://github.com/hashcat/hashcat) | 7215 | 1263 | C | 87 | World's fastest and most advanced password recovery utility | 2020-01-25T10:27:27Z |
+| 64 | [reactos](https://github.com/reactos/reactos) | 7203 | 782 | C | 118 | A free Windows-compatible Operating System | 2020-01-25T09:27:58Z |
+| 65 | [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 7084 | 610 | C | 19 | Learning operating system development using Linux kernel and Raspberry Pi | 2020-01-01T21:46:22Z |
+| 66 | [sway](https://github.com/swaywm/sway) | 7030 | 555 | C | 305 | i3-compatible Wayland compositor | 2020-01-24T17:27:09Z |
+| 67 | [lede](https://github.com/coolsnowwolf/lede) | 6825 | 5907 | C | 47 | Lean's OpenWrt source | 2020-01-25T10:06:42Z |
+| 68 | [matrix](https://github.com/Tencent/matrix) | 6697 | 877 | C | 116 | Matrix is a plugin style, non-invasive APM system developed by WeChat. | 2020-01-20T11:36:31Z |
+| 69 | [ccv](https://github.com/liuliu/ccv) | 6612 | 1704 | C | 84 | C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library | 2020-01-22T18:30:31Z |
+| 70 | [kphp-kdb](https://github.com/vk-com/kphp-kdb) | 6441 | 227 | C | 21 | VK-KittenPHP/DB/Engine suite | 2019-02-09T11:26:03Z |
+| 71 | [linux](https://github.com/raspberrypi/linux) | 6440 | 3150 | C | 285 | Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum | 2020-01-24T15:34:38Z |
+| 72 | [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) | 6422 | 1729 | C | 287 | Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable. | 2020-01-01T12:53:29Z |
+| 73 | [anypixel](https://github.com/googlecreativelab/anypixel) | 6341 | 532 | C | 8 | A web-friendly way for anyone to build unusual displays | 2019-11-02T07:06:46Z |
+| 74 | [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | 6325 | 1477 | C | 175 | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 | 2019-11-02T09:17:58Z |
+| 75 | [postgres](https://github.com/postgres/postgres) | 6291 | 2090 | C | 0 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch | 2020-01-24T18:35:35Z |
+| 76 | [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) | 6116 | 3092 | C | 0 | Leaked Mirai Source Code for Research/IoC Development Purposes | 2017-07-15T21:54:56Z |
+| 77 | [lab](https://github.com/deepmind/lab) | 6049 | 1223 | C | 32 | A customisable 3D platform for agent-based AI research | 2020-01-07T15:52:57Z |
+| 78 | [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) | 6033 | 1474 | C | 71 | Cheap WiFi hacks | 2020-01-23T12:36:59Z |
+| 79 | [systemd](https://github.com/systemd/systemd) | 6009 | 1954 | C | 1265 | The systemd System and Service Manager  | 2020-01-25T10:59:27Z |
+| 80 | [mongoose](https://github.com/cesanta/mongoose) | 6000 | 1779 | C | 192 | Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.   | 2020-01-22T10:03:34Z |
+| 81 | [fastdfs](https://github.com/happyfish100/fastdfs) | 5902 | 1499 | C | 311 | FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs | 2019-12-30T23:48:39Z |
+| 82 | [glfw](https://github.com/glfw/glfw) | 5887 | 1852 | C | 344 | A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input | 2020-01-23T03:03:32Z |
+| 83 | [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) | 5851 | 2652 | C | 155 | Lua based interactive firmware for ESP8266, ESP8285 and ESP32 | 2020-01-23T22:59:39Z |
+| 84 | [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) | 5850 | 2735 | C | 22 | 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 | 2019-10-16T02:12:41Z |
+| 85 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 5842 | 11215 | C | 504 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2020-01-25T09:30:00Z |
+| 86 | [borg](https://github.com/borgbackup/borg) | 5812 | 451 | C | 425 | Deduplicating archiver with compression and authenticated encryption. | 2020-01-25T01:26:12Z |
+| 87 | [libevent](https://github.com/libevent/libevent) | 5787 | 2261 | C | 89 | Event notification library | 2020-01-24T04:51:50Z |
+| 88 | [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 5759 | 729 | C | 78 | proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead. | 2019-11-26T02:34:11Z |
+| 89 | [vlc](https://github.com/videolan/vlc) | 5686 | 2120 | C | 2 | VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/ | 2020-01-24T17:08:06Z |
+| 90 | [xhyve](https://github.com/machyve/xhyve) | 5651 | 321 | C | 67 | xhyve, a lightweight OS X virtualization solution | 2019-12-20T20:55:59Z |
+| 91 | [winfile](https://github.com/microsoft/winfile) | 5575 | 621 | C | 53 | Original Windows File Manager (winfile) with enhancements | 2019-12-18T13:20:21Z |
+| 92 | [c4](https://github.com/rswier/c4) | 5559 | 960 | C | 15 | C in four functions | 2019-11-07T14:11:26Z |
+| 93 | [HandBrake](https://github.com/HandBrake/HandBrake) | 5460 | 612 | C | 190 | HandBrake's main development repository  | 2020-01-23T07:58:38Z |
+| 94 | [Undecimus](https://github.com/pwn20wndstuff/Undecimus) | 5418 | 1163 | C | 728 | unc0ver jailbreak for iOS 11.0 - 12.4 | 2020-01-03T10:04:49Z |
+| 95 | [beanstalkd](https://github.com/beanstalkd/beanstalkd) | 5401 | 778 | C | 34 | Beanstalk is a simple, fast work queue. | 2019-12-17T09:38:41Z |
+| 96 | [webview](https://github.com/zserge/webview) | 5305 | 422 | C | 125 | Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows) | 2020-01-21T13:57:18Z |
+| 97 | [xLua](https://github.com/Tencent/xLua) | 5262 | 1672 | C | 26 | xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. | 2020-01-25T06:21:35Z |
+| 98 | [rofi](https://github.com/davatorium/rofi) | 5258 | 286 | C | 69 | Rofi: A window switcher, application launcher and dmenu replacement | 2020-01-16T18:12:24Z |
+| 99 | [openwrt](https://github.com/openwrt/openwrt) | 5235 | 3511 | C | 352 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org | 2020-01-25T09:58:58Z |
+| 100 | [macvim](https://github.com/b4winckler/macvim) | 5232 | 419 | C | 13 | Vim - the text editor - for Mac OS X | 2017-08-05T22:27:23Z |
 
