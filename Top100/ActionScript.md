@@ -5,12 +5,12 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7221 | 126 | ActionScript | 28 | Petition to open source Flash and Shockwave spec | 2020-06-15T23:17:44Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 5892 | 479 | ActionScript | 11 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2020-06-23T23:08:13Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2257 | 857 | ActionScript | 83 | The Cross Platform Game Engine | 2020-04-10T06:42:47Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2180 | 898 | ActionScript | 143 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7224 | 126 | ActionScript | 28 | Petition to open source Flash and Shockwave spec | 2020-06-15T23:17:44Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 5892 | 478 | ActionScript | 11 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2020-06-24T19:44:58Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2257 | 856 | ActionScript | 83 | The Cross Platform Game Engine | 2020-04-10T06:42:47Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2180 | 898 | ActionScript | 144 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1498 | 468 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
-| 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1299 | 506 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
+| 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1299 | 505 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1143 | 196 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1122 | 201 | ActionScript | 74 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1069 | 212 | ActionScript | 8 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
@@ -35,7 +35,7 @@
 | 28 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 367 | 34 | ActionScript | 22 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 29 | [wck](https://github.com/jesses/wck) | 362 | 56 | ActionScript | 13 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 30 | [Gestouch](https://github.com/fljot/Gestouch) | 359 | 83 | ActionScript | 37 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
-| 31 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 358 | 42 | ActionScript | 37 | A simple music making program | 2020-05-14T11:16:31Z |
+| 31 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 359 | 42 | ActionScript | 37 | A simple music making program | 2020-05-14T11:16:31Z |
 | 32 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 352 | 45 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2011-06-19T23:52:43Z |
 | 33 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 333 | 63 | ActionScript | 17 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 34 | [nd2d](https://github.com/lrrrs/nd2d) | 326 | 60 | ActionScript | 8 | A Flash Molehill (Stage3D) GPU accelerated 2D game engine | 2015-09-29T08:13:02Z |
@@ -48,7 +48,7 @@
 | 41 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 285 | 91 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 42 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 282 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 43 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 282 | 83 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
-| 44 | [royale-asjs](https://github.com/apache/royale-asjs) | 280 | 91 | ActionScript | 135 | Apache Royale ASJS | 2020-06-24T09:09:03Z |
+| 44 | [royale-asjs](https://github.com/apache/royale-asjs) | 280 | 91 | ActionScript | 138 | Apache Royale ASJS | 2020-06-25T10:43:10Z |
 | 45 | [as3-utils](https://github.com/as3/as3-utils) | 277 | 64 | ActionScript | 2 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 46 | [flash](https://github.com/flowplayer/flash) | 277 | 185 | ActionScript | 103 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 47 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 272 | 58 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
@@ -61,7 +61,7 @@
 | 54 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 242 | 77 | ActionScript | 12 | HTTP Client for AS3 | 2015-04-15T06:45:12Z |
 | 55 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 239 | 44 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 56 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 236 | 50 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
-| 57 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 233 | 97 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
+| 57 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 234 | 97 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 58 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 232 | 20 | ActionScript | 1 | Anodyne 1 Source Code | 2020-05-22T22:48:11Z |
 | 59 | [swiz-framework](https://github.com/swiz/swiz-framework) | 229 | 47 | ActionScript | 19 | Swiz framework for AS3 and Flex | 2013-06-19T04:19:12Z |
 | 60 | [ANE-Facebook](https://github.com/freshplanet/ANE-Facebook) | 225 | 130 | ActionScript | 15 | Air Native Extension (iOS and Android) for the Facebook mobile SDK | 2020-05-08T16:49:26Z |
@@ -97,10 +97,10 @@
 | 90 | [SoundAS](https://github.com/treefortress/SoundAS) | 142 | 43 | ActionScript | 9 | A modern lightweight sound manager for AS3.  | 2017-01-05T06:06:22Z |
 | 91 | [as3delaunay](https://github.com/nodename/as3delaunay) | 141 | 91 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
 | 92 | [purePDF](https://github.com/sephiroth74/purePDF) | 138 | 63 | ActionScript | 9 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
-| 93 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 136 | 155 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
-| 94 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 136 | 82 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
-| 95 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 135 | 46 | ActionScript | 10 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
-| 96 | [Unlight](https://github.com/unlightcpa/Unlight) | 135 | 59 | ActionScript | 5 | Unlight Browser Card Game | 2019-08-11T15:30:27Z |
+| 93 | [Unlight](https://github.com/unlightcpa/Unlight) | 137 | 60 | ActionScript | 5 | Unlight Browser Card Game | 2019-08-11T15:30:27Z |
+| 94 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 136 | 155 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
+| 95 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 136 | 82 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
+| 96 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 135 | 46 | ActionScript | 10 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 97 | [destroytwitter](https://github.com/destroytoday/destroytwitter) | 133 | 33 | ActionScript | 5 | a lightweight, multi-platform Twitter client | 2017-04-18T01:25:47Z |
 | 98 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 133 | 52 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
 | 99 | [ABPlayer](https://github.com/jabbany/ABPlayer) | 131 | 35 | ActionScript | 1 | A Flex based live comment displayer for online video comment sharing. 一个基于Flex的在线弹幕播放器。  | 2014-11-26T17:23:30Z |
