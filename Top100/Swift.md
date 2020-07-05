@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 35180 | 5911 | Swift | 10 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2020-07-01T14:05:47Z |
-| 2 | [Alamofire](https://github.com/Alamofire/Alamofire) | 33854 | 6244 | Swift | 37 | Elegant HTTP Networking in Swift | 2020-06-29T10:09:47Z |
-| 3 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 28066 | 7642 | Swift | 226 | Next Generation of ShadowsocksX | 2020-05-11T04:56:36Z |
-| 4 | [iina](https://github.com/iina/iina) | 24231 | 1831 | Swift | 883 | The modern video player for macOS. | 2020-07-03T13:06:27Z |
-| 5 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 23975 | 3946 | Swift | 0 | :iphone: Collaborative List of Open-Source iOS Apps | 2020-07-03T14:05:07Z |
-| 6 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) | 23152 | 4018 | Swift | 52 | Algorithms and data structures in Swift, with explanations! | 2020-06-25T06:27:37Z |
+| 1 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 35183 | 5911 | Swift | 10 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2020-07-01T14:05:47Z |
+| 2 | [Alamofire](https://github.com/Alamofire/Alamofire) | 33857 | 6244 | Swift | 37 | Elegant HTTP Networking in Swift | 2020-06-29T10:09:47Z |
+| 3 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 28070 | 7642 | Swift | 226 | Next Generation of ShadowsocksX | 2020-05-11T04:56:36Z |
+| 4 | [iina](https://github.com/iina/iina) | 24232 | 1831 | Swift | 883 | The modern video player for macOS. | 2020-07-03T13:06:27Z |
+| 5 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 23983 | 3947 | Swift | 0 | :iphone: Collaborative List of Open-Source iOS Apps | 2020-07-04T15:25:35Z |
+| 6 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) | 23152 | 4019 | Swift | 52 | Algorithms and data structures in Swift, with explanations! | 2020-06-25T06:27:37Z |
 | 7 | [Charts](https://github.com/danielgindi/Charts) | 23003 | 4561 | Swift | 568 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 2020-06-26T14:55:02Z |
-| 8 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 22917 | 1509 | Swift | 28 | 🚀 Awesome list of open source applications for macOS. | 2020-07-04T10:58:23Z |
-| 9 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 19877 | 2828 | Swift | 173 | An iOS library to natively render After Effects vector animations | 2020-06-23T17:39:27Z |
-| 10 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19836 | 3554 | Swift | 48 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2020-06-17T12:58:44Z |
-| 11 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 19739 | 3138 | Swift | 106 | The better way to deal with JSON data in Swift. | 2020-05-30T11:25:09Z |
-| 12 | [awesome-swift](https://github.com/matteocrippa/awesome-swift) | 19392 | 2708 | Swift | 0 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! | 2020-07-02T08:19:51Z |
-| 13 | [vapor](https://github.com/vapor/vapor) | 19021 | 1150 | Swift | 69 | 💧 A server-side Swift web framework. | 2020-07-03T16:36:41Z |
-| 14 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 18602 | 3349 | Swift | 13 | Reactive Programming in Swift | 2020-07-02T19:02:40Z |
-| 15 | [Hero](https://github.com/HeroTransitions/Hero) | 18600 | 1500 | Swift | 192 | Elegant transition library for iOS & tvOS | 2020-06-29T13:34:06Z |
-| 16 | [Aerial](https://github.com/JohnCoates/Aerial) | 18042 | 950 | Swift | 30 | Apple TV Aerial Screensaver for Mac | 2020-07-02T10:28:25Z |
+| 8 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 22921 | 1509 | Swift | 28 | 🚀 Awesome list of open source applications for macOS. | 2020-07-04T17:43:23Z |
+| 9 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 19878 | 2828 | Swift | 173 | An iOS library to natively render After Effects vector animations | 2020-06-23T17:39:27Z |
+| 10 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19837 | 3555 | Swift | 48 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2020-06-17T12:58:44Z |
+| 11 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 19741 | 3138 | Swift | 106 | The better way to deal with JSON data in Swift. | 2020-05-30T11:25:09Z |
+| 12 | [awesome-swift](https://github.com/matteocrippa/awesome-swift) | 19396 | 2708 | Swift | 0 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! | 2020-07-02T08:19:51Z |
+| 13 | [vapor](https://github.com/vapor/vapor) | 19024 | 1150 | Swift | 69 | 💧 A server-side Swift web framework. | 2020-07-03T16:36:41Z |
+| 14 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 18604 | 3351 | Swift | 13 | Reactive Programming in Swift | 2020-07-02T19:02:40Z |
+| 15 | [Hero](https://github.com/HeroTransitions/Hero) | 18601 | 1500 | Swift | 192 | Elegant transition library for iOS & tvOS | 2020-06-29T13:34:06Z |
+| 16 | [Aerial](https://github.com/JohnCoates/Aerial) | 18046 | 950 | Swift | 30 | Apple TV Aerial Screensaver for Mac | 2020-07-02T10:28:25Z |
 | 17 | [SnapKit](https://github.com/SnapKit/SnapKit) | 16606 | 1632 | Swift | 91 | A Swift Autolayout DSL for iOS & OS X | 2020-07-03T07:34:22Z |
-| 18 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 16325 | 1842 | Swift | 66 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2020-06-30T09:10:05Z |
-| 19 | [SwiftGuide](https://github.com/ipader/SwiftGuide) | 15093 | 3598 | Swift | 0 | Swift Featured Projects in brain Mapping | 2019-09-30T02:08:18Z |
+| 18 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 16326 | 1842 | Swift | 66 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2020-07-05T01:27:23Z |
+| 19 | [SwiftGuide](https://github.com/ipader/SwiftGuide) | 15094 | 3598 | Swift | 0 | Swift Featured Projects in brain Mapping | 2019-09-30T02:08:18Z |
 | 20 | [Carthage](https://github.com/Carthage/Carthage) | 13774 | 1424 | Swift | 164 | A simple, decentralized dependency manager for Cocoa | 2020-07-02T02:45:28Z |
-| 21 | [Perfect](https://github.com/PerfectlySoft/Perfect) | 13751 | 979 | Swift | 60 | Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…) | 2020-05-19T17:05:10Z |
-| 22 | [Spring](https://github.com/MengTo/Spring) | 13676 | 1679 | Swift | 165 | A library to simplify iOS animations in Swift. | 2020-05-09T12:23:52Z |
-| 23 | [SwiftLint](https://github.com/realm/SwiftLint) | 13576 | 1604 | Swift | 455 | A tool to enforce Swift style and conventions. | 2020-06-30T21:03:19Z |
+| 21 | [Perfect](https://github.com/PerfectlySoft/Perfect) | 13754 | 979 | Swift | 60 | Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…) | 2020-05-19T17:05:10Z |
+| 22 | [Spring](https://github.com/MengTo/Spring) | 13678 | 1679 | Swift | 165 | A library to simplify iOS animations in Swift. | 2020-05-09T12:23:52Z |
+| 23 | [SwiftLint](https://github.com/realm/SwiftLint) | 13578 | 1604 | Swift | 455 | A tool to enforce Swift style and conventions. | 2020-06-30T21:03:19Z |
 | 24 | [PromiseKit](https://github.com/mxcl/PromiseKit) | 12734 | 1273 | Swift | 41 | Promises for Swift & ObjC. | 2020-06-24T15:38:20Z |
-| 25 | [Moya](https://github.com/Moya/Moya) | 12226 | 1501 | Swift | 61 | Network abstraction layer written in Swift. | 2020-06-24T19:54:36Z |
-| 26 | [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 11926 | 1375 | Swift | 1 | 📖 Design Patterns implemented in Swift 5.0 | 2020-05-18T19:17:45Z |
+| 25 | [Moya](https://github.com/Moya/Moya) | 12227 | 1501 | Swift | 61 | Network abstraction layer written in Swift. | 2020-07-04T22:32:55Z |
+| 26 | [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 11927 | 1375 | Swift | 1 | 📖 Design Patterns implemented in Swift 5.0 | 2020-05-18T19:17:45Z |
 | 27 | [Material](https://github.com/CosmicMind/Material) | 11537 | 1255 | Swift | 30 | A UI/UX framework for creating beautiful applications. | 2020-03-08T08:30:58Z |
-| 28 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11019 | 2071 | Swift | 9 | A self-taught project to learn Swift. | 2020-06-28T11:01:10Z |
+| 28 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11019 | 2072 | Swift | 9 | A self-taught project to learn Swift. | 2020-06-28T11:01:10Z |
 | 29 | [Eureka](https://github.com/xmartlabs/Eureka) | 10764 | 1245 | Swift | 142 | Elegant iOS form builder in Swift | 2020-06-15T12:16:39Z |
-| 30 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 10540 | 1340 | Swift | 12 | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/ | 2020-05-20T10:35:05Z |
+| 30 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 10541 | 1340 | Swift | 12 | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/ | 2020-05-20T10:35:05Z |
 | 31 | [folding-cell](https://github.com/Ramotion/folding-cell) | 9733 | 1154 | Swift | 8 | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion - https://www.ramotion.com/agency/app-development/ | 2020-04-06T06:48:28Z |
-| 32 | [V2rayU](https://github.com/yanue/V2rayU) | 9602 | 1370 | Swift | 48 | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 | 2020-06-10T05:35:45Z |
-| 33 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 9459 | 2241 | Swift | 526 | Firefox for iOS | 2020-07-03T21:11:20Z |
+| 32 | [V2rayU](https://github.com/yanue/V2rayU) | 9603 | 1370 | Swift | 49 | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 | 2020-06-10T05:35:45Z |
+| 33 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 9459 | 2243 | Swift | 526 | Firefox for iOS | 2020-07-03T21:11:20Z |
 | 34 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | 9289 | 1008 | Swift | 19 | A collection of awesome loading animations | 2020-07-02T15:43:57Z |
 | 35 | [SkeletonView](https://github.com/Juanpe/SkeletonView) | 9171 | 706 | Swift | 31 | ☠️ An elegant way to show users that something is happening and also prepare them to which contents he is waiting | 2020-05-19T11:50:22Z |
-| 36 | [FlappySwift](https://github.com/fullstackio/FlappySwift) | 9135 | 2538 | Swift | 4 | swift implementation of flappy bird. More at fullstackedu.com | 2020-06-13T13:05:47Z |
-| 37 | [Quick](https://github.com/Quick/Quick) | 8746 | 818 | Swift | 64 | The Swift (and Objective-C) testing framework. | 2020-06-08T12:18:24Z |
-| 38 | [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | 8578 | 1092 | Swift | 18 | A handy collection of more than 500 native Swift extensions to boost your productivity. | 2020-07-04T03:10:53Z |
+| 36 | [FlappySwift](https://github.com/fullstackio/FlappySwift) | 9136 | 2538 | Swift | 4 | swift implementation of flappy bird. More at fullstackedu.com | 2020-06-13T13:05:47Z |
+| 37 | [Quick](https://github.com/Quick/Quick) | 8748 | 818 | Swift | 64 | The Swift (and Objective-C) testing framework. | 2020-06-08T12:18:24Z |
+| 38 | [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | 8580 | 1092 | Swift | 18 | A handy collection of more than 500 native Swift extensions to boost your productivity. | 2020-07-04T18:02:36Z |
 | 39 | [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) | 8505 | 958 | Swift | 31 | Simple JSON Object mapping written in Swift | 2020-05-18T15:53:37Z |
-| 40 | [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | 8380 | 767 | Swift | 42 | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | 2020-04-06T08:36:16Z |
-| 41 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 7883 | 909 | Swift | 19 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2020-06-10T12:51:10Z |
-| 42 | [swift-package-manager](https://github.com/apple/swift-package-manager) | 7819 | 970 | Swift | 52 | The Package Manager for the Swift Programming Language | 2020-07-04T08:21:52Z |
-| 43 | [WWDC](https://github.com/insidegui/WWDC) | 7772 | 693 | Swift | 37 | The unofficial WWDC app for macOS | 2020-07-04T01:44:27Z |
+| 40 | [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | 8381 | 767 | Swift | 42 | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | 2020-04-06T08:36:16Z |
+| 41 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 7884 | 909 | Swift | 19 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2020-06-10T12:51:10Z |
+| 42 | [swift-package-manager](https://github.com/apple/swift-package-manager) | 7819 | 970 | Swift | 53 | The Package Manager for the Swift Programming Language | 2020-07-05T01:01:34Z |
+| 43 | [WWDC](https://github.com/insidegui/WWDC) | 7772 | 693 | Swift | 37 | The unofficial WWDC app for macOS | 2020-07-04T19:04:11Z |
 | 44 | [Pock](https://github.com/pigigaldi/Pock) | 7749 | 293 | Swift | 216 | Display macOS Dock in Touch Bar | 2020-06-22T21:27:32Z |
-| 45 | [Amethyst](https://github.com/ianyh/Amethyst) | 7553 | 273 | Swift | 176 | Automatic tiling window manager for macOS à la xmonad. | 2020-06-12T12:57:44Z |
-| 46 | [R.swift](https://github.com/mac-cain13/R.swift) | 7473 | 512 | Swift | 68 | Strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2020-05-09T13:14:21Z |
-| 47 | [Kitura](https://github.com/IBM-Swift/Kitura) | 7377 | 490 | Swift | 67 | A Swift web framework and HTTP server. | 2020-06-14T16:55:53Z |
-| 48 | [ios-oss](https://github.com/kickstarter/ios-oss) | 7338 | 1093 | Swift | 6 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2020-07-01T02:40:24Z |
-| 49 | [clashX](https://github.com/yichengchen/clashX) | 7309 | 1077 | Swift | 8 | None | 2020-06-30T10:42:41Z |
+| 45 | [Amethyst](https://github.com/ianyh/Amethyst) | 7556 | 273 | Swift | 176 | Automatic tiling window manager for macOS à la xmonad. | 2020-06-12T12:57:44Z |
+| 46 | [R.swift](https://github.com/mac-cain13/R.swift) | 7474 | 512 | Swift | 69 | Strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2020-05-09T13:14:21Z |
+| 47 | [Kitura](https://github.com/IBM-Swift/Kitura) | 7378 | 490 | Swift | 67 | A Swift web framework and HTTP server. | 2020-06-14T16:55:53Z |
+| 48 | [ios-oss](https://github.com/kickstarter/ios-oss) | 7339 | 1093 | Swift | 6 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2020-07-01T02:40:24Z |
+| 49 | [clashX](https://github.com/yichengchen/clashX) | 7317 | 1078 | Swift | 8 | None | 2020-06-30T10:42:41Z |
 | 50 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) | 7273 | 758 | Swift | 24 | [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift. | 2020-06-25T02:33:59Z |
-| 51 | [mas](https://github.com/mas-cli/mas) | 7193 | 179 | Swift | 57 | :package: Mac App Store command line interface | 2020-06-16T15:46:29Z |
-| 52 | [Lona](https://github.com/airbnb/Lona) | 7135 | 234 | Swift | 21 | A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts. | 2020-06-07T18:33:28Z |
-| 53 | [Cartography](https://github.com/robb/Cartography) | 7101 | 520 | Swift | 60 | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | 2020-04-27T02:20:51Z |
+| 51 | [mas](https://github.com/mas-cli/mas) | 7194 | 178 | Swift | 57 | :package: Mac App Store command line interface | 2020-06-16T15:46:29Z |
+| 52 | [Lona](https://github.com/airbnb/Lona) | 7137 | 234 | Swift | 21 | A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts. | 2020-06-07T18:33:28Z |
+| 53 | [Cartography](https://github.com/robb/Cartography) | 7102 | 520 | Swift | 60 | A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: | 2020-04-27T02:20:51Z |
 | 54 | [SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 6994 | 1201 | Swift | 266 | A type-safe, Swift-language layer over SQLite3. | 2020-06-25T20:58:13Z |
-| 55 | [Reachability.swift](https://github.com/ashleymills/Reachability.swift) | 6839 | 775 | Swift | 66 | Replacement for Apple's Reachability re-written in Swift with closures | 2020-06-27T22:19:24Z |
-| 56 | [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) | 6609 | 650 | Swift | 75 | The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable | 2020-06-12T01:54:51Z |
+| 55 | [Reachability.swift](https://github.com/ashleymills/Reachability.swift) | 6841 | 776 | Swift | 66 | Replacement for Apple's Reachability re-written in Swift with closures | 2020-06-27T22:19:24Z |
+| 56 | [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) | 6609 | 651 | Swift | 74 | The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable | 2020-06-12T01:54:51Z |
 | 57 | [ReSwift](https://github.com/ReSwift/ReSwift) | 6496 | 448 | Swift | 52 | Unidirectional Data Flow in Swift - Inspired by Redux | 2020-05-18T18:54:41Z |
-| 58 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) | 6361 | 470 | Swift | 87 | The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs! | 2020-06-29T20:55:15Z |
-| 59 | [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) | 6341 | 1155 | Swift | 287 | Android PagerTabStrip for iOS. | 2020-02-08T18:39:31Z |
+| 58 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) | 6362 | 470 | Swift | 87 | The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs! | 2020-07-04T20:10:12Z |
+| 59 | [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) | 6342 | 1155 | Swift | 287 | Android PagerTabStrip for iOS. | 2020-02-08T18:39:31Z |
 | 60 | [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) | 6333 | 767 | Swift | 3 | A curated list of awesome ARKit projects and resources. Feel free to contribute! | 2020-03-01T10:31:32Z |
-| 61 | [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) | 6166 | 1430 | Swift | 3 | 30 mini Swift Apps for self-study | 2019-11-14T22:00:56Z |
+| 61 | [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) | 6168 | 1431 | Swift | 3 | 30 mini Swift Apps for self-study | 2019-11-14T22:00:56Z |
 | 62 | [Starscream](https://github.com/daltoniam/Starscream) | 6030 | 764 | Swift | 48 | Websockets in swift for iOS and OSX | 2020-06-30T01:46:10Z |
-| 63 | [swift-nio](https://github.com/apple/swift-nio) | 5965 | 426 | Swift | 114 | Event-driven network application framework for high performance protocol servers & clients, non-blocking. | 2020-07-03T09:14:38Z |
+| 63 | [swift-nio](https://github.com/apple/swift-nio) | 5966 | 426 | Swift | 114 | Event-driven network application framework for high performance protocol servers & clients, non-blocking. | 2020-07-03T09:14:38Z |
 | 64 | [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) | 5951 | 621 | Swift | 36 | Scrollable UINavigationBar that follows the scrolling of a UIScrollView | 2020-06-07T08:30:16Z |
 | 65 | [Yep](https://github.com/CatchChat/Yep) | 5905 | 1297 | Swift | 6 | Meet Genius | 2017-02-01T10:52:46Z |
-| 66 | [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) | 5859 | 417 | Swift | 6 | ViewAnimator brings your UI to life with just one line | 2020-03-06T11:59:11Z |
-| 67 | [SwiftDate](https://github.com/malcommac/SwiftDate) | 5790 | 568 | Swift | 66 | Parse, validate, manipulate, and display dates, time and timezones in Swift | 2020-06-30T13:16:18Z |
+| 66 | [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) | 5859 | 418 | Swift | 6 | ViewAnimator brings your UI to life with just one line | 2020-03-06T11:59:11Z |
+| 67 | [SwiftDate](https://github.com/malcommac/SwiftDate) | 5792 | 568 | Swift | 66 | Parse, validate, manipulate, and display dates, time and timezones in Swift | 2020-06-30T13:16:18Z |
 | 68 | [Swift-AI](https://github.com/Swift-AI/Swift-AI) | 5735 | 550 | Swift | 8 | The Swift machine learning library. | 2017-05-03T22:01:09Z |
 | 69 | [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) | 5668 | 551 | Swift | 15 | Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS. | 2020-06-23T17:19:08Z |
-| 70 | [gitignore.io](https://github.com/toptal/gitignore.io) | 5648 | 464 | Swift | 22 | Create useful .gitignore files for your project | 2020-06-08T10:10:09Z |
+| 70 | [gitignore.io](https://github.com/toptal/gitignore.io) | 5649 | 464 | Swift | 22 | Create useful .gitignore files for your project | 2020-06-08T10:10:09Z |
 | 71 | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) | 5589 | 532 | Swift | 44 | A very flexible message bar for iOS written in Swift. | 2020-06-15T15:19:46Z |
 | 72 | [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) | 5433 | 590 | Swift | 2 | Custom UITextFields effects inspired by Codrops, built using Swift | 2020-05-28T00:07:03Z |
-| 73 | [FSPagerView](https://github.com/WenchaoD/FSPagerView) | 5397 | 660 | Swift | 112 | FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders. | 2020-07-04T03:45:18Z |
-| 74 | [Sourcery](https://github.com/krzysztofzablocki/Sourcery) | 5386 | 395 | Swift | 65 | Meta-programming for Swift, stop writing boilerplate code. | 2020-07-01T22:27:34Z |
-| 75 | [LoginCritter](https://github.com/cgoldsby/LoginCritter) | 5337 | 328 | Swift | 1 | An animated avatar that responds to text field interactions | 2019-12-17T15:36:54Z |
-| 76 | [androidtool-mac](https://github.com/mortenjust/androidtool-mac) | 5310 | 321 | Swift | 66 | One-click screenshots, video recordings, app installation for iOS and Android | 2019-02-28T06:03:22Z |
-| 77 | [expanding-collection](https://github.com/Ramotion/expanding-collection) | 5268 | 556 | Swift | 28 | :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/ | 2020-04-06T06:53:36Z |
-| 78 | [Macaw](https://github.com/exyte/Macaw) | 5242 | 439 | Swift | 93 | Powerful and easy-to-use vector graphics Swift library with SVG support | 2020-06-27T07:51:27Z |
+| 73 | [FSPagerView](https://github.com/WenchaoD/FSPagerView) | 5397 | 660 | Swift | 112 | FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders. | 2020-07-04T16:10:56Z |
+| 74 | [Sourcery](https://github.com/krzysztofzablocki/Sourcery) | 5387 | 395 | Swift | 65 | Meta-programming for Swift, stop writing boilerplate code. | 2020-07-01T22:27:34Z |
+| 75 | [LoginCritter](https://github.com/cgoldsby/LoginCritter) | 5338 | 328 | Swift | 1 | An animated avatar that responds to text field interactions | 2019-12-17T15:36:54Z |
+| 76 | [androidtool-mac](https://github.com/mortenjust/androidtool-mac) | 5311 | 321 | Swift | 66 | One-click screenshots, video recordings, app installation for iOS and Android | 2019-02-28T06:03:22Z |
+| 77 | [expanding-collection](https://github.com/Ramotion/expanding-collection) | 5269 | 556 | Swift | 28 | :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion - https://www.ramotion.com/agency/app-development/ | 2020-04-06T06:53:36Z |
+| 78 | [Macaw](https://github.com/exyte/Macaw) | 5243 | 439 | Swift | 93 | Powerful and easy-to-use vector graphics Swift library with SVG support | 2020-06-27T07:51:27Z |
 | 79 | [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) | 5196 | 633 | Swift | 27 | Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift. | 2020-06-21T15:48:29Z |
 | 80 | [Nuke](https://github.com/kean/Nuke) | 5171 | 316 | Swift | 10 | Powerful image loading and caching system | 2020-06-28T19:37:00Z |
-| 81 | [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather) | 5128 | 1213 | Swift | 8 | Swift Language Weather is an iOS weather app developed in Swift 4.  | 2019-10-26T08:23:28Z |
-| 82 | [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) | 5126 | 445 | Swift | 64 | An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. | 2020-05-03T12:53:29Z |
+| 81 | [SwiftLanguageWeather](https://github.com/JakeLin/SwiftLanguageWeather) | 5129 | 1213 | Swift | 8 | Swift Language Weather is an iOS weather app developed in Swift 4.  | 2019-10-26T08:23:28Z |
+| 82 | [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) | 5127 | 445 | Swift | 64 | An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. | 2020-05-03T12:53:29Z |
 | 83 | [PageMenu](https://github.com/PageMenu/PageMenu) | 5092 | 899 | Swift | 364 | A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) | 2020-07-01T19:18:17Z |
 | 84 | [HanekeSwift](https://github.com/Haneke/HanekeSwift) | 5018 | 586 | Swift | 97 | A lightweight generic cache for iOS written in Swift with extra love for images. | 2020-05-13T15:38:30Z |
 | 85 | [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) | 4996 | 731 | Swift | 158 | Beautiful animated Alert View. Written in Swift | 2020-06-04T19:46:56Z |
-| 86 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | 4961 | 1356 | Swift | 429 | A private messenger for iOS. | 2020-07-03T21:01:34Z |
+| 86 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | 4962 | 1357 | Swift | 429 | A private messenger for iOS. | 2020-07-03T21:01:34Z |
 | 87 | [PermissionScope](https://github.com/nickoneill/PermissionScope) | 4916 | 533 | Swift | 55 | Intelligent iOS permissions UI and unified API | 2017-10-31T17:34:17Z |
-| 88 | [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) | 4898 | 549 | Swift | 101 | Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺ | 2020-06-26T21:44:07Z |
+| 88 | [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) | 4901 | 549 | Swift | 102 | Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺ | 2020-06-26T21:44:07Z |
 | 89 | [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) | 4827 | 581 | Swift | 83 | Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date... | 2020-02-17T20:45:49Z |
-| 90 | [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) | 4819 | 362 | Swift | 47 | SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps. | 2020-06-26T12:44:03Z |
-| 91 | [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) | 4812 | 355 | Swift | 2 | Convenient & secure logging during development & release in Swift 3, 4 & 5 | 2020-07-04T06:57:14Z |
-| 92 | [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) | 4782 | 667 | Swift | 28 | Combines the high accuracy of AR with the scale of GPS data. | 2020-04-29T19:44:24Z |
+| 90 | [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) | 4820 | 363 | Swift | 47 | SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps. | 2020-06-26T12:44:03Z |
+| 91 | [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) | 4812 | 355 | Swift | 3 | Convenient & secure logging during development & release in Swift 3, 4 & 5 | 2020-07-04T06:57:14Z |
+| 92 | [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) | 4782 | 667 | Swift | 29 | Combines the high accuracy of AR with the scale of GPS data. | 2020-04-29T19:44:24Z |
 | 93 | [BulletinBoard](https://github.com/alexaubry/BulletinBoard) | 4758 | 261 | Swift | 37 | General-purpose contextual cards for iOS | 2020-06-04T19:01:41Z |
-| 94 | [vimr](https://github.com/qvacua/vimr) | 4749 | 144 | Swift | 198 | VimR — Neovim GUI for macOS | 2020-06-30T20:36:19Z |
+| 94 | [vimr](https://github.com/qvacua/vimr) | 4749 | 144 | Swift | 198 | VimR — Neovim GUI for macOS | 2020-07-04T17:10:07Z |
 | 95 | [Surge](https://github.com/Jounce/Surge) | 4741 | 437 | Swift | 12 | A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation. | 2020-05-16T18:53:10Z |
-| 96 | [Koloda](https://github.com/Yalantis/Koloda) | 4709 | 737 | Swift | 24 | KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.  | 2020-06-26T09:16:47Z |
-| 97 | [SideMenu](https://github.com/jonkykong/SideMenu) | 4665 | 599 | Swift | 9 | Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less. | 2020-03-27T01:06:46Z |
-| 98 | [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | 4650 | 382 | Swift | 12 | SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation. | 2020-06-24T12:14:30Z |
-| 99 | [Gifski](https://github.com/sindresorhus/Gifski) | 4640 | 165 | Swift | 20 | 🌈 Convert videos to high-quality GIFs on your Mac | 2020-06-30T07:26:47Z |
-| 100 | [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | 4616 | 415 | Swift | 0 | Gathering all info published, both by Apple and by others, about new framework SwiftUI.  | 2020-05-19T08:53:23Z |
+| 96 | [Koloda](https://github.com/Yalantis/Koloda) | 4710 | 737 | Swift | 24 | KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.  | 2020-06-26T09:16:47Z |
+| 97 | [SideMenu](https://github.com/jonkykong/SideMenu) | 4666 | 599 | Swift | 9 | Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less. | 2020-03-27T01:06:46Z |
+| 98 | [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | 4653 | 382 | Swift | 12 | SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation. | 2020-06-24T12:14:30Z |
+| 99 | [Gifski](https://github.com/sindresorhus/Gifski) | 4641 | 165 | Swift | 20 | 🌈 Convert videos to high-quality GIFs on your Mac | 2020-06-30T07:26:47Z |
+| 100 | [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) | 4619 | 415 | Swift | 0 | Gathering all info published, both by Apple and by others, about new framework SwiftUI.  | 2020-05-19T08:53:23Z |
 
