@@ -5,60 +5,60 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 50648 | 2089 | Clojure | 241 | Free monospaced font with programming ligatures | 2020-09-18T16:25:57Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 22234 | 2956 | Clojure | 1828 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2020-09-20T16:24:43Z |
-| 3 | [LightTable](https://github.com/LightTable/LightTable) | 11251 | 937 | Clojure | 175 | The Light Table IDE ⛺ | 2020-07-07T00:08:34Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 50672 | 2090 | Clojure | 240 | Free monospaced font with programming ligatures | 2020-09-18T16:25:57Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 22243 | 2962 | Clojure | 1827 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2020-09-21T20:43:48Z |
+| 3 | [LightTable](https://github.com/LightTable/LightTable) | 11252 | 937 | Clojure | 175 | The Light Table IDE ⛺ | 2020-07-07T00:08:34Z |
 | 4 | [clojurescript](https://github.com/clojure/clojurescript) | 8479 | 749 | Clojure | 1 | Clojure to JS compiler | 2020-09-05T18:06:22Z |
 | 5 | [leiningen](https://github.com/technomancy/leiningen) | 6850 | 1576 | Clojure | 163 | Automate Clojure projects without setting your hair on fire. | 2020-08-31T15:46:07Z |
 | 6 | [om](https://github.com/omcljs/om) | 6662 | 370 | Clojure | 80 | ClojureScript interface to Facebook's React | 2020-08-17T12:30:25Z |
-| 7 | [overtone](https://github.com/overtone/overtone) | 5027 | 424 | Clojure | 98 | Collaborative Programmable Music  | 2020-08-25T16:52:24Z |
-| 8 | [jepsen](https://github.com/jepsen-io/jepsen) | 4834 | 551 | Clojure | 45 | A framework for distributed systems verification, with fault injection | 2020-09-15T01:24:42Z |
-| 9 | [re-frame](https://github.com/day8/re-frame) | 4542 | 615 | Clojure | 20 | A ClojureScript framework for building user interfaces, leveraging React | 2020-09-20T13:08:25Z |
-| 10 | [reagent](https://github.com/reagent-project/reagent) | 3972 | 348 | Clojure | 47 | A minimalistic ClojureScript interface to React.js | 2020-08-19T14:33:00Z |
-| 11 | [riemann](https://github.com/riemann/riemann) | 3957 | 525 | Clojure | 17 | A network event stream processing system, in Clojure. | 2020-09-06T04:19:59Z |
+| 7 | [overtone](https://github.com/overtone/overtone) | 5029 | 424 | Clojure | 98 | Collaborative Programmable Music  | 2020-08-25T16:52:24Z |
+| 8 | [jepsen](https://github.com/jepsen-io/jepsen) | 4834 | 551 | Clojure | 45 | A framework for distributed systems verification, with fault injection | 2020-09-22T01:28:03Z |
+| 9 | [re-frame](https://github.com/day8/re-frame) | 4545 | 615 | Clojure | 20 | A ClojureScript framework for building user interfaces, leveraging React | 2020-09-20T13:08:25Z |
+| 10 | [reagent](https://github.com/reagent-project/reagent) | 3973 | 348 | Clojure | 47 | A minimalistic ClojureScript interface to React.js | 2020-08-19T14:33:00Z |
+| 11 | [riemann](https://github.com/riemann/riemann) | 3958 | 525 | Clojure | 17 | A network event stream processing system, in Clojure. | 2020-09-06T04:19:59Z |
 | 12 | [compojure](https://github.com/weavejester/compojure) | 3819 | 249 | Clojure | 5 | A concise routing library for Ring/Clojure | 2020-08-04T18:41:15Z |
-| 13 | [icepick](https://github.com/frankiesardo/icepick) | 3817 | 218 | Clojure | 25 | Android Instance State made easy | 2018-08-21T21:53:46Z |
-| 14 | [datascript](https://github.com/tonsky/datascript) | 3812 | 252 | Clojure | 64 | Immutable database and Datalog query engine for Clojure, ClojureScript and JS | 2020-08-28T19:10:44Z |
-| 15 | [alda](https://github.com/alda-lang/alda) | 3627 | 212 | Clojure | 1 | A music programming language for musicians. :notes: | 2020-09-20T18:59:09Z |
+| 13 | [icepick](https://github.com/frankiesardo/icepick) | 3818 | 218 | Clojure | 25 | Android Instance State made easy | 2018-08-21T21:53:46Z |
+| 14 | [datascript](https://github.com/tonsky/datascript) | 3814 | 252 | Clojure | 64 | Immutable database and Datalog query engine for Clojure, ClojureScript and JS | 2020-08-28T19:10:44Z |
+| 15 | [alda](https://github.com/alda-lang/alda) | 3629 | 212 | Clojure | 1 | A music programming language for musicians. :notes: | 2020-09-20T18:59:09Z |
 | 16 | [clojure-koans](https://github.com/functional-koans/clojure-koans) | 3363 | 1947 | Clojure | 7 | A set of exercises for learning Clojure | 2020-07-08T15:10:10Z |
-| 17 | [mori](https://github.com/swannodette/mori) | 3258 | 149 | Clojure | 64 | ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript | 2020-04-19T19:59:59Z |
-| 18 | [ring](https://github.com/ring-clojure/ring) | 3176 | 463 | Clojure | 42 | Clojure HTTP server abstraction | 2020-08-20T05:57:51Z |
-| 19 | [status-react](https://github.com/status-im/status-react) | 2976 | 756 | Clojure | 411 | a free (libre) open source, mobile OS for Ethereum | 2020-09-20T12:10:03Z |
-| 20 | [modern-cljs](https://github.com/magomimmo/modern-cljs) | 2859 | 310 | Clojure | 38 | A series of tutorials on ClojureScript | 2018-08-30T16:05:03Z |
+| 17 | [mori](https://github.com/swannodette/mori) | 3259 | 149 | Clojure | 64 | ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript | 2020-04-19T19:59:59Z |
+| 18 | [ring](https://github.com/ring-clojure/ring) | 3177 | 463 | Clojure | 42 | Clojure HTTP server abstraction | 2020-08-20T05:57:51Z |
+| 19 | [status-react](https://github.com/status-im/status-react) | 2976 | 756 | Clojure | 418 | a free (libre) open source, mobile OS for Ethereum | 2020-09-21T17:54:36Z |
+| 20 | [modern-cljs](https://github.com/magomimmo/modern-cljs) | 2860 | 310 | Clojure | 38 | A series of tutorials on ClojureScript | 2018-08-30T16:05:03Z |
 | 21 | [lein-figwheel](https://github.com/bhauman/lein-figwheel) | 2816 | 218 | Clojure | 96 | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! | 2020-06-17T16:14:38Z |
 | 22 | [quil](https://github.com/quil/quil) | 2520 | 152 | Clojure | 30 | Main repo. Quil source code. | 2020-01-18T21:18:17Z |
 | 23 | [instaparse](https://github.com/Engelberg/instaparse) | 2327 | 128 | Clojure | 35 | None | 2020-08-10T20:17:07Z |
-| 24 | [pedestal](https://github.com/pedestal/pedestal) | 2314 | 264 | Clojure | 42 | The Pedestal Server-side Libraries | 2020-08-14T18:55:25Z |
-| 25 | [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) | 2306 | 415 | Clojure | 40 | This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com | 2018-12-27T14:38:31Z |
-| 26 | [klipse](https://github.com/viebel/klipse) | 2297 | 116 | Clojure | 77 | Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp | 2020-09-20T20:27:29Z |
-| 27 | [aleph](https://github.com/aleph-io/aleph) | 2289 | 221 | Clojure | 65 | asynchronous communication for clojure | 2020-09-10T17:49:24Z |
-| 28 | [incanter](https://github.com/incanter/incanter) | 2156 | 292 | Clojure | 74 | Clojure-based, R-like statistical computing and graphics environment for the JVM | 2020-03-20T12:23:59Z |
-| 29 | [hiccup](https://github.com/weavejester/hiccup) | 2151 | 151 | Clojure | 31 | Fast library for rendering HTML in Clojure | 2020-09-07T03:18:40Z |
+| 24 | [klipse](https://github.com/viebel/klipse) | 2325 | 116 | Clojure | 77 | Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp | 2020-09-20T20:27:29Z |
+| 25 | [pedestal](https://github.com/pedestal/pedestal) | 2314 | 264 | Clojure | 42 | The Pedestal Server-side Libraries | 2020-08-14T18:55:25Z |
+| 26 | [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) | 2306 | 415 | Clojure | 40 | This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com | 2018-12-27T14:38:31Z |
+| 27 | [aleph](https://github.com/aleph-io/aleph) | 2290 | 221 | Clojure | 63 | asynchronous communication for clojure | 2020-09-21T08:43:12Z |
+| 28 | [incanter](https://github.com/incanter/incanter) | 2155 | 292 | Clojure | 74 | Clojure-based, R-like statistical computing and graphics environment for the JVM | 2020-03-20T12:23:59Z |
+| 29 | [hiccup](https://github.com/weavejester/hiccup) | 2152 | 151 | Clojure | 31 | Fast library for rendering HTML in Clojure | 2020-09-07T03:18:40Z |
 | 30 | [specter](https://github.com/redplanetlabs/specter) | 2092 | 83 | Clojure | 27 | Clojure(Script)'s missing piece | 2020-09-18T17:25:18Z |
 | 31 | [schema](https://github.com/plumatic/schema) | 2082 | 250 | Clojure | 24 | Clojure(Script) library for declarative data description and validation | 2020-01-18T21:46:24Z |
-| 32 | [awesome-clojure](https://github.com/razum2um/awesome-clojure) | 1989 | 166 | Clojure | 7 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff | 2020-08-21T01:38:13Z |
+| 32 | [awesome-clojure](https://github.com/razum2um/awesome-clojure) | 1990 | 166 | Clojure | 7 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff | 2020-08-21T01:38:13Z |
 | 33 | [onyx](https://github.com/onyx-platform/onyx) | 1961 | 210 | Clojure | 84 | Distributed, masterless, high performance, fault tolerant data processing | 2019-08-31T10:58:07Z |
 | 34 | [component](https://github.com/stuartsierra/component) | 1809 | 93 | Clojure | 0 | Managed lifecycle of stateful objects in Clojure | 2020-03-07T16:54:18Z |
-| 35 | [lumo](https://github.com/anmonteiro/lumo) | 1783 | 91 | Clojure | 94 | Fast, cross-platform, standalone ClojureScript environment | 2020-09-11T11:17:18Z |
+| 35 | [lumo](https://github.com/anmonteiro/lumo) | 1785 | 91 | Clojure | 94 | Fast, cross-platform, standalone ClojureScript environment | 2020-09-11T11:17:18Z |
 | 36 | [core.async](https://github.com/clojure/core.async) | 1757 | 185 | Clojure | 2 | Facilities for async programming and communication in Clojure | 2020-07-24T15:57:54Z |
-| 37 | [swarmpit](https://github.com/swarmpit/swarmpit) | 1736 | 161 | Clojure | 112 | Lightweight mobile-friendly Docker Swarm management UI | 2020-09-08T09:01:34Z |
+| 37 | [swarmpit](https://github.com/swarmpit/swarmpit) | 1739 | 162 | Clojure | 112 | Lightweight mobile-friendly Docker Swarm management UI | 2020-09-08T09:01:34Z |
 | 38 | [transit-format](https://github.com/cognitect/transit-format) | 1710 | 34 | Clojure | 9 | A data interchange format. | 2019-11-08T19:00:31Z |
 | 39 | [boot](https://github.com/boot-clj/boot) | 1691 | 173 | Clojure | 111 | Build tooling for Clojure. | 2020-01-16T18:56:30Z |
 | 40 | [kibit](https://github.com/jonase/kibit) | 1638 | 127 | Clojure | 67 | There's a function for that! | 2020-04-20T23:51:17Z |
-| 41 | [athens](https://github.com/athensresearch/athens) | 1616 | 101 | Clojure | 33 | Open-Source Networked Thought. Rolling out our Beta to Sponsors. Read more at https://www.notion.so/athensresearch/MVP-Update-Funding-and-Why-I-Started-Athens-e68822f0c3654660ae621cdcbf932bc4 | 2020-09-20T03:01:48Z |
+| 41 | [athens](https://github.com/athensresearch/athens) | 1631 | 102 | Clojure | 34 | Open-Source Networked Thought. Rolling out our Beta to Sponsors. Read more at https://www.notion.so/athensresearch/MVP-Update-Funding-and-Why-I-Started-Athens-e68822f0c3654660ae621cdcbf932bc4 | 2020-09-22T00:06:17Z |
 | 42 | [Midje](https://github.com/marick/Midje) | 1581 | 126 | Clojure | 43 | Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing | 2020-06-16T14:30:31Z |
-| 43 | [asciinema-player](https://github.com/asciinema/asciinema-player) | 1551 | 177 | Clojure | 63 | Web player for terminal session recordings ⏩ | 2020-05-01T06:57:03Z |
-| 44 | [sente](https://github.com/ptaoussanis/sente) | 1527 | 163 | Clojure | 30 | Realtime web comms for Clojure/Script | 2020-09-19T11:47:43Z |
+| 43 | [asciinema-player](https://github.com/asciinema/asciinema-player) | 1553 | 177 | Clojure | 63 | Web player for terminal session recordings ⏩ | 2020-05-01T06:57:03Z |
+| 44 | [sente](https://github.com/ptaoussanis/sente) | 1528 | 163 | Clojure | 30 | Realtime web comms for Clojure/Script | 2020-09-19T11:47:43Z |
 | 45 | [enlive](https://github.com/cgrand/enlive) | 1520 | 144 | Clojure | 29 | a selector-based (à la CSS) templating and transformation system for Clojure | 2019-06-04T15:09:32Z |
-| 46 | [clj-http](https://github.com/dakrone/clj-http) | 1501 | 376 | Clojure | 41 | An idiomatic clojure http client wrapping the apache client. Offically supported version. | 2020-09-20T18:15:48Z |
+| 46 | [clj-http](https://github.com/dakrone/clj-http) | 1502 | 376 | Clojure | 42 | An idiomatic clojure http client wrapping the apache client. Offically supported version. | 2020-09-20T18:15:48Z |
 | 47 | [Arcadia](https://github.com/arcadia-unity/Arcadia) | 1493 | 98 | Clojure | 49 | Clojure in Unity | 2020-07-07T00:15:12Z |
-| 48 | [lacinia](https://github.com/walmartlabs/lacinia) | 1467 | 109 | Clojure | 12 | GraphQL implementation in pure Clojure | 2020-09-16T18:23:28Z |
-| 49 | [code-maat](https://github.com/adamtornhill/code-maat) | 1465 | 159 | Clojure | 14 | A command line tool to mine and analyze data from version-control systems | 2020-01-31T08:54:23Z |
-| 50 | [babashka](https://github.com/borkdude/babashka) | 1462 | 80 | Clojure | 37 | A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment) | 2020-09-20T21:31:46Z |
+| 48 | [lacinia](https://github.com/walmartlabs/lacinia) | 1467 | 109 | Clojure | 12 | GraphQL implementation in pure Clojure | 2020-09-21T23:27:52Z |
+| 49 | [code-maat](https://github.com/adamtornhill/code-maat) | 1466 | 159 | Clojure | 14 | A command line tool to mine and analyze data from version-control systems | 2020-01-31T08:54:23Z |
+| 50 | [babashka](https://github.com/borkdude/babashka) | 1465 | 80 | Clojure | 37 | A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment) | 2020-09-21T20:36:39Z |
 | 51 | [Korma](https://github.com/korma/Korma) | 1440 | 235 | Clojure | 81 | Tasty SQL for Clojure. | 2018-08-17T15:20:06Z |
 | 52 | [drake](https://github.com/Factual/drake) | 1437 | 106 | Clojure | 83 | Data workflow tool, like a "Make for data" | 2018-12-12T22:36:59Z |
 | 53 | [closh](https://github.com/dundalek/closh) | 1412 | 48 | Clojure | 59 | Bash-like shell based on Clojure | 2020-06-01T19:10:07Z |
-| 54 | [shadow-cljs](https://github.com/thheller/shadow-cljs) | 1403 | 99 | Clojure | 37 | ClojureScript compilation made easy | 2020-09-11T09:45:04Z |
+| 54 | [shadow-cljs](https://github.com/thheller/shadow-cljs) | 1404 | 99 | Clojure | 38 | ClojureScript compilation made easy | 2020-09-11T09:45:04Z |
 | 55 | [auto-parcel](https://github.com/frankiesardo/auto-parcel) | 1396 | 88 | Clojure | 11 | Android Parcelable models made easy | 2017-02-12T15:10:29Z |
 | 56 | [devcards](https://github.com/bhauman/devcards) | 1395 | 105 | Clojure | 31 | Devcards aims to provide a visual REPL experience for ClojureScript | 2020-05-27T13:53:57Z |
 | 57 | [konstellate](https://github.com/jeremykross/konstellate) | 1389 | 71 | Clojure | 13 | Free and Open Source GUI to Visualize Kubernetes Applications. | 2019-07-25T15:08:39Z |
@@ -68,41 +68,41 @@
 | 61 | [cascalog](https://github.com/nathanmarz/cascalog) | 1359 | 180 | Clojure | 41 | Data processing on Hadoop without the hassle. | 2019-09-17T11:46:12Z |
 | 62 | [duckling_old](https://github.com/facebookarchive/duckling_old) | 1335 | 236 | Clojure | 70 | Deprecated in favor of https://github.com/facebook/duckling | 2019-05-30T14:10:47Z |
 | 63 | [seesaw](https://github.com/daveray/seesaw) | 1331 | 138 | Clojure | 66 | Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library | 2020-02-18T02:12:41Z |
-| 64 | [chestnut](https://github.com/plexus/chestnut) | 1307 | 98 | Clojure | 10 | Application template for Clojure + ClojureScript web apps | 2019-10-12T22:55:19Z |
+| 64 | [chestnut](https://github.com/plexus/chestnut) | 1308 | 98 | Clojure | 10 | Application template for Clojure + ClojureScript web apps | 2019-10-12T22:55:19Z |
 | 65 | [cheshire](https://github.com/dakrone/cheshire) | 1267 | 131 | Clojure | 40 | Clojure JSON and JSON SMILE (binary json format) encoding/decoding | 2020-05-13T13:14:23Z |
-| 66 | [core.logic](https://github.com/clojure/core.logic) | 1263 | 110 | Clojure | 1 | None | 2020-09-16T17:35:03Z |
-| 67 | [timbre](https://github.com/ptaoussanis/timbre) | 1229 | 142 | Clojure | 12 | Pure Clojure/Script logging library | 2020-09-20T11:35:00Z |
-| 68 | [liberator](https://github.com/clojure-liberator/liberator) | 1209 | 137 | Clojure | 62 | Liberator is a Clojure library for building RESTful applications. | 2019-11-08T10:02:11Z |
-| 69 | [ultra](https://github.com/venantius/ultra) | 1204 | 31 | Clojure | 9 | A Leiningen plugin for a superior development environment | 2019-03-09T13:33:25Z |
-| 70 | [uxbox](https://github.com/uxbox/uxbox) | 1204 | 80 | Clojure | 5 | UXBOX - The Open-Source prototyping tool | 2020-09-18T14:15:29Z |
+| 66 | [core.logic](https://github.com/clojure/core.logic) | 1264 | 110 | Clojure | 1 | None | 2020-09-16T17:35:03Z |
+| 67 | [timbre](https://github.com/ptaoussanis/timbre) | 1231 | 142 | Clojure | 12 | Pure Clojure/Script logging library | 2020-09-21T19:04:07Z |
+| 68 | [liberator](https://github.com/clojure-liberator/liberator) | 1210 | 137 | Clojure | 62 | Liberator is a Clojure library for building RESTful applications. | 2019-11-08T10:02:11Z |
+| 69 | [uxbox](https://github.com/uxbox/uxbox) | 1205 | 80 | Clojure | 6 | UXBOX - The Open-Source prototyping tool | 2020-09-21T19:47:49Z |
+| 70 | [ultra](https://github.com/venantius/ultra) | 1204 | 31 | Clojure | 9 | A Leiningen plugin for a superior development environment | 2019-03-09T13:33:25Z |
 | 71 | [cortex](https://github.com/originrose/cortex) | 1203 | 106 | Clojure | 30 | Machine learning in Clojure | 2018-09-10T20:29:23Z |
-| 72 | [honeysql](https://github.com/seancorfield/honeysql) | 1189 | 122 | Clojure | 10 | Turn Clojure data structures into SQL | 2020-09-21T02:17:42Z |
-| 73 | [core.typed](https://github.com/clojure/core.typed) | 1185 | 73 | Clojure | 1 | An optional type system for Clojure | 2020-08-17T19:25:32Z |
-| 74 | [lux](https://github.com/LuxLang/lux) | 1173 | 44 | Clojure | 4 | The Lux Programming Language | 2020-09-16T09:54:35Z |
+| 72 | [honeysql](https://github.com/seancorfield/honeysql) | 1190 | 122 | Clojure | 10 | Turn Clojure data structures into SQL | 2020-09-21T17:56:11Z |
+| 73 | [core.typed](https://github.com/clojure/core.typed) | 1186 | 73 | Clojure | 1 | An optional type system for Clojure | 2020-08-17T19:25:32Z |
+| 74 | [lux](https://github.com/LuxLang/lux) | 1174 | 44 | Clojure | 4 | The Lux Programming Language | 2020-09-16T09:54:35Z |
 | 75 | [friend](https://github.com/cemerick/friend) | 1159 | 123 | Clojure | 31 | An extensible authentication and authorization library for Clojure Ring web applications and services.  | 2019-09-13T02:00:00Z |
-| 76 | [crux](https://github.com/juxt/crux) | 1149 | 72 | Clojure | 111 | General purpose bitemporal database for SQL, Datalog & graph queries | 2020-09-18T12:48:23Z |
-| 77 | [garden](https://github.com/noprompt/garden) | 1138 | 66 | Clojure | 36 | Generate CSS with Clojure | 2020-05-04T22:00:29Z |
+| 76 | [crux](https://github.com/juxt/crux) | 1150 | 73 | Clojure | 111 | General purpose bitemporal database for SQL, Datalog & graph queries | 2020-09-21T16:18:53Z |
+| 77 | [garden](https://github.com/noprompt/garden) | 1139 | 66 | Clojure | 36 | Generate CSS with Clojure | 2020-05-04T22:00:29Z |
 | 78 | [frontend](https://github.com/circleci/frontend) | 1136 | 209 | Clojure | 24 | CircleCI's frontend | 2019-12-04T01:56:03Z |
 | 79 | [frak](https://github.com/noprompt/frak) | 1076 | 40 | Clojure | 1 | Transform collections of strings into regular expressions. | 2019-04-10T22:38:00Z |
 | 80 | [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) | 1056 | 74 | Clojure | 17 | Functional, persistent, off-heap, high performance data structure | 2018-07-22T21:01:33Z |
 | 81 | [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) | 1054 | 160 | Clojure | 50 | Leiningen plugin to make ClojureScript development easy. | 2020-04-23T05:43:38Z |
 | 82 | [compojure-api](https://github.com/metosin/compojure-api) | 1041 | 134 | Clojure | 32 | Sweet web apis with Compojure & Swagger | 2020-02-26T21:33:43Z |
 | 83 | [mount](https://github.com/tolitius/mount) | 1008 | 71 | Clojure | 23 | managing Clojure and ClojureScript app state since (reset) | 2020-09-11T00:12:55Z |
-| 84 | [test.check](https://github.com/clojure/test.check) | 991 | 108 | Clojure | 0 | QuickCheck for Clojure | 2020-09-16T17:45:04Z |
+| 84 | [test.check](https://github.com/clojure/test.check) | 993 | 108 | Clojure | 0 | QuickCheck for Clojure | 2020-09-16T17:45:04Z |
 | 85 | [4clojure](https://github.com/4clojure/4clojure) | 980 | 213 | Clojure | 84 | An interactive problem website for learning Clojure | 2019-12-29T07:49:17Z |
 | 86 | [core.match](https://github.com/clojure/core.match) | 978 | 57 | Clojure | 0 | None | 2020-09-16T17:04:11Z |
 | 87 | [eastwood](https://github.com/jonase/eastwood) | 978 | 65 | Clojure | 111 | Clojure lint tool | 2020-09-10T02:26:11Z |
-| 88 | [criterium](https://github.com/hugoduncan/criterium) | 976 | 49 | Clojure | 14 | Benchmarking library for clojure | 2020-09-19T00:56:50Z |
-| 89 | [clara-rules](https://github.com/cerner/clara-rules) | 975 | 100 | Clojure | 77 | Forward-chaining rules in Clojure(Script) | 2020-09-09T23:09:34Z |
+| 88 | [clara-rules](https://github.com/cerner/clara-rules) | 976 | 100 | Clojure | 77 | Forward-chaining rules in Clojure(Script) | 2020-09-09T23:09:34Z |
+| 89 | [criterium](https://github.com/hugoduncan/criterium) | 976 | 49 | Clojure | 14 | Benchmarking library for clojure | 2020-09-19T00:56:50Z |
 | 90 | [duct](https://github.com/duct-framework/duct) | 969 | 46 | Clojure | 9 | Server-side application framework for Clojure | 2020-04-23T18:43:54Z |
 | 91 | [carmine](https://github.com/ptaoussanis/carmine) | 960 | 102 | Clojure | 12 | Redis client and message queue for Clojure | 2020-09-17T10:06:13Z |
-| 92 | [clj-kondo](https://github.com/borkdude/clj-kondo) | 954 | 128 | Clojure | 119 | A linter for Clojure code that sparks joy. | 2020-09-17T06:17:17Z |
-| 93 | [cljs-devtools](https://github.com/binaryage/cljs-devtools) | 943 | 44 | Clojure | 9 | A collection of Chrome DevTools enhancements for ClojureScript developers | 2020-07-26T13:07:46Z |
+| 92 | [clj-kondo](https://github.com/borkdude/clj-kondo) | 956 | 128 | Clojure | 119 | A linter for Clojure code that sparks joy. | 2020-09-21T20:48:42Z |
+| 93 | [cljs-devtools](https://github.com/binaryage/cljs-devtools) | 945 | 44 | Clojure | 9 | A collection of Chrome DevTools enhancements for ClojureScript developers | 2020-07-26T13:07:46Z |
 | 94 | [play-clj](https://github.com/oakes/play-clj) | 935 | 76 | Clojure | 9 | A Clojure game library | 2019-03-11T00:46:23Z |
 | 95 | [bidi](https://github.com/juxt/bidi) | 931 | 92 | Clojure | 53 | Bidirectional URI routing | 2020-02-19T16:01:47Z |
 | 96 | [logic-tutorial](https://github.com/swannodette/logic-tutorial) | 921 | 83 | Clojure | 14 | A Very Gentle Introduction to Relational Programming | 2018-10-30T11:45:38Z |
-| 97 | [datahike](https://github.com/replikativ/datahike) | 913 | 47 | Clojure | 73 | A durable datalog implementation adaptable for distribution.  | 2020-09-20T19:08:06Z |
-| 98 | [hoplon](https://github.com/hoplon/hoplon) | 911 | 67 | Clojure | 42 | Hoplon web development tools and libraries. | 2020-06-03T20:43:19Z |
+| 97 | [datahike](https://github.com/replikativ/datahike) | 915 | 47 | Clojure | 70 | A durable datalog implementation adaptable for distribution.  | 2020-09-21T11:17:17Z |
+| 98 | [hoplon](https://github.com/hoplon/hoplon) | 912 | 67 | Clojure | 42 | Hoplon web development tools and libraries. | 2020-06-03T20:43:19Z |
 | 99 | [markright](https://github.com/dvcrn/markright) | 908 | 58 | Clojure | 24 | ➡ Electron powered markdown editor with live preview | 2017-03-01T01:38:59Z |
 | 100 | [amazonica](https://github.com/mcohen01/amazonica) | 890 | 189 | Clojure | 28 | A comprehensive Clojure client for the entire Amazon AWS api. | 2020-08-31T00:21:52Z |
 
