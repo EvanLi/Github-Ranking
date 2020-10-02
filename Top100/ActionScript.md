@@ -8,7 +8,7 @@
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7250 | 124 | ActionScript | 28 | Petition to open source Flash and Shockwave spec | 2020-06-15T23:17:44Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 5971 | 485 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2020-09-28T21:21:33Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2263 | 861 | ActionScript | 84 | The Cross Platform Game Engine | 2020-07-13T09:29:24Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2209 | 940 | ActionScript | 147 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2209 | 941 | ActionScript | 147 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1496 | 465 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1303 | 513 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1159 | 201 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -17,7 +17,7 @@
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 972 | 265 | ActionScript | 18 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 11 | [feathersui-starling](https://github.com/BowlerHatLLC/feathersui-starling) | 935 | 403 | ActionScript | 177 | User interface components for Starling Framework and Adobe AIR | 2020-08-03T16:22:02Z |
 | 12 | [flashls](https://github.com/mangui/flashls) | 766 | 275 | ActionScript | 173 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
-| 13 | [bfxr](https://github.com/increpare/bfxr) | 731 | 74 | ActionScript | 8 | Flash + AIR sound effects generator.   Based on Sfxr. | 2019-10-22T09:09:23Z |
+| 13 | [bfxr](https://github.com/increpare/bfxr) | 732 | 74 | ActionScript | 8 | Flash + AIR sound effects generator.   Based on Sfxr. | 2019-10-22T09:09:23Z |
 | 14 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 651 | 283 | ActionScript | 113 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 15 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 631 | 181 | ActionScript | 22 | Minimal ActionScript 3.0 UI Components for Flash | 2015-06-26T18:19:31Z |
 | 16 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 554 | 248 | ActionScript | 67 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
@@ -45,7 +45,7 @@
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 315 | 141 | ActionScript | 6 | Mirror of Apache Flex SDK | 2019-11-14T18:33:03Z |
 | 39 | [Flare](https://github.com/prefuse/Flare) | 307 | 70 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 40 | [mBlock](https://github.com/Makeblock-official/mBlock) | 289 | 223 | ActionScript | 35 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
-| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 287 | 97 | ActionScript | 150 | Apache Royale ASJS | 2020-09-30T20:39:04Z |
+| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 287 | 97 | ActionScript | 150 | Apache Royale ASJS | 2020-10-01T18:06:13Z |
 | 42 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 286 | 92 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 43 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 282 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 44 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 282 | 84 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
@@ -55,7 +55,7 @@
 | 48 | [flexunit](https://github.com/flexunit/flexunit) | 271 | 90 | ActionScript | 3 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 49 | [Flint](https://github.com/richardlord/Flint) | 266 | 54 | ActionScript | 2 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 50 | [Spike](https://github.com/SpikeApp/Spike) | 263 | 190 | ActionScript | 48 | Get The Most Out Of Your CGM Transmitter | 2020-05-07T18:01:13Z |
-| 51 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 253 | 25 | ActionScript | 1 | Anodyne 1 Source Code | 2020-07-12T23:23:46Z |
+| 51 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 254 | 25 | ActionScript | 1 | Anodyne 1 Source Code | 2020-07-12T23:23:46Z |
 | 52 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 246 | 112 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 53 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 244 | 95 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 54 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 242 | 107 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
