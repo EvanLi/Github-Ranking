@@ -5,103 +5,103 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 39420 | 2960 | Vim script | 1294 | Vim-fork focused on extensibility and usability | 2020-11-06T01:34:31Z |
-| 2 | [vimrc](https://github.com/amix/vimrc) | 23041 | 6208 | Vim script | 17 | The ultimate Vim configuration (vimrc) | 2020-10-31T22:00:00Z |
-| 3 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 21817 | 2446 | Vim script | 202 | Vundle, the plug-in manager for Vim | 2020-09-19T21:31:43Z |
-| 4 | [vim](https://github.com/vim/vim) | 21789 | 3168 | Vim script | 1042 | The official Vim repository | 2020-11-06T02:22:42Z |
-| 5 | [vim-plug](https://github.com/junegunn/vim-plug) | 21084 | 1200 | Vim script | 52 | :hibiscus: Minimalist Vim Plugin Manager | 2020-11-03T13:56:58Z |
-| 6 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | 15182 | 1235 | Vim script | 95 | A community-driven modular vim distribution - The ultimate vim configuration | 2020-11-06T01:46:15Z |
-| 7 | [spf13-vim](https://github.com/spf13/spf13-vim) | 14669 | 3741 | VimL | 356 | The ultimate vim distribution | 2020-10-26T23:34:37Z |
-| 8 | [solarized](https://github.com/altercation/solarized) | 14613 | 3515 | Vim script | 224 | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | 2020-04-27T06:49:07Z |
-| 9 | [vim-airline](https://github.com/vim-airline/vim-airline) | 14409 | 964 | Vim script | 26 | lean & mean status/tabline for vim that's light as air | 2020-11-05T14:50:11Z |
-| 10 | [nerdtree](https://github.com/preservim/nerdtree) | 14347 | 1245 | Vim script | 4 | A tree explorer plugin for vim. | 2020-10-14T23:20:58Z |
-| 11 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 13457 | 786 | Vim script | 39 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2020-10-27T00:33:27Z |
-| 12 | [vim-go](https://github.com/fatih/vim-go) | 12770 | 1268 | Vim script | 32 | Go development plugin for Vim | 2020-11-05T16:51:23Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 39436 | 2960 | Vim script | 1296 | Vim-fork focused on extensibility and usability | 2020-11-07T01:34:58Z |
+| 2 | [vimrc](https://github.com/amix/vimrc) | 23047 | 6210 | Vim script | 17 | The ultimate Vim configuration (vimrc) | 2020-10-31T22:00:00Z |
+| 3 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 21818 | 2447 | Vim script | 202 | Vundle, the plug-in manager for Vim | 2020-09-19T21:31:43Z |
+| 4 | [vim](https://github.com/vim/vim) | 21791 | 3171 | Vim script | 1042 | The official Vim repository | 2020-11-06T17:53:08Z |
+| 5 | [vim-plug](https://github.com/junegunn/vim-plug) | 21096 | 1199 | Vim script | 52 | :hibiscus: Minimalist Vim Plugin Manager | 2020-11-03T13:56:58Z |
+| 6 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | 15192 | 1236 | Vim script | 98 | A community-driven modular vim distribution - The ultimate vim configuration | 2020-11-06T13:44:32Z |
+| 7 | [spf13-vim](https://github.com/spf13/spf13-vim) | 14673 | 3742 | VimL | 356 | The ultimate vim distribution | 2020-10-26T23:34:37Z |
+| 8 | [solarized](https://github.com/altercation/solarized) | 14612 | 3515 | Vim script | 224 | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | 2020-04-27T06:49:07Z |
+| 9 | [vim-airline](https://github.com/vim-airline/vim-airline) | 14412 | 965 | Vim script | 27 | lean & mean status/tabline for vim that's light as air | 2020-11-06T08:11:36Z |
+| 10 | [nerdtree](https://github.com/preservim/nerdtree) | 14352 | 1245 | Vim script | 4 | A tree explorer plugin for vim. | 2020-10-14T23:20:58Z |
+| 11 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 13464 | 787 | Vim script | 39 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2020-10-27T00:33:27Z |
+| 12 | [vim-go](https://github.com/fatih/vim-go) | 12772 | 1269 | Vim script | 32 | Go development plugin for Vim | 2020-11-05T16:51:23Z |
 | 13 | [vim-pathogen](https://github.com/tpope/vim-pathogen) | 11439 | 1196 | Vim script | 26 | pathogen.vim: manage your runtimepath | 2020-01-17T16:19:33Z |
-| 14 | [vim-galore](https://github.com/mhinz/vim-galore) | 11147 | 482 | Vim script | 6 | :mortar_board: All things Vim! | 2020-10-11T16:06:48Z |
-| 15 | [syntastic](https://github.com/vim-syntastic/syntastic) | 10602 | 1126 | Vim script | 41 | Syntax checking hacks for vim | 2020-11-05T12:23:13Z |
-| 16 | [ale](https://github.com/dense-analysis/ale) | 10131 | 1154 | Vim script | 450 | Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support | 2020-11-04T23:37:16Z |
-| 17 | [til](https://github.com/jbranchaud/til) | 9320 | 543 | Vim script | 10 | :memo: Today I Learned | 2020-11-03T21:00:01Z |
-| 18 | [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) | 8747 | 2388 | VimL | 57 | use vim as IDE | 2020-01-03T11:54:32Z |
-| 19 | [vim-surround](https://github.com/tpope/vim-surround) | 8621 | 343 | Vim script | 102 | surround.vim: quoting/parenthesizing made simple | 2020-09-05T11:44:43Z |
-| 20 | [gruvbox](https://github.com/morhetz/gruvbox) | 8224 | 799 | Vim script | 100 | Retro groove color scheme for Vim | 2020-10-05T19:15:03Z |
+| 14 | [vim-galore](https://github.com/mhinz/vim-galore) | 11148 | 483 | Vim script | 7 | :mortar_board: All things Vim! | 2020-11-06T10:43:35Z |
+| 15 | [syntastic](https://github.com/vim-syntastic/syntastic) | 10603 | 1126 | Vim script | 40 | Syntax checking hacks for vim | 2020-11-06T09:51:46Z |
+| 16 | [ale](https://github.com/dense-analysis/ale) | 10134 | 1153 | Vim script | 448 | Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support | 2020-11-06T12:32:18Z |
+| 17 | [til](https://github.com/jbranchaud/til) | 9319 | 543 | Vim script | 10 | :memo: Today I Learned | 2020-11-03T21:00:01Z |
+| 18 | [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) | 8749 | 2388 | VimL | 57 | use vim as IDE | 2020-01-03T11:54:32Z |
+| 19 | [vim-surround](https://github.com/tpope/vim-surround) | 8626 | 343 | Vim script | 102 | surround.vim: quoting/parenthesizing made simple | 2020-09-05T11:44:43Z |
+| 20 | [gruvbox](https://github.com/morhetz/gruvbox) | 8225 | 799 | Vim script | 101 | Retro groove color scheme for Vim | 2020-10-05T19:15:03Z |
 | 21 | [janus](https://github.com/carlhuda/janus) | 7835 | 833 | Vim script | 87 | Vim distribution | 2020-05-16T12:01:35Z |
-| 22 | [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | 7535 | 249 | Vim script | 1 | True Sublime Text style multiple selections for Vim | 2020-07-30T19:52:03Z |
-| 23 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 7126 | 1108 | Vim script | 2 | Vim 从入门到精通 | 2020-09-19T13:32:15Z |
-| 24 | [ctrlp.vim](https://github.com/kien/ctrlp.vim) | 6876 | 636 | VimL | 195 | Fuzzy file, buffer, mru, tag, etc finder. | 2020-09-16T07:25:05Z |
-| 25 | [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | 6663 | 258 | Vim script | 2 | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | 2020-11-05T16:44:31Z |
-| 26 | [macvim](https://github.com/macvim-dev/macvim) | 6168 | 620 | Vim script | 128 | Vim - the text editor - for macOS | 2020-11-05T05:06:07Z |
-| 27 | [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) | 6064 | 1740 | VimL | 135 | precision colorscheme for the vim text editor | 2020-04-23T09:37:51Z |
-| 28 | [vimwiki](https://github.com/vimwiki/vimwiki) | 5848 | 458 | Vim script | 136 | Personal Wiki for Vim | 2020-11-02T01:11:04Z |
-| 29 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 5833 | 401 | Vim script | 233 | fzf :heart: vim | 2020-11-05T22:33:50Z |
-| 30 | [vim-easymotion](https://github.com/easymotion/vim-easymotion) | 5437 | 286 | Vim script | 73 | Vim motions on speed! | 2020-10-29T05:56:42Z |
-| 31 | [emmet-vim](https://github.com/mattn/emmet-vim) | 5315 | 392 | Vim script | 101 | emmet for vim: http://emmet.io/ | 2020-11-04T21:21:34Z |
-| 32 | [python-mode](https://github.com/python-mode/python-mode) | 5118 | 883 | Vim script | 22 | Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. | 2020-11-02T16:00:19Z |
-| 33 | [lightline.vim](https://github.com/itchyny/lightline.vim) | 5055 | 252 | Vim script | 2 | A light and configurable statusline/tabline plugin for Vim | 2020-11-05T11:09:41Z |
-| 34 | [tagbar](https://github.com/preservim/tagbar) | 4800 | 427 | Vim script | 95 | Vim plugin that displays tags in a window, ordered by scope | 2020-11-03T08:33:34Z |
-| 35 | [k-vim](https://github.com/wklken/k-vim) | 4727 | 1875 | Vim script | 30 | vim配置 | 2020-04-15T14:41:39Z |
-| 36 | [vim.wasm](https://github.com/rhysd/vim.wasm) | 4620 | 102 | Vim script | 9 | Vim editor ported to WebAssembly | 2020-03-25T01:46:03Z |
-| 37 | [jedi-vim](https://github.com/davidhalter/jedi-vim) | 4582 | 369 | Vim script | 69 | Using the jedi autocompletion library for VIM. | 2020-10-23T15:50:54Z |
-| 38 | [vim-sensible](https://github.com/tpope/vim-sensible) | 4081 | 253 | Vim script | 17 | sensible.vim: Defaults everyone can agree on | 2020-09-30T01:36:36Z |
-| 39 | [vim](https://github.com/ma6174/vim) | 4027 | 2919 | Vim script | 95 | vim配置文件和插件(不再维护) | 2019-01-21T15:17:00Z |
-| 40 | [nerdcommenter](https://github.com/preservim/nerdcommenter) | 3978 | 391 | Vim script | 90 | Vim plugin for intensely nerdy commenting powers | 2020-10-30T19:25:02Z |
-| 41 | [vim-polyglot](https://github.com/sheerun/vim-polyglot) | 3935 | 229 | Vim script | 7 | A solid language pack for Vim. | 2020-11-03T23:44:22Z |
+| 22 | [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | 7537 | 249 | Vim script | 1 | True Sublime Text style multiple selections for Vim | 2020-07-30T19:52:03Z |
+| 23 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 7131 | 1109 | Vim script | 2 | Vim 从入门到精通 | 2020-09-19T13:32:15Z |
+| 24 | [ctrlp.vim](https://github.com/kien/ctrlp.vim) | 6877 | 636 | VimL | 195 | Fuzzy file, buffer, mru, tag, etc finder. | 2020-09-16T07:25:05Z |
+| 25 | [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | 6665 | 257 | Vim script | 4 | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | 2020-11-05T16:44:31Z |
+| 26 | [macvim](https://github.com/macvim-dev/macvim) | 6169 | 621 | Vim script | 128 | Vim - the text editor - for macOS | 2020-11-05T05:06:07Z |
+| 27 | [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) | 6067 | 1740 | VimL | 135 | precision colorscheme for the vim text editor | 2020-04-23T09:37:51Z |
+| 28 | [vimwiki](https://github.com/vimwiki/vimwiki) | 5854 | 459 | Vim script | 136 | Personal Wiki for Vim | 2020-11-02T01:11:04Z |
+| 29 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 5837 | 402 | Vim script | 234 | fzf :heart: vim | 2020-11-05T22:33:50Z |
+| 30 | [vim-easymotion](https://github.com/easymotion/vim-easymotion) | 5441 | 286 | Vim script | 73 | Vim motions on speed! | 2020-10-29T05:56:42Z |
+| 31 | [emmet-vim](https://github.com/mattn/emmet-vim) | 5316 | 392 | Vim script | 101 | emmet for vim: http://emmet.io/ | 2020-11-04T21:21:34Z |
+| 32 | [python-mode](https://github.com/python-mode/python-mode) | 5119 | 883 | Vim script | 22 | Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box. | 2020-11-02T16:00:19Z |
+| 33 | [lightline.vim](https://github.com/itchyny/lightline.vim) | 5056 | 252 | Vim script | 2 | A light and configurable statusline/tabline plugin for Vim | 2020-11-05T11:09:41Z |
+| 34 | [tagbar](https://github.com/preservim/tagbar) | 4800 | 428 | Vim script | 96 | Vim plugin that displays tags in a window, ordered by scope | 2020-11-06T21:28:58Z |
+| 35 | [k-vim](https://github.com/wklken/k-vim) | 4728 | 1875 | Vim script | 30 | vim配置 | 2020-04-15T14:41:39Z |
+| 36 | [vim.wasm](https://github.com/rhysd/vim.wasm) | 4624 | 102 | Vim script | 9 | Vim editor ported to WebAssembly | 2020-03-25T01:46:03Z |
+| 37 | [jedi-vim](https://github.com/davidhalter/jedi-vim) | 4586 | 368 | Vim script | 69 | Using the jedi autocompletion library for VIM. | 2020-10-23T15:50:54Z |
+| 38 | [vim-sensible](https://github.com/tpope/vim-sensible) | 4081 | 254 | Vim script | 17 | sensible.vim: Defaults everyone can agree on | 2020-09-30T01:36:36Z |
+| 39 | [vim](https://github.com/ma6174/vim) | 4028 | 2919 | Vim script | 95 | vim配置文件和插件(不再维护) | 2019-01-21T15:17:00Z |
+| 40 | [nerdcommenter](https://github.com/preservim/nerdcommenter) | 3979 | 391 | Vim script | 90 | Vim plugin for intensely nerdy commenting powers | 2020-10-30T19:25:02Z |
+| 41 | [vim-polyglot](https://github.com/sheerun/vim-polyglot) | 3938 | 229 | Vim script | 7 | A solid language pack for Vim. | 2020-11-03T23:44:22Z |
 | 42 | [vim-rails](https://github.com/tpope/vim-rails) | 3786 | 370 | Vim script | 31 | rails.vim: Ruby on Rails power tools | 2020-09-29T15:29:53Z |
-| 43 | [dotfiles](https://github.com/paulirish/dotfiles) | 3726 | 1347 | Vim script | 10 | paul's shell, git, etc config files. also homebrew, migration setup. good stuff.  | 2020-10-01T04:49:33Z |
+| 43 | [dotfiles](https://github.com/paulirish/dotfiles) | 3727 | 1347 | Vim script | 10 | paul's shell, git, etc config files. also homebrew, migration setup. good stuff.  | 2020-10-01T04:49:33Z |
 | 44 | [vim-startify](https://github.com/mhinz/vim-startify) | 3688 | 140 | Vim script | 13 | :link: The fancy start screen for Vim. | 2020-10-07T14:15:25Z |
-| 45 | [vim-devicons](https://github.com/ryanoasis/vim-devicons) | 3653 | 199 | Vim script | 37 | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more | 2020-11-04T15:17:01Z |
-| 46 | [vim-markdown](https://github.com/plasticboy/vim-markdown) | 3552 | 439 | Vim script | 198 | Markdown Vim Mode | 2020-11-05T09:07:07Z |
-| 47 | [vim-javascript](https://github.com/pangloss/vim-javascript) | 3471 | 352 | Vim script | 74 | Vastly improved Javascript indentation and syntax support in Vim. | 2020-10-23T15:18:06Z |
-| 48 | [vim-commentary](https://github.com/tpope/vim-commentary) | 3466 | 158 | Vim script | 32 | commentary.vim: comment stuff out | 2020-10-19T21:10:18Z |
-| 49 | [goyo.vim](https://github.com/junegunn/goyo.vim) | 3379 | 92 | Vim script | 64 | :tulip: Distraction-free writing in Vim | 2020-08-29T01:42:52Z |
-| 50 | [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | 3179 | 202 | Vim script | 45 | Seamless navigation between tmux panes and vim splits | 2020-09-29T20:57:59Z |
+| 45 | [vim-devicons](https://github.com/ryanoasis/vim-devicons) | 3656 | 199 | Vim script | 38 | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more | 2020-11-04T15:17:01Z |
+| 46 | [vim-markdown](https://github.com/plasticboy/vim-markdown) | 3556 | 440 | Vim script | 198 | Markdown Vim Mode | 2020-11-05T09:07:07Z |
+| 47 | [vim-javascript](https://github.com/pangloss/vim-javascript) | 3472 | 352 | Vim script | 74 | Vastly improved Javascript indentation and syntax support in Vim. | 2020-10-23T15:18:06Z |
+| 48 | [vim-commentary](https://github.com/tpope/vim-commentary) | 3470 | 158 | Vim script | 32 | commentary.vim: comment stuff out | 2020-10-19T21:10:18Z |
+| 49 | [goyo.vim](https://github.com/junegunn/goyo.vim) | 3380 | 92 | Vim script | 64 | :tulip: Distraction-free writing in Vim | 2020-08-29T01:42:52Z |
+| 50 | [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | 3180 | 203 | Vim script | 46 | Seamless navigation between tmux panes and vim splits | 2020-09-29T20:57:59Z |
 | 51 | [molokai](https://github.com/tomasr/molokai) | 3169 | 1581 | VimL | 38 | Molokai color scheme for Vim | 2020-10-01T18:15:59Z |
-| 52 | [indentLine](https://github.com/Yggdroot/indentLine) | 3144 | 186 | Vim script | 60 | A vim plugin to display the indention levels with thin vertical lines | 2020-10-12T13:23:28Z |
+| 52 | [indentLine](https://github.com/Yggdroot/indentLine) | 3145 | 186 | Vim script | 60 | A vim plugin to display the indention levels with thin vertical lines | 2020-10-12T13:23:28Z |
 | 53 | [vim-easy-align](https://github.com/junegunn/vim-easy-align) | 3121 | 85 | Vim script | 24 | :sunflower: A Vim alignment plugin | 2020-07-01T22:46:55Z |
 | 54 | [vim-colorschemes](https://github.com/flazz/vim-colorschemes) | 3042 | 601 | Vim script | 34 | one colorscheme pack to rule them all! | 2020-08-26T08:30:15Z |
 | 55 | [CoVim](https://github.com/FredKSchott/CoVim) | 2928 | 96 | Vim script | 14 | Collaborative Editing for Vim | 2017-12-23T16:01:23Z |
 | 56 | [auto-pairs](https://github.com/jiangmiao/auto-pairs) | 2907 | 300 | Vim script | 141 | Vim plugin, insert or delete brackets, parens, quotes in pair | 2020-10-08T20:43:27Z |
 | 57 | [vim-powerline](https://github.com/Lokaltog/vim-powerline) | 2886 | 395 | VimL | 46 | Moved to powerline/powerline. | 2013-01-22T07:14:05Z |
-| 58 | [supertab](https://github.com/ervandew/supertab) | 2848 | 204 | Vim script | 40 | Perform all your vim insert mode completions with Tab | 2020-10-01T14:38:02Z |
+| 58 | [supertab](https://github.com/ervandew/supertab) | 2851 | 204 | Vim script | 40 | Perform all your vim insert mode completions with Tab | 2020-10-01T14:38:02Z |
 | 59 | [unite.vim](https://github.com/Shougo/unite.vim) | 2810 | 229 | Vim script | 1 | :dragon: Unite and create user interfaces | 2020-06-28T03:11:49Z |
-| 60 | [dein.vim](https://github.com/Shougo/dein.vim) | 2797 | 160 | Vim script | 1 | :zap: Dark powered Vim/Neovim plugin manager | 2020-11-04T11:04:08Z |
-| 61 | [ack.vim](https://github.com/mileszs/ack.vim) | 2792 | 373 | Vim script | 73 | Vim plugin for the Perl module / CLI script 'ack' | 2020-10-27T05:37:30Z |
-| 62 | [flatland](https://github.com/thinkpixellab/flatland) | 2727 | 192 | Vim script | 50 | Flatland is a simple theme and accompanying color scheme for Sublime Text 2. | 2019-03-21T16:40:24Z |
-| 63 | [neocomplete.vim](https://github.com/Shougo/neocomplete.vim) | 2691 | 206 | Vim script | 1 | Next generation completion framework after neocomplcache | 2020-08-12T03:19:37Z |
-| 64 | [vimplus](https://github.com/chxuan/vimplus) | 2672 | 906 | Vim script | 193 | :rocket:An automatic configuration program for vim | 2020-11-05T02:26:49Z |
-| 65 | [space-vim](https://github.com/liuchengxu/space-vim) | 2649 | 266 | Vim script | 11 | :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution | 2020-09-04T14:23:22Z |
-| 66 | [onedark.vim](https://github.com/joshdick/onedark.vim) | 2472 | 378 | Vim script | 10 | A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme. | 2020-09-28T17:57:42Z |
-| 67 | [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | 2454 | 99 | Vim script | 28 | EditorConfig plugin for Vim | 2020-11-03T20:25:32Z |
+| 60 | [dein.vim](https://github.com/Shougo/dein.vim) | 2798 | 160 | Vim script | 1 | :zap: Dark powered Vim/Neovim plugin manager | 2020-11-04T11:04:08Z |
+| 61 | [ack.vim](https://github.com/mileszs/ack.vim) | 2792 | 373 | Vim script | 73 | Vim plugin for the Perl module / CLI script 'ack' | 2020-11-06T03:28:02Z |
+| 62 | [flatland](https://github.com/thinkpixellab/flatland) | 2728 | 192 | Vim script | 50 | Flatland is a simple theme and accompanying color scheme for Sublime Text 2. | 2019-03-21T16:40:24Z |
+| 63 | [neocomplete.vim](https://github.com/Shougo/neocomplete.vim) | 2692 | 206 | Vim script | 1 | Next generation completion framework after neocomplcache | 2020-08-12T03:19:37Z |
+| 64 | [vimplus](https://github.com/chxuan/vimplus) | 2674 | 906 | Vim script | 191 | :rocket:An automatic configuration program for vim | 2020-11-06T15:10:06Z |
+| 65 | [space-vim](https://github.com/liuchengxu/space-vim) | 2651 | 266 | Vim script | 11 | :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution | 2020-09-04T14:23:22Z |
+| 66 | [onedark.vim](https://github.com/joshdick/onedark.vim) | 2472 | 379 | Vim script | 10 | A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme. | 2020-09-28T17:57:42Z |
+| 67 | [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | 2456 | 99 | Vim script | 28 | EditorConfig plugin for Vim | 2020-11-03T20:25:32Z |
 | 68 | [vim-unimpaired](https://github.com/tpope/vim-unimpaired) | 2398 | 173 | Vim script | 58 | unimpaired.vim: Pairs of handy bracket mappings | 2020-09-20T14:41:35Z |
-| 69 | [neomake](https://github.com/neomake/neomake) | 2387 | 366 | Vim script | 201 | Asynchronous linting and make framework for Neovim/Vim | 2020-10-29T09:33:52Z |
+| 69 | [neomake](https://github.com/neomake/neomake) | 2389 | 366 | Vim script | 201 | Asynchronous linting and make framework for Neovim/Vim | 2020-10-29T09:33:52Z |
 | 70 | [vim-instant-markdown](https://github.com/suan/vim-instant-markdown) | 2379 | 236 | Vim script | 52 | Instant Markdown previews from VIm! | 2020-05-26T11:25:44Z |
 | 71 | [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) | 2348 | 142 | Vim script | 42 | A Vim plugin for visually displaying indent levels in code | 2020-10-08T07:11:33Z |
-| 72 | [rust.vim](https://github.com/rust-lang/rust.vim) | 2315 | 215 | Vim script | 66 | Vim configuration for Rust. | 2020-10-12T03:00:09Z |
+| 72 | [rust.vim](https://github.com/rust-lang/rust.vim) | 2317 | 215 | Vim script | 66 | Vim configuration for Rust. | 2020-10-12T03:00:09Z |
 | 73 | [neobundle.vim](https://github.com/Shougo/neobundle.vim) | 2254 | 169 | Vim script | 0 | Next generation Vim package manager | 2018-07-26T00:04:32Z |
-| 74 | [codi.vim](https://github.com/metakirby5/codi.vim) | 2216 | 64 | Vim script | 39 | :notebook_with_decorative_cover: The interactive scratchpad for hackers. | 2020-07-25T16:50:25Z |
+| 74 | [codi.vim](https://github.com/metakirby5/codi.vim) | 2217 | 64 | Vim script | 39 | :notebook_with_decorative_cover: The interactive scratchpad for hackers. | 2020-07-25T16:50:25Z |
 | 75 | [dotfiles](https://github.com/ryanb/dotfiles) | 2176 | 853 | VimL | 7 | config files for zsh, bash, completions, gem, git, irb, rails | 2019-11-19T20:05:37Z |
 | 76 | [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc) | 2157 | 778 | VimL | 15 | Maple's vim config files | 2017-05-17T08:33:59Z |
 | 77 | [vim-dispatch](https://github.com/tpope/vim-dispatch) | 2143 | 127 | Vim script | 48 | dispatch.vim: Asynchronous build and test dispatcher | 2020-10-15T17:08:02Z |
-| 78 | [tabular](https://github.com/godlygeek/tabular) | 2141 | 137 | Vim script | 27 | Vim script for text filtering and alignment | 2019-10-17T23:55:59Z |
+| 78 | [tabular](https://github.com/godlygeek/tabular) | 2142 | 138 | Vim script | 27 | Vim script for text filtering and alignment | 2019-10-17T23:55:59Z |
 | 79 | [snipmate.vim](https://github.com/msanders/snipmate.vim) | 2064 | 765 | VimL | 42 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.  | 2020-08-20T02:05:41Z |
 | 80 | [vim-signify](https://github.com/mhinz/vim-signify) | 2052 | 92 | Vim script | 14 | :heavy_plus_sign: Show a diff using Vim its sign column. | 2020-08-13T11:40:40Z |
-| 81 | [vim-sneak](https://github.com/justinmk/vim-sneak) | 1994 | 63 | Vim script | 15 | The missing motion for Vim :athletic_shoe: | 2020-09-01T01:02:50Z |
-| 82 | [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) | 1981 | 192 | Vim script | 0 | Tutorial for vim-go | 2018-10-10T23:39:34Z |
-| 83 | [dotfiles](https://github.com/nicknisi/dotfiles) | 1915 | 318 | Vim script | 3 | vim, zsh, git, homebrew, nvm, neovim - my whole world | 2020-11-04T21:25:25Z |
+| 81 | [vim-sneak](https://github.com/justinmk/vim-sneak) | 1996 | 63 | Vim script | 15 | The missing motion for Vim :athletic_shoe: | 2020-09-01T01:02:50Z |
+| 82 | [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) | 1982 | 192 | Vim script | 0 | Tutorial for vim-go | 2018-10-10T23:39:34Z |
+| 83 | [dotfiles](https://github.com/nicknisi/dotfiles) | 1916 | 318 | Vim script | 4 | vim, zsh, git, homebrew, nvm, neovim - my whole world | 2020-11-06T22:08:36Z |
 | 84 | [vim-as-an-ide](https://github.com/jez/vim-as-an-ide) | 1870 | 167 | VimL | 0 | Workshop on how to use Vim Plugins. | 2016-11-24T11:10:53Z |
-| 85 | [vim-test](https://github.com/vim-test/vim-test) | 1864 | 248 | Vim script | 65 | Run your tests at the speed of thought | 2020-10-22T19:40:07Z |
-| 86 | [vim-abolish](https://github.com/tpope/vim-abolish) | 1862 | 64 | Vim script | 35 | abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word | 2020-10-30T21:13:15Z |
-| 87 | [vim-dadbod](https://github.com/tpope/vim-dadbod) | 1859 | 43 | Vim script | 18 | dadbod.vim: Modern database interface for Vim | 2020-10-22T20:27:17Z |
+| 85 | [vim-test](https://github.com/vim-test/vim-test) | 1865 | 248 | Vim script | 65 | Run your tests at the speed of thought | 2020-10-22T19:40:07Z |
+| 86 | [vim-abolish](https://github.com/tpope/vim-abolish) | 1863 | 64 | Vim script | 35 | abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word | 2020-10-30T21:13:15Z |
+| 87 | [vim-dadbod](https://github.com/tpope/vim-dadbod) | 1861 | 43 | Vim script | 18 | dadbod.vim: Modern database interface for Vim | 2020-10-22T20:27:17Z |
 | 88 | [vim-ruby](https://github.com/vim-ruby/vim-ruby) | 1828 | 292 | Vim script | 60 | Vim/Ruby Configuration Files | 2020-08-29T09:10:52Z |
 | 89 | [vimux](https://github.com/benmills/vimux) | 1815 | 157 | Vim script | 47 | vim plugin to interact with tmux | 2020-06-03T18:54:05Z |
-| 90 | [limelight.vim](https://github.com/junegunn/limelight.vim) | 1803 | 36 | Vim script | 17 | :flashlight: All the world's indeed a stage and we are merely players | 2020-10-13T11:31:29Z |
+| 90 | [limelight.vim](https://github.com/junegunn/limelight.vim) | 1804 | 36 | Vim script | 17 | :flashlight: All the world's indeed a stage and we are merely players | 2020-10-13T11:31:29Z |
 | 91 | [targets.vim](https://github.com/wellle/targets.vim) | 1796 | 37 | Vim script | 41 | Vim plugin that provides additional text objects | 2019-12-08T19:11:58Z |
 | 92 | [dotfiles](https://github.com/garybernhardt/dotfiles) | 1780 | 407 | Vim script | 0 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. | 2020-09-25T23:22:05Z |
-| 93 | [vim-autoformat](https://github.com/Chiel92/vim-autoformat) | 1769 | 152 | Vim script | 24 | Provide easy code formatting in Vim by integrating existing code formatters. | 2020-10-28T11:00:10Z |
+| 93 | [vim-autoformat](https://github.com/Chiel92/vim-autoformat) | 1770 | 152 | Vim script | 24 | Provide easy code formatting in Vim by integrating existing code formatters. | 2020-10-28T11:00:10Z |
 | 94 | [vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1762 | 208 | Vim script | 38 | CoffeeScript support for vim | 2018-02-27T12:07:41Z |
-| 95 | [vim-lsp](https://github.com/prabirshrestha/vim-lsp) | 1758 | 196 | Vim script | 21 | async language server protocol plugin for vim and neovim | 2020-11-05T11:17:32Z |
-| 96 | [vim-repeat](https://github.com/tpope/vim-repeat) | 1758 | 63 | Vim script | 25 | repeat.vim: enable repeating supported plugin maps with "." | 2020-10-30T08:19:31Z |
-| 97 | [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) | 1738 | 131 | Vim script | 54 | A Vim plugin that manages your tag files | 2020-10-06T11:40:18Z |
+| 95 | [vim-lsp](https://github.com/prabirshrestha/vim-lsp) | 1759 | 197 | Vim script | 20 | async language server protocol plugin for vim and neovim | 2020-11-05T11:17:32Z |
+| 96 | [vim-repeat](https://github.com/tpope/vim-repeat) | 1759 | 63 | Vim script | 25 | repeat.vim: enable repeating supported plugin maps with "." | 2020-10-30T08:19:31Z |
+| 97 | [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) | 1739 | 131 | Vim script | 54 | A Vim plugin that manages your tag files | 2020-10-06T11:40:18Z |
 | 98 | [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) | 1731 | 136 | Vim script | 2 | A plugin of NERDTree showing git status | 2020-10-16T04:03:34Z |
 | 99 | [delimitMate](https://github.com/Raimondi/delimitMate) | 1730 | 111 | Vim script | 42 | Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc. | 2020-07-29T16:52:36Z |
 | 100 | [neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) | 1720 | 141 | VimL | 0 | Ultimate auto-completion system for Vim. | 2015-04-15T07:57:35Z |
