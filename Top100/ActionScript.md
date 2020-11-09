@@ -6,8 +6,8 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7262 | 124 | ActionScript | 28 | Petition to open source Flash and Shockwave spec | 2020-06-15T23:17:44Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6000 | 482 | ActionScript | 26 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2020-11-08T01:34:09Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2264 | 855 | ActionScript | 83 | The Cross Platform Game Engine | 2020-10-25T14:55:49Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6000 | 482 | ActionScript | 26 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2020-11-08T19:50:08Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2264 | 856 | ActionScript | 83 | The Cross Platform Game Engine | 2020-10-25T14:55:49Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2227 | 953 | ActionScript | 149 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1497 | 462 | ActionScript | 123 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1306 | 513 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
@@ -25,14 +25,14 @@
 | 18 | [as3swf](https://github.com/claus/as3swf) | 523 | 126 | ActionScript | 15 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 19 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 512 | 274 | ActionScript | 33 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 497 | 185 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
-| 21 | [emulator](https://github.com/nesbox/emulator) | 478 | 229 | ActionScript | 88 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 21 | [emulator](https://github.com/nesbox/emulator) | 479 | 229 | ActionScript | 88 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 22 | [Ash](https://github.com/richardlord/Ash) | 436 | 95 | ActionScript | 6 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 23 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 400 | 145 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 24 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 398 | 48 | ActionScript | 39 | A simple music making program | 2020-05-14T11:16:31Z |
 | 25 | [flump](https://github.com/tconkling/flump) | 382 | 69 | ActionScript | 41 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 26 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 376 | 143 | ActionScript | 68 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 27 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 372 | 35 | ActionScript | 21 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
-| 28 | [Weave](https://github.com/WeaveTeam/Weave) | 368 | 73 | ActionScript | 8 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
+| 28 | [Weave](https://github.com/WeaveTeam/Weave) | 368 | 74 | ActionScript | 8 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
 | 29 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 367 | 115 | ActionScript | 19 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 30 | [wck](https://github.com/jesses/wck) | 361 | 56 | ActionScript | 13 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 31 | [Gestouch](https://github.com/fljot/Gestouch) | 357 | 82 | ActionScript | 37 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
@@ -55,7 +55,7 @@
 | 48 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 272 | 58 | ActionScript | 10 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 49 | [Flint](https://github.com/richardlord/Flint) | 266 | 55 | ActionScript | 2 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 50 | [Spike](https://github.com/SpikeApp/Spike) | 264 | 190 | ActionScript | 49 | Get The Most Out Of Your CGM Transmitter | 2020-10-20T20:08:50Z |
-| 51 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 262 | 25 | ActionScript | 1 | Anodyne 1 Source Code | 2020-11-02T04:41:30Z |
+| 51 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 263 | 26 | ActionScript | 1 | Anodyne 1 Source Code | 2020-11-02T04:41:30Z |
 | 52 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 247 | 96 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 247 | 113 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 242 | 107 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
@@ -88,7 +88,7 @@
 | 81 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 166 | 95 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
 | 82 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 165 | 97 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
 | 83 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 162 | 24 | ActionScript | 17 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
-| 84 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 155 | 43 | ActionScript | 2 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2020-10-31T12:33:23Z |
+| 84 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 156 | 43 | ActionScript | 2 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2020-10-31T12:33:23Z |
 | 85 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 155 | 117 | ActionScript | 25 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2015-07-01T17:53:44Z |
 | 86 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 152 | 49 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 87 | [red-rogue](https://github.com/st33d/red-rogue) | 150 | 12 | ActionScript | 3 | flex roguelike | 2019-01-15T21:13:13Z |
