@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7355 | 133 | ActionScript | 33 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6103 | 492 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2021-03-10T20:12:58Z |
-| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2281 | 1012 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2276 | 850 | ActionScript | 84 | The Cross Platform Game Engine | 2021-01-18T15:34:41Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7356 | 133 | ActionScript | 33 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6104 | 491 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2021-03-10T20:12:58Z |
+| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2282 | 1013 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2278 | 849 | ActionScript | 84 | The Cross Platform Game Engine | 2021-01-18T15:34:41Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1492 | 462 | ActionScript | 121 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1313 | 517 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1189 | 202 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -45,7 +45,7 @@
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 321 | 142 | ActionScript | 5 | Mirror of Apache Flex SDK | 2019-11-14T18:33:03Z |
 | 39 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 320 | 148 | ActionScript | 1 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2021-01-12T09:40:50Z |
 | 40 | [Flare](https://github.com/prefuse/Flare) | 309 | 70 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
-| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 305 | 106 | ActionScript | 208 | Apache Royale ASJS | 2021-03-10T20:54:11Z |
+| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 305 | 106 | ActionScript | 209 | Apache Royale ASJS | 2021-03-11T15:58:17Z |
 | 42 | [mBlock](https://github.com/Makeblock-official/mBlock) | 292 | 224 | ActionScript | 35 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 43 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 288 | 91 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 44 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 279 | 84 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
@@ -71,8 +71,8 @@
 | 64 | [flexlib](https://github.com/flex-users/flexlib) | 209 | 96 | ActionScript | 285 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
 | 65 | [Starling-Filters](https://github.com/devon-o/Starling-Filters) | 208 | 51 | ActionScript | 0 | A collection of filters for use with the Starling AS3 framework. | 2017-12-12T17:18:45Z |
 | 66 | [GrindPlayer](https://github.com/kutu/GrindPlayer) | 208 | 64 | ActionScript | 7 | OSMF + Flex based flash video player, which provides most needed functionality in nowadays | 2014-10-02T17:32:44Z |
-| 67 | [MMORPG](https://github.com/dianbaer/MMORPG) | 207 | 97 | ActionScript | 1 | MMORPG是一个可以用来学习ARPG核心战斗的项目（不再维护）。http://v.youku.com/v_show/id_XOTE5NDg1MTg0.html?firsttime=0 | 2018-03-12T12:38:25Z |
-| 68 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 201 | 108 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2020-12-30T02:45:38Z |
+| 67 | [MMORPG](https://github.com/dianbaer/MMORPG) | 208 | 97 | ActionScript | 1 | MMORPG是一个可以用来学习ARPG核心战斗的项目（不再维护）。http://v.youku.com/v_show/id_XOTE5NDg1MTg0.html?firsttime=0 | 2018-03-12T12:38:25Z |
+| 68 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 202 | 108 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2020-12-30T02:45:38Z |
 | 69 | [Flashbang](https://github.com/cure53/Flashbang) | 200 | 58 | ActionScript | 14 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 70 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 197 | 28 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 71 | [glitch-avatars](https://github.com/tinyspeck/glitch-avatars) | 195 | 97 | ActionScript | 1 | Art and source for Glitch's customizable avatars | 2013-12-03T01:51:08Z |
@@ -84,8 +84,8 @@
 | 77 | [kingdom](https://github.com/noio/kingdom) | 175 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 78 | [GPUImage](https://github.com/inspirit/GPUImage) | 174 | 30 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 79 | [avmplus](https://github.com/adobe-flash/avmplus) | 173 | 92 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
-| 80 | [promise-as3](https://github.com/CodeCatalyst/promise-as3) | 169 | 53 | ActionScript | 16 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
-| 81 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 168 | 43 | ActionScript | 1 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2021-02-27T13:53:59Z |
+| 80 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 169 | 43 | ActionScript | 1 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2021-02-27T13:53:59Z |
+| 81 | [promise-as3](https://github.com/CodeCatalyst/promise-as3) | 169 | 53 | ActionScript | 16 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 82 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 167 | 105 | ActionScript | 2 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 83 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 166 | 95 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
 | 84 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 165 | 94 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
