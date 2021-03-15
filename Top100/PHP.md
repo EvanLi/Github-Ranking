@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [laravel](https://github.com/laravel/laravel) | 64241 | 20570 | PHP | 31 | A PHP framework for web artisans | 2021-03-12T15:33:06Z |
-| 2 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30997 | 8210 | PHP | 67 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 2021-02-23T06:54:39Z |
-| 3 | [SecLists](https://github.com/danielmiessler/SecLists) | 30355 | 15441 | PHP | 17 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2021-03-13T22:26:34Z |
-| 4 | [Faker](https://github.com/fzaninotto/Faker) | 25650 | 3063 | PHP | 246 | Faker is a PHP library that generates fake data for you | 2020-12-27T12:51:09Z |
-| 5 | [composer](https://github.com/composer/composer) | 24886 | 6033 | PHP | 190 | Dependency Manager for PHP | 2021-03-11T23:18:41Z |
-| 6 | [symfony](https://github.com/symfony/symfony) | 24766 | 8044 | PHP | 678 | The Symfony PHP framework | 2021-03-14T02:22:11Z |
-| 7 | [framework](https://github.com/laravel/framework) | 23597 | 7985 | PHP | 15 | None | 2021-03-14T00:35:05Z |
-| 8 | [guzzle](https://github.com/guzzle/guzzle) | 20601 | 2186 | PHP | 42 | Guzzle, an extensible PHP HTTP client | 2021-03-13T21:26:29Z |
-| 9 | [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) | 19404 | 4196 | PHP | 1 | sample code for several design patterns in PHP 7.4 | 2021-03-10T09:26:23Z |
-| 10 | [monolog](https://github.com/Seldaek/monolog) | 18510 | 1721 | PHP | 19 | Sends your logs to files, sockets, inboxes, databases and various web services | 2021-03-11T23:05:56Z |
-| 11 | [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18128 | 7840 | PHP | 86 | Open Source PHP Framework (originally from EllisLab) | 2021-03-13T23:56:48Z |
-| 12 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 17165 | 1976 | PHP | 123 | The PHP Unit Testing framework. | 2021-03-12T09:46:06Z |
-| 13 | [PHPMailer](https://github.com/PHPMailer/PHPMailer) | 16339 | 8649 | PHP | 31 | The classic email sending library for PHP | 2021-02-25T20:35:24Z |
-| 14 | [Carbon](https://github.com/briannesbitt/Carbon) | 15070 | 1152 | PHP | 5 | A simple PHP API extension for DateTime. | 2021-03-10T08:06:40Z |
-| 15 | [WordPress](https://github.com/WordPress/WordPress) | 14855 | 9409 | PHP | 4 | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. | 2021-03-14T02:56:19Z |
-| 16 | [matomo](https://github.com/matomo-org/matomo) | 14684 | 2108 | PHP | 1814 | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!  | 2021-03-13T20:38:32Z |
-| 17 | [PHP-Parser](https://github.com/nikic/PHP-Parser) | 14273 | 802 | PHP | 73 | A PHP parser written in PHP | 2021-03-10T21:03:49Z |
-| 18 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 14214 | 1507 | PHP | 3 | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | 2020-10-17T06:11:58Z |
-| 19 | [server](https://github.com/nextcloud/server) | 13744 | 2455 | PHP | 3000 | ☁️ Nextcloud server, a safe home for all your data | 2021-03-14T02:24:08Z |
-| 20 | [yii2](https://github.com/yiisoft/yii2) | 13673 | 6949 | PHP | 478 | Yii 2: The Fast, Secure and Professional PHP Framework | 2021-03-13T17:47:22Z |
-| 21 | [parsedown](https://github.com/erusev/parsedown) | 13536 | 1005 | PHP | 117 | Better Markdown Parser in PHP | 2021-03-08T17:33:55Z |
-| 22 | [grav](https://github.com/getgrav/grav) | 12581 | 1304 | PHP | 317 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS | 2021-03-12T22:51:02Z |
-| 23 | [monica](https://github.com/monicahq/monica) | 12540 | 1386 | PHP | 435 | Personal CRM. Remember everything about your friends, family and business relationships. | 2021-03-11T09:07:25Z |
-| 24 | [koel](https://github.com/koel/koel) | 12380 | 1569 | PHP | 66 | 🐦 A personal music streaming server that works. | 2021-03-11T10:43:53Z |
-| 25 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 12338 | 1180 | PHP | 39 | Laravel Debugbar (Integrates PHP Debug Bar) | 2021-02-22T02:17:14Z |
-| 26 | [whoops](https://github.com/filp/whoops) | 12309 | 571 | PHP | 2 | PHP errors for cool kids  | 2021-02-09T08:29:36Z |
-| 27 | [phabricator](https://github.com/phacility/phabricator) | 12017 | 1490 | PHP | 1 | Open software engineering platform and fun adventure game | 2021-03-13T05:49:42Z |
-| 28 | [Cachet](https://github.com/CachetHQ/Cachet) | 11902 | 1373 | PHP | 329 | 📛 An open source status page system for everyone. | 2021-03-08T06:43:17Z |
-| 29 | [flysystem](https://github.com/thephpleague/flysystem) | 11801 | 627 | PHP | 9 | Abstraction for local and remote filesystems | 2021-03-05T23:15:52Z |
-| 30 | [image](https://github.com/Intervention/image) | 11722 | 1300 | PHP | 351 | PHP Image Manipulation | 2021-01-19T18:28:42Z |
-| 31 | [PHPExcel](https://github.com/PHPOffice/PHPExcel) | 11395 | 4080 | PHP | 668 | ARCHIVED | 2019-01-02T01:38:48Z |
-| 32 | [flarum](https://github.com/flarum/flarum) | 11316 | 1257 | PHP | 1 | Simple forum software for building great communities. | 2021-03-05T15:51:26Z |
-| 33 | [phpdotenv](https://github.com/vlucas/phpdotenv) | 11133 | 527 | PHP | 4 | Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically. | 2021-01-20T15:35:54Z |
-| 34 | [sage](https://github.com/roots/sage) | 11107 | 2923 | PHP | 20 | WordPress starter theme with a modern development workflow | 2021-03-10T14:14:06Z |
-| 35 | [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | 11078 | 961 | PHP | 90 | Laravel IDE Helper | 2021-03-13T16:40:44Z |
-| 36 | [uuid](https://github.com/ramsey/uuid) | 11029 | 416 | PHP | 28 | A PHP library for generating universally unique identifiers (UUIDs). | 2021-03-01T17:43:58Z |
-| 37 | [Slim](https://github.com/slimphp/Slim) | 10954 | 1934 | PHP | 5 | Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. | 2021-03-08T21:30:32Z |
-| 38 | [october](https://github.com/octobercms/october) | 10596 | 2219 | PHP | 81 | Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. | 2021-03-12T23:44:56Z |
-| 39 | [cphalcon](https://github.com/phalcon/cphalcon) | 10396 | 1910 | PHP | 135 | High performance, full-stack PHP framework delivered as a C extension. | 2021-03-13T21:54:20Z |
-| 40 | [voyager](https://github.com/the-control-group/voyager) | 10270 | 2461 | PHP | 211 | Voyager - The Missing Laravel Admin | 2021-03-09T20:49:34Z |
-| 41 | [inflector](https://github.com/doctrine/inflector) | 10194 | 107 | PHP | 8 | Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words. | 2021-02-08T20:19:27Z |
-| 42 | [lexer](https://github.com/doctrine/lexer) | 10016 | 41 | PHP | 2 | Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. | 2021-01-21T21:58:43Z |
-| 43 | [instantiator](https://github.com/doctrine/instantiator) | 9980 | 54 | PHP | 4 | None | 2021-02-18T20:58:09Z |
-| 44 | [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) | 9924 | 1239 | PHP | 397 | A tool to automatically fix PHP Coding Standards issues | 2021-03-13T12:14:09Z |
-| 45 | [EmailValidator](https://github.com/egulias/EmailValidator) | 9907 | 140 | PHP | 13 | PHP Email address validator | 2021-03-11T13:36:15Z |
-| 46 | [jwt-auth](https://github.com/tymondesigns/jwt-auth) | 9850 | 1264 | PHP | 517 | 🔐 JSON Web Token Authentication for Laravel & Lumen | 2021-03-03T05:50:14Z |
-| 47 | [laravel-admin](https://github.com/z-song/laravel-admin) | 9773 | 2462 | PHP | 143 | Build a full-featured administrative interface in ten minutes | 2021-03-04T08:04:08Z |
-| 48 | [mockery](https://github.com/mockery/mockery) | 9729 | 423 | PHP | 81 | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). | 2021-02-24T18:39:40Z |
-| 49 | [labs](https://github.com/docker/labs) | 9709 | 4812 | PHP | 89 | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. | 2021-03-11T03:27:30Z |
-| 50 | [phpstan](https://github.com/phpstan/phpstan) | 9677 | 704 | PHP | 445 | PHP Static Analysis Tool - discover bugs in your code without running it! | 2021-03-13T22:56:36Z |
-| 51 | [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 9658 | 2583 | PHP | 139 | Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment. | 2021-02-20T18:02:57Z |
-| 52 | [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) | 9638 | 1550 | PHP | 96 | 🚀 Supercharged Excel exports and imports in Laravel | 2021-03-12T14:06:28Z |
-| 53 | [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) | 9611 | 2072 | PHP | 152 | A pure PHP library for reading and writing spreadsheet files | 2021-03-13T21:42:39Z |
-| 54 | [easywechat](https://github.com/w7corp/easywechat) | 9370 | 2263 | PHP | 66 | :package: It is probably the best SDK in the world for developing WeChat App. | 2021-03-13T09:50:22Z |
-| 55 | [swiftmailer](https://github.com/swiftmailer/swiftmailer) | 9340 | 811 | PHP | 264 | Comprehensive mailing tools for PHP | 2021-03-09T12:31:22Z |
-| 56 | [magento2](https://github.com/magento/magento2) | 9333 | 8282 | PHP | 1739 | All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html | 2021-03-13T20:20:51Z |
-| 57 | [log](https://github.com/php-fig/log) | 9326 | 153 | PHP | 8 | None | 2021-03-02T15:02:34Z |
-| 58 | [laravel-permission](https://github.com/spatie/laravel-permission) | 9163 | 1383 | PHP | 37 | Associate users with roles and permissions | 2021-03-08T06:05:15Z |
-| 59 | [api](https://github.com/dingo/api) | 9117 | 1232 | PHP | 201 | A RESTful API package for the Laravel and Lumen frameworks. | 2020-12-29T17:52:35Z |
-| 60 | [Workerman](https://github.com/walkor/Workerman) | 9116 | 2111 | PHP | 10 | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=5.3. | 2021-03-09T05:47:12Z |
-| 61 | [clean-code-php](https://github.com/jupeter/clean-code-php) | 8985 | 2138 | PHP | 18 | :bathtub: Clean Code concepts adapted for PHP | 2021-02-06T17:49:21Z |
-| 62 | [container](https://github.com/php-fig/container) | 8901 | 36 | PHP | 4 | None | 2021-03-08T09:32:26Z |
-| 63 | [psysh](https://github.com/bobthecow/psysh) | 8867 | 264 | PHP | 43 | A REPL for PHP | 2021-03-14T02:15:21Z |
-| 64 | [console](https://github.com/symfony/console) | 8582 | 212 | PHP | 4 | The Console component eases the creation of beautiful and testable command line interfaces. | 2021-03-12T08:41:24Z |
-| 65 | [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) | 8489 | 82 | PHP | 17 | None | 2021-03-07T11:12:25Z |
-| 66 | [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | 8425 | 1333 | PHP | 256 | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | 2021-03-12T03:41:16Z |
-| 67 | [orm](https://github.com/doctrine/orm) | 8424 | 2293 | PHP | 1282 | Doctrine Object Relational Mapper (ORM) | 2021-03-13T09:04:30Z |
-| 68 | [deployer](https://github.com/deployphp/deployer) | 8381 | 1223 | PHP | 34 | A deployment tool written in PHP with support for popular frameworks out of the box | 2021-03-14T00:44:52Z |
-| 69 | [Goutte](https://github.com/FriendsOfPHP/Goutte) | 8354 | 967 | PHP | 129 | Goutte, a simple PHP Web Scraper | 2020-11-01T09:30:45Z |
-| 70 | [cakephp](https://github.com/cakephp/cakephp) | 8342 | 3464 | PHP | 49 | CakePHP: The Rapid Development Framework for PHP - Official Repository | 2021-03-12T15:44:33Z |
-| 71 | [TypeResolver](https://github.com/phpDocumentor/TypeResolver) | 8299 | 36 | PHP | 7 | A PSR-5 based resolver of Class names, Types and Structural Element Names | 2021-02-08T05:18:59Z |
-| 72 | [ReflectionCommon](https://github.com/phpDocumentor/ReflectionCommon) | 8236 | 16 | PHP | 2 | None | 2020-10-07T14:39:04Z |
-| 73 | [prophecy](https://github.com/phpspec/prophecy) | 7911 | 211 | PHP | 110 | Highly opinionated mocking framework for PHP 5.3+ | 2021-03-10T15:27:44Z |
-| 74 | [reactphp](https://github.com/reactphp/reactphp) | 7904 | 717 | PHP | 1 | Event-driven, non-blocking I/O with PHP. | 2021-01-26T15:20:08Z |
-| 75 | [dbal](https://github.com/doctrine/dbal) | 7900 | 1112 | PHP | 615 | Doctrine Database Abstraction Layer | 2021-03-13T21:13:39Z |
-| 76 | [http-foundation](https://github.com/symfony/http-foundation) | 7775 | 253 | PHP | 1 | The HttpFoundation component defines an object-oriented layer for the HTTP specification. | 2021-03-12T08:36:52Z |
-| 77 | [random_compat](https://github.com/paragonie/random_compat) | 7764 | 111 | PHP | 6 | PHP 5.x support for random_bytes() and random_int() | 2020-10-30T03:10:59Z |
-| 78 | [typecho](https://github.com/typecho/typecho) | 7737 | 1600 | PHP | 343 | A PHP Blogging Platform. Simple and Powerful. | 2021-02-10T07:32:12Z |
-| 79 | [dompdf](https://github.com/dompdf/dompdf) | 7735 | 1481 | PHP | 739 | HTML to PDF converter for PHP | 2021-03-13T07:19:11Z |
-| 80 | [php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) | 7719 | 320 | PHP | 22 | Library that provides collection, processing, and rendering functionality for PHP code coverage information. | 2021-03-12T06:34:19Z |
-| 81 | [DeepCopy](https://github.com/myclabs/DeepCopy) | 7692 | 76 | PHP | 12 | Create deep copies (clones) of your objects | 2021-03-08T17:45:01Z |
-| 82 | [simple-cache](https://github.com/php-fig/simple-cache) | 7660 | 35 | PHP | 7 | None | 2020-09-17T16:41:39Z |
-| 83 | [event-dispatcher](https://github.com/symfony/event-dispatcher) | 7638 | 63 | PHP | 0 | The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them. | 2021-03-10T18:40:31Z |
-| 84 | [avbook](https://github.com/guyueyingmu/avbook) | 7623 | 1912 | PHP | 68 | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | 2021-03-09T03:32:20Z |
-| 85 | [think](https://github.com/top-think/think) | 7616 | 1662 | PHP | 99 | ThinkPHP Framework ——十年匠心的高性能PHP框架 | 2021-01-25T07:41:02Z |
-| 86 | [finder](https://github.com/symfony/finder) | 7534 | 49 | PHP | 0 | The Finder component finds files and directories via an intuitive fluent interface. | 2021-03-10T18:40:11Z |
-| 87 | [core](https://github.com/owncloud/core) | 7384 | 2016 | PHP | 1532 | :cloud: ownCloud web server core (Files, DAV, etc.) | 2021-03-13T05:24:25Z |
-| 88 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | 7380 | 3231 | PHP | 47 | A PHP client library for accessing Google APIs | 2021-03-09T21:16:20Z |
-| 89 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 7330 | 1701 | PHP | 3 | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） | 2020-08-27T21:23:20Z |
-| 90 | [thanks](https://github.com/symfony/thanks) | 7303 | 38 | PHP | 1 | Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)! | 2020-10-14T17:48:37Z |
-| 91 | [http-kernel](https://github.com/symfony/http-kernel) | 7267 | 77 | PHP | 0 | The HttpKernel component provides a structured process for converting a Request into a Response. | 2021-03-10T17:11:32Z |
-| 92 | [debug](https://github.com/symfony/debug) | 7229 | 49 | PHP | 0 | The Debug component provides tools to ease debugging PHP code. | 2021-03-04T18:02:15Z |
-| 93 | [lumen](https://github.com/laravel/lumen) | 7141 | 942 | PHP | 0 | None | 2021-03-07T18:51:33Z |
-| 94 | [Twig](https://github.com/twigphp/Twig) | 7106 | 1124 | PHP | 56 | Twig, the flexible, fast, and secure template language for PHP | 2021-03-10T10:08:51Z |
-| 95 | [polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) | 7094 | 30 | PHP | 0 | This component provides a partial, native PHP implementation for the Mbstring extension. | 2021-02-16T06:47:40Z |
-| 96 | [TrustedProxy](https://github.com/fideloper/TrustedProxy) | 7053 | 93 | PHP | 23 | Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries. | 2020-12-27T16:04:58Z |
-| 97 | [YOURLS](https://github.com/YOURLS/YOURLS) | 7007 | 1519 | PHP | 55 | 🔗 Your Own URL Shortener | 2021-03-08T10:51:04Z |
-| 98 | [psr7](https://github.com/guzzle/psr7) | 6970 | 213 | PHP | 24 | PSR-7 HTTP message library | 2021-03-10T17:46:55Z |
-| 99 | [cache](https://github.com/doctrine/cache) | 6879 | 206 | PHP | 45 | Doctrine Cache component | 2021-03-01T08:49:02Z |
-| 100 | [routing](https://github.com/symfony/routing) | 6846 | 83 | PHP | 1 | The Routing component maps an HTTP request to a set of configuration variables. | 2021-03-10T18:41:08Z |
+| 1 | [laravel](https://github.com/laravel/laravel) | 64253 | 20578 | PHP | 32 | A PHP framework for web artisans | 2021-03-14T20:07:42Z |
+| 2 | [Faker](https://github.com/fzaninotto/Faker) | 25652 | 3065 | PHP | 246 | Faker is a PHP library that generates fake data for you | 2020-12-27T12:51:09Z |
+| 3 | [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) | 19406 | 4197 | PHP | 3 | sample code for several design patterns in PHP 7.4 | 2021-03-14T17:58:46Z |
+| 4 | [monolog](https://github.com/Seldaek/monolog) | 18512 | 1721 | PHP | 19 | Sends your logs to files, sockets, inboxes, databases and various web services | 2021-03-11T23:05:56Z |
+| 5 | [phpunit](https://github.com/sebastianbergmann/phpunit) | 17168 | 1976 | PHP | 123 | The PHP Unit Testing framework. | 2021-03-14T06:32:06Z |
+| 6 | [Carbon](https://github.com/briannesbitt/Carbon) | 15071 | 1152 | PHP | 5 | A simple PHP API extension for DateTime. | 2021-03-10T08:06:40Z |
+| 7 | [WordPress](https://github.com/WordPress/WordPress) | 14858 | 9409 | PHP | 4 | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. | 2021-03-14T17:02:07Z |
+| 8 | [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 14218 | 1510 | PHP | 3 | 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate | 2020-10-17T06:11:58Z |
+| 9 | [grav](https://github.com/getgrav/grav) | 12582 | 1304 | PHP | 319 | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS | 2021-03-12T22:51:02Z |
+| 10 | [koel](https://github.com/koel/koel) | 12381 | 1569 | PHP | 66 | 🐦 A personal music streaming server that works. | 2021-03-11T10:43:53Z |
+| 11 | [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) | 12345 | 1181 | PHP | 39 | Laravel Debugbar (Integrates PHP Debug Bar) | 2021-02-22T02:17:14Z |
+| 12 | [Cachet](https://github.com/CachetHQ/Cachet) | 11905 | 1373 | PHP | 329 | 📛 An open source status page system for everyone. | 2021-03-08T06:43:17Z |
+| 13 | [flysystem](https://github.com/thephpleague/flysystem) | 11802 | 627 | PHP | 9 | Abstraction for local and remote filesystems | 2021-03-05T23:15:52Z |
+| 14 | [flarum](https://github.com/flarum/flarum) | 11316 | 1258 | PHP | 1 | Simple forum software for building great communities. | 2021-03-05T15:51:26Z |
+| 15 | [uuid](https://github.com/ramsey/uuid) | 11030 | 416 | PHP | 28 | A PHP library for generating universally unique identifiers (UUIDs). | 2021-03-01T17:43:58Z |
+| 16 | [Slim](https://github.com/slimphp/Slim) | 10957 | 1934 | PHP | 5 | Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. | 2021-03-08T21:30:32Z |
+| 17 | [voyager](https://github.com/the-control-group/voyager) | 10273 | 2463 | PHP | 211 | Voyager - The Missing Laravel Admin | 2021-03-09T20:49:34Z |
+| 18 | [lexer](https://github.com/doctrine/lexer) | 10015 | 41 | PHP | 2 | Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. | 2021-01-21T21:58:43Z |
+| 19 | [jwt-auth](https://github.com/tymondesigns/jwt-auth) | 9850 | 1264 | PHP | 518 | 🔐 JSON Web Token Authentication for Laravel & Lumen | 2021-03-03T05:50:14Z |
+| 20 | [laravel-admin](https://github.com/z-song/laravel-admin) | 9773 | 2463 | PHP | 143 | Build a full-featured administrative interface in ten minutes | 2021-03-04T08:04:08Z |
+| 21 | [labs](https://github.com/docker/labs) | 9714 | 4814 | PHP | 89 | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. | 2021-03-11T03:27:30Z |
+| 22 | [phpstan](https://github.com/phpstan/phpstan) | 9680 | 704 | PHP | 446 | PHP Static Analysis Tool - discover bugs in your code without running it! | 2021-03-13T22:56:36Z |
+| 23 | [laravel-permission](https://github.com/spatie/laravel-permission) | 9165 | 1383 | PHP | 37 | Associate users with roles and permissions | 2021-03-08T06:05:15Z |
+| 24 | [api](https://github.com/dingo/api) | 9117 | 1232 | PHP | 201 | A RESTful API package for the Laravel and Lumen frameworks. | 2020-12-29T17:52:35Z |
+| 25 | [Workerman](https://github.com/walkor/Workerman) | 9116 | 2111 | PHP | 10 | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=5.3. | 2021-03-09T05:47:12Z |
+| 26 | [orm](https://github.com/doctrine/orm) | 8425 | 2294 | PHP | 1284 | Doctrine Object Relational Mapper (ORM) | 2021-03-15T01:47:26Z |
+| 27 | [Goutte](https://github.com/FriendsOfPHP/Goutte) | 8354 | 967 | PHP | 129 | Goutte, a simple PHP Web Scraper | 2020-11-01T09:30:45Z |
+| 28 | [cakephp](https://github.com/cakephp/cakephp) | 8344 | 3463 | PHP | 50 | CakePHP: The Rapid Development Framework for PHP - Official Repository | 2021-03-15T01:50:56Z |
+| 29 | [ReflectionCommon](https://github.com/phpDocumentor/ReflectionCommon) | 8235 | 16 | PHP | 2 | None | 2020-10-07T14:39:04Z |
+| 30 | [prophecy](https://github.com/phpspec/prophecy) | 7912 | 211 | PHP | 110 | Highly opinionated mocking framework for PHP 5.3+ | 2021-03-10T15:27:44Z |
+| 31 | [http-foundation](https://github.com/symfony/http-foundation) | 7775 | 253 | PHP | 1 | The HttpFoundation component defines an object-oriented layer for the HTTP specification. | 2021-03-12T08:36:52Z |
+| 32 | [typecho](https://github.com/typecho/typecho) | 7743 | 1601 | PHP | 343 | A PHP Blogging Platform. Simple and Powerful. | 2021-02-10T07:32:12Z |
+| 33 | [dompdf](https://github.com/dompdf/dompdf) | 7739 | 1482 | PHP | 739 | HTML to PDF converter for PHP | 2021-03-13T07:19:11Z |
+| 34 | [php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) | 7720 | 320 | PHP | 22 | Library that provides collection, processing, and rendering functionality for PHP code coverage information. | 2021-03-12T06:34:19Z |
+| 35 | [DeepCopy](https://github.com/myclabs/DeepCopy) | 7691 | 76 | PHP | 12 | Create deep copies (clones) of your objects | 2021-03-08T17:45:01Z |
+| 36 | [think](https://github.com/top-think/think) | 7617 | 1662 | PHP | 99 | ThinkPHP Framework ——十年匠心的高性能PHP框架 | 2021-01-25T07:41:02Z |
+| 37 | [google-api-php-client](https://github.com/googleapis/google-api-php-client) | 7381 | 3230 | PHP | 47 | A PHP client library for accessing Google APIs | 2021-03-09T21:16:20Z |
+| 38 | [Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 7336 | 1702 | PHP | 3 | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） | 2020-08-27T21:23:20Z |
+| 39 | [http-kernel](https://github.com/symfony/http-kernel) | 7267 | 77 | PHP | 0 | The HttpKernel component provides a structured process for converting a Request into a Response. | 2021-03-10T17:11:32Z |
+| 40 | [Twig](https://github.com/twigphp/Twig) | 7106 | 1124 | PHP | 57 | Twig, the flexible, fast, and secure template language for PHP | 2021-03-10T10:08:51Z |
+| 41 | [YOURLS](https://github.com/YOURLS/YOURLS) | 7009 | 1519 | PHP | 54 | 🔗 Your Own URL Shortener | 2021-03-08T10:51:04Z |
+| 42 | [psr7](https://github.com/guzzle/psr7) | 6971 | 213 | PHP | 24 | PSR-7 HTTP message library | 2021-03-14T18:25:05Z |
+| 43 | [cache](https://github.com/doctrine/cache) | 6878 | 206 | PHP | 45 | Doctrine Cache component | 2021-03-01T08:49:02Z |
+| 44 | [woocommerce](https://github.com/woocommerce/woocommerce) | 6825 | 8698 | PHP | 905 | An open source eCommerce plugin for WordPress. | 2021-03-15T00:09:19Z |
+| 45 | [process](https://github.com/symfony/process) | 6740 | 93 | PHP | 0 | The Process component executes commands in sub-processes. | 2021-03-10T18:41:41Z |
+| 46 | [assert](https://github.com/webmozarts/assert) | 6679 | 105 | PHP | 26 | Assertions to validate method input/output with nice error messages. | 2021-03-14T20:42:37Z |
+| 47 | [css-selector](https://github.com/symfony/css-selector) | 6678 | 34 | PHP | 0 | The CssSelector component converts CSS selectors to XPath expressions. | 2021-03-10T18:40:54Z |
+| 48 | [php-text-template](https://github.com/sebastianbergmann/php-text-template) | 6502 | 33 | PHP | 0 | A simple template engine. | 2021-03-12T06:35:59Z |
+| 49 | [WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) | 6475 | 1881 | PHP | 130 | [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins. | 2020-12-05T20:22:38Z |
+| 50 | [php-token-stream](https://github.com/sebastianbergmann/php-token-stream) | 6391 | 53 | PHP | 0 | Wrapper around PHP's tokenizer extension. | 2020-11-30T08:39:41Z |
+| 51 | [BookStack](https://github.com/BookStackApp/BookStack) | 6307 | 967 | PHP | 504 | A platform to create documentation/wiki content built with PHP & Laravel | 2021-03-14T23:28:27Z |
+| 52 | [PHP-Console-Highlighter](https://github.com/JakubOnderka/PHP-Console-Highlighter) | 6203 | 21 | PHP | 0 | Highlight PHP code in terminal | 2020-04-02T19:47:23Z |
+| 53 | [entrust](https://github.com/Zizaco/entrust) | 6182 | 1329 | PHP | 426 | Role-based Permissions for Laravel 5 | 2021-02-12T16:46:02Z |
+| 54 | [comparator](https://github.com/sebastianbergmann/comparator) | 6174 | 52 | PHP | 15 | Provides the functionality to compare PHP values for equality. | 2021-03-12T06:34:41Z |
+| 55 | [jwt](https://github.com/lcobucci/jwt) | 6073 | 505 | PHP | 7 | A simple library to work with JSON Web Token and JSON Web Signature | 2021-03-08T22:31:38Z |
+| 56 | [translation](https://github.com/symfony/translation) | 6014 | 63 | PHP | 0 | The Translation component provides tools to internationalize your application. | 2021-03-10T17:09:27Z |
+| 57 | [oauth2-server](https://github.com/thephpleague/oauth2-server) | 5789 | 997 | PHP | 81 | A spec compliant, secure by default PHP OAuth 2.0 Server | 2021-03-14T18:38:53Z |
+| 58 | [global-state](https://github.com/sebastianbergmann/global-state) | 5787 | 13 | PHP | 2 | Snapshotting of global state, factored out of PHPUnit into a stand-alone component | 2021-03-12T06:35:08Z |
+| 59 | [version](https://github.com/sebastianbergmann/version) | 5773 | 25 | PHP | 1 | Library that helps with managing the version number of Git-hosted PHP projects | 2021-02-16T12:55:29Z |
+| 60 | [recursion-context](https://github.com/sebastianbergmann/recursion-context) | 5772 | 12 | PHP | 0 | Provides functionality to recursively process PHP variables | 2021-03-12T06:35:47Z |
+| 61 | [Lychee](https://github.com/electerious/Lychee) | 5756 | 685 | PHP | 0 | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | 2020-12-22T17:43:55Z |
+| 62 | [PHPWord](https://github.com/PHPOffice/PHPWord) | 5508 | 2227 | PHP | 873 | A pure PHP library for reading and writing word processing documents | 2021-03-13T16:27:03Z |
+| 63 | [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) | 5422 | 1220 | PHP | 105 | A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) | 2021-02-25T06:57:38Z |
+| 64 | [Ratchet](https://github.com/ratchetphp/Ratchet) | 5394 | 611 | PHP | 93 | Asynchronous WebSocket server | 2021-01-31T20:10:25Z |
+| 65 | [phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 5372 | 2909 | PHP | 505 | A web interface for MySQL and MariaDB | 2021-03-15T00:12:49Z |
+| 66 | [humhub](https://github.com/humhub/humhub) | 5309 | 1528 | PHP | 493 | HumHub - Open Source Social Network | 2021-03-12T16:55:53Z |
+| 67 | [bedrock](https://github.com/roots/bedrock) | 5188 | 1023 | PHP | 18 | WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure | 2021-03-12T23:44:38Z |
+| 68 | [core](https://github.com/flarum/core) | 5176 | 720 | PHP | 356 | Simple forum software for building great communities. | 2021-03-15T02:05:01Z |
+| 69 | [countries](https://github.com/mledoze/countries) | 5170 | 1128 | PHP | 23 | World countries in JSON, CSV, XML and Yaml. Any help is welcome! | 2020-12-24T17:11:10Z |
+| 70 | [KodExplorer](https://github.com/kalcaddle/KodExplorer) | 5139 | 1634 | PHP | 23 | A web based file manager,web IDE / browser based code editor | 2021-01-24T18:43:11Z |
+| 71 | [aws-sdk-php](https://github.com/aws/aws-sdk-php) | 5121 | 988 | PHP | 45 | Official repository of the AWS SDK for PHP (@awsforphp) | 2021-03-12T19:31:54Z |
+| 72 | [common](https://github.com/doctrine/common) | 5095 | 294 | PHP | 18 | Doctrine Common | 2021-02-27T16:28:39Z |
+| 73 | [collections](https://github.com/doctrine/collections) | 5089 | 155 | PHP | 37 | Collections Abstraction Library | 2021-02-16T00:08:33Z |
+| 74 | [laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) | 5016 | 1533 | PHP | 5 | The Laravel Boilerplate Project - https://laravel-boilerplate.com | 2021-03-03T13:40:11Z |
+| 75 | [phpunit-mock-objects](https://github.com/sebastianbergmann/phpunit-mock-objects) | 5015 | 159 | PHP | 1 | Mock Object library for PHPUnit | 2018-10-30T00:10:52Z |
+| 76 | [event-manager](https://github.com/doctrine/event-manager) | 4946 | 9 | PHP | 4 | The Doctrine Event Manager is a library that provides a simple event system. | 2021-01-20T18:51:23Z |
+| 77 | [yii](https://github.com/yiisoft/yii) | 4849 | 2316 | PHP | 5 | Yii PHP Framework 1.1.x | 2021-03-11T20:39:49Z |
+| 78 | [adminer](https://github.com/vrana/adminer) | 4649 | 876 | PHP | 6 | Database management in a single PHP file | 2021-03-12T10:23:48Z |
+| 79 | [polyfill-php72](https://github.com/symfony/polyfill-php72) | 4510 | 1 | PHP | 0 | This component provides functions added to PHP 7.2 core. | 2021-02-16T06:47:40Z |
+| 80 | [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | 4478 | 2439 | PHP | 156 | 微信公众平台php开发包, weixin developer SDK. | 2018-11-26T16:16:38Z |
+| 81 | [elasticsearch-php](https://github.com/elastic/elasticsearch-php) | 4458 | 849 | PHP | 36 | Official PHP low-level client for Elasticsearch. | 2021-03-08T14:19:16Z |
+| 82 | [laravel-backup](https://github.com/spatie/laravel-backup) | 4375 | 606 | PHP | 0 | A package to backup your Laravel app | 2021-03-12T21:52:30Z |
+| 83 | [hashids](https://github.com/vinkla/hashids) | 4352 | 360 | PHP | 0 | A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user. | 2021-02-02T05:50:24Z |
+| 84 | [laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) | 4327 | 745 | PHP | 7 | Associate files with Eloquent models | 2021-03-14T20:53:10Z |
+| 85 | [phpseclib](https://github.com/phpseclib/phpseclib) | 4289 | 707 | PHP | 192 | PHP Secure Communications Library | 2021-03-13T14:24:28Z |
+| 86 | [aimeos-laravel](https://github.com/aimeos/aimeos-laravel) | 4270 | 803 | PHP | 3 | Laravel ecommerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce | 2021-03-11T09:53:24Z |
+| 87 | [easyswoole](https://github.com/easy-swoole/easyswoole) | 4114 | 481 | PHP | 18 | swoole,easyswoole,swoole framework | 2021-03-13T03:02:05Z |
+| 88 | [bolt](https://github.com/bolt/bolt) | 4098 | 828 | PHP | 46 | Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL. | 2021-01-28T10:35:52Z |
+| 89 | [Imagine](https://github.com/avalanche123/Imagine) | 4063 | 510 | PHP | 59 | PHP 5.3 Object Oriented image manipulation library | 2021-02-13T21:35:54Z |
+| 90 | [wooyun_public](https://github.com/hanc00l/wooyun_public) | 3939 | 1913 | PHP | 29 | This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops | 2019-07-17T00:13:38Z |
+| 91 | [swagger-php](https://github.com/zircote/swagger-php) | 3912 | 737 | PHP | 14 | A php swagger annotation and parsing library | 2021-03-12T06:49:24Z |
+| 92 | [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) | 3874 | 386 | PHP | 16 | Symfony Bundle for Doctrine ORM and DBAL | 2021-03-13T18:01:14Z |
+| 93 | [akaunting](https://github.com/akaunting/akaunting) | 3852 | 1420 | PHP | 16 | Free and Online Accounting Software | 2021-03-15T00:37:52Z |
+| 94 | [manong](https://github.com/nemoTyrant/manong) | 3835 | 981 | PHP | 0 | 码农周刊整理 | 2017-09-25T10:56:48Z |
+| 95 | [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) | 3787 | 653 | PHP | 156 | mailcow: dockerized - 🐮 + 🐋 = 💕 | 2021-03-14T16:05:55Z |
+| 96 | [php-debugbar](https://github.com/maximebf/php-debugbar) | 3766 | 336 | PHP | 122 | Debug bar for PHP | 2021-03-10T11:21:49Z |
+| 97 | [l5-repository](https://github.com/andersao/l5-repository) | 3750 | 791 | PHP | 230 | Laravel 5 - Repositories to abstract the database layer | 2021-03-06T21:07:56Z |
+| 98 | [PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | 3747 | 766 | PHP | 233 | An object oriented PHP driver for FFMpeg binary | 2021-03-06T22:27:28Z |
+| 99 | [php-amqplib](https://github.com/php-amqplib/php-amqplib) | 3743 | 914 | PHP | 7 | The most widely used PHP client for RabbitMQ | 2021-03-13T03:30:10Z |
+| 100 | [Geocoder](https://github.com/geocoder-php/Geocoder) | 3693 | 500 | PHP | 48 | The most featured Geocoder library written in PHP. | 2021-03-14T09:18:04Z |
 
