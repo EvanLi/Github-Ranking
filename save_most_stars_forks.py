@@ -90,6 +90,7 @@ def write_head_contents():
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
+* [Kotlin](#kotlin)
 * [JavaScript](#javascript)
 * [Lua](#lua)
 * [MATLAB](#matlab)
@@ -165,8 +166,8 @@ def save_to_csv(repos_stars,repos_forks,repos_languages):
 if __name__=="__main__":
     os.chdir('/home/li/code/github/Github-Ranking')
     
-    languages = ["ActionScript","C","CSharp","CPP","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","JavaScript","Lua","MATLAB","Objective-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim-script"]
-    languages_md = ["ActionScript","C","C\#","C\+\+","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","JavaScript","Lua","MATLAB","Objective\-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim script"]
+    languages = ["ActionScript","C","CSharp","CPP","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","Kotlin","JavaScript","Lua","MATLAB","Objective-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim-script"]
+    languages_md = ["ActionScript","C","C\#","C\+\+","Clojure","CoffeeScript","CSS","Go","Haskell","HTML","Java","Kotlin","JavaScript","Lua","MATLAB","Objective\-C","Perl","PHP","Python","R","Ruby","Scala","Shell","Swift","TeX","Vim script"]
     
     print("Get repos, please wait for seconds...")
     repos_stars, repos_forks, repos_languages = get_all_repos(languages)

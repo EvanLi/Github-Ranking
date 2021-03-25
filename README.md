@@ -20,6 +20,7 @@
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
+* [Kotlin](#kotlin)
 * [JavaScript](#javascript)
 * [Lua](#lua)
 * [MATLAB](#matlab)
@@ -255,6 +256,23 @@ This is top 10 list, for more click **[Top 100 Stars in Java](Top100/Java.md)**
 | 8 | [spring-framework](https://github.com/spring-projects/spring-framework) | 41992 | 29216 | Java | 1219 | Spring Framework | 2021-03-24T06:42:56Z |
 | 9 | [guava](https://github.com/google/guava) | 40647 | 9086 | Java | 732 | Google core libraries for Java | 2021-03-25T01:44:12Z |
 | 10 | [okhttp](https://github.com/square/okhttp) | 39654 | 8441 | Java | 108 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2021-03-24T07:41:20Z |
+
+## Kotlin
+
+This is top 10 list, for more click **[Top 100 Stars in Kotlin](Top100/Kotlin.md)**
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [architecture-samples](https://github.com/android/architecture-samples) | 38449 | 10602 | Kotlin | 180 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2021-03-24T06:25:56Z |
+| 2 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 31218 | 11419 | Kotlin | 27 | A shadowsocks client for Android | 2021-03-25T03:04:54Z |
+| 3 | [leakcanary](https://github.com/square/leakcanary) | 25908 | 3754 | Kotlin | 70 | A memory leak detection library for Android. | 2021-03-24T19:42:33Z |
+| 4 | [p3c](https://github.com/alibaba/p3c) | 24881 | 6660 | Kotlin | 81 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2021-02-10T09:13:16Z |
+| 5 | [fanqiang](https://github.com/bannedbook/fanqiang) | 20577 | 4799 | Kotlin | 241 | 翻墙-科学上网 | 2021-03-18T06:24:24Z |
+| 6 | [iosched](https://github.com/google/iosched) | 20343 | 6111 | Kotlin | 49 | The Google I/O 2019 Android App | 2021-02-14T16:07:15Z |
+| 7 | [architecture-components-samples](https://github.com/android/architecture-components-samples) | 19706 | 6962 | Kotlin | 150 | Samples for Android Architecture Components.  | 2021-03-10T09:51:55Z |
+| 8 | [material-dialogs](https://github.com/afollestad/material-dialogs) | 18648 | 3093 | Kotlin | 83 | 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android. | 2021-02-22T17:30:36Z |
+| 9 | [flexbox-layout](https://github.com/google/flexbox-layout) | 16568 | 1732 | Kotlin | 92 | Flexbox for Android  | 2021-03-17T02:44:33Z |
+| 10 | [plaid](https://github.com/nickbutcher/plaid) | 15940 | 3253 | Kotlin | 93 | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2020-12-28T07:03:44Z |
 
 ## JavaScript
 
