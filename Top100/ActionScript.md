@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7354 | 137 | ActionScript | 33 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6115 | 488 | ActionScript | 28 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2021-04-05T20:43:46Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6119 | 488 | ActionScript | 28 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2021-04-05T20:43:46Z |
 | 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2289 | 1026 | ActionScript | 155 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2278 | 849 | ActionScript | 84 | The Cross Platform Game Engine | 2021-03-30T07:08:45Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1490 | 461 | ActionScript | 121 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -45,7 +45,7 @@
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 321 | 142 | ActionScript | 5 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
 | 39 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 320 | 148 | ActionScript | 1 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2021-01-12T09:40:50Z |
 | 40 | [Flare](https://github.com/prefuse/Flare) | 309 | 70 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
-| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 308 | 107 | ActionScript | 213 | Apache Royale ASJS | 2021-04-02T11:34:43Z |
+| 41 | [royale-asjs](https://github.com/apache/royale-asjs) | 308 | 107 | ActionScript | 214 | Apache Royale ASJS | 2021-04-06T12:12:49Z |
 | 42 | [mBlock](https://github.com/Makeblock-official/mBlock) | 293 | 223 | ActionScript | 35 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 43 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 288 | 90 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 44 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 279 | 84 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
@@ -84,7 +84,7 @@
 | 77 | [kingdom](https://github.com/noio/kingdom) | 175 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 78 | [GPUImage](https://github.com/inspirit/GPUImage) | 174 | 30 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 79 | [avmplus](https://github.com/adobe-flash/avmplus) | 173 | 92 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
-| 80 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 169 | 44 | ActionScript | 1 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2021-03-14T22:17:05Z |
+| 80 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 170 | 44 | ActionScript | 1 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2021-03-14T22:17:05Z |
 | 81 | [promise-as3](https://github.com/CodeCatalyst/promise-as3) | 169 | 53 | ActionScript | 16 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 82 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 167 | 104 | ActionScript | 2 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 83 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 166 | 95 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
