@@ -4,3 +4,4 @@ access_token.txt
 .sass-cache/
 Gemfile.lock
 _site/
+.idea/
