@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 322901 | 25694 | JavaScript | 290 | freeCodeCamp.org's open source codebase and curriculum. Learn to code for free. | 2021-04-17T22:33:23Z |
-| 2 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 183070 | 41623 | None | 24 | :books: Freely available programming books | 2021-04-15T20:07:46Z |
-| 3 | [react](https://github.com/facebook/react) | 167021 | 33585 | JavaScript | 707 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2021-04-17T19:42:30Z |
-| 4 | [bootstrap](https://github.com/twbs/bootstrap) | 149374 | 72970 | JavaScript | 361 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2021-04-18T01:25:45Z |
-| 5 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 136403 | 27139 | None | 121 | A book series on JavaScript. @YDKJS on twitter. | 2021-03-22T20:00:34Z |
-| 6 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 126769 | 23181 | Python | 189 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2021-04-08T20:01:07Z |
-| 7 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 126181 | 40979 | Java | 88 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ | 2021-04-16T07:49:52Z |
-| 8 | [flutter](https://github.com/flutter/flutter) | 118365 | 16909 | Dart | 8919 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | 2021-04-18T02:34:05Z |
-| 9 | [public-apis](https://github.com/public-apis/public-apis) | 117755 | 14536 | Python | 127 | A collective list of free APIs | 2021-04-18T01:41:16Z |
-| 10 | [gitignore](https://github.com/github/gitignore) | 116677 | 64185 | None | 316 | A collection of useful .gitignore templates | 2021-04-13T14:40:17Z |
-| 11 | [vscode](https://github.com/microsoft/vscode) | 114616 | 18608 | TypeScript | 5167 | Visual Studio Code | 2021-04-17T20:08:11Z |
-| 12 | [d3](https://github.com/d3/d3) | 96512 | 22587 | JavaScript | 9 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2021-04-16T00:12:39Z |
-| 13 | [awesome-python](https://github.com/vinta/awesome-python) | 95981 | 18749 | Python | 148 | A curated list of awesome Python frameworks, libraries, software and resources | 2021-04-12T03:53:08Z |
-| 14 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 93129 | 4667 | Python | 4030 | Command-line program to download videos from YouTube.com and other video sites | 2021-04-18T01:45:54Z |
-| 15 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 88041 | 17089 | None | 41 | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  | 2021-04-12T21:01:58Z |
-| 16 | [create-react-app](https://github.com/facebook/create-react-app) | 87262 | 21607 | JavaScript | 1094 | Set up a modern web app by running one command. | 2021-04-17T16:48:33Z |
-| 17 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 85480 | 9697 | None | 191 | Master the command line, in one page | 2021-03-01T11:24:01Z |
-| 18 | [go](https://github.com/golang/go) | 84583 | 12322 | Go | 7036 | The Go programming language | 2021-04-17T00:02:37Z |
-| 19 | [axios](https://github.com/axios/axios) | 83476 | 8069 | JavaScript | 307 | Promise based HTTP client for the browser and node.js | 2021-04-17T17:14:34Z |
-| 20 | [computer-science](https://github.com/ossu/computer-science) | 81359 | 11604 | None | 12 | :mortar_board: Path to a free self-taught education in Computer Science! | 2021-04-10T03:34:57Z |
-| 21 | [node](https://github.com/nodejs/node) | 78406 | 19885 | JavaScript | 1285 | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 2021-04-18T01:57:07Z |
-| 22 | [deno](https://github.com/denoland/deno) | 74694 | 3931 | Rust | 596 | A secure JavaScript and TypeScript runtime | 2021-04-18T02:12:30Z |
-| 23 | [angular](https://github.com/angular/angular) | 72530 | 18973 | TypeScript | 2626 | One framework. Mobile & desktop. | 2021-04-17T22:18:10Z |
-| 24 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | 70838 | 7878 | JavaScript | 2 | Short JavaScript code snippets for all your development needs | 2021-04-17T20:25:04Z |
-| 25 | [three.js](https://github.com/mrdoob/three.js) | 69755 | 27336 | JavaScript | 434 | JavaScript 3D library. | 2021-04-17T20:38:43Z |
-| 26 | [models](https://github.com/tensorflow/models) | 69539 | 44000 | Python | 1154 | Models and examples built with TensorFlow | 2021-04-17T06:13:16Z |
-| 27 | [material-ui](https://github.com/mui-org/material-ui) | 67596 | 21461 | JavaScript | 489 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | 2021-04-18T02:52:57Z |
-| 28 | [next.js](https://github.com/vercel/next.js) | 65829 | 12072 | JavaScript | 954 | The React Framework | 2021-04-18T02:44:53Z |
-| 29 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 65398 | 11364 | JavaScript | 5614 | The iconic SVG, font, and CSS toolkit | 2021-03-16T18:58:19Z |
-| 30 | [laravel](https://github.com/laravel/laravel) | 64783 | 20760 | PHP | 30 | A PHP framework for web artisans. | 2021-04-16T13:13:56Z |
-| 31 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 63324 | 6212 | JavaScript | 49 | :white_check_mark:  The Node.js best practices list (March 2021) | 2021-04-16T12:41:33Z |
-| 32 | [storybook](https://github.com/storybookjs/storybook) | 60512 | 6021 | TypeScript | 1139 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 2021-04-17T21:43:45Z |
-| 33 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 59936 | 8340 | None | 33 | 🎉 A curated list of awesome things related to Vue.js | 2021-04-18T01:02:23Z |
-| 34 | [thefuck](https://github.com/nvbn/thefuck) | 59841 | 2842 | Python | 260 | Magnificent app which corrects your previous console command. | 2021-04-17T12:55:53Z |
-| 35 | [webpack](https://github.com/webpack/webpack) | 57986 | 7703 | JavaScript | 296 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | 2021-04-17T12:15:17Z |
-| 36 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 57464 | 4423 | JavaScript | 101 | A list of Free Software network services and web applications which can be hosted on your own servers | 2021-04-17T21:19:23Z |
-| 37 | [django](https://github.com/django/django) | 56853 | 24324 | Python | 168 | The Web framework for perfectionists with deadlines. | 2021-04-17T19:11:44Z |
-| 38 | [reveal.js](https://github.com/hakimel/reveal.js) | 56000 | 15483 | JavaScript | 660 | The HTML Presentation Framework | 2021-04-14T11:20:42Z |
-| 39 | [swift](https://github.com/apple/swift) | 55738 | 8942 | C++ | 345 | The Swift Programming Language | 2021-04-17T20:21:17Z |
-| 40 | [flask](https://github.com/pallets/flask) | 54554 | 14239 | Python | 18 | The Python micro framework for building web applications. | 2021-04-17T14:34:56Z |
-| 41 | [elasticsearch](https://github.com/elastic/elasticsearch) | 54539 | 19691 | Java | 3227 | Free and Open, Distributed, RESTful Search Engine | 2021-04-17T19:09:16Z |
-| 42 | [advanced-java](https://github.com/doocs/advanced-java) | 53503 | 14839 | Java | 2 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2021-04-10T09:07:59Z |
-| 43 | [json-server](https://github.com/typicode/json-server) | 53455 | 5104 | JavaScript | 582 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | 2021-04-15T09:22:53Z |
-| 44 | [Chart.js](https://github.com/chartjs/Chart.js) | 53248 | 10888 | JavaScript | 99 | Simple HTML5 Charts using the <canvas> tag | 2021-04-17T23:00:42Z |
-| 45 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 52053 | 16014 | C# | 16 | If you want to keep a secret, you must also hide it from yourself. | 2021-04-16T07:06:13Z |
-| 46 | [hugo](https://github.com/gohugoio/hugo) | 51325 | 5734 | Go | 635 | The world’s fastest framework for building websites. | 2021-04-17T15:13:14Z |
-| 47 | [markdown-here](https://github.com/adam-p/markdown-here) | 51179 | 9662 | JavaScript | 289 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2021-03-27T03:01:51Z |
-| 48 | [interviews](https://github.com/kdn251/interviews) | 50970 | 10864 | Java | 91 | Everything you need to know to get the job. | 2021-03-10T08:57:00Z |
-| 49 | [Apollo-11](https://github.com/chrislgarry/Apollo-11) | 50655 | 6635 | Assembly | 105 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | 2021-04-13T15:28:36Z |
-| 50 | [httpie](https://github.com/httpie/httpie) | 50482 | 3287 | Python | 144 | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie | 2021-04-15T07:35:50Z |
-| 51 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 50293 | 4918 | None | 9 | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | 2021-04-15T17:33:42Z |
-| 52 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 49918 | 6125 | JavaScript | 54 | :bathtub: Clean Code concepts adapted for JavaScript | 2021-04-15T09:04:58Z |
-| 53 | [gatsby](https://github.com/gatsbyjs/gatsby) | 49818 | 9476 | JavaScript | 632 | Build blazing fast, modern apps and websites with React | 2021-04-17T21:05:31Z |
-| 54 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 49750 | 12355 | Python | 3 | A curated list of awesome Machine Learning frameworks, libraries and software. | 2021-04-15T14:25:31Z |
-| 55 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 49170 | 5118 | JavaScript | 1043 | Semantic is a UI component framework based around useful principles from natural language. | 2021-03-07T00:23:38Z |
-| 56 | [redis](https://github.com/redis/redis) | 48465 | 19138 | C | 2329 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2021-04-17T11:46:48Z |
-| 57 | [mall](https://github.com/macrozheng/mall) | 48376 | 20825 | Java | 19 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2021-04-15T13:44:27Z |
-| 58 | [nvm](https://github.com/nvm-sh/nvm) | 48178 | 4881 | Shell | 311 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2021-04-16T22:16:02Z |
-| 59 | [ansible](https://github.com/ansible/ansible) | 47792 | 20498 | Python | 1837 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | 2021-04-18T02:02:57Z |
-| 60 | [pytorch](https://github.com/pytorch/pytorch) | 47628 | 12719 | C++ | 8684 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2021-04-18T02:52:50Z |
-| 61 | [scrcpy](https://github.com/Genymobile/scrcpy) | 47411 | 4904 | C | 699 | Display and control your Android device | 2021-04-17T18:08:32Z |
-| 62 | [project-based-learning](https://github.com/tuvtran/project-based-learning) | 47393 | 7510 | None | 105 | Curated list of project-based tutorials | 2021-03-30T10:42:04Z |
-| 63 | [svelte](https://github.com/sveltejs/svelte) | 46229 | 2153 | TypeScript | 735 | Cybernetically enhanced web apps | 2021-04-18T00:34:38Z |
-| 64 | [moment](https://github.com/moment/moment) | 45574 | 6893 | JavaScript | 132 | Parse, validate, manipulate, and display dates in javascript. | 2021-04-08T18:23:39Z |
-| 65 | [requests](https://github.com/psf/requests) | 44984 | 8236 | Python | 320 | A simple, yet elegant HTTP library. | 2021-04-16T20:35:39Z |
-| 66 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 43728 | 6990 | None | 29 | A collection of various awesome lists for hackers, pentesters and security researchers | 2021-03-26T23:52:18Z |
-| 67 | [ionic-framework](https://github.com/ionic-team/ionic-framework) | 43431 | 13378 | TypeScript | 700 | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | 2021-04-16T20:57:49Z |
-| 68 | [bulma](https://github.com/jgthms/bulma) | 43250 | 3703 | CSS | 357 | Modern CSS framework based on Flexbox | 2021-04-17T17:35:16Z |
-| 69 | [neovim](https://github.com/neovim/neovim) | 43091 | 3191 | Vim script | 1479 | Vim-fork focused on extensibility and usability | 2021-04-18T02:41:51Z |
-| 70 | [leetcode](https://github.com/azl397985856/leetcode) | 41400 | 7743 | JavaScript | 5 |  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | 2021-04-17T05:03:24Z |
-| 71 | [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 41393 | 6475 | JavaScript | 68 | Based on a true story | 2020-10-31T14:23:49Z |
-| 72 | [guava](https://github.com/google/guava) | 40880 | 9135 | Java | 738 | Google core libraries for Java | 2021-04-16T21:32:12Z |
-| 73 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 40736 | 4948 | None | 10 | :zap: Delightful Node.js packages and resources | 2021-04-16T07:19:32Z |
-| 74 | [scrapy](https://github.com/scrapy/scrapy) | 40359 | 9132 | Python | 788 | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2021-04-16T15:50:33Z |
-| 75 | [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 40284 | 1830 | CSS | 127 | A utility-first CSS framework for rapid UI development. | 2021-04-16T07:09:51Z |
-| 76 | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | 40243 | 1865 | Python | 74 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | 2021-04-17T19:05:45Z |
-| 77 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 40136 | 5983 | Python | 19 | :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年） | 2021-03-31T07:04:49Z |
-| 78 | [okhttp](https://github.com/square/okhttp) | 39801 | 8464 | Java | 103 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2021-04-17T10:59:51Z |
-| 79 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 39587 | 7236 | C++ | 308 | Tesseract Open Source OCR Engine (main repository) | 2021-04-17T16:11:16Z |
-| 80 | [face_recognition](https://github.com/ageitgey/face_recognition) | 39473 | 11082 | Python | 596 | The world's simplest facial recognition api for Python and the command line | 2021-03-20T02:37:00Z |
-| 81 | [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 39375 | 5768 | None | 15 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  | 2021-04-13T19:33:01Z |
-| 82 | [anime](https://github.com/juliangarnier/anime) | 39009 | 3118 | JavaScript | 152 | JavaScript animation engine | 2021-04-16T10:16:12Z |
-| 83 | [babel](https://github.com/babel/babel) | 38833 | 4807 | JavaScript | 743 | 🐠 Babel is a compiler for writing next generation JavaScript. | 2021-04-17T21:00:24Z |
-| 84 | [architecture-samples](https://github.com/android/architecture-samples) | 38573 | 10632 | Kotlin | 180 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2021-03-24T06:25:56Z |
-| 85 | [materialize](https://github.com/Dogfalo/materialize) | 38440 | 4881 | JavaScript | 799 | Materialize, a CSS Framework based on Material Design | 2021-02-05T11:32:15Z |
-| 86 | [superset](https://github.com/apache/superset) | 38041 | 7192 | Python | 885 | Apache Superset is a Data Visualization and Data Exploration Platform | 2021-04-17T17:34:13Z |
-| 87 | [nw.js](https://github.com/nwjs/nw.js) | 38021 | 3939 | JavaScript | 816 | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. | 2021-04-15T08:30:20Z |
-| 88 | [git](https://github.com/git/git) | 37634 | 21336 | C | 61 | Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2021-04-17T23:20:57Z |
-| 89 | [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 37445 | 10007 | Go | 104 | A golang ebook intro how to build a web with golang | 2021-04-10T07:03:11Z |
-| 90 | [Ghost](https://github.com/TryGhost/Ghost) | 37159 | 8067 | JavaScript | 89 | 👻 The #1 headless Node.js CMS for professional publishing | 2021-04-16T22:37:00Z |
-| 91 | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | 36809 | 7254 | None | 50 | :books: List of awesome university courses for learning Computer Science! | 2021-01-26T11:12:18Z |
-| 92 | [Java](https://github.com/TheAlgorithms/Java) | 36567 | 12288 | Java | 734 | All Algorithms implemented in Java | 2021-04-17T21:47:10Z |
-| 93 | [prometheus](https://github.com/prometheus/prometheus) | 36296 | 5843 | Go | 419 | The Prometheus monitoring system and time series database. | 2021-04-17T02:05:10Z |
-| 94 | [kotlin](https://github.com/JetBrains/kotlin) | 36179 | 4486 | None | 145 | The Kotlin Programming Language | 2021-04-18T01:19:42Z |
-| 95 | [fzf](https://github.com/junegunn/fzf) | 36175 | 1562 | Go | 207 | :cherry_blossom: A command-line fuzzy finder | 2021-04-17T19:00:40Z |
-| 96 | [syncthing](https://github.com/syncthing/syncthing) | 36028 | 2979 | Go | 266 | Open Source Continuous File Synchronization | 2021-04-15T16:13:35Z |
-| 97 | [vue2-elm](https://github.com/bailicangdu/vue2-elm) | 35949 | 11727 | Vue | 86 | 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用 | 2021-04-07T03:39:16Z |
-| 98 | [strapi](https://github.com/strapi/strapi) | 35844 | 4330 | JavaScript | 470 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | 2021-04-17T11:32:44Z |
-| 99 | [hyper](https://github.com/vercel/hyper) | 35658 | 2954 | TypeScript | 698 | A terminal built on web technologies | 2021-04-13T06:32:54Z |
-| 100 | [git-flight-rules](https://github.com/k88hudson/git-flight-rules) | 35602 | 2658 | None | 13 | Flight rules for git | 2021-03-18T12:42:18Z |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 322944 | 25702 | JavaScript | 290 | freeCodeCamp.org's open source codebase and curriculum. Learn to code for free. | 2021-04-18T23:11:38Z |
+| 2 | [996.ICU](https://github.com/996icu/996.ICU) | 256539 | 21287 | Rust | 16808 | Repo for counting stars and contributing. Press F to pay respect to glorious developers. | 2021-04-08T11:02:50Z |
+| 3 | [vue](https://github.com/vuejs/vue) | 182177 | 28753 | JavaScript | 526 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2021-04-18T20:05:03Z |
+| 4 | [react](https://github.com/facebook/react) | 167078 | 33593 | JavaScript | 706 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2021-04-17T19:42:30Z |
+| 5 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 163125 | 45417 | None | 43 | A complete computer science study plan to become a software engineer. | 2021-04-18T19:44:43Z |
+| 6 | [awesome](https://github.com/sindresorhus/awesome) | 158095 | 20462 | None | 50 | 😎 Awesome lists about all kinds of interesting topics | 2021-04-18T15:54:42Z |
+| 7 | [tensorflow](https://github.com/tensorflow/tensorflow) | 154979 | 84481 | C++ | 4054 | An Open Source Machine Learning Framework for Everyone | 2021-04-19T01:54:15Z |
+| 8 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 154769 | 22609 | None | 57 | Roadmap to becoming a web developer in 2021 | 2021-03-31T08:36:51Z |
+| 9 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 136442 | 27143 | None | 121 | A book series on JavaScript. @YDKJS on twitter. | 2021-03-22T20:00:34Z |
+| 10 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 126480 | 21912 | Shell | 729 | 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2021-04-15T16:35:17Z |
+| 11 | [flutter](https://github.com/flutter/flutter) | 118389 | 16914 | Dart | 8934 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. | 2021-04-18T21:44:03Z |
+| 12 | [gitignore](https://github.com/github/gitignore) | 116726 | 64223 | None | 316 | A collection of useful .gitignore templates | 2021-04-13T14:40:17Z |
+| 13 | [vscode](https://github.com/microsoft/vscode) | 114650 | 18619 | TypeScript | 5199 | Visual Studio Code | 2021-04-19T02:26:57Z |
+| 14 | [linux](https://github.com/torvalds/linux) | 109242 | 36676 | C | 324 | Linux kernel source tree | 2021-04-18T21:47:39Z |
+| 15 | [javascript](https://github.com/airbnb/javascript) | 108014 | 20812 | JavaScript | 116 | JavaScript Style Guide | 2021-03-31T09:47:28Z |
+| 16 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 103644 | 17212 | JavaScript | 229 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2021-04-16T21:09:59Z |
+| 17 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 102669 | 9086 | None | 168 | 🤓 Build your own (insert technology here) | 2021-03-19T09:57:11Z |
+| 18 | [Python](https://github.com/TheAlgorithms/Python) | 102357 | 29087 | Python | 37 | All Algorithms implemented in Python | 2021-04-18T23:57:31Z |
+| 19 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 101741 | 40796 | Python | 556 | Python - 100天从新手到大师 | 2021-04-10T14:56:34Z |
+| 20 | [d3](https://github.com/d3/d3) | 96523 | 22588 | JavaScript | 9 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2021-04-16T00:12:39Z |
+| 21 | [awesome-python](https://github.com/vinta/awesome-python) | 96019 | 18756 | Python | 148 | A curated list of awesome Python frameworks, libraries, software and resources | 2021-04-12T03:53:08Z |
+| 22 | [react-native](https://github.com/facebook/react-native) | 94789 | 20711 | JavaScript | 1680 | A framework for building native apps with React. | 2021-04-18T23:40:43Z |
+| 23 | [electron](https://github.com/electron/electron) | 91344 | 12241 | C++ | 1138 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2021-04-18T13:01:46Z |
+| 24 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 88096 | 17100 | None | 41 | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  | 2021-04-12T21:01:58Z |
+| 25 | [create-react-app](https://github.com/facebook/create-react-app) | 87284 | 21613 | JavaScript | 1098 | Set up a modern web app by running one command. | 2021-04-18T13:29:36Z |
+| 26 | [axios](https://github.com/axios/axios) | 83499 | 8068 | JavaScript | 308 | Promise based HTTP client for the browser and node.js | 2021-04-17T17:14:34Z |
+| 27 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 78733 | 23175 | None | 19 | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 2021-03-25T16:30:50Z |
+| 28 | [kubernetes](https://github.com/kubernetes/kubernetes) | 76454 | 27727 | Go | 2913 | Production-Grade Container Scheduling and Management | 2021-04-19T02:59:52Z |
+| 29 | [deno](https://github.com/denoland/deno) | 74723 | 3933 | Rust | 594 | A secure JavaScript and TypeScript runtime | 2021-04-19T02:13:08Z |
+| 30 | [terminal](https://github.com/microsoft/terminal) | 73327 | 6616 | C++ | 1281 | The new Windows Terminal and the original Windows console host, all in the same place! | 2021-04-18T09:01:39Z |
+| 31 | [TypeScript](https://github.com/microsoft/TypeScript) | 70203 | 9256 | TypeScript | 5147 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2021-04-18T06:58:24Z |
+| 32 | [puppeteer](https://github.com/puppeteer/puppeteer) | 70112 | 7354 | TypeScript | 1576 | Headless Chrome Node.js API | 2021-04-18T12:36:42Z |
+| 33 | [animate.css](https://github.com/animate-css/animate.css) | 69798 | 15441 | CSS | 20 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2021-04-15T05:17:25Z |
+| 34 | [models](https://github.com/tensorflow/models) | 69552 | 44011 | Python | 1156 | Models and examples built with TensorFlow | 2021-04-18T20:23:40Z |
+| 35 | [material-ui](https://github.com/mui-org/material-ui) | 67627 | 21475 | JavaScript | 496 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | 2021-04-18T23:50:32Z |
+| 36 | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 66709 | 23935 | Vue | 941 | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 2021-04-17T06:41:59Z |
+| 37 | [next.js](https://github.com/vercel/next.js) | 65868 | 12081 | JavaScript | 945 | The React Framework | 2021-04-18T18:45:31Z |
+| 38 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 65278 | 20748 | Java | 245 | Design patterns implemented in Java | 2021-04-19T02:25:25Z |
+| 39 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 63961 | 12224 | Java | 8 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） | 2020-09-30T01:43:30Z |
+| 40 | [awesome-go](https://github.com/avelino/awesome-go) | 63590 | 8332 | Go | 32 | A curated list of awesome Go frameworks, libraries and software | 2021-04-18T18:27:21Z |
+| 41 | [storybook](https://github.com/storybookjs/storybook) | 60542 | 6019 | TypeScript | 1139 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 2021-04-18T21:08:44Z |
+| 42 | [moby](https://github.com/moby/moby) | 60053 | 17362 | Go | 4133 | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | 2021-04-17T10:42:41Z |
+| 43 | [angular.js](https://github.com/angular/angular.js) | 59587 | 28522 | JavaScript | 464 | AngularJS - HTML enhanced for web apps! | 2021-03-31T16:46:38Z |
+| 44 | [webpack](https://github.com/webpack/webpack) | 57989 | 7704 | JavaScript | 298 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | 2021-04-18T18:30:59Z |
+| 45 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 57522 | 4426 | JavaScript | 101 | A list of Free Software network services and web applications which can be hosted on your own servers | 2021-04-18T17:42:46Z |
+| 46 | [realworld](https://github.com/gothinkster/realworld) | 57096 | 5078 | Shell | 49 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | 2021-04-18T16:47:06Z |
+| 47 | [django](https://github.com/django/django) | 56877 | 24327 | Python | 170 | The Web framework for perfectionists with deadlines. | 2021-04-18T21:54:22Z |
+| 48 | [reveal.js](https://github.com/hakimel/reveal.js) | 56007 | 15484 | JavaScript | 661 | The HTML Presentation Framework | 2021-04-14T11:20:42Z |
+| 49 | [swift](https://github.com/apple/swift) | 55742 | 8948 | C++ | 348 | The Swift Programming Language | 2021-04-19T02:15:58Z |
+| 50 | [redux](https://github.com/reduxjs/redux) | 55733 | 14620 | TypeScript | 46 | Predictable state container for JavaScript apps | 2021-04-16T17:39:24Z |
+| 51 | [FiraCode](https://github.com/tonsky/FiraCode) | 55383 | 2415 | Clojure | 260 | Free monospaced font with programming ligatures | 2021-04-18T00:54:24Z |
+| 52 | [jquery](https://github.com/jquery/jquery) | 54761 | 19896 | JavaScript | 76 | jQuery JavaScript Library | 2021-04-16T21:53:34Z |
+| 53 | [flask](https://github.com/pallets/flask) | 54563 | 14242 | Python | 18 | The Python micro framework for building web applications. | 2021-04-17T14:34:56Z |
+| 54 | [rust](https://github.com/rust-lang/rust) | 54002 | 7757 | Rust | 7145 | Empowering everyone to build reliable and efficient software. | 2021-04-19T01:59:17Z |
+| 55 | [opencv](https://github.com/opencv/opencv) | 53762 | 44497 | C++ | 1960 | Open Source Computer Vision Library | 2021-04-19T02:13:06Z |
+| 56 | [advanced-java](https://github.com/doocs/advanced-java) | 53516 | 14843 | Java | 2 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2021-04-10T09:07:59Z |
+| 57 | [socket.io](https://github.com/socketio/socket.io) | 53127 | 9627 | JavaScript | 194 | Realtime application framework (Node.JS server) | 2021-04-15T13:48:40Z |
+| 58 | [PowerToys](https://github.com/microsoft/PowerToys) | 53114 | 2878 | C# | 1402 | Windows system utilities to maximize productivity | 2021-04-17T16:06:08Z |
+| 59 | [express](https://github.com/expressjs/express) | 52753 | 8889 | JavaScript | 168 | Fast, unopinionated, minimalist web framework for node. | 2021-04-17T22:10:12Z |
+| 60 | [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 52573 | 16319 | None | 57 | 后端架构师技术图谱 | 2021-03-09T07:26:44Z |
+| 61 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 52063 | 16015 | C# | 16 | If you want to keep a secret, you must also hide it from yourself. | 2021-04-16T07:06:13Z |
+| 62 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 51718 | 7384 | JavaScript | 5 | 💯 Materials to help you rock your next coding interview | 2021-04-13T01:23:09Z |
+| 63 | [hugo](https://github.com/gohugoio/hugo) | 51348 | 5739 | Go | 638 | The world’s fastest framework for building websites. | 2021-04-19T00:37:11Z |
+| 64 | [markdown-here](https://github.com/adam-p/markdown-here) | 51195 | 9667 | JavaScript | 289 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | 2021-03-27T03:01:51Z |
+| 65 | [interviews](https://github.com/kdn251/interviews) | 50987 | 10866 | Java | 91 | Everything you need to know to get the job. | 2021-03-10T08:57:00Z |
+| 66 | [httpie](https://github.com/httpie/httpie) | 50495 | 3285 | Python | 144 | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie | 2021-04-15T07:35:50Z |
+| 67 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 50313 | 4919 | None | 8 | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | 2021-04-15T17:33:42Z |
+| 68 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 49958 | 6133 | JavaScript | 54 | :bathtub: Clean Code concepts adapted for JavaScript | 2021-04-15T09:04:58Z |
+| 69 | [gatsby](https://github.com/gatsbyjs/gatsby) | 49830 | 9471 | JavaScript | 634 | Build blazing fast, modern apps and websites with React | 2021-04-18T10:37:58Z |
+| 70 | [element](https://github.com/ElemeFE/element) | 49784 | 12549 | Vue | 1864 | A Vue.js 2.0 UI Toolkit for Web | 2021-04-19T01:48:16Z |
+| 71 | [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | 49590 | 11469 | JavaScript | 7 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | 2021-04-14T12:59:10Z |
+| 72 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 49171 | 5119 | JavaScript | 1044 | Semantic is a UI component framework based around useful principles from natural language. | 2021-04-18T15:16:46Z |
+| 73 | [resume.github.com](https://github.com/resume/resume.github.com) | 48435 | 1244 | JavaScript | 46 | Resumes generated using the GitHub informations | 2021-02-01T10:38:00Z |
+| 74 | [mall](https://github.com/macrozheng/mall) | 48397 | 20836 | Java | 19 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2021-04-18T07:25:05Z |
+| 75 | [pytorch](https://github.com/pytorch/pytorch) | 47650 | 12725 | C++ | 8688 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2021-04-19T02:51:37Z |
+| 76 | [protobuf](https://github.com/protocolbuffers/protobuf) | 47510 | 12661 | C++ | 1222 | Protocol Buffers - Google's data interchange format | 2021-04-18T04:07:05Z |
+| 77 | [project-based-learning](https://github.com/tuvtran/project-based-learning) | 47417 | 7513 | None | 105 | Curated list of project-based tutorials | 2021-03-30T10:42:04Z |
+| 78 | [gin](https://github.com/gin-gonic/gin) | 47341 | 5393 | Go | 389 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2021-04-17T05:34:22Z |
+| 79 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | 46435 | 4953 | HTML | 14 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 2021-04-18T09:54:58Z |
+| 80 | [nocode](https://github.com/kelseyhightower/nocode) | 46428 | 4147 | Dockerfile | 3810 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. | 2021-04-17T17:50:33Z |
+| 81 | [svelte](https://github.com/sveltejs/svelte) | 46260 | 2152 | TypeScript | 734 | Cybernetically enhanced web apps | 2021-04-18T00:34:38Z |
+| 82 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 45576 | 4003 | Shell | 13 | Papers from the computer science community to read and discuss. | 2021-04-17T10:55:24Z |
+| 83 | [moment](https://github.com/moment/moment) | 45575 | 6894 | JavaScript | 132 | Parse, validate, manipulate, and display dates in javascript. | 2021-04-08T18:23:39Z |
+| 84 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 45415 | 21332 | Python | 2363 | scikit-learn: machine learning in Python | 2021-04-18T20:23:59Z |
+| 85 | [requests](https://github.com/psf/requests) | 44990 | 8237 | Python | 320 | A simple, yet elegant HTTP library. | 2021-04-16T20:35:39Z |
+| 86 | [transformers](https://github.com/huggingface/transformers) | 44804 | 10638 | Python | 722 | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. | 2021-04-18T21:44:30Z |
+| 87 | [frp](https://github.com/fatedier/frp) | 44681 | 8397 | Go | 88 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 2021-04-12T19:28:15Z |
+| 88 | [RxJava](https://github.com/ReactiveX/RxJava) | 44480 | 7406 | Java | 10 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. | 2021-04-17T16:21:49Z |
+| 89 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 44284 | 13827 | JavaScript | 95 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 | 2021-03-22T11:04:06Z |
+| 90 | [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | 44039 | 7798 | None | 108 | A topic-centric list of HQ open datasets. | 2021-03-13T23:37:23Z |
+| 91 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 44029 | 4365 | None | 29 | A collection of (mostly) technical things every software developer should know about | 2021-03-10T08:38:04Z |
+| 92 | [normalize.css](https://github.com/necolas/normalize.css) | 43340 | 9705 | CSS | 54 | A modern alternative to CSS resets | 2021-04-01T07:54:14Z |
+| 93 | [bulma](https://github.com/jgthms/bulma) | 43253 | 3703 | CSS | 357 | Modern CSS framework based on Flexbox | 2021-04-17T17:35:16Z |
+| 94 | [neovim](https://github.com/neovim/neovim) | 43115 | 3190 | Vim script | 1480 | Vim-fork focused on extensibility and usability | 2021-04-18T20:30:14Z |
+| 95 | [awesome-react](https://github.com/enaqx/awesome-react) | 43108 | 5201 | None | 100 | A collection of awesome things regarding React ecosystem | 2021-04-18T02:14:28Z |
+| 96 | [react-router](https://github.com/ReactTraining/react-router) | 43049 | 8421 | JavaScript | 54 | Declarative routing for React | 2021-04-16T14:09:44Z |
+| 97 | [jekyll](https://github.com/jekyll/jekyll) | 42556 | 9302 | Ruby | 164 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2021-04-16T21:43:38Z |
+| 98 | [spring-framework](https://github.com/spring-projects/spring-framework) | 42390 | 29554 | Java | 1247 | Spring Framework | 2021-04-18T13:49:01Z |
+| 99 | [meteor](https://github.com/meteor/meteor) | 42386 | 5167 | JavaScript | 140 | Meteor, the JavaScript App Platform | 2021-04-16T19:42:32Z |
+| 100 | [core](https://github.com/home-assistant/core) | 41991 | 13804 | Python | 1652 | :house_with_garden: Open source home automation that puts local control and privacy first | 2021-04-19T02:58:28Z |
 
