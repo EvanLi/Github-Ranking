@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ggplot2](https://github.com/tidyverse/ggplot2) | 4965 | 1739 | R | 260 | An implementation of the Grammar of Graphics in R | 2021-06-19T07:55:29Z |
-| 2 | [awesome-R](https://github.com/qinwf/awesome-R) | 4646 | 1407 | R | 3 | A curated list of awesome R packages, frameworks and software. | 2021-06-11T11:21:56Z |
-| 3 | [shiny](https://github.com/rstudio/shiny) | 4284 | 1696 | R | 651 | Easy interactive web applications with R | 2021-06-18T14:18:52Z |
-| 4 | [dplyr](https://github.com/tidyverse/dplyr) | 3764 | 1365 | R | 68 | dplyr: A grammar of data manipulation | 2021-06-19T09:17:22Z |
-| 5 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 3685 | 6994 | R | 167 | :mortar_board: A collection of interactive courses for the swirl R package. | 2021-03-29T04:13:37Z |
-| 6 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3603 | 2260 | R | 36 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
+| 1 | [ggplot2](https://github.com/tidyverse/ggplot2) | 4965 | 1739 | R | 261 | An implementation of the Grammar of Graphics in R | 2021-06-21T21:15:04Z |
+| 2 | [awesome-R](https://github.com/qinwf/awesome-R) | 4649 | 1408 | R | 3 | A curated list of awesome R packages, frameworks and software. | 2021-06-11T11:21:56Z |
+| 3 | [shiny](https://github.com/rstudio/shiny) | 4284 | 1696 | R | 653 | Easy interactive web applications with R | 2021-06-22T00:40:56Z |
+| 4 | [dplyr](https://github.com/tidyverse/dplyr) | 3765 | 1364 | R | 70 | dplyr: A grammar of data manipulation | 2021-06-21T14:40:28Z |
+| 5 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 3687 | 6996 | R | 167 | :mortar_board: A collection of interactive courses for the swirl R package. | 2021-03-29T04:13:37Z |
+| 6 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3602 | 2260 | R | 36 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |
 | 7 | [AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 3352 | 746 | R | 70 | Anomaly Detection with R | 2019-08-30T19:49:16Z |
 | 8 | [r4ds](https://github.com/hadley/r4ds) | 2948 | 3386 | R | 38 | R for data science: a book | 2021-06-04T20:28:30Z |
-| 9 | [data.table](https://github.com/Rdatatable/data.table) | 2734 | 908 | R | 959 | R's data.table package extends data.frame: | 2021-06-20T23:06:42Z |
+| 9 | [data.table](https://github.com/Rdatatable/data.table) | 2735 | 908 | R | 946 | R's data.table package extends data.frame: | 2021-06-22T02:36:06Z |
 | 10 | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 2350 | 508 | R | 25 | A curated list of awesome network analysis resources. | 2021-04-25T08:20:23Z |
-| 11 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2147 | 875 | R | 198 | Dynamic Documents for R | 2021-06-15T14:53:20Z |
+| 11 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2147 | 875 | R | 197 | Dynamic Documents for R | 2021-06-15T14:53:20Z |
 | 12 | [devtools](https://github.com/r-lib/devtools) | 2079 | 726 | R | 13 | Tools to make an R developer's life easier | 2021-06-16T14:07:43Z |
 | 13 | [knitr](https://github.com/yihui/knitr) | 2062 | 821 | R | 121 | A general-purpose tool for dynamic report generation in R | 2021-06-18T19:32:12Z |
-| 14 | [plotly](https://github.com/ropensci/plotly) | 1993 | 585 | R | 451 | An interactive graphing library for R | 2021-06-17T22:53:12Z |
+| 14 | [plotly](https://github.com/ropensci/plotly) | 1994 | 585 | R | 452 | An interactive graphing library for R | 2021-06-21T23:53:09Z |
 | 15 | [patchwork](https://github.com/thomasp85/patchwork) | 1876 | 140 | R | 42 | The Composer of ggplots | 2021-03-14T17:07:46Z |
-| 16 | [benchm-ml](https://github.com/szilard/benchm-ml) | 1822 | 339 | R | 10 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). | 2019-08-19T04:22:47Z |
+| 16 | [benchm-ml](https://github.com/szilard/benchm-ml) | 1821 | 339 | R | 10 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). | 2019-08-19T04:22:47Z |
 | 17 | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 1776 | 544 | R | 0 | Import public NYC taxi and for-hire vehicle (Uber, Lyft, etc.) trip data into PostgreSQL database | 2021-02-27T14:53:42Z |
 | 18 | [investing](https://github.com/zonination/investing) | 1738 | 116 | R | 0 | Investing Returns on the Market as a Whole | 2016-12-27T13:58:02Z |
 | 19 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 1687 | 854 | R | 4 | a curated list of R tutorials for Data Science, NLP and Machine Learning  | 2020-10-19T14:27:24Z |
 | 20 | [gganimate](https://github.com/thomasp85/gganimate) | 1686 | 299 | R | 70 | A Grammar of Animated Graphics | 2021-03-23T11:33:05Z |
 | 21 | [stats337](https://github.com/hadley/stats337) | 1622 | 233 | R | 7 | Readings in applied data science | 2018-06-21T15:57:29Z |
-| 22 | [labs](https://github.com/genomicsclass/labs) | 1505 | 1776 | R | 15 | Rmd source files for the HarvardX series PH525x | 2021-05-08T18:50:48Z |
-| 23 | [mlr](https://github.com/mlr-org/mlr) | 1490 | 389 | R | 8 | Machine Learning in R  | 2021-05-13T05:02:03Z |
+| 22 | [labs](https://github.com/genomicsclass/labs) | 1508 | 1776 | R | 15 | Rmd source files for the HarvardX series PH525x | 2021-05-08T18:50:48Z |
+| 23 | [mlr](https://github.com/mlr-org/mlr) | 1490 | 388 | R | 8 | Machine Learning in R  | 2021-05-13T05:02:03Z |
 | 24 | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1454 | 227 | R | 152 | Graph and network visualization using tabular data in R. | 2020-11-02T05:34:30Z |
 | 25 | [wesanderson](https://github.com/karthik/wesanderson) | 1416 | 110 | R | 15 | A Wes Anderson color palette for R | 2020-10-13T19:52:14Z |
-| 26 | [rayshader](https://github.com/tylermorganwall/rayshader) | 1386 | 156 | R | 25 | R Package for 2D and 3D mapping and data visualization | 2021-06-21T02:59:06Z |
-| 27 | [rethinking](https://github.com/rmcelreath/rethinking) | 1382 | 432 | R | 173 | Statistical Rethinking course and book package | 2021-04-22T19:30:35Z |
+| 26 | [rayshader](https://github.com/tylermorganwall/rayshader) | 1386 | 156 | R | 25 | R Package for 2D and 3D mapping and data visualization | 2021-06-21T05:28:43Z |
+| 27 | [rethinking](https://github.com/rmcelreath/rethinking) | 1382 | 433 | R | 172 | Statistical Rethinking course and book package | 2021-04-22T19:30:35Z |
 | 28 | [blogdown](https://github.com/rstudio/blogdown) | 1368 | 305 | R | 41 | Create Blogs and Websites with R Markdown | 2021-05-26T16:19:45Z |
-| 29 | [tofsims](https://github.com/fossasia/tofsims) | 1351 | 4 | R | 0 | None | 2017-11-29T19:16:12Z |
-| 30 | [caret](https://github.com/topepo/caret) | 1339 | 591 | R | 117 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models | 2021-05-15T13:41:05Z |
-| 31 | [gt](https://github.com/rstudio/gt) | 1317 | 129 | R | 246 | Easily generate information-rich, publication-quality tables from R | 2021-06-20T16:17:37Z |
+| 29 | [tofsims](https://github.com/fossasia/tofsims) | 1350 | 4 | R | 0 | None | 2017-11-29T19:16:12Z |
+| 30 | [caret](https://github.com/topepo/caret) | 1340 | 591 | R | 117 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models | 2021-05-15T13:41:05Z |
+| 31 | [gt](https://github.com/rstudio/gt) | 1317 | 129 | R | 239 | Easily generate information-rich, publication-quality tables from R | 2021-06-22T00:26:21Z |
 | 32 | [drake](https://github.com/ropensci/drake) | 1317 | 132 | R | 0 | An R-focused pipeline toolkit for reproducibility and high-performance computing | 2021-05-28T03:05:16Z |
 | 33 | [CausalImpact](https://github.com/google/CausalImpact) | 1295 | 228 | R | 25 | An R package for causal inference in time series | 2021-06-06T16:13:07Z |
-| 34 | [reticulate](https://github.com/rstudio/reticulate) | 1288 | 270 | R | 374 | R Interface to Python | 2021-06-17T23:54:36Z |
+| 34 | [reticulate](https://github.com/rstudio/reticulate) | 1289 | 270 | R | 374 | R Interface to Python | 2021-06-17T23:54:36Z |
 | 35 | [rvest](https://github.com/tidyverse/rvest) | 1269 | 313 | R | 8 | Simple web scraping for R | 2021-03-26T09:47:31Z |
-| 36 | [tensorflow](https://github.com/rstudio/tensorflow) | 1217 | 318 | R | 28 | TensorFlow for R | 2021-06-10T17:00:22Z |
-| 37 | [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 1209 | 151 | R | 17 | Enhancing `ggplot2` plots with statistical analysis 📊🎨📣 | 2021-06-18T07:10:48Z |
+| 36 | [tensorflow](https://github.com/rstudio/tensorflow) | 1218 | 318 | R | 28 | TensorFlow for R | 2021-06-10T17:00:22Z |
+| 37 | [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 1212 | 151 | R | 16 | Enhancing `ggplot2` plots with statistical analysis 📊🎨📣 | 2021-06-21T21:47:12Z |
 | 38 | [esquisse](https://github.com/dreamRs/esquisse) | 1201 | 160 | R | 46 | RStudio add-in to make plots with ggplot2 | 2021-06-09T13:40:49Z |
-| 39 | [plumber](https://github.com/rstudio/plumber) | 1196 | 224 | R | 98 | Turn your R code into a web API. | 2021-06-04T13:59:50Z |
+| 39 | [plumber](https://github.com/rstudio/plumber) | 1195 | 224 | R | 98 | Turn your R code into a web API. | 2021-06-04T13:59:50Z |
 | 40 | [bbplot](https://github.com/bbc/bbplot) | 1162 | 199 | R | 13 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team | 2019-03-19T02:15:52Z |
-| 41 | [broom](https://github.com/tidymodels/broom) | 1140 | 284 | R | 29 | Convert statistical analysis objects from R into tidy format | 2021-06-17T04:32:56Z |
+| 41 | [broom](https://github.com/tidymodels/broom) | 1140 | 283 | R | 29 | Convert statistical analysis objects from R into tidy format | 2021-06-21T20:45:18Z |
 | 42 | [ggthemes](https://github.com/jrnold/ggthemes) | 1126 | 213 | R | 3 | Additional themes, scales, and geoms for ggplot2 | 2021-03-16T11:47:25Z |
-| 43 | [seurat](https://github.com/satijalab/seurat) | 1124 | 590 | R | 73 | R toolkit for single cell genomics | 2021-06-20T14:56:35Z |
+| 43 | [seurat](https://github.com/satijalab/seurat) | 1125 | 590 | R | 80 | R toolkit for single cell genomics | 2021-06-20T14:56:35Z |
 | 44 | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1064 | 547 | R | 0 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. | 2021-04-06T03:03:04Z |
-| 45 | [tidyverse](https://github.com/tidyverse/tidyverse) | 1059 | 232 | R | 10 | Easily install and load packages from the tidyverse | 2021-05-03T15:44:35Z |
-| 46 | [tidyr](https://github.com/tidyverse/tidyr) | 1021 | 374 | R | 99 | Easily tidy data with spread and gather functions. | 2021-06-20T18:49:24Z |
+| 45 | [tidyverse](https://github.com/tidyverse/tidyverse) | 1060 | 232 | R | 10 | Easily install and load packages from the tidyverse | 2021-05-03T15:44:35Z |
+| 46 | [tidyr](https://github.com/tidyverse/tidyr) | 1021 | 375 | R | 99 | Easily tidy data with spread and gather functions. | 2021-06-21T07:01:08Z |
 | 47 | [janitor](https://github.com/sfirke/janitor) | 1013 | 100 | R | 44 | simple tools for data cleaning in R | 2021-04-06T13:07:17Z |
 | 48 | [tidytext](https://github.com/juliasilge/tidytext) | 985 | 187 | R | 8 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: | 2021-04-11T18:28:55Z |
 | 49 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 984 | 352 | R | 1 | 🤹 Shiny tips & tricks for improving your apps and solving common problems | 2020-11-05T06:45:50Z |
 | 50 | [purrr](https://github.com/tidyverse/purrr) | 972 | 223 | R | 124 | A functional programming toolkit for R | 2021-06-01T06:50:40Z |
-| 51 | [swirl](https://github.com/swirldev/swirl) | 963 | 588 | R | 271 | :cyclone: Learn R, in R. | 2021-02-14T15:48:22Z |
+| 51 | [swirl](https://github.com/swirldev/swirl) | 964 | 588 | R | 271 | :cyclone: Learn R, in R. | 2021-02-14T15:48:22Z |
 | 52 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 928 | 80 | R | 21 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2021-02-08T15:08:48Z |
-| 53 | [forecast](https://github.com/robjhyndman/forecast) | 918 | 318 | R | 14 | forecast package for R | 2021-06-01T10:11:34Z |
-| 54 | [geocompr](https://github.com/Robinlovelace/geocompr) | 915 | 419 | R | 25 | Open source book: Geocomputation with R | 2021-06-18T12:20:26Z |
+| 53 | [forecast](https://github.com/robjhyndman/forecast) | 918 | 318 | R | 15 | forecast package for R | 2021-06-01T10:11:34Z |
+| 54 | [geocompr](https://github.com/Robinlovelace/geocompr) | 916 | 419 | R | 26 | Open source book: Geocomputation with R | 2021-06-21T07:46:57Z |
 | 55 | [httr](https://github.com/r-lib/httr) | 903 | 2014 | R | 57 | httr: a friendly http package for R | 2021-03-29T17:15:32Z |
 | 56 | [ggrepel](https://github.com/slowkow/ggrepel) | 889 | 84 | R | 27 | :round_pushpin: Repel overlapping text labels away from each other. | 2021-05-08T07:32:29Z |
-| 57 | [sf](https://github.com/r-spatial/sf) | 872 | 219 | R | 43 | Simple Features for R | 2021-06-20T04:50:21Z |
-| 58 | [brms](https://github.com/paul-buerkner/brms) | 869 | 126 | R | 97 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan | 2021-06-13T19:21:04Z |
-| 59 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 862 | 339 | R | 26 | Mastering Shiny: a book | 2021-06-08T09:35:20Z |
-| 60 | [r-source](https://github.com/wch/r-source) | 854 | 237 | R | 0 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. | 2021-06-20T11:12:51Z |
+| 57 | [sf](https://github.com/r-spatial/sf) | 873 | 219 | R | 43 | Simple Features for R | 2021-06-21T17:12:31Z |
+| 58 | [brms](https://github.com/paul-buerkner/brms) | 869 | 126 | R | 98 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan | 2021-06-13T19:21:04Z |
+| 59 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 861 | 339 | R | 26 | Mastering Shiny: a book | 2021-06-08T09:35:20Z |
+| 60 | [r-source](https://github.com/wch/r-source) | 854 | 237 | R | 0 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. | 2021-06-22T00:12:52Z |
 | 61 | [lintr](https://github.com/jimhester/lintr) | 854 | 143 | R | 115 | Static Code Analysis for R | 2021-06-14T21:16:08Z |
 | 62 | [slidify](https://github.com/ramnathv/slidify) | 850 | 352 | R | 181 | Generate reproducible html5 slides from R markdown | 2016-08-02T03:54:45Z |
 | 63 | [magrittr](https://github.com/tidyverse/magrittr) | 849 | 151 | R | 23 | Improve the readability of R code with the pipe | 2021-04-25T16:08:30Z |
 | 64 | [ggraph](https://github.com/thomasp85/ggraph) | 845 | 92 | R | 62 | Grammar of Graph Graphics | 2021-04-29T00:32:18Z |
-| 65 | [readr](https://github.com/tidyverse/readr) | 845 | 266 | R | 10 | Read flat files (csv, tsv, fwf) into R | 2021-06-03T18:07:52Z |
-| 66 | [statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 814 | 542 | R | 13 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" | 2020-12-14T05:23:38Z |
-| 67 | [sparklyr](https://github.com/sparklyr/sparklyr) | 789 | 286 | R | 289 | R interface for Apache Spark | 2021-06-14T17:08:12Z |
+| 65 | [readr](https://github.com/tidyverse/readr) | 845 | 266 | R | 10 | Read flat files (csv, tsv, fwf) into R | 2021-06-21T18:12:36Z |
+| 66 | [statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 814 | 543 | R | 13 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" | 2020-12-14T05:23:38Z |
+| 67 | [sparklyr](https://github.com/sparklyr/sparklyr) | 789 | 285 | R | 287 | R interface for Apache Spark | 2021-06-21T18:13:15Z |
 | 68 | [BanditsBook](https://github.com/johnmyleswhite/BanditsBook) | 780 | 254 | R | 8 | Code for my book on Multi-Armed Bandit Algorithms | 2020-01-09T19:48:06Z |
 | 69 | [googlesheets](https://github.com/jennybc/googlesheets) | 775 | 199 | R | 92 | Google Spreadsheets R API | 2020-09-07T03:53:48Z |
 | 70 | [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 774 | 94 | R | 12 | Comprehensive list of color palettes available in r ❤️🧡💛💚💙💜 | 2020-06-15T02:08:51Z |
 | 71 | [rappor](https://github.com/google/rappor) | 767 | 158 | R | 36 | RAPPOR: Privacy-Preserving Reporting Algorithms | 2019-08-23T22:12:08Z |
 | 72 | [future](https://github.com/HenrikBengtsson/future) | 760 | 66 | R | 91 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone | 2021-06-18T18:28:42Z |
-| 73 | [ggpubr](https://github.com/kassambara/ggpubr) | 753 | 119 | R | 120 | 'ggplot2' Based Publication Ready Plots | 2021-06-20T13:24:00Z |
+| 73 | [ggpubr](https://github.com/kassambara/ggpubr) | 754 | 119 | R | 120 | 'ggplot2' Based Publication Ready Plots | 2021-06-20T13:24:00Z |
 | 74 | [testthat](https://github.com/r-lib/testthat) | 739 | 286 | R | 46 | An R 📦 to make testing 😀 | 2021-06-17T05:30:41Z |
-| 75 | [datapasta](https://github.com/MilesMcBain/datapasta) | 730 | 49 | R | 21 | On top of spaghetti, all covered in cheese.... | 2020-12-30T11:17:39Z |
-| 76 | [text2vec](https://github.com/dselivanov/text2vec) | 728 | 120 | R | 15 | Fast vectorization, topic modeling, distances and GloVe word embeddings in R. | 2020-09-19T13:02:04Z |
-| 77 | [ggthemr](https://github.com/Mikata-Project/ggthemr) | 717 | 94 | R | 8 | Themes for ggplot2. | 2021-02-08T16:42:05Z |
+| 75 | [datapasta](https://github.com/MilesMcBain/datapasta) | 731 | 50 | R | 21 | On top of spaghetti, all covered in cheese.... | 2020-12-30T11:17:39Z |
+| 76 | [text2vec](https://github.com/dselivanov/text2vec) | 729 | 120 | R | 15 | Fast vectorization, topic modeling, distances and GloVe word embeddings in R. | 2020-09-19T13:02:04Z |
+| 77 | [ggthemr](https://github.com/Mikata-Project/ggthemr) | 718 | 94 | R | 8 | Themes for ggplot2. | 2021-02-08T16:42:05Z |
 | 78 | [MLPB](https://github.com/ben519/MLPB) | 716 | 279 | R | 0 | Machine Learning Problem Bible \| Problem Set Here >> | 2019-11-29T23:46:03Z |
-| 79 | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 705 | 154 | R | 30 | Make Complex Heatmaps  | 2021-05-04T13:56:17Z |
+| 79 | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 706 | 154 | R | 31 | Make Complex Heatmaps  | 2021-05-04T13:56:17Z |
 | 80 | [ggvis](https://github.com/rstudio/ggvis) | 700 | 185 | R | 192 | Interactive grammar of graphics for R | 2021-05-11T15:24:06Z |
 | 81 | [htmlwidgets](https://github.com/ramnathv/htmlwidgets) | 695 | 197 | R | 121 | HTML Widgets for R | 2021-05-19T19:08:35Z |
-| 82 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 693 | 138171 | R | 3938 | Repository for Programming Assignment 2 for R Programming on Coursera | 2021-06-17T13:02:41Z |
-| 83 | [keras](https://github.com/rstudio/keras) | 693 | 255 | R | 96 | R Interface to Keras | 2021-06-17T00:16:07Z |
-| 84 | [perceptions](https://github.com/zonination/perceptions) | 677 | 84 | R | 0 | Perceptions of Probability and Numbers | 2017-08-25T14:34:20Z |
-| 85 | [vitae](https://github.com/mitchelloharawild/vitae) | 676 | 115 | R | 18 | R Markdown Résumés and CVs | 2021-06-16T13:47:53Z |
+| 82 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 694 | 138176 | R | 3938 | Repository for Programming Assignment 2 for R Programming on Coursera | 2021-06-21T04:13:40Z |
+| 83 | [keras](https://github.com/rstudio/keras) | 694 | 255 | R | 97 | R Interface to Keras | 2021-06-17T00:16:07Z |
+| 84 | [perceptions](https://github.com/zonination/perceptions) | 684 | 84 | R | 0 | Perceptions of Probability and Numbers | 2017-08-25T14:34:20Z |
+| 85 | [vitae](https://github.com/mitchelloharawild/vitae) | 677 | 115 | R | 18 | R Markdown Résumés and CVs | 2021-06-16T13:47:53Z |
 | 86 | [ggmap](https://github.com/dkahle/ggmap) | 667 | 223 | R | 111 | A package for plotting maps in R with ggplot2 | 2020-12-02T02:27:16Z |
 | 87 | [ggforce](https://github.com/thomasp85/ggforce) | 666 | 80 | R | 108 | Accelerating ggplot2 | 2021-04-15T05:37:47Z |
 | 88 | [quanteda](https://github.com/quanteda/quanteda) | 664 | 164 | R | 49 | An R package for the Quantitative Analysis of Textual Data | 2021-04-27T08:24:59Z |
-| 89 | [tidyquant](https://github.com/business-science/tidyquant) | 661 | 156 | R | 74 | Bringing financial analysis to the tidyverse | 2021-06-19T14:56:21Z |
+| 89 | [tidyquant](https://github.com/business-science/tidyquant) | 662 | 156 | R | 74 | Bringing financial analysis to the tidyverse | 2021-06-19T14:56:21Z |
 | 90 | [pagedown](https://github.com/rstudio/pagedown) | 658 | 101 | R | 43 | Paginate the HTML Output of R Markdown with CSS for Print | 2021-05-03T21:51:31Z |
 | 91 | [addinslist](https://github.com/daattali/addinslist) | 656 | 122 | R | 1 | 📜 Discover and install useful RStudio addins  | 2021-06-19T19:55:50Z |
-| 92 | [circlize](https://github.com/jokergoo/circlize) | 656 | 117 | R | 8 | Circular visualization in R  | 2021-06-01T08:59:14Z |
+| 92 | [circlize](https://github.com/jokergoo/circlize) | 656 | 117 | R | 9 | Circular visualization in R  | 2021-06-01T08:59:14Z |
 | 93 | [rtweet](https://github.com/ropensci/rtweet) | 654 | 182 | R | 32 | 🐦 R client for interacting with Twitter's [stream and REST] APIs | 2021-05-30T22:52:53Z |
 | 94 | [SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg) | 643 | 336 | R | 21 | R frontend for Spark | 2016-06-10T21:42:55Z |
 | 95 | [RStartHere](https://github.com/rstudio/RStartHere) | 639 | 230 | R | 8 | A guide to some of the most useful R Packages that we know about | 2019-09-16T16:42:30Z |
 | 96 | [waffle](https://github.com/hrbrmstr/waffle) | 634 | 82 | R | 40 | :maple_leaf: Make waffle (square pie) charts in R | 2019-08-21T12:34:33Z |
-| 97 | [engsoccerdata](https://github.com/jalapic/engsoccerdata) | 633 | 172 | R | 13 | English and European soccer results 1871-2020 | 2021-03-06T17:27:22Z |
-| 98 | [tinytex](https://github.com/yihui/tinytex) | 629 | 85 | R | 19 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live | 2021-06-15T14:08:54Z |
-| 99 | [usethis](https://github.com/r-lib/usethis) | 627 | 214 | R | 45 | Set up commonly used 📦 components | 2021-06-09T11:14:43Z |
+| 97 | [engsoccerdata](https://github.com/jalapic/engsoccerdata) | 634 | 172 | R | 13 | English and European soccer results 1871-2020 | 2021-03-06T17:27:22Z |
+| 98 | [tinytex](https://github.com/yihui/tinytex) | 629 | 85 | R | 20 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live | 2021-06-15T14:08:54Z |
+| 99 | [usethis](https://github.com/r-lib/usethis) | 627 | 214 | R | 45 | Set up commonly used 📦 components | 2021-06-21T20:22:18Z |
 | 100 | [opencpu](https://github.com/opencpu/opencpu) | 620 | 106 | R | 93 | OpenCPU system for embedded scientific computation and reproducible research | 2021-06-20T11:25:18Z |
 
