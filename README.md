@@ -16,6 +16,7 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [CSS](#css)
+* [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -188,6 +189,23 @@ This is top 10 list, for more click **[Top 100 Stars in CSS](Top100/CSS.md)**
 | 8 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 20225 | 5148 | CSS | 16 | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | 2021-08-01T14:31:17Z |
 | 9 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 18388 | 1791 | CSS | 10 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
 | 10 | [Skeleton](https://github.com/dhg/Skeleton) | 18339 | 3096 | CSS | 142 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2021-06-02T06:42:58Z |
+
+## Elixir
+
+This is top 10 list, for more click **[Top 100 Stars in Elixir](Top100/Elixir.md)**
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [elixir](https://github.com/elixir-lang/elixir) | 18945 | 2722 | Elixir | 20 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | 2021-08-02T13:33:59Z |
+| 2 | [phoenix](https://github.com/phoenixframework/phoenix) | 16984 | 2241 | Elixir | 13 | Peace of mind from prototype to production | 2021-08-02T09:28:52Z |
+| 3 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 10868 | 1065 | Elixir | 2707 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2021-07-16T00:20:54Z |
+| 4 | [analytics](https://github.com/plausible/analytics) | 8302 | 372 | Elixir | 28 | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2021-08-02T12:48:20Z |
+| 5 | [ecto](https://github.com/elixir-ecto/ecto) | 5158 | 1220 | Elixir | 6 | A toolkit for data mapping and language integrated query. | 2021-08-02T11:17:38Z |
+| 6 | [papercups](https://github.com/papercups-io/papercups) | 4347 | 293 | Elixir | 140 | Open-source live customer chat | 2021-08-02T03:13:32Z |
+| 7 | [credo](https://github.com/rrrene/credo) | 3988 | 325 | Elixir | 32 | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | 2021-08-01T16:12:32Z |
+| 8 | [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 3986 | 490 | Elixir | 40 | Rich, real-time user experiences with server-rendered HTML | 2021-08-02T01:28:27Z |
+| 9 | [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | 3768 | 285 | Elixir | 7 | A community driven style guide for Elixir | 2020-12-22T12:53:04Z |
+| 10 | [realtime](https://github.com/supabase/realtime) | 3754 | 140 | Elixir | 19 | Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. | 2021-07-28T07:05:35Z |
 
 ## Go
 

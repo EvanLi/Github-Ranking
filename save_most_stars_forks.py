@@ -97,6 +97,7 @@ def write_head_contents():
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [CSS](#css)
+* [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML](#html)
@@ -189,12 +190,12 @@ def save_to_csv(repos_stars, repos_forks, repos_languages):
 
 
 if __name__ == "__main__":
-    languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Go", "Haskell", "HTML",
-                 "Java", "Kotlin", "JavaScript", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "Python", "R", "Ruby",
-                 "Scala", "Shell", "Swift", "TeX", "Vim-script"]
-    languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Go", "Haskell", "HTML",
-                    "Java", "Kotlin", "JavaScript", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "Python", "R",
-                    "Ruby", "Scala", "Shell", "Swift", "TeX", "Vim script"]
+    languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Elixir", "Go", "Haskell",
+                 "HTML", "Java", "Kotlin", "JavaScript", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "Python", "R",
+                 "Ruby", "Scala", "Shell", "Swift", "TeX", "Vim-script"]
+    languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Elixir", "Go", "Haskell",
+                    "HTML", "Java", "Kotlin", "JavaScript", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "Python",
+                    "R", "Ruby", "Scala", "Shell", "Swift", "TeX", "Vim script"]
 
     print("Get repos, please wait for seconds...")
     repos_stars, repos_forks, repos_languages = get_all_repos(languages)
