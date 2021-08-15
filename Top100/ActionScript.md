@@ -7,11 +7,11 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7350 | 138 | ActionScript | 33 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6224 | 498 | ActionScript | 31 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2021-08-14T00:36:09Z |
-| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2334 | 1065 | ActionScript | 155 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2318 | 847 | ActionScript | 85 | The Cross Platform Game Engine | 2021-08-13T15:43:56Z |
+| 3 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2335 | 1065 | ActionScript | 155 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2322 | 847 | ActionScript | 85 | The Cross Platform Game Engine | 2021-08-13T15:43:56Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1481 | 462 | ActionScript | 121 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1313 | 525 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
-| 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1209 | 204 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
+| 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1211 | 205 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1115 | 202 | ActionScript | 75 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1054 | 208 | ActionScript | 8 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 966 | 268 | ActionScript | 18 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
@@ -22,7 +22,7 @@
 | 15 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 630 | 182 | ActionScript | 17 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
 | 16 | [malware-samples](https://github.com/InQuest/malware-samples) | 607 | 153 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2020-12-07T18:59:25Z |
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 579 | 121 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
-| 18 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 548 | 246 | ActionScript | 67 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
+| 18 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 549 | 246 | ActionScript | 67 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
 | 19 | [Fanvas](https://github.com/Tencent/Fanvas) | 528 | 196 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 20 | [as3swf](https://github.com/claus/as3swf) | 524 | 128 | ActionScript | 15 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 21 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 519 | 279 | ActionScript | 33 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
@@ -44,11 +44,11 @@
 | 37 | [Zoe](https://github.com/CreateJS/Zoe) | 322 | 105 | ActionScript | 7 | Zoë is an open source tool for generating spritesheet images and frame data from SWF files. It enables illustrators to maintain a familiar workflow while generating animations for EaselJS and other formats. | 2015-09-01T06:54:47Z |
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 320 | 142 | ActionScript | 5 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
 | 39 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 319 | 148 | ActionScript | 1 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2021-01-12T09:40:50Z |
-| 40 | [royale-asjs](https://github.com/apache/royale-asjs) | 318 | 110 | ActionScript | 229 | Apache Royale ASJS | 2021-08-14T00:49:15Z |
+| 40 | [royale-asjs](https://github.com/apache/royale-asjs) | 318 | 110 | ActionScript | 228 | Apache Royale ASJS | 2021-08-14T17:16:07Z |
 | 41 | [Flare](https://github.com/prefuse/Flare) | 307 | 70 | ActionScript | 4 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 42 | [mBlock](https://github.com/Makeblock-official/mBlock) | 296 | 224 | ActionScript | 35 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 43 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 287 | 90 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
-| 44 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 285 | 28 | ActionScript | 1 | Anodyne 1 Source Code | 2020-11-02T04:41:30Z |
+| 44 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 285 | 29 | ActionScript | 1 | Anodyne 1 Source Code | 2020-11-02T04:41:30Z |
 | 45 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 279 | 84 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 46 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 277 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 47 | [flash](https://github.com/flowplayer/flash) | 276 | 180 | ActionScript | 103 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
