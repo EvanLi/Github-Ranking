@@ -9,13 +9,13 @@ import inspect
 # languages_md = ['Python']  # For test
 # table_of_contents = """
 # * [Python](#python)"""  # For test
-languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Go", "Haskell", "HTML", "Java",
-             "JavaScript", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "Python", "R", "Ruby", "Scala", "Shell",
-             "Swift", "TeX", "Vim-script"]
+languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
+             "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
+             "Swift", "TeX", "TypeScript", "Vim-script"]
 # Escape characters in markdown like # + - etc
-languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Go", "Haskell", "HTML", "Java",
-                "JavaScript", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "Python", "R", "Ruby", "Scala", "Shell",
-                "Swift", "TeX", "Vim script"]
+languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
+                "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
+                "Swift", "TeX", "TypeScript", "Vim script"]
 table_of_contents = """
 * [ActionScript](#actionscript)
 * [C](#c)
@@ -24,24 +24,32 @@ table_of_contents = """
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [CSS](#css)
+* [Dart](#dart)
+* [DM](#dm)
+* [Elixir](#elixir)
 * [Go](#go)
+* [Groovy](#groovy)
 * [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
-* [Kotlin](#kotlin)
 * [JavaScript](#javascript)
+* [Julia](#julia)
+* [Kotlin](#kotlin)
 * [Lua](#lua)
 * [MATLAB](#matlab)
 * [Objective\-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
+* [PowerShell](#powershell)
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Shell](#shell)
 * [Swift](#swift)
 * [TeX](#tex)
+* [TypeScript](#typeScript)
 * [Vim script](#vim-script)"""
 
 
