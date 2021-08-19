@@ -5,27 +5,27 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 17062 | 2782 | CoffeeScript | 514 | Manage and switch between multiple proxies quickly & easily. | 2021-08-15T22:34:30Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 16898 | 914 | CoffeeScript | 32 | The motion graphics toolbelt for the web | 2021-08-16T21:27:14Z |
-| 3 | [trix](https://github.com/basecamp/trix) | 16331 | 946 | CoffeeScript | 52 | A rich text editor for everyday writing | 2021-07-21T11:05:57Z |
-| 4 | [coffeescript](https://github.com/jashkenas/coffeescript) | 15937 | 2014 | CoffeeScript | 69 | Unfancy JavaScript | 2021-07-29T09:46:10Z |
-| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 12233 | 841 | CoffeeScript | 122 | Low-Budget Password Strength Estimation | 2021-05-17T22:14:15Z |
-| 6 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 10114 | 1499 | CoffeeScript | 36 | Chinese copywriting guidelines for better written communication／中文文案排版指北 | 2021-06-06T06:22:00Z |
-| 7 | [codecombat](https://github.com/codecombat/codecombat) | 7434 | 3908 | CoffeeScript | 445 | Game for learning how to code. | 2021-08-17T20:36:34Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 17063 | 2783 | CoffeeScript | 514 | Manage and switch between multiple proxies quickly & easily. | 2021-08-15T22:34:30Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 16903 | 914 | CoffeeScript | 32 | The motion graphics toolbelt for the web | 2021-08-16T21:27:14Z |
+| 3 | [trix](https://github.com/basecamp/trix) | 16330 | 947 | CoffeeScript | 51 | A rich text editor for everyday writing | 2021-07-21T11:05:57Z |
+| 4 | [coffeescript](https://github.com/jashkenas/coffeescript) | 15938 | 2014 | CoffeeScript | 69 | Unfancy JavaScript | 2021-07-29T09:46:10Z |
+| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 12232 | 841 | CoffeeScript | 122 | Low-Budget Password Strength Estimation | 2021-05-17T22:14:15Z |
+| 6 | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | 10121 | 1499 | CoffeeScript | 36 | Chinese copywriting guidelines for better written communication／中文文案排版指北 | 2021-06-06T06:22:00Z |
+| 7 | [codecombat](https://github.com/codecombat/codecombat) | 7435 | 3907 | CoffeeScript | 447 | Game for learning how to code. | 2021-08-19T02:59:14Z |
 | 8 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7341 | 412 | CoffeeScript | 9 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 9 | [morris.js](https://github.com/morrisjs/morris.js) | 6974 | 1267 | CoffeeScript | 325 | Pretty time-series line graphs | 2021-07-03T14:19:40Z |
 | 10 | [At.js](https://github.com/ichord/At.js) | 5293 | 716 | CoffeeScript | 158 | Add Github like mentions autocomplete to your application. | 2020-07-27T21:01:50Z |
-| 11 | [aglio](https://github.com/danielgtaylor/aglio) | 4618 | 487 | CoffeeScript | 138 | An API Blueprint renderer with theme support that outputs static HTML | 2019-05-13T14:40:13Z |
+| 11 | [aglio](https://github.com/danielgtaylor/aglio) | 4619 | 487 | CoffeeScript | 138 | An API Blueprint renderer with theme support that outputs static HTML | 2019-05-13T14:40:13Z |
 | 12 | [vibrant.js](https://github.com/jariz/vibrant.js) | 4572 | 228 | CoffeeScript | 2 | Extract prominent colors from an image. JS port of Android's Palette. | 2017-11-28T15:50:23Z |
 | 13 | [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | 4392 | 950 | CoffeeScript | 181 | Quick and easy product tours with Twitter Bootstrap Popovers | 2021-08-11T06:11:03Z |
-| 14 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4343 | 518 | CoffeeScript | 215 | XML to JavaScript object converter. | 2021-08-16T09:17:46Z |
+| 14 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4343 | 519 | CoffeeScript | 215 | XML to JavaScript object converter. | 2021-08-16T09:17:46Z |
 | 15 | [yakyak](https://github.com/yakyak/yakyak) | 3869 | 360 | CoffeeScript | 88 | Desktop chat client for Google Hangouts | 2021-07-29T13:46:32Z |
-| 16 | [pivottable](https://github.com/nicolaskruchten/pivottable) | 3735 | 956 | CoffeeScript | 328 | Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. | 2021-03-25T15:12:53Z |
+| 16 | [pivottable](https://github.com/nicolaskruchten/pivottable) | 3742 | 957 | CoffeeScript | 328 | Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. | 2021-03-25T15:12:53Z |
 | 17 | [jquery.payment](https://github.com/stripe-archive/jquery.payment) | 3592 | 712 | CoffeeScript | 0 | [DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.           | 2017-08-02T14:10:57Z |
 | 18 | [turbolinks-classic](https://github.com/turbolinks/turbolinks-classic) | 3579 | 438 | CoffeeScript | 45 | Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5. | 2017-12-06T23:33:26Z |
 | 19 | [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) | 3556 | 424 | CoffeeScript | 54 | Atom package - Activate POWER MODE to write your code in style. | 2019-05-24T15:52:02Z |
 | 20 | [hubot-scripts](https://github.com/github/hubot-scripts) | 3543 | 1955 | CoffeeScript | 0 | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | 2017-07-10T16:06:49Z |
-| 21 | [wintersmith](https://github.com/jnordberg/wintersmith) | 3508 | 345 | CoffeeScript | 15 | A flexible static site generator | 2021-07-15T14:10:26Z |
+| 21 | [wintersmith](https://github.com/jnordberg/wintersmith) | 3509 | 345 | CoffeeScript | 15 | A flexible static site generator | 2021-07-15T14:10:26Z |
 | 22 | [taiga-front](https://github.com/taigaio/taiga-front) | 3494 | 781 | CoffeeScript | 47 | Agile project management platform. Built on top of Django and AngularJS | 2021-05-18T11:36:28Z |
 | 23 | [pow](https://github.com/basecamp/pow) | 3444 | 268 | CoffeeScript | 123 | Zero-configuration Rack server for Mac OS X | 2020-05-14T20:48:22Z |
 | 24 | [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) | 3301 | 231 | CoffeeScript | 30 | Combine internet connections, increase your download speed | 2019-07-13T20:04:51Z |
@@ -37,15 +37,15 @@
 | 30 | [engine](https://github.com/gss/engine) | 2875 | 126 | CoffeeScript | 115 | GSS engine | 2019-12-17T00:22:16Z |
 | 31 | [butterfly](https://github.com/paradoxxxzero/butterfly) | 2818 | 312 | CoffeeScript | 86 | A web terminal based on websocket and tornado | 2020-05-25T04:55:13Z |
 | 32 | [talk-os](https://github.com/jianliaoim/talk-os) | 2761 | 837 | CoffeeScript | 10 | Open source version of jianliao.com | 2017-09-05T02:27:58Z |
-| 33 | [angular-google-maps](https://github.com/angular-ui/angular-google-maps) | 2566 | 1061 | CoffeeScript | 337 | AngularJS directives for the Google Maps Javascript API | 2018-11-14T19:00:52Z |
+| 33 | [angular-google-maps](https://github.com/angular-ui/angular-google-maps) | 2565 | 1061 | CoffeeScript | 337 | AngularJS directives for the Google Maps Javascript API | 2018-11-14T19:00:52Z |
 | 34 | [hallo](https://github.com/bergie/hallo) | 2458 | 334 | CoffeeScript | 110 | Simple rich text editor (contentEditable) for jQuery UI | 2020-09-03T15:39:25Z |
-| 35 | [cloudtunes](https://github.com/jakubroztocil/cloudtunes) | 2440 | 246 | CoffeeScript | 20 | Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc. | 2020-07-14T07:59:32Z |
+| 35 | [cloudtunes](https://github.com/jakubroztocil/cloudtunes) | 2441 | 246 | CoffeeScript | 20 | Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc. | 2020-07-14T07:59:32Z |
 | 36 | [oriDomi](https://github.com/dmotz/oriDomi) | 2388 | 207 | CoffeeScript | 9 | 📃 Fold up DOM elements like paper | 2018-07-14T18:10:28Z |
 | 37 | [hubot-slack](https://github.com/slackapi/hubot-slack) | 2260 | 654 | CoffeeScript | 33 | Slack Developer Kit for Hubot | 2021-07-29T07:39:56Z |
-| 38 | [psd.js](https://github.com/meltingice/psd.js) | 2139 | 327 | CoffeeScript | 141 | A Photoshop PSD file parser for NodeJS and browsers | 2021-08-09T14:37:58Z |
+| 38 | [psd.js](https://github.com/meltingice/psd.js) | 2140 | 327 | CoffeeScript | 141 | A Photoshop PSD file parser for NodeJS and browsers | 2021-08-09T14:37:58Z |
 | 39 | [QuoJS](https://github.com/soyjavi/QuoJS) | 2091 | 249 | CoffeeScript | 23 | Micro #JavaScript Library for Mobile Devices | 2018-09-03T00:16:56Z |
 | 40 | [js2coffee](https://github.com/js2coffee/js2coffee) | 2078 | 212 | CoffeeScript | 98 | Compile JavaScript to CoffeeScript | 2021-07-21T23:42:05Z |
-| 41 | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui) | 2021 | 1253 | CoffeeScript | 2 | Shadowsocks GUI client | 2018-09-24T04:39:12Z |
+| 41 | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui) | 2022 | 1253 | CoffeeScript | 2 | Shadowsocks GUI client | 2018-09-24T04:39:12Z |
 | 42 | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) | 1845 | 119 | CoffeeScript | 102 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility | 2019-10-14T18:59:47Z |
 | 43 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1837 | 248 | CoffeeScript | 113 | Token based authentication module for angular.js. | 2021-08-12T02:37:38Z |
 | 44 | [BuckyClient](https://github.com/HubSpot/BuckyClient) | 1762 | 99 | CoffeeScript | 20 | Collect performance data from the client | 2016-08-05T20:07:08Z |
@@ -56,7 +56,7 @@
 | 49 | [jquery.shapeshift](https://github.com/AshesOfOwls/jquery.shapeshift) | 1693 | 322 | CoffeeScript | 88 | A dynamic grid system with drag and drop functionality. | 2016-12-25T11:01:38Z |
 | 50 | [local_time](https://github.com/basecamp/local_time) | 1659 | 109 | CoffeeScript | 21 | Rails engine for cache-friendly, client-side local time | 2021-01-20T18:33:13Z |
 | 51 | [camo](https://github.com/atmos/camo) | 1627 | 347 | CoffeeScript | 25 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
-| 52 | [please-wait](https://github.com/Pathgather/please-wait) | 1599 | 159 | CoffeeScript | 4 | A simple library to show your users a beautiful splash page while your application loads. | 2016-08-20T10:31:00Z |
+| 52 | [please-wait](https://github.com/Pathgather/please-wait) | 1599 | 158 | CoffeeScript | 4 | A simple library to show your users a beautiful splash page while your application loads. | 2016-08-20T10:31:00Z |
 | 53 | [cyclotron](https://github.com/ExpediaGroup/cyclotron) | 1545 | 113 | CoffeeScript | 28 | A web platform for constructing dashboards. | 2021-08-10T19:48:02Z |
 | 54 | [squel](https://github.com/hiddentao/squel) | 1543 | 230 | CoffeeScript | 127 | :office: SQL query string builder for Javascript | 2021-08-10T17:47:33Z |
 | 55 | [kartograph.js](https://github.com/kartograph/kartograph.js) | 1527 | 239 | CoffeeScript | 36 | UNMAINTAINED Open source JavaScript renderer for Kartograph SVG maps | 2018-05-12T17:21:09Z |
@@ -71,7 +71,7 @@
 | 64 | [repl.it](https://github.com/replit-archive/repl.it) | 1362 | 229 | CoffeeScript | 1 | https://repl.it/feedback Online REPL for 15+ languages. | 2016-04-11T20:47:38Z |
 | 65 | [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) | 1336 | 152 | CoffeeScript | 25 | Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化 | 2018-08-06T02:41:40Z |
 | 66 | [qqbot](https://github.com/xhan/qqbot) | 1331 | 394 | CoffeeScript | 23 | 基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！ | 2016-02-15T03:31:44Z |
-| 67 | [cson](https://github.com/bevry/cson) | 1285 | 57 | CoffeeScript | 11 | CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects. | 2021-08-01T04:03:01Z |
+| 67 | [cson](https://github.com/bevry/cson) | 1286 | 57 | CoffeeScript | 11 | CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects. | 2021-08-01T04:03:01Z |
 | 68 | [coffeekup](https://github.com/mauricemach/coffeekup) | 1277 | 90 | CoffeeScript | 39 | Markup as CoffeeScript. | 2011-10-26T01:50:57Z |
 | 69 | [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) | 1253 | 763 | CoffeeScript | 5 | None | 2016-08-11T03:01:11Z |
 | 70 | [tacofancy](https://github.com/sinker/tacofancy) | 1237 | 456 | CoffeeScript | 13 | community-driven taco repo. stars stars stars. | 2020-09-24T22:59:03Z |
@@ -82,13 +82,13 @@
 | 75 | [greenscreen](https://github.com/groupon/greenscreen) | 1203 | 159 | CoffeeScript | 45 | None | 2017-05-17T00:29:05Z |
 | 76 | [lineman](https://github.com/linemanjs/lineman) | 1187 | 84 | CoffeeScript | 28 | Lineman helps you build fat-client JavaScript apps. It produces happiness by building assets, mocking servers, running specs on every file change | 2021-05-12T20:50:58Z |
 | 77 | [badges](https://github.com/boennemann/badges) | 1184 | 800 | CoffeeScript | 9 | :flower_playing_cards: Readme Badges – Gotta catch 'em all | 2019-04-05T16:27:49Z |
-| 78 | [aurora.js](https://github.com/audiocogs/aurora.js) | 1181 | 147 | CoffeeScript | 63 | JavaScript audio decoding framework | 2019-04-17T12:19:58Z |
+| 78 | [aurora.js](https://github.com/audiocogs/aurora.js) | 1182 | 147 | CoffeeScript | 63 | JavaScript audio decoding framework | 2019-04-17T12:19:58Z |
 | 79 | [octonode](https://github.com/pksunkara/octonode) | 1148 | 252 | CoffeeScript | 26 | github api v3 in nodejs | 2021-04-29T19:58:19Z |
 | 80 | [angular-masonry](https://github.com/passy/angular-masonry) | 1133 | 231 | CoffeeScript | 54 | An AngularJS directive for Masonry. | 2017-05-17T15:42:06Z |
 | 81 | [git-time-machine](https://github.com/littlebee/git-time-machine) | 1128 | 44 | CoffeeScript | 45 | Atom package that allows you to travel back in commit history | 2021-08-01T02:38:19Z |
 | 82 | [pushd](https://github.com/rs/pushd) | 1107 | 226 | CoffeeScript | 60 | Blazing fast multi-protocol mobile and web push notification service | 2020-07-15T14:40:12Z |
 | 83 | [node-slug](https://github.com/dodo/node-slug) | 1092 | 96 | CoffeeScript | 44 | slugifies even utf-8 chars! | 2019-04-05T15:49:19Z |
-| 84 | [hubble](https://github.com/jaymedavis/hubble) | 1090 | 39 | CoffeeScript | 0 | A dashboard that displays in the terminal | 2018-10-11T01:39:44Z |
+| 84 | [hubble](https://github.com/jaymedavis/hubble) | 1091 | 39 | CoffeeScript | 0 | A dashboard that displays in the terminal | 2018-10-11T01:39:44Z |
 | 85 | [coffeelint](https://github.com/clutchski/coffeelint) | 1090 | 179 | CoffeeScript | 86 | Lint your CoffeeScript. | 2021-04-14T13:55:30Z |
 | 86 | [buckets](https://github.com/bucketsio/buckets) | 1064 | 156 | CoffeeScript | 7 | [DEPRECATED] Manage content better. | 2015-05-31T04:57:37Z |
 | 87 | [literallycanvas](https://github.com/literallycanvas/literallycanvas) | 1063 | 316 | CoffeeScript | 93 | A canvas in your browser. Literally. | 2020-05-29T21:28:35Z |
