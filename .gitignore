@@ -5,3 +5,5 @@ access_token.txt
 Gemfile.lock
 _site/
 .idea/
+__pycache__
+*.pyc
