@@ -26,5 +26,5 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run 
       run: |
-         chmod +x ./auto_run.sh
         ./auto_run.sh
+      shell: bash
