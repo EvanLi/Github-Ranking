@@ -113,9 +113,6 @@ class ProcessorGQL(object):
                             owner {
                                 login
                             }
-                            issues(states: OPEN) {
-                                totalCount
-                            }
                             description
                             pushedAt
                             primaryLanguage {
@@ -137,8 +134,10 @@ class ProcessorGQL(object):
     @staticmethod
     def parse_gql_result(result):
         res = []
+        qql_issue_query_format = '{repository(owner: "%s", name: "%s") { issues(states: OPEN) {totalCount } } }'
         for repo in result["data"]["search"]["edges"]:
             repo_data = repo['node']
+            total_issues_result = get_graphql_data(qql_issue_query_format % (repo_data['owner']['login'], repo_data['name'] ))
             res.append({
                 'name': repo_data['name'],
                 'stargazers_count': repo_data['stargazers']['totalCount'],
@@ -148,7 +147,7 @@ class ProcessorGQL(object):
                 'owner': {
                     'login': repo_data['owner']['login'],
                 },
-                'open_issues_count': repo_data['issues']['totalCount'],
+                'open_issues_count': total_issues_result['data']['repository']['issues']['totalCount'],
                 'pushed_at': repo_data['pushedAt'],
                 'description': repo_data['description'],
             })
