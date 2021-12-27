@@ -28,8 +28,8 @@ jobs:
       run: |
         python source/process.py
     - name: Add to git
+      run: | 
         git add .
         today=`date +"%Y-%m-%d"`
-        git push origin master
-        
+        git push origin master       
         
