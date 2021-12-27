@@ -7,7 +7,7 @@ echo -e "\n----------Run Time:----------"
 date
 cd /home/kfiry/Github-Ranking
 git pull
-python source/process.py
+python3 source/process.py
 git add .
 today=`date +"%Y-%m-%d"`
 git commit -m "auto update $today"
