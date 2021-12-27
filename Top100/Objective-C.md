@@ -11,14 +11,14 @@
 | 4 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 18887 | 3235 | Objective-C | 774 | Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat) | 2021-11-26T05:29:10Z |
 | 5 | [Masonry](https://github.com/SnapKit/Masonry) | 18006 | 3163 | Objective-C | 123 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2021-07-20T14:37:39Z |
 | 6 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15934 | 3513 | Objective-C | 61 | MBProgressHUD + Customizations | 2021-12-23T03:23:10Z |
-| 7 | [expo](https://github.com/expo/expo) | 15594 | 2964 | Objective-C | 1130 | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. | 2021-12-27T16:37:10Z |
+| 7 | [expo](https://github.com/expo/expo) | 15594 | 2964 | Objective-C | 1131 | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. | 2021-12-27T16:37:10Z |
 | 8 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 15419 | 2296 | Objective-C | 62 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2021-12-16T22:57:50Z |
 | 9 | [realm-swift](https://github.com/realm/realm-swift) | 14803 | 2015 | Objective-C | 299 | Realm is a mobile database: a replacement for Core Data & SQLite | 2021-12-25T23:57:00Z |
 | 10 | [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 13876 | 2927 | Objective-C | 72 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews | 2021-08-13T13:18:34Z |
 | 11 | [YYKit](https://github.com/ibireme/YYKit) | 13869 | 3649 | Objective-C | 263 | A collection of iOS components. | 2020-06-30T08:48:07Z |
 | 12 | [fmdb](https://github.com/ccgus/fmdb) | 13630 | 2802 | Objective-C | 225 | A Cocoa / Objective-C wrapper around SQLite | 2021-12-24T01:07:42Z |
 | 13 | [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13562 | 3540 | Objective-C | 19 | An easy way to use pull-to-refresh. | 2021-11-30T07:01:08Z |
-| 14 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 13395 | 1192 | Objective-C | 175 | 🕹 Retro video game emulation for macOS | 2021-12-26T23:10:32Z |
+| 14 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 13396 | 1191 | Objective-C | 175 | 🕹 Retro video game emulation for macOS | 2021-12-26T23:10:32Z |
 | 15 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 13272 | 2467 | Objective-C | 131 | None | 2019-04-22T13:02:11Z |
 | 16 | [spectacle](https://github.com/eczarny/spectacle) | 13163 | 782 | Objective-C | 148 | Spectacle allows you to organize your windows without using a mouse. | 2019-11-09T17:53:56Z |
 | 17 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 12819 | 4421 | Objective-C | 88 | React Native Mapview component for iOS + Android | 2021-12-24T15:46:08Z |
@@ -41,7 +41,7 @@
 | 34 | [Alcatraz](https://github.com/alcatraz/Alcatraz) | 10038 | 1189 | Objective-C | 32 | Package manager for Xcode | 2017-09-28T10:13:15Z |
 | 35 | [GitUp](https://github.com/git-up/GitUp) | 10034 | 751 | Objective-C | 286 | The Git interface you've been missing all your life has finally arrived. | 2021-12-22T15:30:47Z |
 | 36 | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9945 | 2040 | Objective-C | 117 | Template auto layout cell for automatically UITableViewCell height calculating | 2020-01-02T18:10:27Z |
-| 37 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 9835 | 1782 | Objective-C | 457 | A fully customizable iOS calendar library, compatible with Objective-C and Swift | 2021-12-14T03:33:39Z |
+| 37 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 9836 | 1782 | Objective-C | 457 | A fully customizable iOS calendar library, compatible with Objective-C and Swift | 2021-12-14T03:33:39Z |
 | 38 | [PNChart](https://github.com/kevinzhow/PNChart) | 9766 | 1806 | Objective-C | 173 | A simple and beautiful chart lib used in Piner and CoinsMan for iOS | 2018-07-02T12:43:03Z |
 | 39 | [Shimmer](https://github.com/facebookarchive/Shimmer) | 9387 | 1123 | Objective-C | 17 | An easy way to add a simple, shimmering effect to any view in an iOS app. | 2021-02-06T00:01:46Z |
 | 40 | [SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9277 | 1946 | Objective-C | 131 | A conforming Objective-C WebSocket client library. | 2021-09-26T07:54:54Z |
@@ -49,7 +49,7 @@
 | 42 | [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) | 8735 | 1659 | Objective-C | 147 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more | 2020-10-28T22:03:58Z |
 | 43 | [YYText](https://github.com/ibireme/YYText) | 8693 | 1458 | Objective-C | 448 | Powerful text framework for iOS to display and edit rich text. | 2021-12-02T08:51:29Z |
 | 44 | [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 8615 | 1794 | Objective-C | 0 | For macOS.百度网盘 破解SVIP、下载速度限制~ | 2020-10-17T13:18:17Z |
-| 45 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 8563 | 437 | Objective-C | 406 | Staggeringly powerful macOS desktop automation with Lua | 2021-12-22T13:43:13Z |
+| 45 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 8563 | 437 | Objective-C | 407 | Staggeringly powerful macOS desktop automation with Lua | 2021-12-22T13:43:13Z |
 | 46 | [sequelpro](https://github.com/sequelpro/sequelpro) | 8553 | 827 | Objective-C | 453 | MySQL/MariaDB database management for macOS | 2021-06-07T08:13:22Z |
 | 47 | [MJExtension](https://github.com/CoderMJLee/MJExtension) | 8458 | 2187 | Objective-C | 4 | A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file. | 2021-12-27T08:06:53Z |
 | 48 | [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) | 8423 | 1113 | Objective-C | 71 | ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features | 2018-10-29T18:56:03Z |
@@ -95,13 +95,13 @@
 | 88 | [DTCoreText](https://github.com/Cocoanetics/DTCoreText) | 6171 | 1176 | Objective-C | 22 | Methods to allow using HTML code with CoreText | 2021-11-04T00:36:11Z |
 | 89 | [NWPusher](https://github.com/noodlewerk/NWPusher) | 6139 | 678 | Objective-C | 20 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) | 2021-03-30T07:00:58Z |
 | 90 | [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6093 | 1483 | Objective-C | 419 | Autoscroll Banner.   无限循环图片、文字轮播器。 | 2021-08-03T09:42:00Z |
-| 91 | [KIF](https://github.com/kif-framework/KIF) | 6074 | 906 | Objective-C | 42 | Keep It Functional - An iOS Functional Testing Framework | 2021-12-14T18:43:38Z |
+| 91 | [KIF](https://github.com/kif-framework/KIF) | 6074 | 905 | Objective-C | 42 | Keep It Functional - An iOS Functional Testing Framework | 2021-12-14T18:43:38Z |
 | 92 | [MacPass](https://github.com/MacPass/MacPass) | 6034 | 429 | Objective-C | 231 | A native OS X KeePass client  | 2021-12-06T10:04:20Z |
 | 93 | [GCDWebServer](https://github.com/swisspol/GCDWebServer) | 6012 | 1074 | Objective-C | 33 | The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server) | 2021-09-21T15:46:58Z |
 | 94 | [LuLu](https://github.com/objective-see/LuLu) | 5932 | 304 | Objective-C | 267 | LuLu is the free macOS firewall | 2021-11-01T22:26:23Z |
 | 95 | [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) | 5908 | 1309 | Objective-C | 155 | One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime. | 2021-03-19T07:10:38Z |
 | 96 | [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) | 5903 | 2131 | Objective-C | 506 | An XMPP Framework in Objective-C for Mac and iOS | 2021-08-02T04:56:19Z |
-| 97 | [NewsBlur](https://github.com/samuelclay/NewsBlur) | 5873 | 948 | Objective-C | 126 | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | 2021-12-23T23:18:37Z |
+| 97 | [NewsBlur](https://github.com/samuelclay/NewsBlur) | 5873 | 948 | Objective-C | 127 | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | 2021-12-23T23:18:37Z |
 | 98 | [PonyDebugger](https://github.com/square/PonyDebugger) | 5861 | 616 | Objective-C | 42 | Remote network and data debugging for your native iOS app using Chrome Developer Tools | 2020-10-02T21:29:33Z |
 | 99 | [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) | 5860 | 1153 | Objective-C | 88 | A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style. | 2021-07-08T17:06:04Z |
 | 100 | [asi-http-request](https://github.com/pokeb/asi-http-request) | 5827 | 1434 | Objective-C | 119 | Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone | 2019-01-15T18:31:03Z |

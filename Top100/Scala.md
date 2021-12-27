@@ -5,24 +5,24 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [spark](https://github.com/apache/spark) | 31677 | 24962 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2021-12-27T19:45:42Z |
+| 1 | [spark](https://github.com/apache/spark) | 31677 | 24961 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2021-12-27T20:59:05Z |
 | 2 | [prisma1](https://github.com/prisma/prisma1) | 16852 | 933 | Scala | 488 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) | 2021-11-16T21:46:37Z |
 | 3 | [scala](https://github.com/scala/scala) | 13575 | 3091 | Scala | 0 | Scala 2 compiler and standard library. For bugs, see scala/bug | 2021-12-27T18:56:50Z |
 | 4 | [predictionio](https://github.com/apache/predictionio) | 12521 | 2022 | Scala | 0 | PredictionIO, a machine learning server for developers and ML engineers. | 2021-01-09T10:30:58Z |
 | 5 | [playframework](https://github.com/playframework/playframework) | 12047 | 4003 | Scala | 436 | Play Framework | 2021-12-26T10:24:49Z |
 | 6 | [akka](https://github.com/akka/akka) | 11953 | 3460 | Scala | 918 | Build highly concurrent, distributed, and resilient message-driven applications on the JVM | 2021-12-27T18:00:08Z |
-| 7 | [lila](https://github.com/ornicar/lila) | 10568 | 1521 | Scala | 539 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2021-12-27T19:13:37Z |
+| 7 | [lila](https://github.com/ornicar/lila) | 10568 | 1521 | Scala | 539 | ♞ lichess.org: the forever free, adless and open source chess server ♞ | 2021-12-27T21:30:38Z |
 | 8 | [CMAK](https://github.com/yahoo/CMAK) | 10561 | 2384 | Scala | 460 | CMAK is a tool for managing Apache Kafka clusters | 2021-12-07T22:12:15Z |
 | 9 | [gitbucket](https://github.com/gitbucket/gitbucket) | 8551 | 1213 | Scala | 307 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility | 2021-12-26T22:50:11Z |
-| 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 8209 | 455 | Scala | 221 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2021-03-21T22:37:51Z |
-| 11 | [finagle](https://github.com/twitter/finagle) | 8126 | 1387 | Scala | 47 | A fault tolerant, protocol-agnostic RPC system | 2021-12-17T12:17:11Z |
+| 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 8210 | 456 | Scala | 221 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2021-03-21T22:37:51Z |
+| 11 | [finagle](https://github.com/twitter/finagle) | 8127 | 1387 | Scala | 47 | A fault tolerant, protocol-agnostic RPC system | 2021-12-17T12:17:11Z |
 | 12 | [snowflake](https://github.com/twitter-archive/snowflake) | 6852 | 1093 | Scala | 2 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. | 2020-07-22T18:08:14Z |
 | 13 | [ArnoldC](https://github.com/lhartikk/ArnoldC) | 6340 | 295 | Scala | 73 | Arnold Schwarzenegger based programming language | 2019-10-07T07:29:35Z |
 | 14 | [snowplow](https://github.com/snowplow/snowplow) | 5938 | 1195 | Scala | 55 | The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP | 2021-12-24T15:03:10Z |
 | 15 | [frontend](https://github.com/guardian/frontend) | 5595 | 560 | Scala | 39 | The Guardian DotCom. | 2021-12-24T12:15:12Z |
 | 16 | [openwhisk](https://github.com/apache/openwhisk) | 5511 | 1064 | Scala | 302 | Apache OpenWhisk is an open source serverless cloud platform | 2021-12-27T08:06:14Z |
 | 17 | [gatling](https://github.com/gatling/gatling) | 5386 | 1083 | Scala | 37 | Modern Load Testing as Code | 2021-12-22T15:25:56Z |
-| 18 | [linkerd](https://github.com/linkerd/linkerd) | 5381 | 527 | Scala | 133 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2021-12-09T06:13:50Z |
+| 18 | [linkerd](https://github.com/linkerd/linkerd) | 5382 | 527 | Scala | 133 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2021-12-09T06:13:50Z |
 | 19 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5292 | 2891 | Scala | 65 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2021-12-22T22:01:25Z |
 | 20 | [enso](https://github.com/enso-org/enso) | 5249 | 188 | Scala | 778 | Hybrid visual and textual functional programming. | 2021-12-27T17:59:24Z |
 | 21 | [dotty](https://github.com/lampepfl/dotty) | 4848 | 805 | Scala | 751 | The Scala 3 compiler, also known as Dotty. | 2021-12-27T11:41:30Z |
@@ -32,7 +32,7 @@
 | 25 | [sbt](https://github.com/sbt/sbt) | 4444 | 872 | Scala | 688 | sbt, the interactive build tool | 2021-12-26T18:45:34Z |
 | 26 | [chronos](https://github.com/mesos/chronos) | 4302 | 560 | Scala | 208 | Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules | 2020-10-13T06:42:46Z |
 | 27 | [scala-js](https://github.com/scala-js/scala-js) | 4254 | 375 | Scala | 28 | Scala.js, the Scala to JavaScript compiler | 2021-12-23T21:54:43Z |
-| 28 | [scala-native](https://github.com/scala-native/scala-native) | 4056 | 292 | Scala | 168 | Your favorite language gets closer to bare metal. | 2021-12-27T14:43:19Z |
+| 28 | [scala-native](https://github.com/scala-native/scala-native) | 4057 | 292 | Scala | 168 | Your favorite language gets closer to bare metal. | 2021-12-27T14:43:19Z |
 | 29 | [marathon](https://github.com/mesosphere/marathon) | 4034 | 876 | Scala | 23 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. | 2021-07-27T20:41:21Z |
 | 30 | [delta](https://github.com/delta-io/delta) | 3913 | 925 | Scala | 123 | An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads. | 2021-12-21T07:54:07Z |
 | 31 | [diffy](https://github.com/twitter-archive/diffy) | 3785 | 367 | Scala | 0 | Find potential bugs in your services with Diffy | 2020-07-01T19:13:06Z |
@@ -49,8 +49,8 @@
 | 42 | [lagom](https://github.com/lagom/lagom) | 2590 | 615 | Scala | 443 | Reactive Microservices for the JVM | 2021-12-14T10:44:26Z |
 | 43 | [spray](https://github.com/spray/spray) | 2541 | 582 | Scala | 70 | A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable | 2017-02-21T11:03:37Z |
 | 44 | [scalatra](https://github.com/scalatra/scalatra) | 2530 | 334 | Scala | 63 | Tiny Scala high-performance, async web framework, inspired by Sinatra | 2021-12-26T21:14:29Z |
-| 45 | [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | 2527 | 519 | Scala | 76 | State of the Art Natural Language Processing | 2021-12-27T18:56:37Z |
-| 46 | [slick](https://github.com/slick/slick) | 2500 | 585 | Scala | 398 | Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala | 2021-12-27T07:45:20Z |
+| 45 | [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | 2527 | 519 | Scala | 76 | State of the Art Natural Language Processing | 2021-12-27T20:41:09Z |
+| 46 | [slick](https://github.com/slick/slick) | 2501 | 585 | Scala | 398 | Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala | 2021-12-27T07:45:20Z |
 | 47 | [util](https://github.com/twitter/util) | 2490 | 539 | Scala | 4 | Wonderful reusable code from Twitter | 2021-12-22T21:01:04Z |
 | 48 | [wire-android](https://github.com/wireapp/wire-android) | 2488 | 494 | Scala | 329 | :phone: Wire for Android | 2021-12-21T11:44:31Z |
 | 49 | [Ammonite](https://github.com/com-lihaoyi/Ammonite) | 2453 | 339 | Scala | 107 | Scala Scripting | 2021-12-16T10:34:06Z |
@@ -90,13 +90,13 @@
 | 83 | [metals](https://github.com/scalameta/metals) | 1614 | 221 | Scala | 129 | Scala language server with rich IDE features 🚀  | 2021-12-27T15:12:28Z |
 | 84 | [elastic4s](https://github.com/sksamuel/elastic4s) | 1575 | 667 | Scala | 14 | Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client | 2021-12-27T07:45:01Z |
 | 85 | [finch](https://github.com/finagle/finch) | 1553 | 224 | Scala | 48 | Scala combinator library for building Finagle HTTP services | 2021-12-26T20:23:48Z |
-| 86 | [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) | 1539 | 107 | Scala | 37 | Reactive data-binding for Scala | 2021-12-27T19:37:13Z |
+| 86 | [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) | 1539 | 107 | Scala | 37 | Reactive data-binding for Scala | 2021-12-27T20:26:32Z |
 | 87 | [goose](https://github.com/GravityLabs/goose) | 1527 | 338 | Scala | 48 | Html Content / Article Extractor in Scala - open sourced from Gravity Labs  | 2017-04-18T08:29:34Z |
 | 88 | [scalajs-react](https://github.com/japgolly/scalajs-react) | 1524 | 231 | Scala | 16 | Facebook's React on Scala.JS | 2021-12-21T03:55:08Z |
 | 89 | [sbt-native-packager](https://github.com/sbt/sbt-native-packager) | 1480 | 423 | Scala | 129 | sbt Native Packager | 2021-12-03T11:32:13Z |
 | 90 | [C1000K-Servers](https://github.com/smallnest/C1000K-Servers) | 1478 | 352 | Scala | 0 | :zap: High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections | 2016-08-16T06:53:18Z |
 | 91 | [aas](https://github.com/sryza/aas) | 1461 | 1029 | Scala | 2 | Code to accompany Advanced Analytics with Spark from O'Reilly Media | 2021-04-25T14:12:35Z |
-| 92 | [Monocle](https://github.com/optics-dev/Monocle) | 1449 | 195 | Scala | 39 | Optics library for Scala | 2021-12-27T02:11:55Z |
+| 92 | [Monocle](https://github.com/optics-dev/Monocle) | 1450 | 195 | Scala | 39 | Optics library for Scala | 2021-12-27T02:11:55Z |
 | 93 | [postgresql-async](https://github.com/mauricio/postgresql-async) | 1442 | 221 | Scala | 55 | Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala | 2019-01-26T21:38:12Z |
 | 94 | [refined](https://github.com/fthomas/refined) | 1437 | 137 | Scala | 51 | Refinement types for Scala | 2021-12-27T06:57:20Z |
 | 95 | [spark](https://github.com/mesos/spark) | 1434 | 388 | Scala | 0 | Lightning-fast cluster computing in Java, Scala and Python. | 2014-04-08T20:31:01Z |

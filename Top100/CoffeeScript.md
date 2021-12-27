@@ -9,7 +9,7 @@
 | 2 | [mojs](https://github.com/mojs/mojs) | 17193 | 927 | CoffeeScript | 34 | The motion graphics toolbelt for the web | 2021-09-28T08:23:45Z |
 | 3 | [trix](https://github.com/basecamp/trix) | 16561 | 987 | CoffeeScript | 51 | A rich text editor for everyday writing | 2021-12-22T17:00:14Z |
 | 4 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16054 | 2019 | CoffeeScript | 50 | Unfancy JavaScript | 2021-12-09T17:13:14Z |
-| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 12693 | 861 | CoffeeScript | 96 | Low-Budget Password Strength Estimation | 2021-10-04T20:36:32Z |
+| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 12694 | 862 | CoffeeScript | 96 | Low-Budget Password Strength Estimation | 2021-10-04T20:36:32Z |
 | 6 | [codecombat](https://github.com/codecombat/codecombat) | 7505 | 3932 | CoffeeScript | 402 | Game for learning how to code. | 2021-12-27T11:38:14Z |
 | 7 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7416 | 417 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 8 | [morris.js](https://github.com/morrisjs/morris.js) | 6970 | 1271 | CoffeeScript | 285 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
@@ -30,7 +30,7 @@
 | 23 | [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) | 3345 | 237 | CoffeeScript | 29 | Combine internet connections, increase your download speed | 2021-12-21T22:02:21Z |
 | 24 | [Keypress](https://github.com/dmauro/Keypress) | 3192 | 318 | CoffeeScript | 32 | A keyboard input capturing utility in which any key can be a modifier key. | 2020-09-06T00:02:02Z |
 | 25 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3126 | 415 | CoffeeScript | 12 | a UI builder for React web apps | 2021-11-16T21:49:43Z |
-| 26 | [node-csv](https://github.com/adaltas/node-csv) | 3072 | 206 | CoffeeScript | 18 | Full featured CSV parser with simple api and tested against large datasets. | 2021-12-25T21:05:41Z |
+| 26 | [node-csv](https://github.com/adaltas/node-csv) | 3073 | 206 | CoffeeScript | 18 | Full featured CSV parser with simple api and tested against large datasets. | 2021-12-25T21:05:41Z |
 | 27 | [docpad](https://github.com/docpad/docpad) | 3034 | 252 | CoffeeScript | 25 | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | 2021-12-19T13:08:02Z |
 | 28 | [sticky-kit](https://github.com/leafo/sticky-kit) | 2960 | 554 | CoffeeScript | 140 | A jQuery plugin for creating smart sticky elements | 2021-02-23T03:23:59Z |
 | 29 | [chaplin](https://github.com/chaplinjs/chaplin) | 2886 | 242 | CoffeeScript | 44 | HTML5 application architecture using Backbone.js | 2021-02-03T00:07:29Z |
@@ -64,7 +64,7 @@
 | 57 | [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) | 1515 | 51 | CoffeeScript | 12 | Caniuse command line tool | 2018-09-19T15:16:06Z |
 | 58 | [atom-beautify](https://github.com/Glavin001/atom-beautify) | 1501 | 465 | CoffeeScript | 323 | :mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 \| :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: ) | 2021-09-17T06:47:58Z |
 | 59 | [roots](https://github.com/jescalan/roots) | 1463 | 141 | CoffeeScript | 22 | a toolkit for rapid advanced front-end development | 2020-04-14T14:25:53Z |
-| 60 | [pretty-error](https://github.com/AriaMinaei/pretty-error) | 1440 | 43 | CoffeeScript | 17 | See node.js errors with less clutter | 2021-10-23T16:26:29Z |
+| 60 | [pretty-error](https://github.com/AriaMinaei/pretty-error) | 1441 | 43 | CoffeeScript | 17 | See node.js errors with less clutter | 2021-10-23T16:26:29Z |
 | 61 | [atom-vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus) | 1411 | 115 | CoffeeScript | 119 | vim-mode improved | 2021-10-07T00:57:54Z |
 | 62 | [gulp-cheatsheet](https://github.com/osscafe/gulp-cheatsheet) | 1394 | 88 | CoffeeScript | 4 | A cheatsheet for gulp.js | 2016-08-28T08:20:19Z |
 | 63 | [VimFx](https://github.com/akhodakivskiy/VimFx) | 1369 | 181 | CoffeeScript | 1 | Vim keyboard shortcuts for Firefox | 2021-11-18T14:38:18Z |

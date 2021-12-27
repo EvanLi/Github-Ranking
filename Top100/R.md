@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [ggplot2](https://github.com/tidyverse/ggplot2) | 5207 | 1807 | R | 246 | An implementation of the Grammar of Graphics in R | 2021-12-26T04:06:59Z |
 | 2 | [awesome-R](https://github.com/qinwf/awesome-R) | 4863 | 1445 | R | 1 | A curated list of awesome R packages, frameworks and software. | 2021-10-07T13:08:00Z |
-| 3 | [shiny](https://github.com/rstudio/shiny) | 4512 | 1732 | R | 634 | Easy interactive web applications with R | 2021-12-14T14:03:46Z |
+| 3 | [shiny](https://github.com/rstudio/shiny) | 4512 | 1733 | R | 634 | Easy interactive web applications with R | 2021-12-14T14:03:46Z |
 | 4 | [dplyr](https://github.com/tidyverse/dplyr) | 3927 | 1411 | R | 68 | dplyr: A grammar of data manipulation | 2021-12-25T10:07:37Z |
 | 5 | [swirl_courses](https://github.com/swirldev/swirl_courses) | 3793 | 7073 | R | 121 | :mortar_board: A collection of interactive courses for the swirl R package. | 2021-10-08T22:11:54Z |
 | 6 | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3612 | 2255 | R | 23 | Code accompanying the book "Machine Learning for Hackers" | 2019-05-26T16:52:29Z |

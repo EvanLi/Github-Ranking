@@ -6,11 +6,11 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 14810 | 330 | Perl | 13 | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: | 2021-11-11T02:54:45Z |
-| 2 | [cloc](https://github.com/AlDanial/cloc) | 13130 | 758 | Perl | 18 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2021-12-25T19:19:19Z |
+| 2 | [cloc](https://github.com/AlDanial/cloc) | 13131 | 758 | Perl | 18 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | 2021-12-25T19:19:19Z |
 | 3 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | 12319 | 1491 | Perl | 91 | Stack trace visualizer | 2021-10-21T22:00:51Z |
 | 4 | [gitolite](https://github.com/sitaramc/gitolite) | 8029 | 1000 | Perl | 0 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. | 2021-09-24T12:41:18Z |
 | 5 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 7293 | 1139 | Perl | 44 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. | 2021-11-24T14:33:58Z |
-| 6 | [nikto](https://github.com/sullo/nikto) | 5372 | 861 | Perl | 21 | Nikto web server scanner | 2021-12-09T02:31:37Z |
+| 6 | [nikto](https://github.com/sullo/nikto) | 5373 | 861 | Perl | 21 | Nikto web server scanner | 2021-12-09T02:31:37Z |
 | 7 | [Expose](https://github.com/Jack000/Expose) | 4226 | 256 | Perl | 19 | A simple static site generator for photoessays | 2020-02-08T04:36:42Z |
 | 8 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | 3969 | 520 | Perl | 13 | SICP PDF with Texinfo and LaTeX source | 2021-07-01T15:52:34Z |
 | 9 | [git-it-electron](https://github.com/jlord/git-it-electron) | 3930 | 1066 | Perl | 64 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub | 2021-12-19T04:34:32Z |
@@ -34,8 +34,8 @@
 | 27 | [slipstream](https://github.com/samyk/slipstream) | 1644 | 187 | Perl | 4 | NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website | 2021-09-13T04:01:27Z |
 | 28 | [munin](https://github.com/munin-monitoring/munin) | 1597 | 417 | Perl | 123 | Main repository for munin master / node / plugins | 2021-12-03T11:41:46Z |
 | 29 | [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1581 | 419 | Perl | 3 | Linux Exploit Suggester; based on operating system release number  | 2014-05-19T06:23:20Z |
-| 30 | [openfortivpn](https://github.com/adrienverge/openfortivpn) | 1542 | 235 | Perl | 64 | Client for PPP+SSL VPN tunnel services | 2021-12-09T09:39:34Z |
-| 31 | [get_iplayer](https://github.com/get-iplayer/get_iplayer) | 1542 | 169 | Perl | 0 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds | 2021-12-11T18:13:44Z |
+| 30 | [get_iplayer](https://github.com/get-iplayer/get_iplayer) | 1543 | 169 | Perl | 0 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds | 2021-12-11T18:13:44Z |
+| 31 | [openfortivpn](https://github.com/adrienverge/openfortivpn) | 1542 | 235 | Perl | 64 | Client for PPP+SSL VPN tunnel services | 2021-12-09T09:39:34Z |
 | 32 | [ack2](https://github.com/beyondgrep/ack2) | 1503 | 149 | Perl | 0 | **ack 2 is no longer being maintained.  ack 3 is the latest version.** | 2019-03-19T14:41:58Z |
 | 33 | [openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | 1499 | 320 | Perl | 24 | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap | 2020-09-02T04:15:06Z |
 | 34 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1368 | 291 | Perl | 8 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... | 2021-05-22T22:43:49Z |
