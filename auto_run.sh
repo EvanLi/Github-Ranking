@@ -1,6 +1,3 @@
-#!/bin/sh
-
-# show run time
 echo -e "\n----------Run Time:----------"
 date
 git pull
