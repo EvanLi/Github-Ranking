@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [okhttp](https://github.com/square/okhttp) | 41341 | 8723 | Kotlin | 115 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2021-12-25T12:54:56Z |
-| 2 | [architecture-samples](https://github.com/android/architecture-samples) | 39928 | 10942 | Kotlin | 130 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2021-12-09T18:25:07Z |
-| 3 | [kotlin](https://github.com/JetBrains/kotlin) | 39743 | 4871 | Kotlin | 0 | The Kotlin Programming Language.  | 2021-12-27T21:15:44Z |
-| 4 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 32218 | 11537 | Kotlin | 23 | A shadowsocks client for Android | 2021-12-22T08:19:57Z |
-| 5 | [leakcanary](https://github.com/square/leakcanary) | 27051 | 3844 | Kotlin | 80 | A memory leak detection library for Android. | 2021-12-27T16:58:59Z |
-| 6 | [p3c](https://github.com/alibaba/p3c) | 26656 | 7294 | Kotlin | 65 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2021-12-27T10:59:59Z |
-| 7 | [fanqiang](https://github.com/bannedbook/fanqiang) | 23483 | 5315 | Kotlin | 244 | 翻墙-科学上网 | 2021-12-27T05:26:59Z |
-| 8 | [architecture-components-samples](https://github.com/android/architecture-components-samples) | 21307 | 7760 | Kotlin | 131 | Samples for Android Architecture Components.  | 2021-12-04T08:18:51Z |
-| 9 | [iosched](https://github.com/google/iosched) | 21006 | 6201 | Kotlin | 39 | The Google I/O Android App | 2021-08-31T10:56:53Z |
-| 10 | [material-dialogs](https://github.com/afollestad/material-dialogs) | 19128 | 3128 | Kotlin | 0 | 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android. | 2021-10-30T23:06:42Z |
-| 11 | [flexbox-layout](https://github.com/google/flexbox-layout) | 17182 | 1779 | Kotlin | 97 | Flexbox for Android  | 2021-12-23T16:30:39Z |
-| 12 | [plaid](https://github.com/nickbutcher/plaid) | 16178 | 3267 | Kotlin | 74 | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2021-08-01T11:19:30Z |
-| 13 | [anko](https://github.com/Kotlin/anko) | 15954 | 1296 | Kotlin | 237 | Pleasant Android application development | 2019-12-05T08:59:41Z |
-| 14 | [sunflower](https://github.com/android/sunflower) | 15084 | 3871 | Kotlin | 76 | A gardening app illustrating Android development best practices with Android Jetpack. | 2021-12-09T13:50:15Z |
-| 15 | [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | 13962 | 1753 | Kotlin | 431 | Free and open source manga reader for Android. | 2021-12-27T18:55:08Z |
-| 16 | [v2rayNG](https://github.com/2dust/v2rayNG) | 12682 | 2294 | Kotlin | 61 | None | 2021-12-25T03:47:15Z |
-| 17 | [uamp](https://github.com/android/uamp) | 12383 | 3610 | Kotlin | 44 | A sample audio app for Android | 2021-11-08T14:03:48Z |
-| 18 | [RxTool](https://github.com/Tamsiree/RxTool) | 11576 | 2812 | Kotlin | 68 | Android开发人员不得不收集的工具类集合 \| 支付宝支付 \| 微信支付（统一下单） \| 微信分享 \| Zip4j压缩（支持分卷压缩与加密） \| 一键集成UCrop选择圆形头像 \| 一键集成二维码和条形码的扫描与生成 \| 常用Dialog \| WebView的封装可播放视频 \| 仿斗鱼滑动验证码 \| Toast封装 \| 震动 \| GPS \| Location定位 \| 图片缩放 \| Exif 图片添加地理位置信息（经纬度） \| 蛛网等级 \| 颜色选择器 \| ArcGis \| VTPK \| 编译运行一下说不定会找到惊喜 | 2021-12-27T16:03:36Z |
+| 1 | [okhttp](https://github.com/square/okhttp) | 41344 | 8724 | Kotlin | 115 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2021-12-28T17:56:49Z |
+| 2 | [architecture-samples](https://github.com/android/architecture-samples) | 39935 | 10945 | Kotlin | 130 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2021-12-09T18:25:07Z |
+| 3 | [kotlin](https://github.com/JetBrains/kotlin) | 39754 | 4874 | Kotlin | 0 | The Kotlin Programming Language.  | 2021-12-28T19:57:03Z |
+| 4 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 32227 | 11539 | Kotlin | 23 | A shadowsocks client for Android | 2021-12-22T08:19:57Z |
+| 5 | [leakcanary](https://github.com/square/leakcanary) | 27054 | 3847 | Kotlin | 77 | A memory leak detection library for Android. | 2021-12-28T08:31:12Z |
+| 6 | [p3c](https://github.com/alibaba/p3c) | 26669 | 7294 | Kotlin | 65 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2021-12-27T10:59:59Z |
+| 7 | [fanqiang](https://github.com/bannedbook/fanqiang) | 23491 | 5314 | Kotlin | 244 | 翻墙-科学上网 | 2021-12-28T12:33:06Z |
+| 8 | [architecture-components-samples](https://github.com/android/architecture-components-samples) | 21310 | 7763 | Kotlin | 130 | Samples for Android Architecture Components.  | 2021-12-04T08:18:51Z |
+| 9 | [iosched](https://github.com/google/iosched) | 21009 | 6201 | Kotlin | 39 | The Google I/O Android App | 2021-08-31T10:56:53Z |
+| 10 | [material-dialogs](https://github.com/afollestad/material-dialogs) | 19128 | 3130 | Kotlin | 0 | 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android. | 2021-10-30T23:06:42Z |
+| 11 | [flexbox-layout](https://github.com/google/flexbox-layout) | 17186 | 1779 | Kotlin | 97 | Flexbox for Android  | 2021-12-23T16:30:39Z |
+| 12 | [plaid](https://github.com/nickbutcher/plaid) | 16180 | 3267 | Kotlin | 74 | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2021-08-01T11:19:30Z |
+| 13 | [anko](https://github.com/Kotlin/anko) | 15953 | 1296 | Kotlin | 237 | Pleasant Android application development | 2019-12-05T08:59:41Z |
+| 14 | [sunflower](https://github.com/android/sunflower) | 15087 | 3873 | Kotlin | 76 | A gardening app illustrating Android development best practices with Android Jetpack. | 2021-12-28T13:06:51Z |
+| 15 | [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | 13968 | 1753 | Kotlin | 437 | Free and open source manga reader for Android. | 2021-12-27T21:55:08Z |
+| 16 | [v2rayNG](https://github.com/2dust/v2rayNG) | 12697 | 2297 | Kotlin | 60 | None | 2021-12-25T03:47:15Z |
+| 17 | [uamp](https://github.com/android/uamp) | 12385 | 3610 | Kotlin | 44 | A sample audio app for Android | 2021-11-08T14:03:48Z |
+| 18 | [RxTool](https://github.com/Tamsiree/RxTool) | 11578 | 2812 | Kotlin | 68 | Android开发人员不得不收集的工具类集合 \| 支付宝支付 \| 微信支付（统一下单） \| 微信分享 \| Zip4j压缩（支持分卷压缩与加密） \| 一键集成UCrop选择圆形头像 \| 一键集成二维码和条形码的扫描与生成 \| 常用Dialog \| WebView的封装可播放视频 \| 仿斗鱼滑动验证码 \| Toast封装 \| 震动 \| GPS \| Location定位 \| 图片缩放 \| Exif 图片添加地理位置信息（经纬度） \| 蛛网等级 \| 颜色选择器 \| ArcGis \| VTPK \| 编译运行一下说不定会找到惊喜 | 2021-12-27T16:03:36Z |
 | 19 | [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | 11498 | 2101 | Kotlin | 1 | The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design. | 2021-11-18T12:57:20Z |
-| 20 | [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | 10925 | 1950 | Kotlin | 102 | An Android Animation library which easily add itemanimator to RecyclerView items. | 2021-02-14T13:34:32Z |
-| 21 | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) | 10784 | 1434 | Kotlin | 43 | A rule-based tunnel for Android. | 2021-11-21T11:56:08Z |
-| 22 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | 10240 | 1478 | Kotlin | 196 | Library support for Kotlin coroutines  | 2021-12-27T17:13:15Z |
-| 23 | [compose-samples](https://github.com/android/compose-samples) | 10135 | 2115 | Kotlin | 63 | Official Jetpack Compose samples. | 2021-12-25T19:26:44Z |
-| 24 | [AppIntro](https://github.com/AppIntro/AppIntro) | 9999 | 1753 | Kotlin | 25 | Make a cool intro for your Android app. | 2021-12-26T11:47:12Z |
+| 20 | [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | 10926 | 1950 | Kotlin | 102 | An Android Animation library which easily add itemanimator to RecyclerView items. | 2021-02-14T13:34:32Z |
+| 21 | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) | 10790 | 1436 | Kotlin | 43 | A rule-based tunnel for Android. | 2021-11-21T11:56:08Z |
+| 22 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | 10242 | 1478 | Kotlin | 196 | Library support for Kotlin coroutines  | 2021-12-28T10:27:50Z |
+| 23 | [compose-samples](https://github.com/android/compose-samples) | 10144 | 2122 | Kotlin | 63 | Official Jetpack Compose samples. | 2021-12-25T19:26:44Z |
+| 24 | [AppIntro](https://github.com/AppIntro/AppIntro) | 10001 | 1753 | Kotlin | 24 | Make a cool intro for your Android app. | 2021-12-26T11:47:12Z |
 | 25 | [RxBinding](https://github.com/JakeWharton/RxBinding) | 9702 | 945 | Kotlin | 30 | RxJava binding APIs for Android's UI widgets. | 2021-11-18T17:51:21Z |
-| 26 | [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) | 9698 | 1107 | Kotlin | 20 | A curated list of awesome Kotlin related stuff Inspired by awesome-java.  | 2021-12-27T13:50:44Z |
-| 27 | [timber](https://github.com/JakeWharton/timber) | 9373 | 896 | Kotlin | 38 | A logger with a small, extensible API which provides utility on top of Android's normal Log class. | 2021-11-28T06:00:57Z |
-| 28 | [ktor](https://github.com/ktorio/ktor) | 9228 | 767 | Kotlin | 267 | Framework for quickly creating connected applications in Kotlin with minimal effort | 2021-12-27T09:18:00Z |
-| 29 | [mirai](https://github.com/mamoe/mirai) | 8163 | 2030 | Kotlin | 99 | 高效率 QQ 机器人支持库 | 2021-12-27T18:42:59Z |
-| 30 | [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) | 8124 | 600 | Kotlin | 16 | Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio. | 2021-12-27T07:21:27Z |
-| 31 | [okio](https://github.com/square/okio) | 7833 | 1125 | Kotlin | 50 | A modern I/O library for Android, Java, and Kotlin Multiplatform. | 2021-12-24T19:47:08Z |
+| 26 | [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) | 9702 | 1107 | Kotlin | 20 | A curated list of awesome Kotlin related stuff Inspired by awesome-java.  | 2021-12-28T13:46:27Z |
+| 27 | [timber](https://github.com/JakeWharton/timber) | 9373 | 897 | Kotlin | 38 | A logger with a small, extensible API which provides utility on top of Android's normal Log class. | 2021-11-28T06:00:57Z |
+| 28 | [ktor](https://github.com/ktorio/ktor) | 9232 | 767 | Kotlin | 267 | Framework for quickly creating connected applications in Kotlin with minimal effort | 2021-12-28T15:37:31Z |
+| 29 | [mirai](https://github.com/mamoe/mirai) | 8177 | 2031 | Kotlin | 100 | 高效率 QQ 机器人支持库 | 2021-12-28T17:01:35Z |
+| 30 | [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) | 8133 | 601 | Kotlin | 17 | Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio. | 2021-12-28T14:26:10Z |
+| 31 | [okio](https://github.com/square/okio) | 7834 | 1125 | Kotlin | 50 | A modern I/O library for Android, Java, and Kotlin Multiplatform. | 2021-12-24T19:47:08Z |
 | 32 | [cheesesquare](https://github.com/chrisbanes/cheesesquare) | 7826 | 1865 | Kotlin | 0 | Demos the new Android Design library. | 2020-12-07T17:39:00Z |
-| 33 | [compose-jb](https://github.com/JetBrains/compose-jb) | 7737 | 467 | Kotlin | 439 | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | 2021-12-27T17:28:05Z |
-| 34 | [coil](https://github.com/coil-kt/coil) | 7516 | 444 | Kotlin | 28 | Image loading for Android backed by Kotlin Coroutines. | 2021-12-27T05:54:22Z |
-| 35 | [koin](https://github.com/InsertKoinIO/koin) | 7158 | 527 | Kotlin | 167 | Koin - a pragmatic lightweight dependency injection framework for Kotlin | 2021-12-25T20:15:28Z |
-| 36 | [kotlin-native](https://github.com/JetBrains/kotlin-native) | 7090 | 622 | Kotlin | 0 | Kotlin/Native infrastructure | 2021-08-10T12:31:53Z |
+| 33 | [compose-jb](https://github.com/JetBrains/compose-jb) | 7751 | 467 | Kotlin | 441 | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | 2021-12-28T08:55:38Z |
+| 34 | [coil](https://github.com/coil-kt/coil) | 7522 | 444 | Kotlin | 27 | Image loading for Android backed by Kotlin Coroutines. | 2021-12-27T21:56:31Z |
+| 35 | [koin](https://github.com/InsertKoinIO/koin) | 7164 | 527 | Kotlin | 167 | Koin - a pragmatic lightweight dependency injection framework for Kotlin | 2021-12-25T20:15:28Z |
+| 36 | [kotlin-native](https://github.com/JetBrains/kotlin-native) | 7090 | 623 | Kotlin | 0 | Kotlin/Native infrastructure | 2021-08-10T12:31:53Z |
 | 37 | [RxKotlin](https://github.com/ReactiveX/RxKotlin) | 6773 | 459 | Kotlin | 19 | RxJava bindings for Kotlin | 2021-08-10T07:55:29Z |
 | 38 | [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) | 6646 | 274 | Kotlin | 206 | 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories. | 2020-09-30T20:20:13Z |
-| 39 | [Compressor](https://github.com/zetbaitsu/Compressor) | 6252 | 893 | Kotlin | 109 | An android image compression library. | 2021-10-14T20:03:10Z |
+| 39 | [Compressor](https://github.com/zetbaitsu/Compressor) | 6253 | 892 | Kotlin | 110 | An android image compression library. | 2021-10-14T20:03:10Z |
 | 40 | [ideavim](https://github.com/JetBrains/ideavim) | 6201 | 608 | Kotlin | 0 | Vim emulation plugin for IDEs based on the IntelliJ Platform | 2021-12-27T09:10:34Z |
-| 41 | [legado](https://github.com/gedoor/legado) | 5828 | 1093 | Kotlin | 221 | 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 2021-12-27T13:12:01Z |
-| 42 | [acra](https://github.com/ACRA/acra) | 5784 | 1117 | Kotlin | 2 | Application Crash Reports for Android | 2021-12-24T01:13:28Z |
-| 43 | [Exposed](https://github.com/JetBrains/Exposed) | 5781 | 479 | Kotlin | 271 | Kotlin SQL Framework | 2021-12-27T18:05:43Z |
-| 44 | [android-oss](https://github.com/kickstarter/android-oss) | 5626 | 1008 | Kotlin | 1 | Kickstarter for Android. Bring new ideas to life, anywhere. | 2021-12-27T19:35:14Z |
-| 45 | [VancedManager](https://github.com/YTVanced/VancedManager) | 5591 | 280 | Kotlin | 49 | Vanced Installer | 2021-12-19T14:29:27Z |
-| 46 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 5527 | 3571 | Kotlin | 18 | Used to integrate Android apps with Facebook Platform. | 2021-12-23T00:12:19Z |
-| 47 | [fenix](https://github.com/mozilla-mobile/fenix) | 5429 | 1027 | Kotlin | 1923 | Firefox for Android | 2021-12-27T16:48:38Z |
-| 48 | [MultiType](https://github.com/drakeet/MultiType) | 5298 | 723 | Kotlin | 8 | Easier and more flexible to create multiple types for Android RecyclerView. | 2021-06-22T07:48:25Z |
+| 41 | [legado](https://github.com/gedoor/legado) | 5839 | 1094 | Kotlin | 221 | 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 | 2021-12-28T14:05:46Z |
+| 42 | [acra](https://github.com/ACRA/acra) | 5787 | 1117 | Kotlin | 2 | Application Crash Reports for Android | 2021-12-24T01:13:28Z |
+| 43 | [Exposed](https://github.com/JetBrains/Exposed) | 5783 | 480 | Kotlin | 271 | Kotlin SQL Framework | 2021-12-28T15:06:07Z |
+| 44 | [android-oss](https://github.com/kickstarter/android-oss) | 5626 | 1009 | Kotlin | 1 | Kickstarter for Android. Bring new ideas to life, anywhere. | 2021-12-28T20:34:09Z |
+| 45 | [VancedManager](https://github.com/YTVanced/VancedManager) | 5597 | 281 | Kotlin | 49 | Vanced Installer | 2021-12-28T10:08:28Z |
+| 46 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 5527 | 3570 | Kotlin | 18 | Used to integrate Android apps with Facebook Platform. | 2021-12-28T19:26:46Z |
+| 47 | [fenix](https://github.com/mozilla-mobile/fenix) | 5434 | 1028 | Kotlin | 1908 | Firefox for Android | 2021-12-28T20:06:05Z |
+| 48 | [MultiType](https://github.com/drakeet/MultiType) | 5300 | 724 | Kotlin | 8 | Easier and more flexible to create multiple types for Android RecyclerView. | 2021-06-22T07:48:25Z |
 | 49 | [topeka](https://github.com/android/topeka) | 5242 | 1107 | Kotlin | 8 | A fun to play quiz that showcases material design on Android | 2021-01-22T21:31:15Z |
-| 50 | [android-showcase](https://github.com/igorwojda/android-showcase) | 5220 | 713 | Kotlin | 22 | 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis... | 2021-11-29T13:22:02Z |
-| 51 | [Alerter](https://github.com/Tapadoo/Alerter) | 5214 | 635 | Kotlin | 37 | An Android Alerting Library | 2021-09-20T16:52:26Z |
-| 52 | [javalin](https://github.com/tipsy/javalin) | 5196 | 449 | Kotlin | 22 | A simple and modern Java and Kotlin web framework | 2021-12-22T13:16:52Z |
-| 53 | [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) | 5015 | 606 | Kotlin | 2 | Design Patterns implemented in Kotlin | 2021-03-15T12:16:24Z |
+| 50 | [android-showcase](https://github.com/igorwojda/android-showcase) | 5222 | 713 | Kotlin | 22 | 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis... | 2021-11-29T13:22:02Z |
+| 51 | [Alerter](https://github.com/Tapadoo/Alerter) | 5216 | 634 | Kotlin | 37 | An Android Alerting Library | 2021-09-20T16:52:26Z |
+| 52 | [javalin](https://github.com/tipsy/javalin) | 5198 | 449 | Kotlin | 22 | A simple and modern Java and Kotlin web framework | 2021-12-28T13:15:21Z |
+| 53 | [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) | 5016 | 606 | Kotlin | 2 | Design Patterns implemented in Kotlin | 2021-03-15T12:16:24Z |
 | 54 | [Android-Iconics](https://github.com/mikepenz/Android-Iconics) | 4920 | 624 | Kotlin | 3 | Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. | 2021-11-12T13:29:52Z |
-| 55 | [Pokedex](https://github.com/skydoves/Pokedex) | 4899 | 581 | Kotlin | 6 | 🗡️ Android Pokedex using Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. | 2021-12-25T16:08:19Z |
-| 56 | [DBFlow](https://github.com/agrosner/DBFlow) | 4837 | 612 | Kotlin | 28 | A blazing fast, powerful, and very simple ORM android database library that writes database code for you. | 2021-12-26T22:40:43Z |
-| 57 | [arrow](https://github.com/arrow-kt/arrow) | 4794 | 335 | Kotlin | 42 | Λrrow - Functional companion to Kotlin's Standard Library | 2021-12-27T17:50:05Z |
+| 55 | [Pokedex](https://github.com/skydoves/Pokedex) | 4903 | 581 | Kotlin | 6 | 🗡️ Android Pokedex using Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. | 2021-12-25T16:08:19Z |
+| 56 | [DBFlow](https://github.com/agrosner/DBFlow) | 4836 | 612 | Kotlin | 28 | A blazing fast, powerful, and very simple ORM android database library that writes database code for you. | 2021-12-28T01:39:12Z |
+| 57 | [arrow](https://github.com/arrow-kt/arrow) | 4794 | 335 | Kotlin | 43 | Λrrow - Functional companion to Kotlin's Standard Library | 2021-12-28T20:33:55Z |
 | 58 | [williamchart](https://github.com/diogobernardino/williamchart) | 4754 | 797 | Kotlin | 22 | Android Library to rapidly develop attractive and insightful charts in android applications. | 2021-12-22T11:24:43Z |
-| 59 | [tivi](https://github.com/chrisbanes/tivi) | 4741 | 627 | Kotlin | 29 | Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development. | 2021-12-26T10:51:34Z |
-| 60 | [ktlint](https://github.com/pinterest/ktlint) | 4649 | 388 | Kotlin | 99 | An anti-bikeshedding Kotlin linter with built-in formatter | 2021-12-25T15:57:53Z |
-| 61 | [uhabits](https://github.com/iSoron/uhabits) | 4577 | 717 | Kotlin | 9 | Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits | 2021-12-20T15:57:58Z |
-| 62 | [mavericks](https://github.com/airbnb/mavericks) | 4473 | 349 | Kotlin | 34 | Mavericks: Android on Autopilot | 2021-12-24T13:39:21Z |
-| 63 | [sqldelight](https://github.com/cashapp/sqldelight) | 4347 | 364 | Kotlin | 175 | SQLDelight - Generates typesafe Kotlin APIs from SQL | 2021-12-25T05:00:14Z |
-| 64 | [muzei](https://github.com/muzei/muzei) | 4340 | 953 | Kotlin | 27 | Muzei Live Wallpaper for Android | 2021-12-17T17:54:21Z |
-| 65 | [mockk](https://github.com/mockk/mockk) | 4223 | 218 | Kotlin | 143 | mocking library for Kotlin | 2021-12-21T19:13:43Z |
-| 66 | [detekt](https://github.com/detekt/detekt) | 4183 | 563 | Kotlin | 119 | Static code analysis for Kotlin | 2021-12-27T21:05:00Z |
+| 59 | [tivi](https://github.com/chrisbanes/tivi) | 4744 | 627 | Kotlin | 29 | Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development. | 2021-12-26T10:51:34Z |
+| 60 | [ktlint](https://github.com/pinterest/ktlint) | 4652 | 388 | Kotlin | 98 | An anti-bikeshedding Kotlin linter with built-in formatter | 2021-12-28T14:09:16Z |
+| 61 | [uhabits](https://github.com/iSoron/uhabits) | 4577 | 718 | Kotlin | 9 | Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits | 2021-12-20T15:57:58Z |
+| 62 | [mavericks](https://github.com/airbnb/mavericks) | 4479 | 349 | Kotlin | 34 | Mavericks: Android on Autopilot | 2021-12-24T13:39:21Z |
+| 63 | [sqldelight](https://github.com/cashapp/sqldelight) | 4349 | 364 | Kotlin | 178 | SQLDelight - Generates typesafe Kotlin APIs from SQL | 2021-12-25T05:00:14Z |
+| 64 | [muzei](https://github.com/muzei/muzei) | 4340 | 954 | Kotlin | 27 | Muzei Live Wallpaper for Android | 2021-12-17T17:54:21Z |
+| 65 | [mockk](https://github.com/mockk/mockk) | 4224 | 219 | Kotlin | 143 | mocking library for Kotlin | 2021-12-28T19:39:45Z |
+| 66 | [detekt](https://github.com/detekt/detekt) | 4186 | 563 | Kotlin | 119 | Static code analysis for Kotlin | 2021-12-28T18:04:27Z |
 | 67 | [fuel](https://github.com/kittinunf/fuel) | 4057 | 396 | Kotlin | 72 | The easiest HTTP networking library for Kotlin/Android | 2021-12-23T10:25:27Z |
 | 68 | [RxDownload](https://github.com/ssseasonnn/RxDownload) | 4036 | 616 | Kotlin | 36 | A multi-threaded download tool written with RxJava and Kotlin | 2021-10-28T03:03:13Z |
 | 69 | [Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) | 4006 | 558 | Kotlin | 8 | 【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程 | 2021-11-27T00:11:52Z |
-| 70 | [accompanist](https://github.com/google/accompanist) | 3886 | 244 | Kotlin | 33 | A collection of extension libraries for Jetpack Compose | 2021-12-22T15:22:34Z |
+| 70 | [accompanist](https://github.com/google/accompanist) | 3890 | 244 | Kotlin | 33 | A collection of extension libraries for Jetpack Compose | 2021-12-22T15:22:34Z |
 | 71 | [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | 3806 | 1006 | Kotlin | 4 | You can easily add awesome animated context menu to your app. | 2021-04-24T02:41:58Z |
-| 72 | [intellij-rust](https://github.com/intellij-rust/intellij-rust) | 3793 | 327 | Kotlin | 1248 | Rust plugin for the IntelliJ Platform | 2021-12-27T14:38:13Z |
+| 72 | [intellij-rust](https://github.com/intellij-rust/intellij-rust) | 3796 | 327 | Kotlin | 1250 | Rust plugin for the IntelliJ Platform | 2021-12-28T13:14:17Z |
 | 73 | [corda](https://github.com/corda/corda) | 3779 | 1044 | Kotlin | 172 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value. | 2021-12-24T12:53:34Z |
-| 74 | [booster](https://github.com/didi/booster) | 3760 | 418 | Kotlin | 51 | 🚀Optimizer for mobile applications | 2021-12-21T01:53:04Z |
+| 74 | [booster](https://github.com/didi/booster) | 3763 | 418 | Kotlin | 51 | 🚀Optimizer for mobile applications | 2021-12-21T01:53:04Z |
 | 75 | [Fotoapparat](https://github.com/RedApparat/Fotoapparat) | 3707 | 393 | Kotlin | 80 | Making Camera for Android more friendly. 📸 | 2021-12-10T09:53:46Z |
 | 76 | [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) | 3696 | 554 | Kotlin | 13 | None | 2020-11-06T04:24:46Z |
 | 77 | [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) | 3693 | 309 | Kotlin | 13 | GPP is Android's unofficial release automation Gradle Plugin. It can do anything from building, uploading, and then promoting your App Bundle or APK to publishing app listings and other metadata. | 2021-12-13T23:15:52Z |
 | 78 | [wire](https://github.com/square/wire) | 3674 | 516 | Kotlin | 130 | gRPC and protocol buffers for Android, Kotlin, and Java. | 2021-12-23T16:53:30Z |
-| 79 | [intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) | 3664 | 110 | Kotlin | 11 | 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio | 2021-12-21T05:51:17Z |
-| 80 | [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) | 3659 | 781 | Kotlin | 72 | This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches. | 2021-10-01T01:50:19Z |
-| 81 | [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | 3570 | 409 | Kotlin | 11 | A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential | 2021-12-26T16:10:16Z |
-| 82 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | 3564 | 433 | Kotlin | 315 | Kotlin multiplatform / multi-format serialization  | 2021-12-27T15:40:50Z |
-| 83 | [Timeline-View](https://github.com/vipulasri/Timeline-View) | 3557 | 624 | Kotlin | 5 | Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.  | 2021-06-30T10:12:39Z |
+| 79 | [intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) | 3663 | 110 | Kotlin | 10 | 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio | 2021-12-21T05:51:17Z |
+| 80 | [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) | 3661 | 783 | Kotlin | 72 | This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches. | 2021-10-01T01:50:19Z |
+| 81 | [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | 3577 | 409 | Kotlin | 11 | A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential | 2021-12-28T17:38:29Z |
+| 82 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | 3567 | 434 | Kotlin | 316 | Kotlin multiplatform / multi-format serialization  | 2021-12-27T15:40:50Z |
+| 83 | [Timeline-View](https://github.com/vipulasri/Timeline-View) | 3556 | 624 | Kotlin | 5 | Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.  | 2021-06-30T10:12:39Z |
 | 84 | [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) | 3533 | 517 | Kotlin | 25 | An android boilerplate project using clean architecture | 2021-10-30T02:52:54Z |
-| 85 | [qksms](https://github.com/moezbhatti/qksms) | 3526 | 986 | Kotlin | 396 | The most beautiful SMS messenger for Android | 2021-10-28T21:14:40Z |
-| 86 | [FastAdapter](https://github.com/mikepenz/FastAdapter) | 3517 | 484 | Kotlin | 4 | The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction... | 2021-12-16T14:21:50Z |
-| 87 | [tornadofx](https://github.com/edvin/tornadofx) | 3504 | 259 | Kotlin | 180 | Lightweight JavaFX Framework for Kotlin | 2021-08-06T04:28:56Z |
+| 85 | [qksms](https://github.com/moezbhatti/qksms) | 3527 | 986 | Kotlin | 395 | The most beautiful SMS messenger for Android | 2021-10-28T21:14:40Z |
+| 86 | [FastAdapter](https://github.com/mikepenz/FastAdapter) | 3518 | 484 | Kotlin | 4 | The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction... | 2021-12-16T14:21:50Z |
+| 87 | [tornadofx](https://github.com/edvin/tornadofx) | 3503 | 259 | Kotlin | 180 | Lightweight JavaFX Framework for Kotlin | 2021-08-06T04:28:56Z |
 | 88 | [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) | 3493 | 887 | Kotlin | 14 | :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！ | 2020-06-30T04:51:54Z |
-| 89 | [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) | 3486 | 423 | Kotlin | 32 | Samples builds using the Gradle Kotlin DSL | 2020-07-31T19:33:45Z |
-| 90 | [camera-samples](https://github.com/android/camera-samples) | 3312 | 1719 | Kotlin | 66 | Multiple samples showing the best practices in camera APIs on Android. | 2021-12-24T18:15:18Z |
-| 91 | [kotest](https://github.com/kotest/kotest) | 3244 | 468 | Kotlin | 40 | Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing | 2021-12-25T15:31:05Z |
-| 92 | [android](https://github.com/owncloud/android) | 3215 | 2937 | Kotlin | 331 | :phone: The ownCloud Android App | 2021-12-27T00:09:17Z |
+| 89 | [kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) | 3487 | 423 | Kotlin | 32 | Samples builds using the Gradle Kotlin DSL | 2020-07-31T19:33:45Z |
+| 90 | [camera-samples](https://github.com/android/camera-samples) | 3316 | 1720 | Kotlin | 66 | Multiple samples showing the best practices in camera APIs on Android. | 2021-12-24T18:15:18Z |
+| 91 | [kotest](https://github.com/kotest/kotest) | 3247 | 468 | Kotlin | 40 | Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing | 2021-12-28T20:24:17Z |
+| 92 | [android](https://github.com/owncloud/android) | 3217 | 2937 | Kotlin | 331 | :phone: The ownCloud Android App | 2021-12-27T00:09:17Z |
 | 93 | [rxhttp](https://github.com/liujingxing/rxhttp) | 3176 | 379 | Kotlin | 0 |  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started. | 2021-12-18T15:19:43Z |
 | 94 | [Spotlight](https://github.com/TakuSemba/Spotlight) | 3150 | 334 | Kotlin | 18 | Android Library that lights items for tutorials or walk-throughs etc... | 2021-09-10T06:39:59Z |
-| 95 | [kotlinpoet](https://github.com/square/kotlinpoet) | 3019 | 218 | Kotlin | 32 | A Kotlin API for generating .kt source files. | 2021-12-25T04:15:35Z |
-| 96 | [apollo-kotlin](https://github.com/apollographql/apollo-kotlin) | 2966 | 541 | Kotlin | 105 | :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. | 2021-12-23T17:32:20Z |
-| 97 | [CalendarView](https://github.com/kizitonwose/CalendarView) | 2867 | 353 | Kotlin | 7 | A highly customizable calendar library for Android, powered by RecyclerView. | 2021-07-09T13:49:44Z |
-| 98 | [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) | 2830 | 313 | Kotlin | 51 | A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot | 2021-12-27T10:49:51Z |
-| 99 | [AboutLibraries](https://github.com/mikepenz/AboutLibraries) | 2787 | 382 | Kotlin | 1 | AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Multi Platform), and provides easy to integrate UI components for Android and Compose-jb environments  | 2021-12-20T16:08:47Z |
+| 95 | [kotlinpoet](https://github.com/square/kotlinpoet) | 3020 | 218 | Kotlin | 32 | A Kotlin API for generating .kt source files. | 2021-12-25T04:15:35Z |
+| 96 | [apollo-kotlin](https://github.com/apollographql/apollo-kotlin) | 2967 | 539 | Kotlin | 105 | :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform. | 2021-12-23T17:32:20Z |
+| 97 | [CalendarView](https://github.com/kizitonwose/CalendarView) | 2869 | 353 | Kotlin | 9 | A highly customizable calendar library for Android, powered by RecyclerView. | 2021-07-09T13:49:44Z |
+| 98 | [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) | 2832 | 314 | Kotlin | 50 | A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot | 2021-12-27T10:49:51Z |
+| 99 | [AboutLibraries](https://github.com/mikepenz/AboutLibraries) | 2789 | 382 | Kotlin | 1 | AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Multi Platform), and provides easy to integrate UI components for Android and Compose-jb environments  | 2021-12-20T16:08:47Z |
 | 100 | [Scarlet](https://github.com/Tinder/Scarlet) | 2773 | 199 | Kotlin | 80 | A Retrofit inspired WebSocket client for Kotlin, Java, and Android | 2021-12-22T22:35:59Z |
 
