@@ -5,3 +5,5 @@ relative_links:
   collections: true
 include:
   - README.md
+
+theme: jekyll-theme-slate
