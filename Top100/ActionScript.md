@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7380 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7381 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6353 | 512 | ActionScript | 11 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-01-05T00:13:34Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2407 | 844 | ActionScript | 69 | The Cross Platform Game Engine | 2022-01-06T20:33:11Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2370 | 1079 | ActionScript | 147 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2408 | 844 | ActionScript | 69 | The Cross Platform Game Engine | 2022-01-06T20:33:11Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2370 | 1080 | ActionScript | 147 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1485 | 466 | ActionScript | 105 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1318 | 525 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1225 | 203 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -37,7 +37,7 @@
 | 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 366 | 120 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 31 | [Gestouch](https://github.com/fljot/Gestouch) | 359 | 83 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 32 | [wck](https://github.com/jesses/wck) | 358 | 58 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
-| 33 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 48 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
+| 33 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 355 | 48 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 34 | [chess_server](https://github.com/YKPublicGame/chess_server) | 333 | 162 | ActionScript | 6 | 开源棋牌服务器框架，使用skynet，网络协议使用pbc版的protobuf，数据库使用mongodb。 | 2018-11-12T12:14:17Z |
 | 35 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 332 | 63 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 36 | [royale-asjs](https://github.com/apache/royale-asjs) | 327 | 111 | ActionScript | 221 | Apache Royale ASJS | 2022-01-07T11:58:33Z |
@@ -61,7 +61,7 @@
 | 54 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 246 | 100 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 55 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 243 | 108 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
 | 56 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 242 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
-| 57 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 241 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
+| 57 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 240 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 58 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 239 | 54 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
 | 59 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 239 | 74 | ActionScript | 11 | HTTP Client for AS3 | 2021-11-03T03:04:15Z |
 | 60 | [skyui](https://github.com/schlangster/skyui) | 230 | 149 | ActionScript | 26 | SkyUI interface mod for Skyrim. | 2021-05-02T13:56:54Z |
