@@ -1,7 +1,7 @@
 #!/bin/sh
 # crontab auto run this file
 # crontab command:
-# 0 12 * * * nohup sh /home/kfiry/Github-Ranking/auto_run.sh >> /home/kfirt/tmp/Github-Ranking.log 2>&1 &
+# 0 12 * * * nohup sh /home/kfiry/Github-Ranking/auto_run.sh >> /home/kfiry/tmp/Github-Ranking.log 2>&1 &
 
 echo -e "\n----------Run Time:----------"
 date
