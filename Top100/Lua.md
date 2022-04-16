@@ -5,64 +5,64 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [kong](https://github.com/Kong/kong) | 31657 | 4166 | Lua | 237 | 🦍 The Cloud-Native API Gateway  | 2022-04-15T02:15:48Z |
-| 2 | [waifu2x](https://github.com/nagadomi/waifu2x) | 23677 | 2571 | Lua | 138 | Image Super-Resolution for Anime-Style Art | 2021-10-30T17:37:48Z |
-| 3 | [neural-style](https://github.com/jcjohnson/neural-style) | 18194 | 2788 | Lua | 295 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
+| 1 | [kong](https://github.com/Kong/kong) | 31667 | 4167 | Lua | 237 | 🦍 The Cloud-Native API Gateway  | 2022-04-16T01:47:25Z |
+| 2 | [waifu2x](https://github.com/nagadomi/waifu2x) | 23683 | 2571 | Lua | 138 | Image Super-Resolution for Anime-Style Art | 2021-10-30T17:37:48Z |
+| 3 | [neural-style](https://github.com/jcjohnson/neural-style) | 18196 | 2788 | Lua | 295 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
 | 4 | [openface](https://github.com/cmusatyalab/openface) | 14361 | 3574 | Lua | 7 | Face recognition with deep neural networks. | 2022-04-06T17:33:15Z |
-| 5 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 11137 | 1885 | Lua | 50 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 2020-08-03T14:35:58Z |
-| 6 | [char-rnn](https://github.com/karpathy/char-rnn) | 10838 | 2490 | Lua | 87 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 2018-05-04T15:25:25Z |
-| 7 | [koreader](https://github.com/koreader/koreader) | 10232 | 988 | Lua | 434 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2022-04-14T18:43:23Z |
-| 8 | [apisix](https://github.com/apache/apisix) | 8972 | 1670 | Lua | 298 | The Cloud-Native API Gateway | 2022-04-15T02:27:39Z |
-| 9 | [pix2pix](https://github.com/phillipi/pix2pix) | 8913 | 1602 | Lua | 77 | Image-to-image translation with conditional adversarial nets | 2021-06-06T12:09:47Z |
-| 10 | [NvChad](https://github.com/NvChad/NvChad) | 8562 | 551 | Lua | 11 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs | 2022-04-15T00:15:47Z |
-| 11 | [LunarVim](https://github.com/LunarVim/LunarVim) | 8228 | 1107 | Lua | 63 | An IDE layer for Neovim with sane defaults. Completely free and community driven. | 2022-04-15T01:10:04Z |
-| 12 | [sysdig](https://github.com/draios/sysdig) | 6841 | 678 | Lua | 278 | Linux system exploration and troubleshooting tool with first class support for containers | 2022-04-13T21:40:48Z |
-| 13 | [dockercraft](https://github.com/docker/dockercraft) | 6596 | 389 | Lua | 15 | Docker + Minecraft = Dockercraft | 2021-06-15T14:24:53Z |
-| 14 | [lite](https://github.com/rxi/lite) | 6468 | 313 | Lua | 85 | A lightweight text editor written in Lua | 2021-10-28T06:45:13Z |
-| 15 | [nmap](https://github.com/nmap/nmap) | 6199 | 1873 | Lua | 507 | Nmap - the Network Mapper. Github mirror of official SVN repository. | 2022-04-14T23:09:06Z |
-| 16 | [VeryNginx](https://github.com/alexazhou/VeryNginx) | 5733 | 952 | Lua | 110 |  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.  | 2020-06-30T07:07:17Z |
-| 17 | [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 5411 | 399 | Lua | 140 | Find, Filter, Preview, Pick. All lua, all the time. | 2022-04-13T12:27:50Z |
-| 18 | [lsyncd](https://github.com/lsyncd/lsyncd) | 4784 | 438 | Lua | 142 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets | 2022-04-14T12:23:14Z |
-| 19 | [awesome](https://github.com/awesomeWM/awesome) | 4603 | 509 | Lua | 407 | awesome window manager | 2022-04-04T07:29:55Z |
-| 20 | [ntopng](https://github.com/ntop/ntopng) | 4511 | 557 | Lua | 225 | Web-based Traffic and Security Network Traffic Monitoring | 2022-04-14T16:41:01Z |
+| 5 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 11142 | 1885 | Lua | 50 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 2020-08-03T14:35:58Z |
+| 6 | [char-rnn](https://github.com/karpathy/char-rnn) | 10839 | 2491 | Lua | 87 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 2018-05-04T15:25:25Z |
+| 7 | [koreader](https://github.com/koreader/koreader) | 10242 | 987 | Lua | 433 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2022-04-15T17:25:58Z |
+| 8 | [apisix](https://github.com/apache/apisix) | 8981 | 1673 | Lua | 299 | The Cloud-Native API Gateway | 2022-04-15T15:53:16Z |
+| 9 | [pix2pix](https://github.com/phillipi/pix2pix) | 8915 | 1603 | Lua | 77 | Image-to-image translation with conditional adversarial nets | 2021-06-06T12:09:47Z |
+| 10 | [NvChad](https://github.com/NvChad/NvChad) | 8578 | 553 | Lua | 12 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs | 2022-04-15T20:41:20Z |
+| 11 | [LunarVim](https://github.com/LunarVim/LunarVim) | 8247 | 1109 | Lua | 63 | An IDE layer for Neovim with sane defaults. Completely free and community driven. | 2022-04-15T18:16:06Z |
+| 12 | [sysdig](https://github.com/draios/sysdig) | 6845 | 679 | Lua | 278 | Linux system exploration and troubleshooting tool with first class support for containers | 2022-04-13T21:40:48Z |
+| 13 | [dockercraft](https://github.com/docker/dockercraft) | 6598 | 388 | Lua | 15 | Docker + Minecraft = Dockercraft | 2021-06-15T14:24:53Z |
+| 14 | [lite](https://github.com/rxi/lite) | 6466 | 313 | Lua | 85 | A lightweight text editor written in Lua | 2021-10-28T06:45:13Z |
+| 15 | [nmap](https://github.com/nmap/nmap) | 6203 | 1874 | Lua | 507 | Nmap - the Network Mapper. Github mirror of official SVN repository. | 2022-04-14T23:09:06Z |
+| 16 | [VeryNginx](https://github.com/alexazhou/VeryNginx) | 5733 | 953 | Lua | 110 |  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.  | 2020-06-30T07:07:17Z |
+| 17 | [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 5419 | 399 | Lua | 141 | Find, Filter, Preview, Pick. All lua, all the time. | 2022-04-13T12:27:50Z |
+| 18 | [lsyncd](https://github.com/lsyncd/lsyncd) | 4786 | 438 | Lua | 142 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets | 2022-04-14T12:23:14Z |
+| 19 | [awesome](https://github.com/awesomeWM/awesome) | 4607 | 509 | Lua | 408 | awesome window manager | 2022-04-04T07:29:55Z |
+| 20 | [ntopng](https://github.com/ntop/ntopng) | 4513 | 559 | Lua | 223 | Web-based Traffic and Security Network Traffic Monitoring | 2022-04-15T19:07:32Z |
 | 21 | [DenseNet](https://github.com/liuzhuang13/DenseNet) | 4449 | 1047 | Lua | 28 | Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award). | 2022-01-11T12:15:11Z |
-| 22 | [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | 4244 | 976 | Lua | 21 | Quickstart configurations for the Nvim LSP client | 2022-04-15T01:25:01Z |
-| 23 | [fast-neural-style](https://github.com/jcjohnson/fast-neural-style) | 4015 | 805 | Lua | 126 | Feedforward style transfer | 2022-03-11T23:17:44Z |
+| 22 | [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | 4254 | 976 | Lua | 21 | Quickstart configurations for the Nvim LSP client | 2022-04-15T23:01:33Z |
+| 23 | [fast-neural-style](https://github.com/jcjohnson/fast-neural-style) | 4017 | 805 | Lua | 126 | Feedforward style transfer | 2022-03-11T23:17:44Z |
 | 24 | [fairseq](https://github.com/facebookresearch/fairseq) | 3783 | 633 | Lua | 16 | Facebook AI Research Sequence-to-Sequence Toolkit | 2021-09-17T09:21:31Z |
 | 25 | [ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) | 3514 | 1392 | Lua | 54 | ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙 | 2021-05-15T08:35:35Z |
 | 26 | [luvit](https://github.com/luvit/luvit) | 3495 | 361 | Lua | 74 | Lua + libUV + jIT = pure awesomesauce | 2022-02-01T19:51:17Z |
 | 27 | [openresty-best-practices](https://github.com/moonbingbing/openresty-best-practices) | 3304 | 810 | Lua | 33 | None | 2021-04-05T15:47:29Z |
 | 28 | [deepmask](https://github.com/facebookresearch/deepmask) | 3104 | 533 | Lua | 46 | Torch implementation of DeepMask and SharpMask | 2019-01-16T17:21:51Z |
 | 29 | [articles](https://github.com/Wscats/articles) | 3078 | 770 | Lua | 4 | 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆 | 2021-12-20T05:30:40Z |
-| 30 | [tarantool](https://github.com/tarantool/tarantool) | 2853 | 326 | Lua | 1333 | Get your data in RAM. Get compute close to data. Enjoy the performance. | 2022-04-14T22:37:46Z |
+| 30 | [tarantool](https://github.com/tarantool/tarantool) | 2855 | 326 | Lua | 1257 | Get your data in RAM. Get compute close to data. Enjoy the performance. | 2022-04-15T18:11:05Z |
 | 31 | [snabb](https://github.com/snabbco/snabb) | 2806 | 306 | Lua | 177 | Snabb: Simple and fast packet networking | 2022-04-07T11:55:34Z |
 | 32 | [moonscript](https://github.com/leafo/moonscript) | 2765 | 192 | Lua | 172 | :crescent_moon: A language that compiles to Lua | 2021-05-12T12:21:39Z |
 | 33 | [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | 2627 | 459 | Lua | 12 | NSE script based on Vulners.com API | 2021-12-14T10:37:31Z |
-| 34 | [packer.nvim](https://github.com/wbthomason/packer.nvim) | 2623 | 125 | Lua | 172 | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | 2022-04-13T16:26:08Z |
-| 35 | [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 2572 | 134 | Lua | 50 | A completion plugin for neovim coded in Lua. | 2022-04-14T11:42:08Z |
-| 36 | [awesome-copycats](https://github.com/lcpz/awesome-copycats) | 2542 | 485 | Lua | 1 | Awesome WM themes | 2022-03-26T18:14:15Z |
-| 37 | [CorsixTH](https://github.com/CorsixTH/CorsixTH) | 2509 | 284 | Lua | 226 | Open source clone of Theme Hospital | 2022-04-12T14:44:00Z |
-| 38 | [AstroVim](https://github.com/kabinspace/AstroVim) | 2512 | 145 | Lua | 3 | AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  | 2022-04-14T18:52:34Z |
-| 39 | [vulscan](https://github.com/scipag/vulscan) | 2467 | 576 | Lua | 0 | Advanced vulnerability scanning with Nmap NSE | 2022-03-11T09:11:50Z |
-| 40 | [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) | 2459 | 1169 | Lua | 200 | Jitsi Meet on Docker | 2022-04-14T08:19:07Z |
-| 41 | [luarocks](https://github.com/luarocks/luarocks) | 2424 | 403 | Lua | 193 | LuaRocks is the package manager for the Lua programming language. | 2022-04-12T20:59:34Z |
+| 34 | [packer.nvim](https://github.com/wbthomason/packer.nvim) | 2628 | 125 | Lua | 172 | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | 2022-04-13T16:26:08Z |
+| 35 | [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 2580 | 137 | Lua | 51 | A completion plugin for neovim coded in Lua. | 2022-04-14T11:42:08Z |
+| 36 | [awesome-copycats](https://github.com/lcpz/awesome-copycats) | 2546 | 485 | Lua | 1 | Awesome WM themes | 2022-03-26T18:14:15Z |
+| 37 | [AstroVim](https://github.com/kabinspace/AstroVim) | 2518 | 145 | Lua | 1 | AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  | 2022-04-15T15:57:23Z |
+| 38 | [CorsixTH](https://github.com/CorsixTH/CorsixTH) | 2510 | 285 | Lua | 226 | Open source clone of Theme Hospital | 2022-04-12T14:44:00Z |
+| 39 | [vulscan](https://github.com/scipag/vulscan) | 2467 | 574 | Lua | 0 | Advanced vulnerability scanning with Nmap NSE | 2022-03-11T09:11:50Z |
+| 40 | [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) | 2461 | 1170 | Lua | 201 | Jitsi Meet on Docker | 2022-04-14T08:19:07Z |
+| 41 | [luarocks](https://github.com/luarocks/luarocks) | 2423 | 403 | Lua | 193 | LuaRocks is the package manager for the Lua programming language. | 2022-04-12T20:59:34Z |
 | 42 | [neuralart](https://github.com/kaishengtai/neuralart) | 2414 | 367 | Lua | 6 | An implementation of the paper 'A Neural Algorithm of Artistic Style'. | 2017-03-05T18:08:54Z |
 | 43 | [torch-rnn](https://github.com/jcjohnson/torch-rnn) | 2377 | 507 | Lua | 88 | Efficient, reusable RNNs and LSTMs for torch | 2018-04-28T08:50:05Z |
 | 44 | [OpenNMT](https://github.com/OpenNMT/OpenNMT) | 2349 | 476 | Lua | 33 | Open Source Neural Machine Translation in Torch (deprecated) | 2020-02-19T16:08:46Z |
-| 45 | [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) | 2312 | 493 | Lua | 78 | Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux | 2022-02-21T18:19:26Z |
-| 46 | [dotfiles](https://github.com/nicknisi/dotfiles) | 2304 | 338 | Lua | 3 | vim, zsh, git, homebrew, neovim - my whole world | 2022-04-13T14:15:47Z |
-| 47 | [lite-xl](https://github.com/lite-xl/lite-xl) | 2275 | 106 | Lua | 95 | A lightweight text editor written in Lua | 2022-04-15T02:58:38Z |
-| 48 | [z.lua](https://github.com/skywind3000/z.lua) | 2249 | 109 | Lua | 39 | :zap: A new cd command that helps you navigate faster by learning your habits. | 2022-03-27T14:08:42Z |
-| 49 | [orange](https://github.com/orlabs/orange) | 2227 | 563 | Lua | 72 | OpenResty/Nginx Gateway for API Monitoring and Management. | 2021-12-22T13:43:49Z |
-| 50 | [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) | 2222 | 213 | Lua | 50 | A file explorer tree for neovim written in lua | 2022-04-14T20:27:54Z |
+| 45 | [dotfiles](https://github.com/nicknisi/dotfiles) | 2306 | 338 | Lua | 3 | vim, zsh, git, homebrew, neovim - my whole world | 2022-04-15T20:01:08Z |
+| 46 | [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) | 2312 | 493 | Lua | 78 | Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux | 2022-02-21T18:19:26Z |
+| 47 | [lite-xl](https://github.com/lite-xl/lite-xl) | 2293 | 106 | Lua | 96 | A lightweight text editor written in Lua | 2022-04-15T20:25:57Z |
+| 48 | [z.lua](https://github.com/skywind3000/z.lua) | 2250 | 110 | Lua | 39 | :zap: A new cd command that helps you navigate faster by learning your habits. | 2022-03-27T14:08:42Z |
+| 49 | [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) | 2227 | 213 | Lua | 48 | A file explorer tree for neovim written in lua | 2022-04-16T03:01:59Z |
+| 50 | [orange](https://github.com/orlabs/orange) | 2227 | 563 | Lua | 72 | OpenResty/Nginx Gateway for API Monitoring and Management. | 2021-12-22T13:43:49Z |
 | 51 | [PathOfBuilding](https://github.com/Openarl/PathOfBuilding) | 2160 | 1073 | Lua | 882 | Offline build planner for Path of Exile. | 2021-01-16T11:28:24Z |
-| 52 | [neorg](https://github.com/nvim-neorg/neorg) | 2167 | 53 | Lua | 32 | Modernity meets insane extensibility. The future of organizing your life in Neovim. | 2022-04-13T20:36:16Z |
+| 52 | [neorg](https://github.com/nvim-neorg/neorg) | 2172 | 54 | Lua | 31 | Modernity meets insane extensibility. The future of organizing your life in Neovim. | 2022-04-15T14:23:06Z |
 | 53 | [siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) | 2137 | 309 | Lua | 12 | Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.  | 2017-08-24T08:40:12Z |
 | 54 | [Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations) | 2136 | 526 | Lua | 9 | Share, discuss and learn about algorithm implementations! | 2021-12-05T06:51:59Z |
 | 55 | [fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch) | 2123 | 672 | Lua | 55 | Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts | 2019-10-29T17:21:00Z |
-| 56 | [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 1960 | 1364 | Lua | 521 | Offline build planner for Path of Exile. | 2022-04-15T00:05:39Z |
-| 57 | [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) | 1959 | 138 | Lua | 0 | A glorified personal dot files | 2021-10-15T22:27:07Z |
-| 58 | [crnn](https://github.com/bgshih/crnn) | 1935 | 547 | Lua | 88 | Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition. | 2019-03-04T05:12:37Z |
+| 56 | [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 1961 | 1366 | Lua | 521 | Offline build planner for Path of Exile. | 2022-04-15T19:15:11Z |
+| 57 | [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles) | 1958 | 138 | Lua | 0 | A glorified personal dot files | 2021-10-15T22:27:07Z |
+| 58 | [crnn](https://github.com/bgshih/crnn) | 1935 | 548 | Lua | 88 | Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition. | 2019-03-04T05:12:37Z |
 | 59 | [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) | 1933 | 346 | Lua | 14 | Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others. | 2022-02-17T01:11:31Z |
 | 60 | [ResNeXt](https://github.com/facebookresearch/ResNeXt) | 1827 | 296 | Lua | 10 | Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks | 2020-01-14T19:58:44Z |
 
