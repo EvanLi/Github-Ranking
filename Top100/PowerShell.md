@@ -5,43 +5,43 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [core](https://github.com/dotnet/core) | 17824 | 4564 | PowerShell | 371 | Home repository for .NET Core | 2022-07-08T18:05:11Z |
-| 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 15829 | 1249 | PowerShell | 138 | A command-line installer for Windows. | 2022-07-07T10:08:49Z |
-| 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 14030 | 1762 | PowerShell | 249 | Script to remove Windows 10 bloatware. | 2022-04-12T15:33:13Z |
-| 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 9637 | 4070 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
-| 5 | [blazor](https://github.com/dotnet/blazor) | 9349 | 677 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7266 | 16719 | PowerShell | 4431 | Open source documentation of Microsoft Azure | 2022-07-08T22:19:08Z |
-| 7 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 6934 | 1368 | PowerShell | 53 | Six Degrees of Domain Admin | 2022-06-28T14:51:48Z |
-| 8 | [nishang](https://github.com/samratashok/nishang) | 6601 | 2150 | PowerShell | 14 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
-| 9 | [Empire](https://github.com/EmpireProject/Empire) | 6567 | 2561 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
-| 10 | [posh-git](https://github.com/dahlbyk/posh-git) | 6303 | 776 | PowerShell | 51 | A PowerShell environment for Git | 2022-07-09T01:12:40Z |
-| 11 | [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | 6213 | 2063 | PowerShell | 9 | Small and highly portable detection tests based on MITRE's ATT&CK. | 2022-07-08T15:23:33Z |
-| 12 | [virtual-environments](https://github.com/actions/virtual-environments) | 6198 | 2207 | PowerShell | 27 | GitHub Actions virtual environments | 2022-07-08T23:21:51Z |
-| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 5838 | 2246 | PowerShell | 318 | The Microsoft community Windows Package Manager manifest repository | 2022-07-09T02:06:02Z |
-| 14 | [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 5458 | 814 | PowerShell | 26 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps | 2022-07-04T19:28:04Z |
+| 1 | [core](https://github.com/dotnet/core) | 17825 | 4566 | PowerShell | 369 | Home repository for .NET Core | 2022-07-09T22:23:49Z |
+| 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 15832 | 1249 | PowerShell | 138 | A command-line installer for Windows. | 2022-07-07T10:08:49Z |
+| 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 14034 | 1762 | PowerShell | 249 | Script to remove Windows 10 bloatware. | 2022-04-12T15:33:13Z |
+| 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 9638 | 4071 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
+| 5 | [blazor](https://github.com/dotnet/blazor) | 9351 | 677 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
+| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7270 | 16721 | PowerShell | 4436 | Open source documentation of Microsoft Azure | 2022-07-09T09:33:53Z |
+| 7 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 6938 | 1371 | PowerShell | 53 | Six Degrees of Domain Admin | 2022-06-28T14:51:48Z |
+| 8 | [nishang](https://github.com/samratashok/nishang) | 6604 | 2150 | PowerShell | 14 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
+| 9 | [Empire](https://github.com/EmpireProject/Empire) | 6568 | 2561 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
+| 10 | [posh-git](https://github.com/dahlbyk/posh-git) | 6304 | 776 | PowerShell | 51 | A PowerShell environment for Git | 2022-07-09T01:12:40Z |
+| 11 | [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | 6219 | 2065 | PowerShell | 9 | Small and highly portable detection tests based on MITRE's ATT&CK. | 2022-07-08T15:23:33Z |
+| 12 | [virtual-environments](https://github.com/actions/virtual-environments) | 6199 | 2208 | PowerShell | 27 | GitHub Actions virtual environments | 2022-07-09T06:49:27Z |
+| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 5840 | 2248 | PowerShell | 319 | The Microsoft community Windows Package Manager manifest repository | 2022-07-10T02:17:52Z |
+| 14 | [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 5460 | 814 | PowerShell | 26 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps | 2022-07-04T19:28:04Z |
 | 15 | [commando-vm](https://github.com/mandiant/commando-vm) | 5397 | 1155 | PowerShell | 31 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com | 2022-06-16T07:53:58Z |
-| 16 | [docker](https://github.com/jenkinsci/docker) | 5283 | 3753 | PowerShell | 33 | Docker official jenkins repo | 2022-07-06T21:40:09Z |
-| 17 | [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) | 5093 | 295 | PowerShell | 0 | A prompt theming engine for Powershell | 2021-02-16T07:48:59Z |
-| 18 | [Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 4894 | 494 | PowerShell | 0 | :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking | 2022-07-08T20:09:29Z |
-| 19 | [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) | 4574 | 1102 | PowerShell | 30 | PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 | 2021-05-28T08:15:14Z |
+| 16 | [docker](https://github.com/jenkinsci/docker) | 5283 | 3754 | PowerShell | 33 | Docker official jenkins repo | 2022-07-09T23:25:05Z |
+| 17 | [oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) | 5093 | 296 | PowerShell | 0 | A prompt theming engine for Powershell | 2021-02-16T07:48:59Z |
+| 18 | [Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 4896 | 494 | PowerShell | 0 | :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking | 2022-07-08T20:09:29Z |
+| 19 | [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) | 4575 | 1102 | PowerShell | 30 | PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 | 2021-05-28T08:15:14Z |
 | 20 | [K8tools](https://github.com/k8gege/K8tools) | 4568 | 1941 | PowerShell | 17 | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | 2022-07-06T16:05:16Z |
-| 21 | [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) | 4473 | 1580 | PowerShell | 0 | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | 2022-07-08T15:59:45Z |
-| 22 | [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) | 4282 | 1003 | PowerShell | 39 | 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。 | 2022-06-26T18:48:46Z |
-| 23 | [flare-vm](https://github.com/mandiant/flare-vm) | 3839 | 668 | PowerShell | 120 | None | 2022-01-21T19:05:20Z |
-| 24 | [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | 3665 | 2394 | PowerShell | 119 | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | 2022-07-01T15:27:57Z |
-| 25 | [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) | 3337 | 353 | PowerShell | 1 | A curated list of delightful PowerShell modules and resources | 2022-05-28T22:28:10Z |
+| 21 | [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) | 4475 | 1579 | PowerShell | 0 | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | 2022-07-08T15:59:45Z |
+| 22 | [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) | 4283 | 1002 | PowerShell | 39 | 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。 | 2022-06-26T18:48:46Z |
+| 23 | [flare-vm](https://github.com/mandiant/flare-vm) | 3840 | 668 | PowerShell | 119 | None | 2022-01-21T19:05:20Z |
+| 24 | [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | 3667 | 2394 | PowerShell | 119 | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | 2022-07-01T15:27:57Z |
+| 25 | [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) | 3342 | 353 | PowerShell | 1 | A curated list of delightful PowerShell modules and resources | 2022-05-28T22:28:10Z |
 | 26 | [win10script](https://github.com/ChrisTitusTech/win10script) | 3312 | 1123 | PowerShell | 103 | This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  | 2022-06-24T03:57:47Z |
-| 27 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2816 | 350 | PowerShell | 138 | [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows. | 2017-03-03T15:02:50Z |
-| 28 | [Pester](https://github.com/pester/Pester) | 2738 | 456 | PowerShell | 161 | Pester is the ubiquitous test and mock framework for PowerShell. | 2022-07-03T12:27:16Z |
-| 29 | [discover](https://github.com/leebaird/discover) | 2719 | 762 | PowerShell | 0 | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | 2022-07-08T14:46:25Z |
-| 30 | [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) | 2625 | 616 | PowerShell | 6 | PowerShell Obfuscator | 2020-02-26T21:50:54Z |
+| 27 | [chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2817 | 350 | PowerShell | 138 | [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows. | 2017-03-03T15:02:50Z |
+| 28 | [Pester](https://github.com/pester/Pester) | 2739 | 456 | PowerShell | 162 | Pester is the ubiquitous test and mock framework for PowerShell. | 2022-07-03T12:27:16Z |
+| 29 | [discover](https://github.com/leebaird/discover) | 2720 | 762 | PowerShell | 0 | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | 2022-07-09T21:03:55Z |
+| 30 | [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) | 2626 | 615 | PowerShell | 6 | PowerShell Obfuscator | 2020-02-26T21:50:54Z |
 | 31 | [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) | 2606 | 290 | PowerShell | 46 | if you are Thanos(root), this command could delete half your files randomly | 2022-06-27T09:16:53Z |
-| 32 | [RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 2540 | 732 | PowerShell | 3 | Red Teaming Tactics and Techniques | 2022-06-30T10:19:19Z |
+| 32 | [RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 2542 | 732 | PowerShell | 3 | Red Teaming Tactics and Techniques | 2022-06-30T10:19:19Z |
 | 33 | [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) | 2426 | 155 | PowerShell | 40 | Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files | 2020-06-01T14:47:56Z |
 | 34 | [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | 2341 | 756 | PowerShell | 6 | My musings with PowerShell | 2021-11-19T12:18:24Z |
-| 35 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 2339 | 418 | PowerShell | 1 | Automation for internal Windows Penetrationtest / AD-Security | 2022-07-03T18:25:59Z |
-| 36 | [MailSniper](https://github.com/dafthack/MailSniper) | 2204 | 483 | PowerShell | 18 | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain. | 2022-01-28T15:26:02Z |
-| 37 | [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | 2048 | 2713 | PowerShell | 1 | AZ-104 Microsoft Azure Administrator | 2022-07-05T16:48:27Z |
+| 35 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 2339 | 418 | PowerShell | 2 | Automation for internal Windows Penetrationtest / AD-Security | 2022-07-03T18:25:59Z |
+| 36 | [MailSniper](https://github.com/dafthack/MailSniper) | 2204 | 484 | PowerShell | 18 | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain. | 2022-01-28T15:26:02Z |
+| 37 | [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | 2050 | 2714 | PowerShell | 1 | AZ-104 Microsoft Azure Administrator | 2022-07-05T16:48:27Z |
 | 38 | [bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) | 2031 | 1290 | PowerShell | 14 | The Official Bash Bunny Payload Repository | 2022-07-02T15:36:06Z |
 | 39 | [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 1916 | 407 | PowerShell | 17 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server | 2022-07-09T02:38:57Z |
 | 40 | [dbatools](https://github.com/dataplat/dbatools) | 1894 | 694 | PowerShell | 176 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer | 2022-07-08T09:43:34Z |
@@ -49,20 +49,20 @@
 | 42 | [ImportExcel](https://github.com/dfinke/ImportExcel) | 1856 | 321 | PowerShell | 8 | PowerShell module to import/export Excel spreadsheets, without Excel | 2022-07-08T23:17:03Z |
 | 43 | [sysmon-modular](https://github.com/olafhartong/sysmon-modular) | 1853 | 409 | PowerShell | 14 | A repository of sysmon configuration modules | 2022-06-28T20:22:19Z |
 | 44 | [PowerTools](https://github.com/PowerShellEmpire/PowerTools) | 1744 | 792 | PowerShell | 4 | PowerTools is a collection of PowerShell projects with a focus on offensive operations. | 2021-12-28T21:00:42Z |
-| 45 | [PowerShell](https://github.com/lazywinadmin/PowerShell) | 1761 | 586 | PowerShell | 9 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) | 2021-10-01T22:30:05Z |
-| 46 | [mimikittenz](https://github.com/orlyjamie/mimikittenz) | 1713 | 350 | PowerShell | 7 | A post-exploitation powershell tool for extracting juicy info from memory. | 2020-10-16T01:20:30Z |
-| 47 | [PrivescCheck](https://github.com/itm4n/PrivescCheck) | 1670 | 281 | PowerShell | 1 | Privilege Escalation Enumeration Script for Windows | 2022-06-08T15:52:41Z |
+| 45 | [PowerShell](https://github.com/lazywinadmin/PowerShell) | 1763 | 587 | PowerShell | 9 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) | 2021-10-01T22:30:05Z |
+| 46 | [mimikittenz](https://github.com/orlyjamie/mimikittenz) | 1714 | 350 | PowerShell | 7 | A post-exploitation powershell tool for extracting juicy info from memory. | 2020-10-16T01:20:30Z |
+| 47 | [PrivescCheck](https://github.com/itm4n/PrivescCheck) | 1671 | 281 | PowerShell | 1 | Privilege Escalation Enumeration Script for Windows | 2022-06-08T15:52:41Z |
 | 48 | [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) | 1650 | 188 | PowerShell | 5 | Remote Desktop entirely coded in PowerShell. | 2022-04-27T08:46:01Z |
-| 49 | [Sherlock](https://github.com/rasta-mouse/Sherlock) | 1634 | 416 | PowerShell | 2 | PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. | 2018-10-10T09:10:45Z |
+| 49 | [Sherlock](https://github.com/rasta-mouse/Sherlock) | 1636 | 416 | PowerShell | 2 | PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. | 2018-10-10T09:10:45Z |
 | 50 | [packer-windows](https://github.com/joefitzgerald/packer-windows) | 1600 | 1098 | PowerShell | 35 | Windows Packer Templates | 2019-08-05T14:35:46Z |
-| 51 | [PSBits](https://github.com/gtworek/PSBits) | 1592 | 325 | PowerShell | 1 | Simple (relatively) things allowing you to dig a bit deeper than usual. | 2022-07-08T17:32:08Z |
-| 52 | [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | 1557 | 1483 | PowerShell | 529 | Place to store our documentation, code samples, etc for public consumption. | 2022-07-08T16:50:52Z |
+| 51 | [PSBits](https://github.com/gtworek/PSBits) | 1593 | 325 | PowerShell | 1 | Simple (relatively) things allowing you to dig a bit deeper than usual. | 2022-07-09T12:10:24Z |
+| 52 | [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | 1557 | 1484 | PowerShell | 529 | Place to store our documentation, code samples, etc for public consumption. | 2022-07-09T11:58:56Z |
 | 53 | [powercat](https://github.com/besimorhino/powercat) | 1549 | 419 | PowerShell | 7 | netshell features all in version 2 powershell | 2022-02-05T18:53:49Z |
-| 54 | [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) | 1527 | 304 | PowerShell | 15 | AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. | 2022-07-08T07:31:29Z |
-| 55 | [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) | 1581 | 149 | PowerShell | 86 | A Project dedicated to making GPU Partitioning on Windows easier! | 2022-06-28T14:10:50Z |
-| 56 | [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 1508 | 1332 | PowerShell | 430 | Open Source documentation for the Azure Architecture Center on Microsoft Docs | 2022-07-08T17:30:53Z |
-| 57 | [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) | 1496 | 266 | PowerShell | 4 | None | 2022-02-13T15:47:58Z |
-| 58 | [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 1469 | 333 | PowerShell | 4 | The goal of this repository is to document the most common techniques to bypass AppLocker.  | 2021-02-18T17:03:12Z |
+| 54 | [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) | 1527 | 304 | PowerShell | 15 | AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. | 2022-07-09T09:07:16Z |
+| 55 | [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) | 1585 | 149 | PowerShell | 86 | A Project dedicated to making GPU Partitioning on Windows easier! | 2022-06-28T14:10:50Z |
+| 56 | [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 1508 | 1333 | PowerShell | 431 | Open Source documentation for the Azure Architecture Center on Microsoft Docs | 2022-07-08T17:30:53Z |
+| 57 | [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) | 1498 | 266 | PowerShell | 4 | None | 2022-02-13T15:47:58Z |
+| 58 | [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 1470 | 333 | PowerShell | 4 | The goal of this repository is to document the most common techniques to bypass AppLocker.  | 2021-02-18T17:03:12Z |
 | 59 | [psake](https://github.com/psake/psake) | 1469 | 272 | PowerShell | 25 | A build automation tool written in PowerShell | 2022-04-14T05:28:03Z |
 | 60 | [WSL](https://github.com/MicrosoftDocs/WSL) | 1449 | 435 | PowerShell | 66 | Source code behind the Windows Subsystem for Linux documentation. | 2022-07-06T22:23:17Z |
 
