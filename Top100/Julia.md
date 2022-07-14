@@ -5,50 +5,50 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 39838 | 4948 | Julia | 3371 | The Julia Programming Language | 2022-07-13T10:37:42Z |
-| 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 3971 | 241 | Julia | 208 | 🎈 Simple reactive notebooks for Julia | 2022-07-13T06:22:50Z |
-| 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 3741 | 531 | Julia | 185 | Relax! Flux is the ML library that doesn't make you tensor | 2022-07-06T10:57:53Z |
-| 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2465 | 393 | Julia | 98 | Julia kernel for Jupyter | 2022-06-23T23:10:23Z |
-| 5 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 2255 | 183 | Julia | 135 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components | 2022-06-29T19:21:07Z |
-| 6 | [18S191](https://github.com/mitmath/18S191) | 2204 | 406 | Julia | 10 | Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:  | 2022-05-19T19:58:57Z |
-| 7 | [Genie.jl](https://github.com/GenieFramework/Genie.jl) | 1801 | 168 | Julia | 86 | 🧞The highly productive Julia web framework | 2022-07-13T11:16:55Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 39846 | 4947 | Julia | 3372 | The Julia Programming Language | 2022-07-14T11:29:56Z |
+| 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 3980 | 241 | Julia | 209 | 🎈 Simple reactive notebooks for Julia | 2022-07-14T10:49:07Z |
+| 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 3744 | 531 | Julia | 185 | Relax! Flux is the ML library that doesn't make you tensor | 2022-07-06T10:57:53Z |
+| 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2467 | 393 | Julia | 98 | Julia kernel for Jupyter | 2022-06-23T23:10:23Z |
+| 5 | [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 2257 | 182 | Julia | 135 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components | 2022-06-29T19:21:07Z |
+| 6 | [18S191](https://github.com/mitmath/18S191) | 2205 | 406 | Julia | 10 | Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:  | 2022-05-19T19:58:57Z |
+| 7 | [Genie.jl](https://github.com/GenieFramework/Genie.jl) | 1801 | 168 | Julia | 86 | 🧞The highly productive Julia web framework | 2022-07-13T12:17:09Z |
 | 8 | [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) | 1784 | 266 | Julia | 247 | Crafty statistical graphics for Julia. | 2022-07-11T02:44:51Z |
-| 9 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 1764 | 359 | Julia | 19 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2022-07-12T07:31:44Z |
-| 10 | [Gen.jl](https://github.com/probcomp/Gen.jl) | 1658 | 146 | Julia | 135 | A general-purpose probabilistic programming system with programmable inference | 2022-06-26T22:39:03Z |
-| 11 | [Makie.jl](https://github.com/JuliaPlots/Makie.jl) | 1618 | 172 | Julia | 581 | High level plotting on the GPU. | 2022-07-13T11:57:22Z |
-| 12 | [Turing.jl](https://github.com/TuringLang/Turing.jl) | 1601 | 191 | Julia | 100 | Bayesian inference with probabilistic programming. | 2022-07-09T14:30:59Z |
-| 13 | [Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1575 | 295 | Julia | 642 | Powerful convenience for Julia visualizations and data analysis | 2022-07-13T00:57:21Z |
-| 14 | [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) | 1427 | 138 | Julia | 81 | A Julia machine learning framework | 2022-07-09T00:33:38Z |
-| 15 | [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) | 1404 | 337 | Julia | 126 | In-memory tabular data in Julia | 2022-07-11T21:49:19Z |
+| 9 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 1764 | 359 | Julia | 18 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2022-07-14T04:45:24Z |
+| 10 | [Gen.jl](https://github.com/probcomp/Gen.jl) | 1659 | 146 | Julia | 135 | A general-purpose probabilistic programming system with programmable inference | 2022-06-26T22:39:03Z |
+| 11 | [Makie.jl](https://github.com/JuliaPlots/Makie.jl) | 1618 | 172 | Julia | 581 | High level plotting on the GPU. | 2022-07-13T15:04:27Z |
+| 12 | [Turing.jl](https://github.com/TuringLang/Turing.jl) | 1603 | 191 | Julia | 100 | Bayesian inference with probabilistic programming. | 2022-07-09T14:30:59Z |
+| 13 | [Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1575 | 295 | Julia | 642 | Powerful convenience for Julia visualizations and data analysis | 2022-07-14T09:23:42Z |
+| 14 | [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) | 1428 | 138 | Julia | 81 | A Julia machine learning framework | 2022-07-14T07:04:37Z |
+| 15 | [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) | 1405 | 337 | Julia | 126 | In-memory tabular data in Julia | 2022-07-11T21:49:19Z |
 | 16 | [Mocha.jl](https://github.com/pluskid/Mocha.jl) | 1277 | 266 | Julia | 35 | Deep Learning framework for Julia | 2018-12-06T01:09:35Z |
-| 17 | [Julia.jl](https://github.com/svaksha/Julia.jl) | 1251 | 198 | Julia | 8 | Curated decibans of Julia programming language. | 2022-07-11T16:32:02Z |
+| 17 | [Julia.jl](https://github.com/svaksha/Julia.jl) | 1252 | 198 | Julia | 7 | Curated decibans of Julia programming language. | 2022-07-13T21:42:35Z |
 | 18 | [Zygote.jl](https://github.com/FluxML/Zygote.jl) | 1240 | 172 | Julia | 329 | 21st century AD | 2022-07-13T03:26:47Z |
-| 19 | [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) | 1221 | 177 | Julia | 222 | Package to call Python functions from the Julia language | 2022-06-14T01:26:38Z |
-| 20 | [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1123 | 150 | Julia | 35 | Compile your Julia Package | 2022-07-04T07:13:09Z |
+| 19 | [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) | 1222 | 177 | Julia | 222 | Package to call Python functions from the Julia language | 2022-06-14T01:26:38Z |
+| 20 | [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1124 | 150 | Julia | 36 | Compile your Julia Package | 2022-07-04T07:13:09Z |
 | 21 | [VIMKiller](https://github.com/caseykneale/VIMKiller) | 1082 | 11 | Julia | 12 | Exiting VIM is hard; sometimes we need to take drastic measures | 2021-10-14T06:18:57Z |
 | 22 | [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) | 1042 | 104 | Julia | 7 | A generic, simple and fast implementation of Deepmind's AlphaZero algorithm. | 2022-07-11T17:03:58Z |
 | 23 | [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) | 1116 | 70 | Julia | 2 | Concise and beautiful algorithms written in Julia | 2022-06-06T13:28:36Z |
-| 24 | [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) | 1028 | 144 | Julia | 240 | A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations | 2022-07-13T11:00:35Z |
-| 25 | [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 982 | 90 | Julia | 212 | A fast and modern CAS for a fast and modern language. | 2022-07-13T10:30:17Z |
+| 24 | [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) | 1029 | 144 | Julia | 241 | A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations | 2022-07-14T08:45:42Z |
+| 25 | [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 983 | 91 | Julia | 216 | A fast and modern CAS for a fast and modern language. | 2022-07-13T10:30:17Z |
 | 26 | [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) | 939 | 59 | Julia | 7 | Unicode-based scientific plotting for working in the terminal | 2022-07-06T12:19:09Z |
-| 27 | [Revise.jl](https://github.com/timholy/Revise.jl) | 938 | 82 | Julia | 38 | Automatically update function definitions in a running Julia session | 2022-06-26T16:30:50Z |
-| 28 | [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) | 895 | 358 | Julia | 251 | A Julia package for probability distributions and associated functions. | 2022-07-11T22:20:00Z |
+| 27 | [Revise.jl](https://github.com/timholy/Revise.jl) | 939 | 82 | Julia | 38 | Automatically update function definitions in a running Julia session | 2022-06-26T16:30:50Z |
+| 28 | [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) | 895 | 358 | Julia | 251 | A Julia package for probability distributions and associated functions. | 2022-07-13T16:12:01Z |
 | 29 | [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) | 869 | 113 | Julia | 70 | A Julia wrapper for TensorFlow | 2021-08-02T16:55:00Z |
 | 30 | [pythonidae](https://github.com/svaksha/pythonidae) | 860 | 181 | Julia | 0 | Curated decibans of scientific programming resources in Python. | 2022-05-03T17:59:37Z |
-| 31 | [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) | 864 | 199 | Julia | 59 | Optimization functions for Julia | 2022-06-25T05:42:12Z |
-| 32 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 807 | 146 | Julia | 184 | CUDA programming in Julia. | 2022-07-11T17:11:19Z |
+| 31 | [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) | 864 | 200 | Julia | 59 | Optimization functions for Julia | 2022-06-25T05:42:12Z |
+| 32 | [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 808 | 148 | Julia | 184 | CUDA programming in Julia. | 2022-07-11T17:11:19Z |
 | 33 | [model-zoo](https://github.com/FluxML/model-zoo) | 768 | 320 | Julia | 49 | Please do not feed the models | 2022-07-07T05:17:58Z |
 | 34 | [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) | 757 | 203 | Julia | 6 | Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE) | 2022-07-09T18:11:32Z |
 | 35 | [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl) | 760 | 64 | Julia | 114 | Parallel analytical database in pure Julia | 2022-07-01T00:13:39Z |
 | 36 | [Franklin.jl](https://github.com/tlienart/Franklin.jl) | 731 | 87 | Julia | 154 | (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia. | 2022-07-11T12:25:49Z |
 | 37 | [diff-zoo](https://github.com/MikeInnes/diff-zoo) | 735 | 56 | Julia | 6 | Differentiation for Hackers | 2021-07-09T11:52:53Z |
-| 38 | [Weave.jl](https://github.com/JunoLab/Weave.jl) | 707 | 92 | Julia | 125 | Scientific reports/literate programming for Julia | 2022-05-19T14:09:14Z |
+| 38 | [Weave.jl](https://github.com/JunoLab/Weave.jl) | 708 | 92 | Julia | 125 | Scientific reports/literate programming for Julia | 2022-07-13T13:53:04Z |
 | 39 | [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) | 702 | 127 | Julia | 44 | Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods | 2022-07-11T14:34:42Z |
 | 40 | [Javis.jl](https://github.com/JuliaAnimators/Javis.jl) | 708 | 48 | Julia | 49 | Julia Animations and Visualizations | 2022-07-13T08:24:31Z |
 | 41 | [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) | 704 | 62 | Julia | 12 | ⚡ Single-pass algorithms for statistics | 2022-07-02T22:43:54Z |
 | 42 | [Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) | 700 | 110 | Julia | 107 | The Julia C++ Interface | 2022-03-30T16:03:56Z |
-| 43 | [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) | 681 | 123 | Julia | 250 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs | 2022-07-13T10:44:32Z |
-| 44 | [Yao.jl](https://github.com/QuantumBFS/Yao.jl) | 679 | 98 | Julia | 22 | Extensible, Efficient Quantum Algorithm Design for Humans. | 2022-07-12T17:55:36Z |
+| 43 | [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) | 681 | 124 | Julia | 251 | 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs | 2022-07-14T08:25:17Z |
+| 44 | [Yao.jl](https://github.com/QuantumBFS/Yao.jl) | 679 | 98 | Julia | 22 | Extensible, Efficient Quantum Algorithm Design for Humans. | 2022-07-13T20:06:12Z |
 | 45 | [LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl) | 677 | 197 | Julia | 31 | An optimized graphs package for the Julia programming language | 2021-10-08T14:57:24Z |
 | 46 | [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) | 663 | 122 | Julia | 95 | Forward Mode Automatic Differentiation for Julia | 2022-06-30T02:47:54Z |
 | 47 | [dictionary](https://github.com/adambom/dictionary) | 620 | 171 | Julia | 4 | A JSON representation of Webster's Unabridged Dictionary | 2021-04-23T20:59:28Z |
@@ -56,51 +56,51 @@
 | 49 | [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 618 | 78 | Julia | 9 | Award winning software library for nonlinear dynamics | 2022-07-06T17:54:18Z |
 | 50 | [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) | 615 | 67 | Julia | 36 | The perfect sidekick to your scientific inquiries | 2022-07-08T13:28:47Z |
 | 51 | [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) | 603 | 45 | Julia | 30 | Syntax highlighting and other enhancements for the Julia REPL | 2022-06-17T20:43:42Z |
-| 52 | [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 587 | 385 | Julia | 266 | A documentation generator for Julia. | 2022-07-13T11:21:28Z |
-| 53 | [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) | 566 | 53 | Julia | 81 | Macro(s) for vectorizing loops. | 2022-07-13T04:36:23Z |
-| 54 | [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 567 | 223 | Julia | 134 | Julia implementation of Data structures | 2022-07-12T22:42:30Z |
+| 52 | [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 588 | 385 | Julia | 267 | A documentation generator for Julia. | 2022-07-14T09:58:06Z |
+| 53 | [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) | 566 | 53 | Julia | 81 | Macro(s) for vectorizing loops. | 2022-07-14T04:58:30Z |
+| 54 | [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 568 | 223 | Julia | 134 | Julia implementation of Data structures | 2022-07-12T22:42:30Z |
 | 55 | [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) | 562 | 122 | Julia | 124 | Statically sized arrays for Julia | 2022-07-12T07:30:21Z |
-| 56 | [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 533 | 136 | Julia | 18 | HTTP for Julia | 2022-07-12T14:45:35Z |
-| 57 | [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) | 540 | 78 | Julia | 54 | Progress meter for long-running computations | 2022-05-30T15:07:28Z |
+| 56 | [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 533 | 136 | Julia | 18 | HTTP for Julia | 2022-07-14T02:58:03Z |
+| 57 | [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) | 541 | 78 | Julia | 54 | Progress meter for long-running computations | 2022-05-30T15:07:28Z |
 | 58 | [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) | 509 | 76 | Julia | 17 | MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces. | 2022-06-11T19:52:01Z |
-| 59 | [FastAI.jl](https://github.com/FluxML/FastAI.jl) | 493 | 44 | Julia | 11 | Repository of best practices for deep learning in Julia, inspired by fastai | 2022-07-11T17:52:36Z |
+| 59 | [FastAI.jl](https://github.com/FluxML/FastAI.jl) | 493 | 44 | Julia | 11 | Repository of best practices for deep learning in Julia, inspired by fastai | 2022-07-13T18:12:14Z |
 | 60 | [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) | 493 | 70 | Julia | 30 | Julia implementation of the scikit-learn API https://cstjean.github.io/ScikitLearn.jl/dev/ | 2022-05-23T17:21:41Z |
 | 61 | [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl) | 487 | 83 | Julia | 57 | Create new Julia packages, the easy way | 2022-05-29T12:11:25Z |
-| 62 | [Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 481 | 189 | Julia | 322 | Pkg - Package manager for the Julia programming language | 2022-07-12T13:50:03Z |
+| 62 | [Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 481 | 190 | Julia | 322 | Pkg - Package manager for the Julia programming language | 2022-07-14T10:14:27Z |
 | 63 | [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) | 491 | 45 | Julia | 18 | Formatted output of timed sections in Julia | 2022-06-08T09:42:20Z |
-| 64 | [JuliaZH.jl](https://github.com/JuliaCN/JuliaZH.jl) | 481 | 93 | Julia | 9 | Julia语言中文文档 | 2022-01-05T03:47:40Z |
-| 65 | [Convex.jl](https://github.com/jump-dev/Convex.jl) | 481 | 110 | Julia | 29 | A Julia package for disciplined convex programming | 2022-06-01T19:55:09Z |
-| 66 | [JET.jl](https://github.com/aviatesk/JET.jl) | 482 | 18 | Julia | 29 | An experimental code analyzer for Julia, no need for additional type annotations | 2022-07-05T09:56:28Z |
-| 67 | [GLM.jl](https://github.com/JuliaStats/GLM.jl) | 479 | 108 | Julia | 56 | Generalized linear models in Julia | 2022-07-13T12:01:18Z |
-| 68 | [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) | 479 | 182 | Julia | 144 | Basic statistics for Julia | 2022-07-10T06:33:09Z |
+| 64 | [GLM.jl](https://github.com/JuliaStats/GLM.jl) | 478 | 108 | Julia | 56 | Generalized linear models in Julia | 2022-07-13T14:38:42Z |
+| 65 | [JuliaZH.jl](https://github.com/JuliaCN/JuliaZH.jl) | 481 | 93 | Julia | 9 | Julia语言中文文档 | 2022-01-05T03:47:40Z |
+| 66 | [Convex.jl](https://github.com/jump-dev/Convex.jl) | 482 | 110 | Julia | 29 | A Julia package for disciplined convex programming | 2022-06-01T19:55:09Z |
+| 67 | [JET.jl](https://github.com/aviatesk/JET.jl) | 482 | 18 | Julia | 29 | An experimental code analyzer for Julia, no need for additional type annotations | 2022-07-05T09:56:28Z |
+| 68 | [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) | 478 | 183 | Julia | 145 | Basic statistics for Julia | 2022-07-13T21:10:46Z |
 | 69 | [Interact.jl](https://github.com/JuliaGizmos/Interact.jl) | 474 | 76 | Julia | 82 | Interactive widgets to play with your Julia code | 2022-05-01T00:44:19Z |
 | 70 | [Images.jl](https://github.com/JuliaImages/Images.jl) | 483 | 142 | Julia | 36 | An image library for Julia | 2022-06-17T01:52:02Z |
-| 71 | [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) | 469 | 68 | Julia | 6 | Simple drawings using vector graphics; Cairo "for tourists!" | 2022-07-13T09:20:12Z |
+| 71 | [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) | 469 | 68 | Julia | 5 | Simple drawings using vector graphics; Cairo "for tourists!" | 2022-07-13T12:55:55Z |
 | 72 | [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) | 468 | 87 | Julia | 72 | A benchmarking framework for the Julia language | 2022-06-27T03:37:43Z |
 | 73 | [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) | 468 | 115 | Julia | 13 | Port of the book Think Python to the Julia programming language | 2021-05-18T02:52:30Z |
-| 74 | [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) | 445 | 72 | Julia | 31 | Agent-based modeling framework in Julia | 2022-07-10T23:17:06Z |
-| 75 | [General](https://github.com/JuliaRegistries/General) | 445 | 318 | Julia | 3 | The official registry of general Julia packages | 2022-07-13T11:58:02Z |
-| 76 | [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) | 446 | 47 | Julia | 54 | A framework for out-of-core and parallel execution | 2022-07-12T19:17:19Z |
-| 77 | [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 444 | 39 | Julia | 104 | A framework for applied category theory in the Julia language | 2022-07-12T22:16:29Z |
+| 74 | [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) | 447 | 72 | Julia | 31 | Agent-based modeling framework in Julia | 2022-07-13T17:11:24Z |
+| 75 | [General](https://github.com/JuliaRegistries/General) | 445 | 318 | Julia | 3 | The official registry of general Julia packages | 2022-07-14T11:59:39Z |
+| 76 | [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) | 447 | 47 | Julia | 54 | A framework for out-of-core and parallel execution | 2022-07-12T19:17:19Z |
+| 77 | [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 444 | 39 | Julia | 103 | A framework for applied category theory in the Julia language | 2022-07-14T06:21:49Z |
 | 78 | [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) | 427 | 286 | Julia | 33 | Julia implementation of QuantEcon routines | 2022-07-05T22:05:59Z |
 | 79 | [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) | 432 | 89 | Julia | 94 | Physical quantities with arbitrary units | 2022-07-09T01:09:12Z |
 | 80 | [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) | 429 | 55 | Julia | 38 | I was gonna maintain this package, but then I got high | 2021-06-01T15:25:55Z |
 | 81 | [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) | 419 | 65 | Julia | 169 | Julia package for function approximation | 2022-07-08T15:24:13Z |
-| 82 | [Tullio.jl](https://github.com/mcabbott/Tullio.jl) | 440 | 17 | Julia | 45 | ⅀ | 2022-04-10T22:23:26Z |
+| 82 | [Tullio.jl](https://github.com/mcabbott/Tullio.jl) | 440 | 17 | Julia | 46 | ⅀ | 2022-04-10T22:23:26Z |
 | 83 | [PyPlot.jl](https://github.com/JuliaPy/PyPlot.jl) | 427 | 83 | Julia | 99 | Plotting for Julia based on matplotlib.pyplot | 2022-04-16T20:36:52Z |
-| 84 | [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) | 413 | 69 | Julia | 45 | A reinforcement learning package for Julia | 2022-07-08T15:24:44Z |
-| 85 | [Gridap.jl](https://github.com/gridap/Gridap.jl) | 409 | 50 | Julia | 55 | Grid-based approximation of partial differential equations in Julia | 2022-07-05T12:18:31Z |
-| 86 | [Latexify.jl](https://github.com/korsbo/Latexify.jl) | 414 | 39 | Julia | 23 | Convert julia objects to LaTeX equations, arrays or other environments.  | 2022-07-11T12:32:41Z |
+| 84 | [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) | 415 | 69 | Julia | 46 | A reinforcement learning package for Julia | 2022-07-08T15:24:44Z |
+| 85 | [Gridap.jl](https://github.com/gridap/Gridap.jl) | 410 | 51 | Julia | 54 | Grid-based approximation of partial differential equations in Julia | 2022-07-13T23:43:59Z |
+| 86 | [Latexify.jl](https://github.com/korsbo/Latexify.jl) | 415 | 39 | Julia | 23 | Convert julia objects to LaTeX equations, arrays or other environments.  | 2022-07-11T12:32:41Z |
 | 87 | [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) | 397 | 56 | Julia | 0 | Julia support for native CUDA programming | 2020-07-02T16:00:48Z |
 | 88 | [LightML.jl](https://github.com/memoiry/LightML.jl) | 397 | 72 | Julia | 4 | Minimal and clean examples of machine learning algorithms implemented in Julia | 2017-10-26T17:07:25Z |
 | 89 | [Literate.jl](https://github.com/fredrikekre/Literate.jl) | 394 | 54 | Julia | 19 | Simple package for literate programming in Julia | 2022-06-03T09:43:37Z |
-| 90 | [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) | 393 | 56 | Julia | 32 | Metaprogramming tools for DataFrames | 2022-07-11T15:27:53Z |
-| 91 | [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) | 393 | 83 | Julia | 10 | Library for the numerical simulation of closed as well as open quantum systems. | 2022-06-21T18:21:24Z |
+| 90 | [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) | 395 | 56 | Julia | 32 | Metaprogramming tools for DataFrames | 2022-07-11T15:27:53Z |
+| 91 | [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) | 394 | 83 | Julia | 10 | Library for the numerical simulation of closed as well as open quantum systems. | 2022-06-21T18:21:24Z |
 | 92 | [Soss.jl](https://github.com/cscherrer/Soss.jl) | 389 | 32 | Julia | 62 | Probabilistic programming via source rewriting | 2022-06-25T00:08:05Z |
 | 93 | [JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl) | 391 | 50 | Julia | 112 | An opinionated code formatter for Julia. Plot twist - the opinion is your own. | 2022-07-12T01:51:58Z |
 | 94 | [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) | 417 | 75 | Julia | 153 | Climate Machine: an Earth System Model that automatically learns from data | 2022-06-25T11:07:27Z |
-| 95 | [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) | 385 | 68 | Julia | 74 | Expression rewriting and simplification | 2022-07-06T23:09:31Z |
-| 96 | [Dash.jl](https://github.com/plotly/Dash.jl) | 396 | 37 | Julia | 30 | Dash for Julia - A Julia interface to the Dash ecosystem for creating analytic web applications in Julia. No JavaScript required. | 2022-06-20T00:20:33Z |
+| 95 | [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) | 388 | 68 | Julia | 74 | Expression rewriting and simplification | 2022-07-06T23:09:31Z |
+| 96 | [Dash.jl](https://github.com/plotly/Dash.jl) | 397 | 37 | Julia | 30 | Dash for Julia - A Julia interface to the Dash ecosystem for creating analytic web applications in Julia. No JavaScript required. | 2022-06-20T00:20:33Z |
 | 97 | [JLD2.jl](https://github.com/JuliaIO/JLD2.jl) | 378 | 66 | Julia | 36 | HDF5-compatible file format in pure Julia | 2022-06-29T17:49:07Z |
 | 98 | [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) | 369 | 29 | Julia | 30 | The slow descent into madness | 2022-07-08T18:23:30Z |
 | 99 | [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) | 370 | 35 | Julia | 14 | ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex | 2022-05-05T16:22:22Z |
