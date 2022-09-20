@@ -7,11 +7,11 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7390 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6469 | 514 | ActionScript | 15 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-09-09T01:59:16Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2549 | 841 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2550 | 841 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2428 | 1108 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1486 | 461 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1325 | 523 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
-| 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1254 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
+| 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1255 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1113 | 198 | ActionScript | 67 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1053 | 210 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 969 | 267 | ActionScript | 13 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
@@ -24,7 +24,7 @@
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 611 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 550 | 242 | ActionScript | 64 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
 | 19 | [Fanvas](https://github.com/Tencent/Fanvas) | 537 | 197 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
-| 20 | [emulator](https://github.com/nesbox/emulator) | 527 | 242 | ActionScript | 89 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 20 | [emulator](https://github.com/nesbox/emulator) | 528 | 242 | ActionScript | 89 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 21 | [as3swf](https://github.com/claus/as3swf) | 524 | 128 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 22 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 519 | 283 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 23 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 471 | 62 | ActionScript | 44 | A simple music making program | 2021-08-29T14:38:11Z |
@@ -56,7 +56,7 @@
 | 49 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 271 | 58 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 50 | [as3-utils](https://github.com/as3/as3-utils) | 271 | 61 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 268 | 90 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
-| 52 | [Flint](https://github.com/richardlord/Flint) | 259 | 57 | ActionScript | 1 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
+| 52 | [Flint](https://github.com/richardlord/Flint) | 259 | 57 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 249 | 119 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 246 | 97 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 55 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 244 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
