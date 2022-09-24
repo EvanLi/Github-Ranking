@@ -5,19 +5,19 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 18513 | 2939 | CoffeeScript | 587 | Manage and switch between multiple proxies quickly & easily. | 2022-09-05T07:13:47Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 18516 | 2938 | CoffeeScript | 587 | Manage and switch between multiple proxies quickly & easily. | 2022-09-05T07:13:47Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 17715 | 939 | CoffeeScript | 35 | The motion graphics toolbelt for the web | 2022-03-02T13:43:06Z |
-| 3 | [trix](https://github.com/basecamp/trix) | 16969 | 1035 | CoffeeScript | 73 | A rich text editor for everyday writing | 2022-09-22T13:47:34Z |
-| 4 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16220 | 2030 | CoffeeScript | 56 | Unfancy JavaScript | 2022-09-13T10:31:34Z |
-| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 13316 | 891 | CoffeeScript | 99 | Low-Budget Password Strength Estimation | 2022-09-21T13:22:30Z |
-| 6 | [codecombat](https://github.com/codecombat/codecombat) | 7631 | 4020 | CoffeeScript | 401 | Game for learning how to code. | 2022-09-23T00:34:09Z |
-| 7 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7487 | 418 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
+| 3 | [trix](https://github.com/basecamp/trix) | 16968 | 1034 | CoffeeScript | 73 | A rich text editor for everyday writing | 2022-09-23T17:59:40Z |
+| 4 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16218 | 2031 | CoffeeScript | 56 | Unfancy JavaScript | 2022-09-13T10:31:34Z |
+| 5 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 13315 | 891 | CoffeeScript | 99 | Low-Budget Password Strength Estimation | 2022-09-21T13:22:30Z |
+| 6 | [codecombat](https://github.com/codecombat/codecombat) | 7631 | 4020 | CoffeeScript | 401 | Game for learning how to code. | 2022-09-23T19:54:20Z |
+| 7 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7488 | 418 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 8 | [morris.js](https://github.com/morrisjs/morris.js) | 6969 | 1262 | CoffeeScript | 286 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 9 | [At.js](https://github.com/ichord/At.js) | 5290 | 701 | CoffeeScript | 151 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
 | 10 | [aglio](https://github.com/danielgtaylor/aglio) | 4702 | 487 | CoffeeScript | 125 | An API Blueprint renderer with theme support that outputs static HTML | 2019-05-13T14:40:13Z |
 | 11 | [vibrant.js](https://github.com/jariz/vibrant.js) | 4598 | 232 | CoffeeScript | 0 | Extract prominent colors from an image. JS port of Android's Palette. | 2017-11-28T15:50:23Z |
-| 12 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4575 | 550 | CoffeeScript | 189 | XML to JavaScript object converter. | 2022-04-19T18:40:01Z |
-| 13 | [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | 4424 | 953 | CoffeeScript | 167 | Quick and easy product tours with Twitter Bootstrap Popovers | 2022-08-05T15:24:01Z |
+| 12 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4577 | 550 | CoffeeScript | 189 | XML to JavaScript object converter. | 2022-04-19T18:40:01Z |
+| 13 | [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | 4426 | 953 | CoffeeScript | 167 | Quick and easy product tours with Twitter Bootstrap Popovers | 2022-08-05T15:24:01Z |
 | 14 | [pivottable](https://github.com/nicolaskruchten/pivottable) | 3920 | 1023 | CoffeeScript | 333 | Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. | 2022-06-20T07:03:37Z |
 | 15 | [yakyak](https://github.com/yakyak/yakyak) | 3855 | 343 | CoffeeScript | 85 | Desktop chat client for Google Hangouts | 2022-07-07T16:37:20Z |
 | 16 | [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) | 3575 | 424 | CoffeeScript | 51 | Atom package - Activate POWER MODE to write your code in style. | 2019-05-24T15:52:02Z |
@@ -26,10 +26,10 @@
 | 19 | [hubot-scripts](https://github.com/github/hubot-scripts) | 3547 | 1933 | CoffeeScript | 0 | DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json | 2017-07-10T16:06:49Z |
 | 20 | [taiga-front](https://github.com/taigaio/taiga-front) | 3514 | 783 | CoffeeScript | 45 | Agile project management platform. Built on top of Django and AngularJS | 2021-05-18T11:36:28Z |
 | 21 | [wintersmith](https://github.com/jnordberg/wintersmith) | 3505 | 342 | CoffeeScript | 16 | A flexible static site generator | 2021-07-15T14:10:26Z |
-| 22 | [pow](https://github.com/basecamp/pow) | 3434 | 268 | CoffeeScript | 107 | Zero-configuration Rack server for Mac OS X | 2020-05-14T20:48:22Z |
+| 22 | [pow](https://github.com/basecamp/pow) | 3433 | 268 | CoffeeScript | 107 | Zero-configuration Rack server for Mac OS X | 2020-05-14T20:48:22Z |
 | 23 | [dispatch-proxy](https://github.com/alexkirsz/dispatch-proxy) | 3422 | 243 | CoffeeScript | 30 | Combine internet connections, increase your download speed | 2022-05-01T20:03:10Z |
-| 24 | [node-csv](https://github.com/adaltas/node-csv) | 3348 | 235 | CoffeeScript | 36 | Full featured CSV parser with simple api and tested against large datasets. | 2022-08-16T17:19:32Z |
-| 25 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3239 | 435 | CoffeeScript | 12 | a UI builder for React web apps | 2022-07-07T04:45:02Z |
+| 24 | [node-csv](https://github.com/adaltas/node-csv) | 3350 | 235 | CoffeeScript | 37 | Full featured CSV parser with simple api and tested against large datasets. | 2022-08-16T17:19:32Z |
+| 25 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3238 | 435 | CoffeeScript | 12 | a UI builder for React web apps | 2022-07-07T04:45:02Z |
 | 26 | [Keypress](https://github.com/dmauro/Keypress) | 3193 | 318 | CoffeeScript | 32 | A keyboard input capturing utility in which any key can be a modifier key. | 2020-09-06T00:02:02Z |
 | 27 | [docpad](https://github.com/docpad/docpad) | 3050 | 255 | CoffeeScript | 24 | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | 2022-07-31T13:01:25Z |
 | 28 | [sticky-kit](https://github.com/leafo/sticky-kit) | 2946 | 541 | CoffeeScript | 140 | A jQuery plugin for creating smart sticky elements | 2021-02-23T03:23:59Z |
@@ -51,7 +51,7 @@
 | 44 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1818 | 248 | CoffeeScript | 97 | Token based authentication module for angular.js. | 2022-08-11T00:35:11Z |
 | 45 | [BuckyClient](https://github.com/HubSpot/BuckyClient) | 1748 | 98 | CoffeeScript | 12 | Collect performance data from the client | 2016-08-05T20:07:08Z |
 | 46 | [slidesjs](https://github.com/nathansearles/slidesjs) | 1733 | 371 | CoffeeScript | 303 | SlidesJS is obsolete and no longer maintained. | 2020-12-07T00:07:08Z |
-| 47 | [eco](https://github.com/sstephenson/eco) | 1727 | 74 | CoffeeScript | 25 | Embedded CoffeeScript templates | 2019-07-02T05:26:52Z |
+| 47 | [eco](https://github.com/sstephenson/eco) | 1728 | 74 | CoffeeScript | 25 | Embedded CoffeeScript templates | 2019-07-02T05:26:52Z |
 | 48 | [dnschain](https://github.com/okTurtles/dnschain) | 1725 | 175 | CoffeeScript | 44 | A blockchain-based DNS + HTTP server that fixes HTTPS security, and more! | 2017-04-22T03:52:26Z |
 | 49 | [vim-mode](https://github.com/atom/vim-mode) | 1719 | 266 | CoffeeScript | 0 | Next generation vim support for atom | 2017-06-15T20:06:24Z |
 | 50 | [local_time](https://github.com/basecamp/local_time) | 1718 | 117 | CoffeeScript | 19 | Rails engine for cache-friendly, client-side local time | 2022-07-22T00:00:59Z |
