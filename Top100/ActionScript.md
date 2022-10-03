@@ -8,9 +8,9 @@
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7392 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6474 | 514 | ActionScript | 15 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-09-09T01:59:16Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2552 | 840 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2432 | 1109 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2432 | 1108 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 463 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
-| 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1324 | 523 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
+| 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1324 | 524 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1254 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1113 | 198 | ActionScript | 67 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1053 | 210 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
@@ -34,11 +34,11 @@
 | 27 | [flump](https://github.com/tconkling/flump) | 383 | 69 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 28 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 379 | 137 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 29 | [Weave](https://github.com/WeaveTeam/Weave) | 369 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
-| 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 366 | 120 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
+| 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 366 | 122 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 31 | [wck](https://github.com/jesses/wck) | 357 | 59 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 32 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 355 | 47 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
-| 34 | [royale-asjs](https://github.com/apache/royale-asjs) | 337 | 115 | ActionScript | 235 | Apache Royale ASJS | 2022-09-27T23:35:04Z |
+| 34 | [royale-asjs](https://github.com/apache/royale-asjs) | 337 | 115 | ActionScript | 235 | Apache Royale ASJS | 2022-10-02T22:34:28Z |
 | 35 | [chess_server](https://github.com/YKPublicGame/chess_server) | 336 | 166 | ActionScript | 6 | 开源棋牌服务器框架，使用skynet，网络协议使用pbc版的protobuf，数据库使用mongodb。 | 2018-11-12T12:14:17Z |
 | 36 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 331 | 63 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 37 | [flex-sdk](https://github.com/apache/flex-sdk) | 330 | 144 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
@@ -58,7 +58,7 @@
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 268 | 90 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 259 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 249 | 119 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
-| 54 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 246 | 97 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
+| 54 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 245 | 97 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 55 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 244 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 56 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 244 | 94 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 57 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 240 | 107 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
