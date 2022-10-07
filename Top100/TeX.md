@@ -26,7 +26,7 @@
 | 19 | [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) | 4542 | 788 | TeX | 74 | A pandoc LaTeX template to convert markdown files to PDF or LaTeX. | 2022-08-15T00:04:24Z |
 | 20 | [cheatsheets](https://github.com/rstudio/cheatsheets) | 4399 | 1441 | TeX | 14 | RStudio Cheat Sheets | 2022-10-07T18:14:39Z |
 | 21 | [Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 4382 | 1169 | TeX | 29 | A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student | 2022-09-18T07:22:40Z |
-| 22 | [vimtex](https://github.com/lervag/vimtex) | 4121 | 357 | TeX | 22 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2022-10-03T21:28:16Z |
+| 22 | [vimtex](https://github.com/lervag/vimtex) | 4121 | 357 | TeX | 21 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2022-10-03T21:28:16Z |
 | 23 | [Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) | 3818 | 550 | TeX | 3 | A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between. | 2022-02-15T10:47:43Z |
 | 24 | [thuthesis](https://github.com/tuna/thuthesis) | 3621 | 981 | TeX | 5 | LaTeX Thesis Template for Tsinghua University | 2022-10-05T08:40:46Z |
 | 25 | [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) | 3459 | 377 | TeX | 6 | A curated list of awesome neural radiance fields papers | 2022-10-01T08:25:24Z |

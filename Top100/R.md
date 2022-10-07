@@ -31,7 +31,7 @@
 | 24 | [wesanderson](https://github.com/karthik/wesanderson) | 1624 | 125 | R | 11 | A Wes Anderson color palette for R | 2022-08-25T04:56:48Z |
 | 25 | [stats337](https://github.com/hadley/stats337) | 1622 | 226 | R | 5 | Readings in applied data science | 2018-06-21T15:57:29Z |
 | 26 | [rayshader](https://github.com/tylermorganwall/rayshader) | 1604 | 180 | R | 17 | R Package for 2D and 3D mapping and data visualization | 2022-10-01T04:54:01Z |
-| 27 | [seurat](https://github.com/satijalab/seurat) | 1587 | 758 | R | 166 | R toolkit for single cell genomics | 2022-10-07T19:21:34Z |
+| 27 | [seurat](https://github.com/satijalab/seurat) | 1588 | 758 | R | 166 | R toolkit for single cell genomics | 2022-10-07T19:21:34Z |
 | 28 | [mlr](https://github.com/mlr-org/mlr) | 1584 | 406 | R | 6 | Machine Learning in R  | 2022-10-03T17:41:24Z |
 | 29 | [gt](https://github.com/rstudio/gt) | 1578 | 161 | R | 232 | Easily generate information-rich, publication-quality tables from R | 2022-10-07T19:08:16Z |
 | 30 | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1571 | 242 | R | 174 | Graph and network visualization using tabular data in R | 2022-03-18T15:45:09Z |
@@ -58,8 +58,8 @@
 | 51 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 1092 | 373 | R | 0 | 🤹 Shiny tips & tricks for improving your apps and solving common problems | 2021-09-27T18:50:51Z |
 | 52 | [tidytext](https://github.com/juliasilge/tidytext) | 1082 | 189 | R | 6 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: | 2022-08-25T18:39:46Z |
 | 53 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 1078 | 486 | R | 40 | Mastering Shiny: a book | 2022-09-13T17:16:51Z |
-| 54 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1064 | 90 | R | 23 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2022-09-04T10:46:38Z |
-| 55 | [purrr](https://github.com/tidyverse/purrr) | 1064 | 230 | R | 6 | A functional programming toolkit for R | 2022-10-06T15:12:59Z |
+| 54 | [purrr](https://github.com/tidyverse/purrr) | 1064 | 230 | R | 6 | A functional programming toolkit for R | 2022-10-06T15:12:59Z |
+| 55 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1064 | 90 | R | 23 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2022-09-04T10:46:38Z |
 | 56 | [sf](https://github.com/r-spatial/sf) | 1056 | 258 | R | 106 | Simple Features for R | 2022-10-07T05:06:33Z |
 | 57 | [brms](https://github.com/paul-buerkner/brms) | 1049 | 149 | R | 103 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan | 2022-10-03T21:29:07Z |
 | 58 | [swirl](https://github.com/swirldev/swirl) | 1035 | 592 | R | 277 | :cyclone: Learn R, in R. | 2021-02-14T15:48:22Z |

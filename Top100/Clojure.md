@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 66608 | 2896 | Clojure | 334 | Free monospaced font with programming ligatures | 2022-10-04T22:56:28Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 29869 | 4084 | Clojure | 2179 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2022-10-07T19:37:49Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 66609 | 2896 | Clojure | 334 | Free monospaced font with programming ligatures | 2022-10-04T22:56:28Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 29870 | 4084 | Clojure | 2179 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2022-10-07T19:37:49Z |
 | 3 | [penpot](https://github.com/penpot/penpot) | 18231 | 822 | Clojure | 219 | Penpot - The Open-Source design & prototyping platform | 2022-10-07T16:56:55Z |
 | 4 | [logseq](https://github.com/logseq/logseq) | 17011 | 1036 | Clojure | 1722 | A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap | 2022-10-07T15:02:08Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11731 | 939 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |

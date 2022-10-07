@@ -9,23 +9,23 @@
 | 2 | [Alamofire](https://github.com/Alamofire/Alamofire) | 38403 | 7260 | Swift | 31 | Elegant HTTP Networking in Swift | 2022-10-03T04:00:32Z |
 | 3 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 32440 | 2087 | Swift | 38 | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | 2022-10-07T13:27:57Z |
 | 4 | [iina](https://github.com/iina/iina) | 31375 | 2339 | Swift | 1337 | The modern video player for macOS. | 2022-10-07T11:43:54Z |
-| 5 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 30664 | 7962 | Swift | 260 | Next Generation of ShadowsocksX | 2022-03-06T05:44:10Z |
+| 5 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 30663 | 7962 | Swift | 260 | Next Generation of ShadowsocksX | 2022-03-06T05:44:10Z |
 | 6 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) | 26955 | 4839 | Swift | 29 | Algorithms and data structures in Swift, with explanations! | 2022-08-11T12:03:00Z |
 | 7 | [Charts](https://github.com/danielgindi/Charts) | 26044 | 5545 | Swift | 777 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 2022-10-05T09:09:54Z |
 | 8 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 23150 | 3402 | Swift | 46 | An iOS library to natively render After Effects vector animations | 2022-10-07T19:24:13Z |
 | 9 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 22755 | 4018 | Swift | 6 | Reactive Programming in Swift | 2022-09-29T07:14:14Z |
-| 10 | [vapor](https://github.com/vapor/vapor) | 22141 | 1375 | Swift | 82 | 💧 A server-side Swift HTTP web framework. | 2022-10-06T10:00:36Z |
+| 10 | [vapor](https://github.com/vapor/vapor) | 22142 | 1375 | Swift | 82 | 💧 A server-side Swift HTTP web framework. | 2022-10-06T10:00:36Z |
 | 11 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 21555 | 3357 | Swift | 115 | The better way to deal with JSON data in Swift. | 2022-10-05T06:56:53Z |
 | 12 | [Hero](https://github.com/HeroTransitions/Hero) | 21056 | 1702 | Swift | 27 | Elegant transition library for iOS & tvOS | 2022-10-06T05:20:53Z |
 | 13 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 20633 | 2329 | Swift | 71 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2022-10-07T15:22:08Z |
 | 14 | [Aerial](https://github.com/JohnCoates/Aerial) | 20192 | 1036 | Swift | 48 | Apple TV Aerial Screensaver for Mac | 2022-09-21T17:51:11Z |
 | 15 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19980 | 3569 | Swift | 0 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2022-07-04T00:39:49Z |
-| 16 | [clashX](https://github.com/yichengchen/clashX) | 19961 | 2605 | Swift | 0 | None | 2022-09-18T11:58:23Z |
+| 16 | [clashX](https://github.com/yichengchen/clashX) | 19962 | 2605 | Swift | 0 | None | 2022-09-18T11:58:23Z |
 | 17 | [SnapKit](https://github.com/SnapKit/SnapKit) | 18862 | 1898 | Swift | 80 | A Swift Autolayout DSL for iOS & OS X | 2022-09-20T04:53:11Z |
-| 18 | [Rectangle](https://github.com/rxhanson/Rectangle) | 18801 | 546 | Swift | 42 | Move and resize windows on macOS with keyboard shortcuts and snap areas | 2022-10-06T15:29:26Z |
+| 18 | [Rectangle](https://github.com/rxhanson/Rectangle) | 18802 | 546 | Swift | 42 | Move and resize windows on macOS with keyboard shortcuts and snap areas | 2022-10-06T15:29:26Z |
 | 19 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 18650 | 580 | Swift | 76 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2022-10-05T15:19:26Z |
-| 20 | [SwiftLint](https://github.com/realm/SwiftLint) | 16596 | 1985 | Swift | 282 | A tool to enforce Swift style and conventions. | 2022-10-07T19:44:58Z |
-| 21 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 15788 | 2341 | Swift | 29 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2022-09-28T13:30:47Z |
+| 20 | [SwiftLint](https://github.com/realm/SwiftLint) | 16596 | 1985 | Swift | 282 | A tool to enforce Swift style and conventions. | 2022-10-07T20:05:24Z |
+| 21 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 15788 | 2341 | Swift | 30 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2022-09-28T13:30:47Z |
 | 22 | [SwiftGuide](https://github.com/ipader/SwiftGuide) | 15760 | 3636 | Swift | 0 | Swift Featured Projects in brain Mapping | 2022-08-31T11:36:57Z |
 | 23 | [UTM](https://github.com/utmapp/UTM) | 15719 | 943 | Swift | 375 | Virtual machines for iOS and macOS | 2022-10-07T17:00:16Z |
 | 24 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 15213 | 702 | Swift | 97 | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | 2022-10-07T16:24:28Z |
@@ -43,7 +43,7 @@
 | 36 | [Eureka](https://github.com/xmartlabs/Eureka) | 11514 | 1324 | Swift | 151 | Elegant iOS form builder in Swift | 2022-09-30T19:28:26Z |
 | 37 | [SkeletonView](https://github.com/Juanpe/SkeletonView) | 11473 | 1013 | Swift | 36 | ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting | 2022-10-07T15:53:36Z |
 | 38 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11369 | 2085 | Swift | 7 | A self-taught project to learn Swift. | 2022-05-21T17:40:30Z |
-| 39 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 11033 | 2606 | Swift | 1061 | Firefox for iOS | 2022-10-07T19:38:59Z |
+| 39 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 11033 | 2606 | Swift | 1061 | Firefox for iOS | 2022-10-07T20:01:17Z |
 | 40 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 11011 | 1358 | Swift | 7 | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion | 2022-01-26T02:40:50Z |
 | 41 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | 10218 | 1110 | Swift | 14 | A collection of awesome loading animations | 2022-03-04T13:34:19Z |
 | 42 | [folding-cell](https://github.com/Ramotion/folding-cell) | 10118 | 1172 | Swift | 7 | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion | 2022-03-28T12:16:52Z |
@@ -62,7 +62,7 @@
 | 55 | [SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 8514 | 1418 | Swift | 70 | A type-safe, Swift-language layer over SQLite3. | 2022-09-23T05:17:19Z |
 | 56 | [WWDC](https://github.com/insidegui/WWDC) | 8235 | 742 | Swift | 32 | The unofficial WWDC app for macOS | 2021-10-21T15:29:09Z |
 | 57 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) | 8217 | 650 | Swift | 56 | The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs! | 2022-08-28T20:50:11Z |
-| 58 | [eul](https://github.com/gao-sun/eul) | 8013 | 300 | Swift | 57 | 🖥️ macOS status monitoring app written in SwiftUI. | 2022-10-02T18:21:15Z |
+| 58 | [eul](https://github.com/gao-sun/eul) | 8012 | 300 | Swift | 57 | 🖥️ macOS status monitoring app written in SwiftUI. | 2022-10-02T18:21:15Z |
 | 59 | [ios-oss](https://github.com/kickstarter/ios-oss) | 7997 | 1199 | Swift | 0 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2022-10-06T23:32:26Z |
 | 60 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) | 7843 | 802 | Swift | 24 | [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift. | 2021-08-10T06:21:45Z |
 | 61 | [AltStore](https://github.com/rileytestut/AltStore) | 7785 | 548 | Swift | 472 | AltStore is an alternative app store for non-jailbroken iOS devices. | 2022-09-27T20:42:03Z |

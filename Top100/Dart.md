@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [flutter](https://github.com/flutter/flutter) | 145571 | 23423 | Dart | 11053 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-07T19:13:52Z |
+| 1 | [flutter](https://github.com/flutter/flutter) | 145571 | 23423 | Dart | 11054 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-07T19:59:19Z |
 | 2 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 43112 | 6089 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2022-10-03T22:25:45Z |
-| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 28106 | 1555 | Dart | 266 | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 2022-10-07T18:15:47Z |
+| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 28106 | 1556 | Dart | 266 | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 2022-10-07T18:15:47Z |
 | 4 | [flutter-go](https://github.com/alibaba/flutter-go) | 23182 | 3746 | Dart | 0 | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | 2021-05-20T15:58:10Z |
 | 5 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | 17479 | 3411 | Dart | 9 | [Example APPS] Basic Flutter apps, for flutter devs. | 2022-03-25T07:04:01Z |
 | 6 | [plugins](https://github.com/flutter/plugins) | 16283 | 9477 | Dart | 0 | Plugins for Flutter maintained by the Flutter team | 2022-10-07T19:28:48Z |
@@ -41,7 +41,7 @@
 | 34 | [provider](https://github.com/rrousselGit/provider) | 4487 | 463 | Dart | 19 | InheritedWidgets, but simple | 2022-09-06T12:33:18Z |
 | 35 | [gallery](https://github.com/flutter/gallery) | 4481 | 1141 | Dart | 60 | Flutter Gallery is a resource to help developers evaluate and use Flutter | 2022-10-05T14:29:09Z |
 | 36 | [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) | 4459 | 1717 | Dart | 31 | The repo contains the source code for all the tutorials on the FilledStacks Youtube channel. | 2022-06-02T21:36:28Z |
-| 37 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 4102 | 214 | Dart | 100 | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 2022-09-29T16:11:49Z |
+| 37 | [pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) | 4103 | 214 | Dart | 100 | 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 | 2022-09-29T16:11:49Z |
 | 38 | [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) | 3869 | 1300 | Dart | 2 | 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web | 2022-06-09T10:32:56Z |
 | 39 | [BlackHole](https://github.com/Sangwan5688/BlackHole) | 3575 | 493 | Dart | 119 | A Music Player App made with Flutter | 2022-09-30T18:16:09Z |
 | 40 | [riverpod](https://github.com/rrousselGit/riverpod) | 3543 | 559 | Dart | 69 | A simple way to access state while robust and testable. | 2022-10-07T15:53:45Z |
@@ -76,13 +76,13 @@
 | 69 | [fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter) | 2586 | 484 | Dart | 8 |  👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画 | 2022-02-22T04:32:42Z |
 | 70 | [pikapika](https://github.com/niuhuan/pikapika) | 2582 | 198 | Dart | 18 | 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。 | 2022-09-14T13:06:18Z |
 | 71 | [Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) | 2559 | 464 | Dart | 122 | Load and get full control of your Rive files in a Flutter project using this library. | 2022-07-05T06:29:26Z |
-| 72 | [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) | 2532 | 531 | Dart | 0 | :iphone: List of open source Flutter applications :octocat: | 2022-09-02T05:53:53Z |
+| 72 | [open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) | 2532 | 530 | Dart | 0 | :iphone: List of open source Flutter applications :octocat: | 2022-09-02T05:53:53Z |
 | 73 | [sqflite](https://github.com/tekartik/sqflite) | 2496 | 443 | Dart | 126 | SQLite flutter plugin | 2022-10-06T20:51:43Z |
 | 74 | [flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) | 2492 | 621 | Dart | 4 | Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块 | 2022-09-20T08:34:58Z |
 | 75 | [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) | 2470 | 632 | Dart | 112 | a widget provided to the flutter scroll component drop-down refresh and pull up load. | 2022-07-30T03:59:43Z |
 | 76 | [flutter_hooks](https://github.com/rrousselGit/flutter_hooks) | 2450 | 141 | Dart | 24 | React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget. | 2022-07-20T09:57:15Z |
 | 77 | [flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) | 2439 | 931 | Dart | 0 | E-Commerce App built in flutter | 2022-02-10T09:14:25Z |
-| 78 | [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) | 2427 | 412 | Dart | 3 | Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。 | 2022-09-30T03:32:19Z |
+| 78 | [gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) | 2428 | 412 | Dart | 3 | Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。 | 2022-09-30T03:32:19Z |
 | 79 | [flutter_shuqi](https://github.com/jayden320/flutter_shuqi) | 2426 | 623 | Dart | 11 | 高仿书旗小说 Flutter版，支持iOS、Android | 2022-05-23T00:46:22Z |
 | 80 | [aqueduct](https://github.com/stablekernel/aqueduct) | 2420 | 273 | Dart | 161 | Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider. | 2021-03-26T13:19:09Z |
 | 81 | [flutter_app](https://github.com/shichunlei/flutter_app) | 2352 | 479 | Dart | 7 | 🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、tubitv、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、音乐播放器🎵、追书神器等板块 | 2022-06-28T07:39:29Z |

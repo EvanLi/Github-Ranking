@@ -10,14 +10,14 @@
 | 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 15135 | 1855 | PowerShell | 256 | Script to remove Windows 10 bloatware. | 2022-04-12T15:33:13Z |
 | 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 9928 | 4208 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
 | 5 | [blazor](https://github.com/dotnet/blazor) | 9352 | 673 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7811 | 17602 | PowerShell | 4877 | Open source documentation of Microsoft Azure | 2022-10-07T19:02:53Z |
+| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7811 | 17602 | PowerShell | 4878 | Open source documentation of Microsoft Azure | 2022-10-07T19:54:03Z |
 | 7 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 7428 | 1438 | PowerShell | 45 | Six Degrees of Domain Admin | 2022-10-06T10:47:32Z |
-| 8 | [nishang](https://github.com/samratashok/nishang) | 6887 | 2204 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
+| 8 | [nishang](https://github.com/samratashok/nishang) | 6888 | 2204 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
 | 9 | [runner-images](https://github.com/actions/runner-images) | 6700 | 2381 | PowerShell | 34 | GitHub Actions runner images | 2022-10-07T09:14:52Z |
 | 10 | [Empire](https://github.com/EmpireProject/Empire) | 6681 | 2608 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
 | 11 | [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | 6607 | 2182 | PowerShell | 19 | Small and highly portable detection tests based on MITRE's ATT&CK. | 2022-10-04T22:35:07Z |
 | 12 | [posh-git](https://github.com/dahlbyk/posh-git) | 6515 | 785 | PowerShell | 55 | A PowerShell environment for Git | 2022-10-03T23:36:14Z |
-| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 6088 | 2453 | PowerShell | 374 | The Microsoft community Windows Package Manager manifest repository | 2022-10-07T19:21:08Z |
+| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 6088 | 2454 | PowerShell | 374 | The Microsoft community Windows Package Manager manifest repository | 2022-10-07T19:21:08Z |
 | 14 | [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 5591 | 830 | PowerShell | 27 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps | 2022-07-04T19:28:04Z |
 | 15 | [commando-vm](https://github.com/mandiant/commando-vm) | 5554 | 1167 | PowerShell | 32 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com | 2022-06-16T07:53:58Z |
 | 16 | [docker](https://github.com/jenkinsci/docker) | 5433 | 3846 | PowerShell | 34 | Docker official jenkins repo | 2022-10-07T19:27:18Z |
@@ -38,7 +38,7 @@
 | 31 | [RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 2697 | 757 | PowerShell | 3 | Red Teaming Tactics and Techniques | 2022-09-28T17:02:20Z |
 | 32 | [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) | 2632 | 290 | PowerShell | 46 | if you are Thanos(root), this command could delete half your files randomly | 2022-06-27T09:16:53Z |
 | 33 | [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) | 2537 | 163 | PowerShell | 40 | Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files | 2020-06-01T14:47:56Z |
-| 34 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 2443 | 438 | PowerShell | 3 | Automation for internal Windows Penetrationtest / AD-Security | 2022-09-05T09:52:17Z |
+| 34 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 2444 | 438 | PowerShell | 3 | Automation for internal Windows Penetrationtest / AD-Security | 2022-09-05T09:52:17Z |
 | 35 | [SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) | 2420 | 147 | PowerShell | 2 | Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else. | 2022-10-05T14:10:35Z |
 | 36 | [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | 2382 | 768 | PowerShell | 7 | My musings with PowerShell | 2021-11-19T12:18:24Z |
 | 37 | [MailSniper](https://github.com/dafthack/MailSniper) | 2287 | 498 | PowerShell | 18 | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain. | 2022-01-28T15:26:02Z |
@@ -72,7 +72,7 @@
 | 65 | [sRDI](https://github.com/monoxgas/sRDI) | 1493 | 378 | PowerShell | 7 | Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode | 2022-09-23T06:45:24Z |
 | 66 | [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) | 1488 | 317 | PowerShell | 2 | None | 2022-06-13T08:56:55Z |
 | 67 | [psake](https://github.com/psake/psake) | 1484 | 273 | PowerShell | 26 | A build automation tool written in PowerShell | 2022-08-31T11:12:39Z |
-| 68 | [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 1476 | 1375 | PowerShell | 23 | The official PowerShell documentation sources | 2022-10-07T19:43:10Z |
+| 68 | [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 1476 | 1375 | PowerShell | 22 | The official PowerShell documentation sources | 2022-10-07T20:06:43Z |
 | 69 | [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) | 1472 | 337 | PowerShell | 0 | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | 2022-06-23T00:36:13Z |
 | 70 | [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) | 1446 | 137 | PowerShell | 13 | Install/uninstall scripts for Windows Terminal context menu items | 2022-08-29T23:43:28Z |
 | 71 | [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | 1415 | 96 | PowerShell | 2 | These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+. | 2022-10-07T15:46:44Z |

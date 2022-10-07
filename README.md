@@ -3,7 +3,7 @@
 
 **A list of the most github stars and forks repositories.**
 
-*Last Automatic Update Time: 2022-10-07T19:45:38Z*
+*Last Automatic Update Time: 2022-10-07T20:07:56Z*
 
 ## Table of Contents
 
@@ -49,13 +49,13 @@ This is top 10, for more click **[Top 100 Stars](Top100/Top-100-stars.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 354967 | 29891 | TypeScript | 153 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2022-10-07T18:15:49Z |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 354967 | 29892 | TypeScript | 153 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2022-10-07T18:15:49Z |
 | 2 | [996.ICU](https://github.com/996icu/996.ICU) | 264130 | 21498 | None | 0 | Repo for counting stars and contributing. Press F to pay respect to glorious developers. | 2022-10-06T09:28:21Z |
-| 3 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 251063 | 51315 | None | 48 | :books: Freely available programming books | 2022-10-07T19:28:05Z |
-| 4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 235472 | 62977 | None | 39 | A complete computer science study plan to become a software engineer. | 2022-10-06T10:57:39Z |
-| 5 | [awesome](https://github.com/sindresorhus/awesome) | 222141 | 24300 | None | 20 | 😎 Awesome lists about all kinds of interesting topics | 2022-10-02T15:50:19Z |
-| 6 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 214075 | 30721 | TypeScript | 128 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2022-10-07T18:55:28Z |
-| 7 | [public-apis](https://github.com/public-apis/public-apis) | 211410 | 24176 | Python | 6 | A collective list of free APIs | 2022-10-01T19:07:56Z |
+| 3 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 251064 | 51316 | None | 48 | :books: Freely available programming books | 2022-10-07T19:48:58Z |
+| 4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 235473 | 62978 | None | 39 | A complete computer science study plan to become a software engineer. | 2022-10-06T10:57:39Z |
+| 5 | [awesome](https://github.com/sindresorhus/awesome) | 222140 | 24299 | None | 20 | 😎 Awesome lists about all kinds of interesting topics | 2022-10-02T15:50:19Z |
+| 6 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 214080 | 30721 | TypeScript | 128 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2022-10-07T18:55:28Z |
+| 7 | [public-apis](https://github.com/public-apis/public-apis) | 211413 | 24176 | Python | 6 | A collective list of free APIs | 2022-10-01T19:07:56Z |
 | 8 | [vue](https://github.com/vuejs/vue) | 199841 | 32897 | TypeScript | 347 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2022-10-05T16:49:41Z |
 | 9 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 199125 | 35848 | Python | 165 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2022-10-04T21:56:51Z |
 | 10 | [react](https://github.com/facebook/react) | 195733 | 40537 | JavaScript | 808 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-10-07T06:49:50Z |
@@ -69,14 +69,14 @@ This is top 10, for more click **[Top 100 Forks](Top100/Top-100-forks.md)**
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [datasharing](https://github.com/jtleek/datasharing) | 6182 | 241800 | None | 295 | The Leek group guide to data sharing  | 2022-08-25T20:32:31Z |
 | 2 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 755 | 141348 | R | 186 | Repository for Programming Assignment 2 for R Programming on Coursera | 2022-10-07T07:55:13Z |
-| 3 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 11321 | 130093 | HTML | 1552 | This repo is for demonstration purposes only. | 2022-10-07T19:23:12Z |
+| 3 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 11321 | 130094 | HTML | 1552 | This repo is for demonstration purposes only. | 2022-10-07T19:23:12Z |
 | 4 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2409 | 90976 | Groovy | 59 | SmartThings open-source DeviceType Handlers and SmartApps code | 2022-10-07T11:18:45Z |
-| 5 | [tensorflow](https://github.com/tensorflow/tensorflow) | 168234 | 87249 | C++ | 2135 | An Open Source Machine Learning Framework for Everyone | 2022-10-07T19:40:35Z |
-| 6 | [gitignore](https://github.com/github/gitignore) | 139205 | 78628 | None | 0 | A collection of useful .gitignore templates | 2022-10-05T00:30:17Z |
-| 7 | [bootstrap](https://github.com/twbs/bootstrap) | 159859 | 77336 | JavaScript | 247 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2022-10-07T14:07:22Z |
+| 5 | [tensorflow](https://github.com/tensorflow/tensorflow) | 168234 | 87249 | C++ | 2132 | An Open Source Machine Learning Framework for Everyone | 2022-10-07T19:52:51Z |
+| 6 | [gitignore](https://github.com/github/gitignore) | 139206 | 78628 | None | 0 | A collection of useful .gitignore templates | 2022-10-05T00:30:17Z |
+| 7 | [bootstrap](https://github.com/twbs/bootstrap) | 159859 | 77337 | JavaScript | 247 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2022-10-07T14:07:22Z |
 | 8 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 21821 | 74059 | Jupyter Notebook | 92 | Course Files for Complete Python 3 Bootcamp Course on Udemy | 2022-09-22T06:10:17Z |
-| 9 | [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) | 1921 | 66825 | JavaScript | 128 | nightscout web monitor | 2022-10-07T16:56:44Z |
-| 10 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 235472 | 62977 | None | 39 | A complete computer science study plan to become a software engineer. | 2022-10-06T10:57:39Z |
+| 9 | [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) | 1921 | 66828 | JavaScript | 128 | nightscout web monitor | 2022-10-07T16:56:44Z |
+| 10 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 235473 | 62978 | None | 39 | A complete computer science study plan to become a software engineer. | 2022-10-06T10:57:39Z |
 
 
 ## ActionScript
@@ -103,16 +103,16 @@ This is top 10, for more click **[Top 100 Stars in C](Top100/C.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [linux](https://github.com/torvalds/linux) | 139342 | 44943 | C | 0 | Linux kernel source tree | 2022-10-07T19:37:14Z |
+| 1 | [linux](https://github.com/torvalds/linux) | 139342 | 44944 | C | 0 | Linux kernel source tree | 2022-10-07T19:37:14Z |
 | 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 71255 | 7597 | C | 1096 | Display and control your Android device | 2022-10-07T19:32:30Z |
 | 3 | [netdata](https://github.com/netdata/netdata) | 60813 | 5385 | C | 209 | Real-time performance monitoring, done right! https://www.netdata.cloud | 2022-10-07T19:37:13Z |
 | 4 | [redis](https://github.com/redis/redis) | 57060 | 21820 | C | 1734 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2022-10-07T18:25:36Z |
 | 5 | [git](https://github.com/git/git) | 43810 | 24114 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2022-10-07T16:23:53Z |
 | 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 42098 | 6292 | C | 500 | OBS Studio - Free and open source software for live streaming and screen recording | 2022-10-07T18:49:16Z |
-| 7 | [Ventoy](https://github.com/ventoy/Ventoy) | 40166 | 2899 | C | 318 | A new bootable USB solution. | 2022-10-07T09:28:38Z |
+| 7 | [Ventoy](https://github.com/ventoy/Ventoy) | 40167 | 2899 | C | 318 | A new bootable USB solution. | 2022-10-07T09:28:38Z |
 | 8 | [php-src](https://github.com/php/php-src) | 34393 | 7334 | C | 224 | The PHP Interpreter | 2022-10-07T14:51:38Z |
 | 9 | [wrk](https://github.com/wg/wrk) | 33024 | 2734 | C | 117 | Modern HTTP benchmarking tool | 2022-09-30T14:22:08Z |
-| 10 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 32034 | 10137 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2022-10-07T19:35:05Z |
+| 10 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 32034 | 10137 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2022-10-07T20:00:06Z |
 
 
 ## C\#
@@ -121,16 +121,16 @@ This is top 10, for more click **[Top 100 Stars in C\#](Top100/CSharp.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [PowerToys](https://github.com/microsoft/PowerToys) | 79579 | 4539 | C# | 3526 | Windows system utilities to maximize productivity | 2022-10-07T17:51:58Z |
+| 1 | [PowerToys](https://github.com/microsoft/PowerToys) | 79581 | 4539 | C# | 3526 | Windows system utilities to maximize productivity | 2022-10-07T17:51:58Z |
 | 2 | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 55177 | 16333 | C# | 106 | A C# port of shadowsocks | 2022-08-25T23:51:40Z |
-| 3 | [PowerShell](https://github.com/PowerShell/PowerShell) | 35246 | 5930 | C# | 3188 | PowerShell for every system! | 2022-10-07T18:07:56Z |
+| 3 | [PowerShell](https://github.com/PowerShell/PowerShell) | 35246 | 5930 | C# | 3188 | PowerShell for every system! | 2022-10-07T19:44:27Z |
 | 4 | [v2rayN](https://github.com/2dust/v2rayN) | 32491 | 6492 | C# | 40 | A V2Ray client for Windows, support Xray core and v2fly core | 2022-09-30T22:39:59Z |
-| 5 | [CodeHub](https://github.com/CodeHubApp/CodeHub) | 23102 | 653 | C# | 234 | CodeHub is an iOS application written using Xamarin | 2022-06-22T16:14:05Z |
-| 6 | [Wox](https://github.com/Wox-launcher/Wox) | 22293 | 2352 | C# | 912 | Launcher for Windows, an alternative to Alfred and Launchy. | 2022-10-02T16:49:38Z |
-| 7 | [ShareX](https://github.com/ShareX/ShareX) | 21833 | 2686 | C# | 346 | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | 2022-10-06T05:18:00Z |
-| 8 | [dnSpy](https://github.com/dnSpy/dnSpy) | 21818 | 4273 | C# | 0 | .NET debugger and assembly editor | 2020-12-20T23:55:15Z |
-| 9 | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 21694 | 9324 | C# | 23 | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. | 2022-09-26T12:17:49Z |
-| 10 | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | 20017 | 1065 | C# | 1 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics | 2022-07-26T08:07:41Z |
+| 5 | [aspnetcore](https://github.com/dotnet/aspnetcore) | 29731 | 8322 | C# | 2291 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | 2022-10-07T20:04:01Z |
+| 6 | [Files](https://github.com/files-community/Files) | 24507 | 1539 | C# | 612 | Building the best File Manager for Windows | 2022-10-07T19:39:06Z |
+| 7 | [CodeHub](https://github.com/CodeHubApp/CodeHub) | 23102 | 653 | C# | 234 | CodeHub is an iOS application written using Xamarin | 2022-06-22T16:14:05Z |
+| 8 | [Wox](https://github.com/Wox-launcher/Wox) | 22293 | 2352 | C# | 912 | Launcher for Windows, an alternative to Alfred and Launchy. | 2022-10-02T16:49:38Z |
+| 9 | [ShareX](https://github.com/ShareX/ShareX) | 21833 | 2686 | C# | 346 | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | 2022-10-06T05:18:00Z |
+| 10 | [dnSpy](https://github.com/dnSpy/dnSpy) | 21818 | 4273 | C# | 0 | .NET debugger and assembly editor | 2020-12-20T23:55:15Z |
 
 
 ## C\+\+
@@ -139,16 +139,16 @@ This is top 10, for more click **[Top 100 Stars in C\+\+](Top100/CPP.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 168234 | 87249 | C++ | 2135 | An Open Source Machine Learning Framework for Everyone | 2022-10-07T19:40:35Z |
+| 1 | [tensorflow](https://github.com/tensorflow/tensorflow) | 168234 | 87249 | C++ | 2132 | An Open Source Machine Learning Framework for Everyone | 2022-10-07T19:52:51Z |
 | 2 | [electron](https://github.com/electron/electron) | 103984 | 13895 | C++ | 1564 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 2022-10-07T18:28:10Z |
-| 3 | [terminal](https://github.com/microsoft/terminal) | 85530 | 7522 | C++ | 1493 | The new Windows Terminal and the original Windows console host, all in the same place! | 2022-10-07T19:07:35Z |
-| 4 | [opencv](https://github.com/opencv/opencv) | 64122 | 52644 | C++ | 2186 | Open Source Computer Vision Library | 2022-10-07T17:02:12Z |
-| 5 | [swift](https://github.com/apple/swift) | 60793 | 9762 | C++ | 5561 | The Swift Programming Language | 2022-10-07T19:42:06Z |
-| 6 | [pytorch](https://github.com/pytorch/pytorch) | 59407 | 16542 | C++ | 9372 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2022-10-07T19:40:01Z |
-| 7 | [protobuf](https://github.com/protocolbuffers/protobuf) | 56503 | 14467 | C++ | 574 | Protocol Buffers - Google's data interchange format | 2022-10-07T19:18:19Z |
-| 8 | [godot](https://github.com/godotengine/godot) | 53983 | 9405 | C++ | 6794 | Godot Engine – Multi-platform 2D and 3D game engine | 2022-10-07T19:10:22Z |
-| 9 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 46945 | 8174 | C++ | 356 | Tesseract Open Source OCR Engine (main repository) | 2022-10-06T10:57:09Z |
-| 10 | [imgui](https://github.com/ocornut/imgui) | 42045 | 7353 | C++ | 668 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 2022-10-06T20:17:32Z |
+| 3 | [terminal](https://github.com/microsoft/terminal) | 85530 | 7522 | C++ | 1493 | The new Windows Terminal and the original Windows console host, all in the same place! | 2022-10-07T20:02:57Z |
+| 4 | [bitcoin](https://github.com/bitcoin/bitcoin) | 66398 | 33082 | C++ | 453 | Bitcoin Core integration/staging tree | 2022-10-07T19:19:51Z |
+| 5 | [opencv](https://github.com/opencv/opencv) | 64123 | 52644 | C++ | 2186 | Open Source Computer Vision Library | 2022-10-07T17:02:12Z |
+| 6 | [swift](https://github.com/apple/swift) | 60793 | 9762 | C++ | 5561 | The Swift Programming Language | 2022-10-07T19:42:06Z |
+| 7 | [pytorch](https://github.com/pytorch/pytorch) | 59407 | 16542 | C++ | 9372 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2022-10-07T20:02:10Z |
+| 8 | [protobuf](https://github.com/protocolbuffers/protobuf) | 56503 | 14467 | C++ | 574 | Protocol Buffers - Google's data interchange format | 2022-10-07T19:45:08Z |
+| 9 | [godot](https://github.com/godotengine/godot) | 53983 | 9405 | C++ | 6794 | Godot Engine – Multi-platform 2D and 3D game engine | 2022-10-07T20:04:28Z |
+| 10 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 46945 | 8174 | C++ | 356 | Tesseract Open Source OCR Engine (main repository) | 2022-10-06T10:57:09Z |
 
 
 ## Clojure
@@ -157,8 +157,8 @@ This is top 10, for more click **[Top 100 Stars in Clojure](Top100/Clojure.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 66608 | 2896 | Clojure | 334 | Free monospaced font with programming ligatures | 2022-10-04T22:56:28Z |
-| 2 | [metabase](https://github.com/metabase/metabase) | 29869 | 4084 | Clojure | 2179 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2022-10-07T19:37:49Z |
+| 1 | [FiraCode](https://github.com/tonsky/FiraCode) | 66609 | 2896 | Clojure | 334 | Free monospaced font with programming ligatures | 2022-10-04T22:56:28Z |
+| 2 | [metabase](https://github.com/metabase/metabase) | 29870 | 4084 | Clojure | 2179 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: | 2022-10-07T19:37:49Z |
 | 3 | [penpot](https://github.com/penpot/penpot) | 18231 | 822 | Clojure | 219 | Penpot - The Open-Source design & prototyping platform | 2022-10-07T16:56:55Z |
 | 4 | [logseq](https://github.com/logseq/logseq) | 17011 | 1036 | Clojure | 1722 | A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap | 2022-10-07T15:02:08Z |
 | 5 | [LightTable](https://github.com/LightTable/LightTable) | 11731 | 939 | Clojure | 164 | The Light Table IDE ⛺ | 2022-06-17T00:20:21Z |
@@ -193,13 +193,13 @@ This is top 10, for more click **[Top 100 Stars in CSS](Top100/CSS.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [animate.css](https://github.com/animate-css/animate.css) | 75934 | 16253 | CSS | 21 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2022-10-05T07:03:34Z |
+| 1 | [animate.css](https://github.com/animate-css/animate.css) | 75934 | 16254 | CSS | 21 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2022-10-05T07:03:34Z |
 | 2 | [normalize.css](https://github.com/necolas/normalize.css) | 48810 | 10864 | CSS | 40 | A modern alternative to CSS resets | 2022-06-11T00:15:12Z |
 | 3 | [bulma](https://github.com/jgthms/bulma) | 46204 | 3914 | CSS | 160 | Modern CSS framework based on Flexbox | 2022-10-03T11:08:26Z |
 | 4 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 38659 | 2986 | CSS | 235 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2022-10-07T12:05:21Z |
 | 5 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 36495 | 1364 | CSS | 140 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2021-08-02T08:34:49Z |
 | 6 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26491 | 5437 | CSS | 0 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
-| 7 | [Hover](https://github.com/IanLunn/Hover) | 26411 | 5673 | CSS | 21 | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. | 2022-08-16T23:39:07Z |
+| 7 | [Hover](https://github.com/IanLunn/Hover) | 26412 | 5673 | CSS | 21 | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. | 2022-08-16T23:39:07Z |
 | 8 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 21511 | 5810 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2022-09-24T15:06:52Z |
 | 9 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 20613 | 5162 | CSS | 8 | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | 2022-10-04T18:22:40Z |
 | 10 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 18958 | 1838 | CSS | 5 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
@@ -211,9 +211,9 @@ This is top 10, for more click **[Top 100 Stars in Dart](Top100/Dart.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [flutter](https://github.com/flutter/flutter) | 145571 | 23423 | Dart | 11053 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-07T19:13:52Z |
+| 1 | [flutter](https://github.com/flutter/flutter) | 145571 | 23423 | Dart | 11054 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-07T19:59:19Z |
 | 2 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 43112 | 6089 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2022-10-03T22:25:45Z |
-| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 28106 | 1555 | Dart | 266 | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 2022-10-07T18:15:47Z |
+| 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 28106 | 1556 | Dart | 266 | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 2022-10-07T18:15:47Z |
 | 4 | [flutter-go](https://github.com/alibaba/flutter-go) | 23182 | 3746 | Dart | 0 | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | 2021-05-20T15:58:10Z |
 | 5 | [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) | 17479 | 3411 | Dart | 9 | [Example APPS] Basic Flutter apps, for flutter devs. | 2022-03-25T07:04:01Z |
 | 6 | [plugins](https://github.com/flutter/plugins) | 16283 | 9477 | Dart | 0 | Plugins for Flutter maintained by the Flutter team | 2022-10-07T19:28:48Z |
@@ -232,10 +232,10 @@ This is top 10, for more click **[Top 100 Stars in DM](Top100/DM.md)**
 | 1 | [tgstation](https://github.com/tgstation/tgstation) | 1359 | 3928 | DM | 1685 | The /tg/station branch of SS13 | 2022-10-07T18:57:08Z |
 | 2 | [Baystation12](https://github.com/Baystation12/Baystation12) | 376 | 1470 | DM | 339 | The code for Baystation12's branch of SS13 | 2022-10-07T02:33:27Z |
 | 3 | [Paradise](https://github.com/ParadiseSS13/Paradise) | 305 | 1069 | DM | 582 | Paradise Station's GitHub main repository. | 2022-10-07T13:15:00Z |
-| 4 | [vgstation13](https://github.com/vgstation-coders/vgstation13) | 258 | 557 | DM | 2973 | Butts | 2022-10-07T15:42:53Z |
+| 4 | [vgstation13](https://github.com/vgstation-coders/vgstation13) | 258 | 557 | DM | 2973 | Butts | 2022-10-07T19:47:55Z |
 | 5 | [goonstation](https://github.com/goonstation/goonstation) | 238 | 870 | DM | 742 | Repository for the Goonstation branch of SS13 | 2022-10-07T19:31:48Z |
 | 6 | [blog](https://github.com/erbing/blog) | 198 | 40 | DM | 0 | 前端基础积累 / 新技术 / Vue / React / H5 / 奇怪的BUG / 面试 / 招聘 | 2020-04-01T16:58:50Z |
-| 7 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 151 | 556 | DM | 206 | 99.95% station. 0.05% bees | 2022-10-07T19:15:24Z |
+| 7 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 151 | 556 | DM | 206 | 99.95% station. 0.05% bees | 2022-10-07T20:02:46Z |
 | 8 | [code_study](https://github.com/7small7/code_study) | 131 | 30 | DM | 0 | 编程学习笔记 | 2022-05-19T15:46:41Z |
 | 9 | [CEV-Eris](https://github.com/discordia-space/CEV-Eris) | 129 | 457 | DM | 356 | Death is our destination | 2022-10-07T18:48:43Z |
 | 10 | [TauCetiClassic](https://github.com/TauCetiStation/TauCetiClassic) | 107 | 360 | DM | 1537 | Франкенштейн жив | 2022-10-07T18:18:43Z |
@@ -265,7 +265,7 @@ This is top 10, for more click **[Top 100 Stars in Go](Top100/Go.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [go](https://github.com/golang/go) | 104432 | 15461 | Go | 7641 | The Go programming language | 2022-10-07T18:29:36Z |
+| 1 | [go](https://github.com/golang/go) | 104432 | 15461 | Go | 7642 | The Go programming language | 2022-10-07T18:29:36Z |
 | 2 | [kubernetes](https://github.com/kubernetes/kubernetes) | 92653 | 33992 | Go | 1586 | Production-Grade Container Scheduling and Management | 2022-10-07T19:24:50Z |
 | 3 | [awesome-go](https://github.com/avelino/awesome-go) | 89105 | 10314 | Go | 16 | A curated list of awesome Go frameworks, libraries and software | 2022-10-07T17:00:31Z |
 | 4 | [moby](https://github.com/moby/moby) | 64199 | 18291 | Go | 4044 | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | 2022-10-07T16:10:03Z |
@@ -273,8 +273,8 @@ This is top 10, for more click **[Top 100 Stars in Go](Top100/Go.md)**
 | 6 | [hugo](https://github.com/gohugoio/hugo) | 62828 | 6835 | Go | 597 | The world’s fastest framework for building websites. | 2022-10-07T09:40:49Z |
 | 7 | [frp](https://github.com/fatedier/frp) | 60598 | 10706 | Go | 101 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | 2022-10-03T09:51:41Z |
 | 8 | [fzf](https://github.com/junegunn/fzf) | 47389 | 2021 | Go | 251 | :cherry_blossom: A command-line fuzzy finder | 2022-10-07T15:53:59Z |
-| 9 | [syncthing](https://github.com/syncthing/syncthing) | 46999 | 3569 | Go | 320 | Open Source Continuous File Synchronization | 2022-10-07T09:33:16Z |
-| 10 | [prometheus](https://github.com/prometheus/prometheus) | 44648 | 7512 | Go | 517 | The Prometheus monitoring system and time series database. | 2022-10-07T17:09:13Z |
+| 9 | [syncthing](https://github.com/syncthing/syncthing) | 46999 | 3569 | Go | 320 | Open Source Continuous File Synchronization | 2022-10-07T20:04:18Z |
+| 10 | [prometheus](https://github.com/prometheus/prometheus) | 44648 | 7511 | Go | 517 | The Prometheus monitoring system and time series database. | 2022-10-07T17:09:13Z |
 
 
 ## Groovy
@@ -302,10 +302,10 @@ This is top 10, for more click **[Top 100 Stars in Haskell](Top100/Haskell.md)**
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 30110 | 1519 | Haskell | 791 | ShellCheck, a static analysis tool for shell scripts | 2022-10-07T16:12:03Z |
-| 2 | [pandoc](https://github.com/jgm/pandoc) | 26645 | 2983 | Haskell | 790 | Universal markup converter | 2022-10-07T11:56:52Z |
+| 2 | [pandoc](https://github.com/jgm/pandoc) | 26645 | 2983 | Haskell | 790 | Universal markup converter | 2022-10-07T19:45:11Z |
 | 3 | [postgrest](https://github.com/PostgREST/postgrest) | 19280 | 896 | Haskell | 178 | REST API for any Postgres database | 2022-10-07T04:43:00Z |
 | 4 | [semantic](https://github.com/github/semantic) | 8513 | 495 | Haskell | 100 | Parsing, analyzing, and comparing source code across many languages | 2022-07-22T15:39:27Z |
-| 5 | [purescript](https://github.com/purescript/purescript) | 7852 | 562 | Haskell | 241 | A strongly-typed language that compiles to JavaScript | 2022-10-07T12:46:02Z |
+| 5 | [purescript](https://github.com/purescript/purescript) | 7853 | 562 | Haskell | 241 | A strongly-typed language that compiles to JavaScript | 2022-10-07T12:46:02Z |
 | 6 | [hadolint](https://github.com/hadolint/hadolint) | 7547 | 328 | Haskell | 124 | Dockerfile linter, validate inline bash, written in Haskell | 2022-10-03T08:04:37Z |
 | 7 | [compiler](https://github.com/elm/compiler) | 6956 | 640 | Haskell | 267 | Compiler for Elm, a functional language for reliable webapps. | 2022-09-06T08:45:46Z |
 | 8 | [Carp](https://github.com/carp-lang/Carp) | 4687 | 166 | Haskell | 124 | A statically typed lisp, without a GC, for real-time applications. | 2022-09-28T04:53:00Z |
@@ -320,15 +320,15 @@ This is top 10, for more click **[Top 100 Stars in HTML](Top100/HTML.md)**
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | 60449 | 6647 | HTML | 0 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | 2022-10-07T19:04:54Z |
-| 2 | [material-design-lite](https://github.com/google/material-design-lite) | 32097 | 5210 | HTML | 363 | Material Design Components in HTML/CSS/JS | 2022-08-22T19:39:49Z |
-| 3 | [styleguide](https://github.com/google/styleguide) | 31775 | 12518 | HTML | 185 | Style guides for Google-originated open-source projects | 2022-09-27T12:18:20Z |
-| 4 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 29336 | 8268 | HTML | 9 | 浙江大学课程攻略共享计划 | 2022-10-06T14:27:20Z |
-| 5 | [weui](https://github.com/Tencent/weui) | 26562 | 6518 | HTML | 41 | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | 2022-09-16T07:26:57Z |
-| 6 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 26177 | 9823 | HTML | 48 | 吴恩达老师的机器学习课程个人笔记 | 2022-04-29T02:47:58Z |
-| 7 | [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 26096 | 6805 | HTML | 0 | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University | 2022-09-19T02:02:21Z |
-| 8 | [fastText](https://github.com/facebookresearch/fastText) | 23951 | 4508 | HTML | 430 | Library for fast text representation and classification. | 2022-09-10T14:51:02Z |
+| 2 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 29336 | 8268 | HTML | 9 | 浙江大学课程攻略共享计划 | 2022-10-06T14:27:20Z |
+| 3 | [foundation-sites](https://github.com/foundation/foundation-sites) | 29307 | 5635 | HTML | 28 | The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. | 2022-08-02T20:20:03Z |
+| 4 | [weui](https://github.com/Tencent/weui) | 26562 | 6518 | HTML | 41 | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | 2022-09-16T07:26:57Z |
+| 5 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 26177 | 9823 | HTML | 48 | 吴恩达老师的机器学习课程个人笔记 | 2022-04-29T02:47:58Z |
+| 6 | [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 26096 | 6805 | HTML | 0 | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University | 2022-09-19T02:02:21Z |
+| 7 | [fastText](https://github.com/facebookresearch/fastText) | 23951 | 4508 | HTML | 430 | Library for fast text representation and classification. | 2022-09-10T14:51:02Z |
+| 8 | [chosen](https://github.com/harvesthq/chosen) | 22046 | 4193 | HTML | 248 | Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. | 2022-09-26T21:24:42Z |
 | 9 | [polymer](https://github.com/Polymer/polymer) | 21854 | 2028 | HTML | 40 | Our original Web Component library. | 2022-06-03T21:59:52Z |
-| 10 | [alpine](https://github.com/alpinejs/alpine) | 21818 | 974 | HTML | 18 | A rugged, minimal framework for composing JavaScript behavior in your markup.  | 2022-10-07T19:37:36Z |
+| 10 | [gentelella](https://github.com/ColorlibHQ/gentelella) | 20624 | 6835 | HTML | 31 | Free Bootstrap 4 Admin Dashboard Template | 2022-08-31T08:32:35Z |
 
 
 ## Java
@@ -337,16 +337,16 @@ This is top 10, for more click **[Top 100 Stars in Java](Top100/Java.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 71591 | 13712 | Java | 16 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） | 2022-03-06T09:10:42Z |
-| 2 | [advanced-java](https://github.com/doocs/advanced-java) | 66830 | 17716 | Java | 2 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2022-09-28T03:02:09Z |
-| 3 | [elasticsearch](https://github.com/elastic/elasticsearch) | 61371 | 22296 | Java | 3490 | Free and Open, Distributed, RESTful Search Engine | 2022-10-07T14:32:24Z |
-| 4 | [spring-framework](https://github.com/spring-projects/spring-framework) | 49316 | 34793 | Java | 1225 | Spring Framework | 2022-10-07T17:14:46Z |
-| 5 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 48365 | 6981 | Java | 87 | :cn: GitHub中文排行榜，各语言分设「软件 \| 资料」榜单，精准定位中文好项目。各取所需，高效学习。 | 2022-10-05T01:11:46Z |
-| 6 | [Java](https://github.com/TheAlgorithms/Java) | 48238 | 15861 | Java | 37 | All Algorithms implemented in Java | 2022-10-07T19:03:54Z |
-| 7 | [guava](https://github.com/google/guava) | 45852 | 10177 | Java | 657 | Google core libraries for Java | 2022-10-07T19:36:46Z |
-| 8 | [retrofit](https://github.com/square/retrofit) | 40618 | 7189 | Java | 143 | A type-safe HTTP client for Android and the JVM | 2022-09-07T14:26:44Z |
-| 9 | [dubbo](https://github.com/apache/dubbo) | 37930 | 25344 | Java | 452 | Apache Dubbo is a high-performance, java based, open source RPC framework. | 2022-10-05T00:26:51Z |
-| 10 | [lottie-android](https://github.com/airbnb/lottie-android) | 33247 | 5307 | Java | 38 | Render After Effects animations natively on Android and iOS, Web, and React Native | 2022-10-05T20:58:47Z |
+| 1 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 127715 | 42601 | Java | 64 | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ | 2022-10-07T15:25:29Z |
+| 2 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 77216 | 23938 | Java | 144 | Design patterns implemented in Java | 2022-10-07T19:33:56Z |
+| 3 | [advanced-java](https://github.com/doocs/advanced-java) | 66831 | 17716 | Java | 2 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 | 2022-09-28T03:02:09Z |
+| 4 | [spring-boot](https://github.com/spring-projects/spring-boot) | 63478 | 37308 | Java | 533 | Spring Boot | 2022-10-07T17:09:50Z |
+| 5 | [mall](https://github.com/macrozheng/mall) | 61375 | 25664 | Java | 25 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2022-10-07T01:56:04Z |
+| 6 | [guava](https://github.com/google/guava) | 45852 | 10177 | Java | 657 | Google core libraries for Java | 2022-10-07T19:36:46Z |
+| 7 | [tutorials](https://github.com/eugenp/tutorials) | 32118 | 50792 | Java | 28 | Just Announced - "Learn Spring Security OAuth":  | 2022-10-07T17:21:41Z |
+| 8 | [jadx](https://github.com/skylot/jadx) | 31800 | 4025 | Java | 258 | Dex to Java decompiler | 2022-10-07T15:36:16Z |
+| 9 | [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 31423 | 6096 | Java | 6 | 🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！ | 2022-08-08T01:20:14Z |
+| 10 | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 31421 | 10429 | Java | 218 | :fire: Android developers should collect the following utils(updating). | 2022-08-26T21:26:59Z |
 
 
 ## JavaScript
@@ -356,15 +356,15 @@ This is top 10, for more click **[Top 100 Stars in JavaScript](Top100/JavaScript
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [react](https://github.com/facebook/react) | 195733 | 40537 | JavaScript | 808 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2022-10-07T06:49:50Z |
-| 2 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 152381 | 25431 | JavaScript | 103 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2022-10-06T11:13:21Z |
-| 3 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 105214 | 6499 | JavaScript | 65 | A list of Free Software network services and web applications which can be hosted on your own servers | 2022-10-07T17:15:54Z |
-| 4 | [create-react-app](https://github.com/facebook/create-react-app) | 97286 | 25346 | JavaScript | 1429 | Set up a modern web app by running one command. | 2022-10-04T02:36:58Z |
-| 5 | [axios](https://github.com/axios/axios) | 96293 | 9842 | JavaScript | 186 | Promise based HTTP client for the browser and node.js | 2022-10-07T19:13:06Z |
-| 6 | [next.js](https://github.com/vercel/next.js) | 93569 | 20557 | JavaScript | 1174 | The React Framework | 2022-10-07T19:26:08Z |
-| 7 | [node](https://github.com/nodejs/node) | 90787 | 24457 | JavaScript | 1322 | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 2022-10-07T19:07:17Z |
-| 8 | [three.js](https://github.com/mrdoob/three.js) | 85873 | 33031 | JavaScript | 365 | JavaScript 3D Library. | 2022-10-07T14:46:55Z |
-| 9 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 81959 | 8490 | JavaScript | 21 | :white_check_mark:  The Node.js best practices list (August 2022) | 2022-09-20T05:30:33Z |
-| 10 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 73330 | 9909 | JavaScript | 48 | :bathtub: Clean Code concepts adapted for JavaScript | 2022-09-21T19:09:39Z |
+| 2 | [bootstrap](https://github.com/twbs/bootstrap) | 159859 | 77337 | JavaScript | 247 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2022-10-07T14:07:22Z |
+| 3 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 152382 | 25432 | JavaScript | 103 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2022-10-06T11:13:21Z |
+| 4 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 105214 | 6499 | JavaScript | 65 | A list of Free Software network services and web applications which can be hosted on your own servers | 2022-10-07T17:15:54Z |
+| 5 | [create-react-app](https://github.com/facebook/create-react-app) | 97286 | 25345 | JavaScript | 1429 | Set up a modern web app by running one command. | 2022-10-04T02:36:58Z |
+| 6 | [axios](https://github.com/axios/axios) | 96293 | 9842 | JavaScript | 186 | Promise based HTTP client for the browser and node.js | 2022-10-07T19:13:06Z |
+| 7 | [next.js](https://github.com/vercel/next.js) | 93571 | 20558 | JavaScript | 1174 | The React Framework | 2022-10-07T19:26:08Z |
+| 8 | [node](https://github.com/nodejs/node) | 90787 | 24456 | JavaScript | 1322 | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: | 2022-10-07T19:07:17Z |
+| 9 | [three.js](https://github.com/mrdoob/three.js) | 85873 | 33032 | JavaScript | 365 | JavaScript 3D Library. | 2022-10-07T14:46:55Z |
+| 10 | [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | 81959 | 8490 | JavaScript | 21 | :white_check_mark:  The Node.js best practices list (August 2022) | 2022-09-20T05:30:33Z |
 
 
 ## Julia
@@ -373,7 +373,7 @@ This is top 10, for more click **[Top 100 Stars in Julia](Top100/Julia.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 40567 | 5014 | Julia | 3440 | The Julia Programming Language | 2022-10-07T19:33:35Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 40567 | 5014 | Julia | 3440 | The Julia Programming Language | 2022-10-07T19:55:35Z |
 | 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 4134 | 252 | Julia | 211 | 🎈 Simple reactive notebooks for Julia | 2022-10-07T14:22:12Z |
 | 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 3834 | 536 | Julia | 188 | Relax! Flux is the ML library that doesn't make you tensor | 2022-10-07T14:05:09Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2513 | 394 | Julia | 105 | Julia kernel for Jupyter | 2022-09-02T11:57:07Z |
@@ -414,7 +414,7 @@ This is top 10, for more click **[Top 100 Stars in Lua](Top100/Lua.md)**
 | 3 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | 19060 | 1460 | Lua | 32 | A community-driven modular vim/neovim distribution - The ultimate vimrc | 2022-10-07T15:34:54Z |
 | 4 | [neural-style](https://github.com/jcjohnson/neural-style) | 18266 | 2779 | Lua | 294 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
 | 5 | [openface](https://github.com/cmusatyalab/openface) | 14509 | 3591 | Lua | 8 | Face recognition with deep neural networks. | 2022-09-28T10:55:14Z |
-| 6 | [NvChad](https://github.com/NvChad/NvChad) | 12586 | 813 | Lua | 3 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms | 2022-10-07T13:56:07Z |
+| 6 | [NvChad](https://github.com/NvChad/NvChad) | 12587 | 813 | Lua | 3 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms | 2022-10-07T13:56:07Z |
 | 7 | [koreader](https://github.com/koreader/koreader) | 11444 | 1043 | Lua | 454 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2022-10-07T18:46:27Z |
 | 8 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 11375 | 1906 | Lua | 51 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 2020-08-03T14:35:58Z |
 | 9 | [char-rnn](https://github.com/karpathy/char-rnn) | 10947 | 2492 | Lua | 88 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch | 2018-05-04T15:25:25Z |
@@ -482,9 +482,9 @@ This is top 10, for more click **[Top 100 Stars in PHP](Top100/PHP.md)**
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [laravel](https://github.com/laravel/laravel) | 71150 | 23027 | PHP | 0 | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | 2022-10-06T14:02:37Z |
-| 2 | [SecLists](https://github.com/danielmiessler/SecLists) | 42140 | 21100 | PHP | 26 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2022-10-05T03:15:32Z |
+| 2 | [SecLists](https://github.com/danielmiessler/SecLists) | 42140 | 21099 | PHP | 26 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2022-10-05T03:15:32Z |
 | 3 | [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 31063 | 8189 | PHP | 49 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | 2021-09-30T11:44:03Z |
-| 4 | [framework](https://github.com/laravel/framework) | 28004 | 9587 | PHP | 5 | The Laravel Framework. | 2022-10-07T19:07:25Z |
+| 4 | [framework](https://github.com/laravel/framework) | 28004 | 9587 | PHP | 5 | The Laravel Framework. | 2022-10-07T19:53:47Z |
 | 5 | [symfony](https://github.com/symfony/symfony) | 27497 | 8834 | PHP | 486 | The Symfony PHP framework | 2022-10-07T14:54:23Z |
 | 6 | [composer](https://github.com/composer/composer) | 26982 | 6444 | PHP | 115 | Dependency Manager for PHP | 2022-10-05T07:16:17Z |
 | 7 | [Faker](https://github.com/fzaninotto/Faker) | 26604 | 3431 | PHP | 76 | Faker is a PHP library that generates fake data for you | 2022-07-11T08:30:23Z |
@@ -504,9 +504,9 @@ This is top 10, for more click **[Top 100 Stars in PowerShell](Top100/PowerShell
 | 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 15135 | 1855 | PowerShell | 256 | Script to remove Windows 10 bloatware. | 2022-04-12T15:33:13Z |
 | 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 9928 | 4208 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
 | 5 | [blazor](https://github.com/dotnet/blazor) | 9352 | 673 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7811 | 17602 | PowerShell | 4877 | Open source documentation of Microsoft Azure | 2022-10-07T19:02:53Z |
+| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7811 | 17602 | PowerShell | 4878 | Open source documentation of Microsoft Azure | 2022-10-07T19:54:03Z |
 | 7 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 7428 | 1438 | PowerShell | 45 | Six Degrees of Domain Admin | 2022-10-06T10:47:32Z |
-| 8 | [nishang](https://github.com/samratashok/nishang) | 6887 | 2204 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
+| 8 | [nishang](https://github.com/samratashok/nishang) | 6888 | 2204 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
 | 9 | [runner-images](https://github.com/actions/runner-images) | 6700 | 2381 | PowerShell | 34 | GitHub Actions runner images | 2022-10-07T09:14:52Z |
 | 10 | [Empire](https://github.com/EmpireProject/Empire) | 6681 | 2608 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
 
@@ -517,16 +517,16 @@ This is top 10, for more click **[Top 100 Stars in Python](Top100/Python.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [public-apis](https://github.com/public-apis/public-apis) | 211410 | 24176 | Python | 6 | A collective list of free APIs | 2022-10-01T19:07:56Z |
-| 2 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 199125 | 35848 | Python | 165 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2022-10-04T21:56:51Z |
-| 3 | [Python](https://github.com/TheAlgorithms/Python) | 146355 | 37326 | Python | 44 | All Algorithms implemented in Python | 2022-10-07T19:35:50Z |
-| 4 | [awesome-python](https://github.com/vinta/awesome-python) | 143933 | 21970 | Python | 12 | A curated list of awesome Python frameworks, libraries, software and resources | 2022-10-03T17:25:25Z |
-| 5 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 125990 | 47100 | Python | 488 | Python - 100天从新手到大师 | 2022-10-07T11:54:36Z |
-| 6 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 113967 | 8211 | Python | 3875 | Command-line program to download videos from YouTube.com and other video sites | 2022-10-07T13:19:01Z |
-| 7 | [thefuck](https://github.com/nvbn/thefuck) | 73873 | 3263 | Python | 200 | Magnificent app which corrects your previous console command. | 2022-09-30T12:07:23Z |
-| 8 | [transformers](https://github.com/huggingface/transformers) | 71659 | 16377 | Python | 407 | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 2022-10-07T19:31:33Z |
-| 9 | [django](https://github.com/django/django) | 66662 | 27933 | Python | 0 | The Web framework for perfectionists with deadlines. | 2022-10-07T16:40:30Z |
-| 10 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 59960 | 8073 | Python | 45 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 2022-09-28T00:45:54Z |
+| 1 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 199125 | 35848 | Python | 165 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2022-10-04T21:56:51Z |
+| 2 | [Python](https://github.com/TheAlgorithms/Python) | 146355 | 37326 | Python | 44 | All Algorithms implemented in Python | 2022-10-07T19:57:01Z |
+| 3 | [awesome-python](https://github.com/vinta/awesome-python) | 143934 | 21970 | Python | 12 | A curated list of awesome Python frameworks, libraries, software and resources | 2022-10-03T17:25:25Z |
+| 4 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 125990 | 47101 | Python | 488 | Python - 100天从新手到大师 | 2022-10-07T11:54:36Z |
+| 5 | [thefuck](https://github.com/nvbn/thefuck) | 73873 | 3263 | Python | 200 | Magnificent app which corrects your previous console command. | 2022-09-30T12:07:23Z |
+| 6 | [transformers](https://github.com/huggingface/transformers) | 71659 | 16377 | Python | 408 | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 2022-10-07T19:54:31Z |
+| 7 | [django](https://github.com/django/django) | 66663 | 27933 | Python | 0 | The Web framework for perfectionists with deadlines. | 2022-10-07T16:40:30Z |
+| 8 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 59960 | 8073 | Python | 45 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 2022-09-28T00:45:54Z |
+| 9 | [keras](https://github.com/keras-team/keras) | 56336 | 19193 | Python | 250 | Deep Learning for humans | 2022-10-07T19:30:35Z |
+| 10 | [requests](https://github.com/psf/requests) | 48338 | 8884 | Python | 189 | A simple, yet elegant, HTTP library. | 2022-09-26T11:18:49Z |
 
 
 ## R
@@ -553,16 +553,16 @@ This is top 10, for more click **[Top 100 Stars in Ruby](Top100/Ruby.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [rails](https://github.com/rails/rails) | 51536 | 20658 | Ruby | 344 | Ruby on Rails | 2022-10-07T19:15:14Z |
+| 1 | [rails](https://github.com/rails/rails) | 51537 | 20658 | Ruby | 344 | Ruby on Rails | 2022-10-07T19:15:14Z |
 | 2 | [jekyll](https://github.com/jekyll/jekyll) | 45382 | 9887 | Ruby | 78 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby | 2022-10-07T06:05:48Z |
 | 3 | [huginn](https://github.com/huginn/huginn) | 36578 | 3312 | Ruby | 564 | Create agents that monitor and act on your behalf.  Your agents are standing by! | 2022-10-06T19:05:49Z |
-| 4 | [discourse](https://github.com/discourse/discourse) | 36574 | 7784 | Ruby | 0 | A platform for community discussion. Free, open, simple. | 2022-10-07T19:03:19Z |
+| 4 | [discourse](https://github.com/discourse/discourse) | 36574 | 7784 | Ruby | 0 | A platform for community discussion. Free, open, simple. | 2022-10-07T20:01:07Z |
 | 5 | [fastlane](https://github.com/fastlane/fastlane) | 35879 | 5311 | Ruby | 129 | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 2022-10-06T14:59:41Z |
-| 6 | [brew](https://github.com/Homebrew/brew) | 33603 | 8093 | Ruby | 34 | 🍺 The missing package manager for macOS (or Linux) | 2022-10-07T19:03:39Z |
+| 6 | [brew](https://github.com/Homebrew/brew) | 33603 | 8093 | Ruby | 34 | 🍺 The missing package manager for macOS (or Linux) | 2022-10-07T20:03:53Z |
 | 7 | [mastodon](https://github.com/mastodon/mastodon) | 30020 | 4675 | Ruby | 2282 | Your self-hosted, globally interconnected microblogging community | 2022-10-07T18:32:07Z |
 | 8 | [devdocs](https://github.com/freeCodeCamp/devdocs) | 29779 | 2015 | Ruby | 116 | API Documentation Browser | 2022-10-05T20:46:41Z |
 | 9 | [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 29398 | 3500 | Ruby | 11 | A curated list of awesome awesomeness | 2022-08-17T00:15:46Z |
-| 10 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 28378 | 12550 | Ruby | 492 | Metasploit Framework | 2022-10-07T19:13:36Z |
+| 10 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 28377 | 12550 | Ruby | 492 | Metasploit Framework | 2022-10-07T19:13:36Z |
 
 
 ## Rust
@@ -571,14 +571,14 @@ This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deno](https://github.com/denoland/deno) | 85684 | 4631 | Rust | 946 | A modern runtime for JavaScript and TypeScript. | 2022-10-07T17:08:52Z |
-| 2 | [rust](https://github.com/rust-lang/rust) | 72791 | 9857 | Rust | 8502 | Empowering everyone to build reliable and efficient software. | 2022-10-07T19:39:49Z |
+| 1 | [deno](https://github.com/denoland/deno) | 85685 | 4631 | Rust | 947 | A modern runtime for JavaScript and TypeScript. | 2022-10-07T17:08:52Z |
+| 2 | [rust](https://github.com/rust-lang/rust) | 72792 | 9856 | Rust | 8503 | Empowering everyone to build reliable and efficient software. | 2022-10-07T20:06:01Z |
 | 3 | [tauri](https://github.com/tauri-apps/tauri) | 51885 | 1321 | Rust | 203 | Build smaller, faster, and more secure desktop applications with a web frontend. | 2022-10-06T13:15:31Z |
 | 4 | [alacritty](https://github.com/alacritty/alacritty) | 42217 | 2460 | Rust | 302 | A cross-platform, OpenGL terminal emulator. | 2022-10-07T14:55:51Z |
 | 5 | [bat](https://github.com/sharkdp/bat) | 37452 | 978 | Rust | 152 | A cat(1) clone with wings. | 2022-10-07T08:33:15Z |
 | 6 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 33519 | 1503 | Rust | 125 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2022-10-02T21:13:12Z |
-| 7 | [rustlings](https://github.com/rust-lang/rustlings) | 30384 | 4894 | Rust | 80 | :crab: Small exercises to get you used to reading and writing Rust code! | 2022-10-04T09:43:25Z |
-| 8 | [meilisearch](https://github.com/meilisearch/meilisearch) | 29809 | 1062 | Rust | 60 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2022-10-07T14:43:12Z |
+| 7 | [rustlings](https://github.com/rust-lang/rustlings) | 30386 | 4894 | Rust | 80 | :crab: Small exercises to get you used to reading and writing Rust code! | 2022-10-04T09:43:25Z |
+| 8 | [meilisearch](https://github.com/meilisearch/meilisearch) | 29809 | 1062 | Rust | 60 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2022-10-07T19:49:40Z |
 | 9 | [rustdesk](https://github.com/rustdesk/rustdesk) | 29787 | 2622 | Rust | 328 | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. | 2022-10-07T05:49:16Z |
 | 10 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 29048 | 1930 | Rust | 9 | A curated list of Rust code and resources. | 2022-10-03T12:20:48Z |
 
@@ -607,16 +607,16 @@ This is top 10, for more click **[Top 100 Stars in Shell](Top100/Shell.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 150842 | 24575 | Shell | 241 | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2022-10-07T19:38:53Z |
-| 2 | [realworld](https://github.com/gothinkster/realworld) | 69381 | 6483 | Shell | 50 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | 2022-10-05T22:56:22Z |
+| 1 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 150843 | 24576 | Shell | 241 | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2022-10-07T19:38:53Z |
+| 2 | [realworld](https://github.com/gothinkster/realworld) | 69382 | 6483 | Shell | 50 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | 2022-10-05T22:56:22Z |
 | 3 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 64823 | 4952 | Shell | 12 | Papers from the computer science community to read and discuss. | 2022-10-01T01:43:02Z |
-| 4 | [nvm](https://github.com/nvm-sh/nvm) | 61396 | 6519 | Shell | 304 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2022-10-07T19:40:50Z |
+| 4 | [nvm](https://github.com/nvm-sh/nvm) | 61397 | 6519 | Shell | 304 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2022-10-07T19:40:50Z |
 | 5 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 47424 | 7140 | Shell | 312 | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). | 2022-10-06T07:56:11Z |
 | 6 | [pi-hole](https://github.com/pi-hole/pi-hole) | 38974 | 2373 | Shell | 28 | A black hole for Internet advertisements | 2022-10-07T16:55:03Z |
 | 7 | [drawio-desktop](https://github.com/jgraph/drawio-desktop) | 34113 | 3757 | Shell | 165 | Official electron build of draw.io | 2022-09-09T12:53:08Z |
 | 8 | [og-aws](https://github.com/open-guides/og-aws) | 32581 | 3534 | Shell | 136 | 📙 Amazon Web Services — a practical guide | 2022-09-25T11:54:13Z |
 | 9 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 31896 | 2902 | Shell | 36 | 📖 A collection of pure bash alternatives to external processes. | 2022-03-26T18:58:56Z |
-| 10 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | 31574 | 1647 | Shell | 25 | A Zsh theme | 2022-10-05T09:26:42Z |
+| 10 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | 31575 | 1647 | Shell | 26 | A Zsh theme | 2022-10-05T09:26:42Z |
 
 
 ## Swift
@@ -629,12 +629,12 @@ This is top 10, for more click **[Top 100 Stars in Swift](Top100/Swift.md)**
 | 2 | [Alamofire](https://github.com/Alamofire/Alamofire) | 38403 | 7260 | Swift | 31 | Elegant HTTP Networking in Swift | 2022-10-03T04:00:32Z |
 | 3 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 32440 | 2087 | Swift | 38 | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | 2022-10-07T13:27:57Z |
 | 4 | [iina](https://github.com/iina/iina) | 31375 | 2339 | Swift | 1337 | The modern video player for macOS. | 2022-10-07T11:43:54Z |
-| 5 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 30664 | 7962 | Swift | 260 | Next Generation of ShadowsocksX | 2022-03-06T05:44:10Z |
+| 5 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 30663 | 7962 | Swift | 260 | Next Generation of ShadowsocksX | 2022-03-06T05:44:10Z |
 | 6 | [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) | 26955 | 4839 | Swift | 29 | Algorithms and data structures in Swift, with explanations! | 2022-08-11T12:03:00Z |
 | 7 | [Charts](https://github.com/danielgindi/Charts) | 26044 | 5545 | Swift | 777 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 2022-10-05T09:09:54Z |
 | 8 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 23150 | 3402 | Swift | 46 | An iOS library to natively render After Effects vector animations | 2022-10-07T19:24:13Z |
 | 9 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 22755 | 4018 | Swift | 6 | Reactive Programming in Swift | 2022-09-29T07:14:14Z |
-| 10 | [vapor](https://github.com/vapor/vapor) | 22141 | 1375 | Swift | 82 | 💧 A server-side Swift HTTP web framework. | 2022-10-06T10:00:36Z |
+| 10 | [vapor](https://github.com/vapor/vapor) | 22142 | 1375 | Swift | 82 | 💧 A server-side Swift HTTP web framework. | 2022-10-06T10:00:36Z |
 
 
 ## TeX
@@ -661,16 +661,16 @@ This is top 10, for more click **[Top 100 Stars in TypeScript](Top100/TypeScript
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 354967 | 29891 | TypeScript | 153 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2022-10-07T18:15:49Z |
-| 2 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 214075 | 30721 | TypeScript | 128 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2022-10-07T18:55:28Z |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 354967 | 29892 | TypeScript | 153 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2022-10-07T18:15:49Z |
+| 2 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 214081 | 30721 | TypeScript | 128 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2022-10-07T18:55:28Z |
 | 3 | [vue](https://github.com/vuejs/vue) | 199841 | 32897 | TypeScript | 347 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | 2022-10-05T16:49:41Z |
-| 4 | [vscode](https://github.com/microsoft/vscode) | 137379 | 23577 | TypeScript | 7417 | Visual Studio Code | 2022-10-07T19:33:29Z |
-| 5 | [TypeScript](https://github.com/microsoft/TypeScript) | 84801 | 11033 | TypeScript | 5580 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2022-10-07T17:33:20Z |
-| 6 | [angular](https://github.com/angular/angular) | 84182 | 22277 | TypeScript | 1086 | The modern web developer’s platform | 2022-10-07T19:38:06Z |
-| 7 | [ant-design](https://github.com/ant-design/ant-design) | 82136 | 36136 | TypeScript | 851 | An enterprise-class UI design language and React UI library | 2022-10-07T17:05:24Z |
-| 8 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 79487 | 10609 | TypeScript | 16 | 💯 Curated coding interview preparation materials for busy software engineers | 2022-10-07T16:42:29Z |
-| 9 | [storybook](https://github.com/storybookjs/storybook) | 74320 | 7783 | TypeScript | 2004 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 2022-10-07T17:11:00Z |
-| 10 | [svelte](https://github.com/sveltejs/svelte) | 62519 | 3049 | TypeScript | 669 | Cybernetically enhanced web apps | 2022-10-07T09:38:43Z |
+| 4 | [vscode](https://github.com/microsoft/vscode) | 137380 | 23577 | TypeScript | 7419 | Visual Studio Code | 2022-10-07T19:33:29Z |
+| 5 | [TypeScript](https://github.com/microsoft/TypeScript) | 84801 | 11033 | TypeScript | 5578 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | 2022-10-07T17:33:20Z |
+| 6 | [ant-design](https://github.com/ant-design/ant-design) | 82136 | 36136 | TypeScript | 851 | An enterprise-class UI design language and React UI library | 2022-10-07T17:05:24Z |
+| 7 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 79487 | 10609 | TypeScript | 16 | 💯 Curated coding interview preparation materials for busy software engineers | 2022-10-07T16:42:29Z |
+| 8 | [storybook](https://github.com/storybookjs/storybook) | 74320 | 7783 | TypeScript | 2004 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 2022-10-07T20:01:46Z |
+| 9 | [svelte](https://github.com/sveltejs/svelte) | 62521 | 3049 | TypeScript | 669 | Cybernetically enhanced web apps | 2022-10-07T09:38:43Z |
+| 10 | [redux](https://github.com/reduxjs/redux) | 58725 | 15310 | TypeScript | 42 | Predictable state container for JavaScript apps | 2022-09-21T07:16:06Z |
 
 
 ## Vim script
@@ -679,13 +679,13 @@ This is top 10, for more click **[Top 100 Stars in Vim script](Top100/Vim-script
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 58372 | 4077 | Vim Script | 1263 | Vim-fork focused on extensibility and usability | 2022-10-07T15:06:00Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 58373 | 4078 | Vim Script | 1263 | Vim-fork focused on extensibility and usability | 2022-10-07T15:06:00Z |
 | 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 29329 | 1815 | Vim Script | 98 | :hibiscus: Minimalist Vim Plugin Manager | 2022-09-28T13:59:34Z |
 | 3 | [vim](https://github.com/vim/vim) | 28589 | 4390 | Vim Script | 1164 | The official Vim repository | 2022-10-07T19:12:36Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 27834 | 7034 | Vim Script | 32 | The ultimate Vim configuration (vimrc) | 2022-09-24T13:10:04Z |
 | 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23259 | 2562 | Vim Script | 160 | Vundle, the plug-in manager for Vim | 2022-04-15T16:22:18Z |
 | 6 | [nerdtree](https://github.com/preservim/nerdtree) | 17747 | 1402 | Vim Script | 42 | A tree explorer plugin for vim. | 2022-09-22T05:31:31Z |
-| 7 | [vim-airline](https://github.com/vim-airline/vim-airline) | 16819 | 1112 | Vim Script | 38 | lean & mean status/tabline for vim that's light as air | 2022-10-01T18:42:06Z |
+| 7 | [vim-airline](https://github.com/vim-airline/vim-airline) | 16820 | 1112 | Vim Script | 38 | lean & mean status/tabline for vim that's light as air | 2022-10-01T18:42:06Z |
 | 8 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 16597 | 970 | Vim Script | 17 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2022-09-04T16:45:34Z |
 | 9 | [spf13-vim](https://github.com/spf13/spf13-vim) | 15390 | 3751 | Vim Script | 311 | The ultimate vim distribution | 2021-07-08T00:11:51Z |
 | 10 | [solarized](https://github.com/altercation/solarized) | 15302 | 3581 | Vim Script | 153 | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | 2022-10-05T05:07:36Z |

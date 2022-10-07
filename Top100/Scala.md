@@ -47,7 +47,7 @@
 | 40 | [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | 2952 | 603 | Scala | 35 | State of the Art Natural Language Processing | 2022-10-07T11:07:27Z |
 | 41 | [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) | 2789 | 1011 | Scala | 107 | REST job server for Apache Spark | 2022-06-24T06:49:14Z |
 | 42 | [kestrel](https://github.com/twitter-archive/kestrel) | 2783 | 327 | Scala | 24 | simple, distributed message queue system (inactive) | 2016-01-22T07:54:28Z |
-| 43 | [chisel3](https://github.com/chipsalliance/chisel3) | 2723 | 483 | Scala | 212 | Chisel 3: A Modern Hardware Design Language | 2022-10-07T19:42:55Z |
+| 43 | [chisel3](https://github.com/chipsalliance/chisel3) | 2723 | 483 | Scala | 212 | Chisel 3: A Modern Hardware Design Language | 2022-10-07T19:56:20Z |
 | 44 | [incubator-linkis](https://github.com/apache/incubator-linkis) | 2694 | 935 | Scala | 350 | Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control. | 2022-10-07T07:40:35Z |
 | 45 | [TheHive](https://github.com/TheHive-Project/TheHive) | 2665 | 526 | Scala | 764 | TheHive: a Scalable, Open Source and Free Security Incident Response Platform | 2022-09-13T07:47:12Z |
 | 46 | [lagom](https://github.com/lagom/lagom) | 2620 | 632 | Scala | 444 | Reactive Microservices for the JVM | 2022-05-02T14:51:53Z |

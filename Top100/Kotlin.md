@@ -23,7 +23,7 @@
 | 16 | [plaid](https://github.com/nickbutcher/plaid) | 16242 | 3249 | Kotlin | 75 | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2022-09-09T14:24:43Z |
 | 17 | [sunflower](https://github.com/android/sunflower) | 16174 | 4255 | Kotlin | 81 | A gardening app illustrating Android development best practices with Android Jetpack. | 2022-10-06T16:33:58Z |
 | 18 | [anko](https://github.com/Kotlin/anko) | 15946 | 1299 | Kotlin | 237 | Pleasant Android application development | 2019-12-05T08:59:41Z |
-| 19 | [compose-samples](https://github.com/android/compose-samples) | 13244 | 3085 | Kotlin | 7 | Official Jetpack Compose samples. | 2022-10-07T18:11:09Z |
+| 19 | [compose-samples](https://github.com/android/compose-samples) | 13244 | 3085 | Kotlin | 7 | Official Jetpack Compose samples. | 2022-10-07T19:59:59Z |
 | 20 | [uamp](https://github.com/android/uamp) | 12656 | 3683 | Kotlin | 61 | A sample audio app for Android | 2022-09-27T17:00:12Z |
 | 21 | [RxTool](https://github.com/Tamsiree/RxTool) | 11809 | 2848 | Kotlin | 69 | Android开发人员不得不收集的工具类集合 \| 支付宝支付 \| 微信支付（统一下单） \| 微信分享 \| Zip4j压缩（支持分卷压缩与加密） \| 一键集成UCrop选择圆形头像 \| 一键集成二维码和条形码的扫描与生成 \| 常用Dialog \| WebView的封装可播放视频 \| 仿斗鱼滑动验证码 \| Toast封装 \| 震动 \| GPS \| Location定位 \| 图片缩放 \| Exif 图片添加地理位置信息（经纬度） \| 蛛网等级 \| 颜色选择器 \| ArcGis \| VTPK \| 编译运行一下说不定会找到惊喜 | 2022-04-10T06:56:48Z |
 | 22 | [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | 11572 | 2083 | Kotlin | 0 | The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design. | 2022-08-20T10:30:33Z |
@@ -38,7 +38,7 @@
 | 31 | [RxBinding](https://github.com/JakeWharton/RxBinding) | 9719 | 949 | Kotlin | 31 | RxJava binding APIs for Android's UI widgets. | 2021-11-18T17:51:21Z |
 | 32 | [compose-jb](https://github.com/JetBrains/compose-jb) | 9515 | 704 | Kotlin | 715 | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | 2022-10-07T18:57:17Z |
 | 33 | [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) | 9030 | 667 | Kotlin | 24 | Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio. | 2022-10-07T05:54:49Z |
-| 34 | [coil](https://github.com/coil-kt/coil) | 8580 | 533 | Kotlin | 17 | Image loading for Android backed by Kotlin Coroutines. | 2022-10-07T01:03:20Z |
+| 34 | [coil](https://github.com/coil-kt/coil) | 8581 | 533 | Kotlin | 17 | Image loading for Android backed by Kotlin Coroutines. | 2022-10-07T01:03:20Z |
 | 35 | [moshi](https://github.com/square/moshi) | 8537 | 706 | Kotlin | 70 | A modern JSON library for Kotlin and Java. | 2022-09-07T14:44:34Z |
 | 36 | [okio](https://github.com/square/okio) | 8122 | 1160 | Kotlin | 65 | A modern I/O library for Android, Java, and Kotlin Multiplatform. | 2022-09-20T00:31:29Z |
 | 37 | [cheesesquare](https://github.com/chrisbanes/cheesesquare) | 7798 | 1854 | Kotlin | 0 | Demos the new Android Design library. | 2020-12-07T17:39:00Z |
@@ -62,7 +62,7 @@
 | 55 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 5727 | 3668 | Kotlin | 41 | Used to integrate Android apps with Facebook Platform. | 2022-10-05T22:23:03Z |
 | 56 | [android-oss](https://github.com/kickstarter/android-oss) | 5682 | 1012 | Kotlin | 1 | Kickstarter for Android. Bring new ideas to life, anywhere. | 2022-10-06T12:57:47Z |
 | 57 | [android-showcase](https://github.com/igorwojda/android-showcase) | 5618 | 780 | Kotlin | 11 | 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis... | 2022-10-07T11:56:47Z |
-| 58 | [Anki-Android](https://github.com/ankidroid/Anki-Android) | 5542 | 1717 | Kotlin | 356 | AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. | 2022-10-07T16:36:43Z |
+| 58 | [Anki-Android](https://github.com/ankidroid/Anki-Android) | 5542 | 1717 | Kotlin | 356 | AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. | 2022-10-07T19:53:57Z |
 | 59 | [MultiType](https://github.com/drakeet/MultiType) | 5535 | 742 | Kotlin | 9 | Flexible multiple types for Android RecyclerView. | 2022-08-28T04:51:44Z |
 | 60 | [accompanist](https://github.com/google/accompanist) | 5509 | 405 | Kotlin | 52 | A collection of extension libraries for Jetpack Compose | 2022-10-06T18:45:45Z |
 | 61 | [tivi](https://github.com/chrisbanes/tivi) | 5461 | 767 | Kotlin | 33 | Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development. | 2022-10-01T14:58:06Z |

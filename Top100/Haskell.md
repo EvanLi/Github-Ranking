@@ -6,10 +6,10 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 30110 | 1519 | Haskell | 791 | ShellCheck, a static analysis tool for shell scripts | 2022-10-07T16:12:03Z |
-| 2 | [pandoc](https://github.com/jgm/pandoc) | 26645 | 2983 | Haskell | 790 | Universal markup converter | 2022-10-07T11:56:52Z |
+| 2 | [pandoc](https://github.com/jgm/pandoc) | 26645 | 2983 | Haskell | 790 | Universal markup converter | 2022-10-07T19:45:11Z |
 | 3 | [postgrest](https://github.com/PostgREST/postgrest) | 19280 | 896 | Haskell | 178 | REST API for any Postgres database | 2022-10-07T04:43:00Z |
 | 4 | [semantic](https://github.com/github/semantic) | 8513 | 495 | Haskell | 100 | Parsing, analyzing, and comparing source code across many languages | 2022-07-22T15:39:27Z |
-| 5 | [purescript](https://github.com/purescript/purescript) | 7852 | 562 | Haskell | 241 | A strongly-typed language that compiles to JavaScript | 2022-10-07T12:46:02Z |
+| 5 | [purescript](https://github.com/purescript/purescript) | 7853 | 562 | Haskell | 241 | A strongly-typed language that compiles to JavaScript | 2022-10-07T12:46:02Z |
 | 6 | [hadolint](https://github.com/hadolint/hadolint) | 7547 | 328 | Haskell | 124 | Dockerfile linter, validate inline bash, written in Haskell | 2022-10-03T08:04:37Z |
 | 7 | [compiler](https://github.com/elm/compiler) | 6956 | 640 | Haskell | 267 | Compiler for Elm, a functional language for reliable webapps. | 2022-09-06T08:45:46Z |
 | 8 | [Carp](https://github.com/carp-lang/Carp) | 4687 | 166 | Haskell | 124 | A statically typed lisp, without a GC, for real-time applications. | 2022-09-28T04:53:00Z |
@@ -39,18 +39,18 @@
 | 32 | [haskell-language-server](https://github.com/haskell/haskell-language-server) | 2183 | 263 | Haskell | 449 | Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine. | 2022-10-07T15:34:01Z |
 | 33 | [hledger](https://github.com/simonmichael/hledger) | 2169 | 264 | Haskell | 344 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 2022-10-07T09:17:37Z |
 | 34 | [kmonad](https://github.com/kmonad/kmonad) | 2131 | 237 | Haskell | 131 | An advanced keyboard manager | 2022-10-05T06:15:33Z |
-| 35 | [corrode](https://github.com/jameysharp/corrode) | 2108 | 117 | Haskell | 66 | C to Rust translator | 2019-03-10T01:48:47Z |
+| 35 | [corrode](https://github.com/jameysharp/corrode) | 2108 | 116 | Haskell | 66 | C to Rust translator | 2019-03-10T01:48:47Z |
 | 36 | [gitit](https://github.com/jgm/gitit) | 2023 | 215 | Haskell | 183 | A wiki using HAppS, pandoc, and git | 2022-03-12T17:39:43Z |
-| 37 | [miso](https://github.com/dmjio/miso) | 1995 | 137 | Haskell | 10 | :ramen: A tasty Haskell front-end framework | 2022-09-09T22:25:13Z |
+| 37 | [miso](https://github.com/dmjio/miso) | 1996 | 137 | Haskell | 10 | :ramen: A tasty Haskell front-end framework | 2022-09-09T22:25:13Z |
 | 38 | [asterius](https://github.com/tweag/asterius) | 1981 | 60 | Haskell | 106 | A Haskell to WebAssembly compiler | 2022-07-20T11:03:22Z |
-| 39 | [agda](https://github.com/agda/agda) | 1937 | 259 | Haskell | 828 | Agda is a dependently typed programming language / interactive theorem prover. | 2022-10-07T18:24:03Z |
+| 39 | [agda](https://github.com/agda/agda) | 1937 | 259 | Haskell | 828 | Agda is a dependently typed programming language / interactive theorem prover. | 2022-10-07T19:46:29Z |
 | 40 | [wasp](https://github.com/wasp-lang/wasp) | 1903 | 84 | Haskell | 181 | A programming language that understands what a web app is. | 2022-10-07T04:22:56Z |
 | 41 | [lens](https://github.com/ekmett/lens) | 1878 | 244 | Haskell | 80 | Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens | 2022-08-11T23:16:36Z |
 | 42 | [patat](https://github.com/jaspervdj/patat) | 1858 | 54 | Haskell | 21 | Terminal-based presentations using Pandoc | 2022-09-04T13:21:58Z |
 | 43 | [futhark](https://github.com/diku-dk/futhark) | 1855 | 133 | Haskell | 55 | :boom::computer::boom: A data-parallel functional programming language | 2022-10-07T12:54:25Z |
 | 44 | [lamdu](https://github.com/lamdu/lamdu) | 1797 | 68 | Haskell | 17 | lamdu - towards the next generation IDE | 2022-10-03T20:11:07Z |
 | 45 | [dapptools](https://github.com/dapphub/dapptools) | 1749 | 307 | Haskell | 141 | Dapp, Seth, Hevm, and more | 2022-10-07T15:08:27Z |
-| 46 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 1743 | 79 | Haskell | 75 | SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! | 2022-10-07T19:01:22Z |
+| 46 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 1743 | 79 | Haskell | 75 | SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! | 2022-10-07T20:00:43Z |
 | 47 | [servant](https://github.com/haskell-servant/servant) | 1649 | 379 | Haskell | 252 | Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! | 2022-10-05T14:10:22Z |
 | 48 | [erd](https://github.com/BurntSushi/erd) | 1609 | 142 | Haskell | 17 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. | 2021-09-29T18:07:09Z |
 | 49 | [scotty](https://github.com/scotty-web/scotty) | 1608 | 126 | Haskell | 43 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) | 2022-09-09T23:07:26Z |

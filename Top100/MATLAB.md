@@ -64,7 +64,7 @@
 | 57 | [NTURGB-D](https://github.com/shahroudy/NTURGB-D) | 547 | 162 | MATLAB | 18 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" | 2022-02-18T07:49:02Z |
 | 58 | [vgg_face2](https://github.com/ox-vgg/vgg_face2) | 540 | 105 | MATLAB | 3 | None | 2020-02-18T15:30:05Z |
 | 59 | [Detect-Track](https://github.com/feichtenhofer/Detect-Track) | 540 | 107 | MATLAB | 18 | Code release for "Detect to Track and Track to Detect", ICCV 2017 | 2018-07-03T16:38:41Z |
-| 60 | [quadrotor](https://github.com/yrlu/quadrotor) | 538 | 235 | MATLAB | 8 | Quadrotor control, path planning and trajectory optimization | 2022-07-05T07:23:42Z |
+| 60 | [quadrotor](https://github.com/yrlu/quadrotor) | 539 | 235 | MATLAB | 8 | Quadrotor control, path planning and trajectory optimization | 2022-07-05T07:23:42Z |
 | 61 | [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie) | 529 | 143 | MATLAB | 1 | Betting Strategy to Beat the Bookies at Football Games | 2021-10-04T15:11:23Z |
 | 62 | [IRCNN](https://github.com/cszn/IRCNN) | 527 | 177 | MATLAB | 11 | Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab) | 2021-10-09T22:03:58Z |
 | 63 | [SelfExSR](https://github.com/jbhuang0604/SelfExSR) | 524 | 265 | MATLAB | 7 | Single Image Super-Resolution from Transformed Self-Exemplars (CVPR 2015) | 2016-05-31T16:29:23Z |

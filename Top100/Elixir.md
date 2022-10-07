@@ -22,7 +22,7 @@
 | 15 | [livebook](https://github.com/livebook-dev/livebook) | 3029 | 259 | Elixir | 25 | Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView | 2022-10-07T19:30:27Z |
 | 16 | [30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | 2933 | 422 | Elixir | 0 | A walk through the Elixir language in 30 exercises. | 2022-04-13T18:14:27Z |
 | 17 | [distillery](https://github.com/bitwalker/distillery) | 2910 | 369 | Elixir | 46 | Simplify deployments in Elixir with OTP releases! | 2022-04-30T20:54:22Z |
-| 18 | [firezone](https://github.com/firezone/firezone) | 2908 | 111 | Elixir | 30 | WireGuard®-based VPN server and firewall | 2022-10-06T20:24:03Z |
+| 18 | [firezone](https://github.com/firezone/firezone) | 2909 | 111 | Elixir | 30 | WireGuard®-based VPN server and firewall | 2022-10-06T20:24:03Z |
 | 19 | [magnetissimo](https://github.com/sergiotapia/magnetissimo) | 2594 | 176 | Elixir | 12 | Web application that indexes all popular torrent sites, and saves it to the local database. | 2022-01-13T20:16:15Z |
 | 20 | [plug](https://github.com/elixir-plug/plug) | 2578 | 559 | Elixir | 3 | Compose web applications with functions | 2022-10-03T23:07:31Z |
 | 21 | [changelog.com](https://github.com/thechangelog/changelog.com) | 2459 | 225 | Elixir | 11 | Changelog is news and podcast for developers. This is our open source platform. | 2022-10-07T17:59:54Z |

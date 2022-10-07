@@ -16,7 +16,7 @@
 | 9 | [YYKit](https://github.com/ibireme/YYKit) | 13940 | 3665 | Objective-C | 267 | A collection of iOS components. | 2022-04-29T07:46:02Z |
 | 10 | [fmdb](https://github.com/ccgus/fmdb) | 13695 | 2792 | Objective-C | 228 | A Cocoa / Objective-C wrapper around SQLite | 2022-10-06T16:26:58Z |
 | 11 | [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13654 | 3553 | Objective-C | 27 | An easy way to use pull-to-refresh. | 2022-09-27T11:22:17Z |
-| 12 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 13521 | 4712 | Objective-C | 22 | React Native Mapview component for iOS + Android | 2022-10-07T17:51:41Z |
+| 12 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 13522 | 4712 | Objective-C | 21 | React Native Mapview component for iOS + Android | 2022-10-07T17:51:41Z |
 | 13 | [spectacle](https://github.com/eczarny/spectacle) | 13425 | 815 | Objective-C | 0 | Spectacle allows you to organize your windows without using a mouse. | 2022-01-15T17:32:42Z |
 | 14 | [FLEX](https://github.com/FLEXTool/FLEX) | 13219 | 1592 | Objective-C | 24 | An in-app debugging and exploration tool for iOS | 2022-10-07T15:39:45Z |
 | 15 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 13139 | 2430 | Objective-C | 131 | None | 2019-04-22T13:02:11Z |
@@ -95,7 +95,7 @@
 | 88 | [KIF](https://github.com/kif-framework/KIF) | 6143 | 911 | Objective-C | 42 | Keep It Functional - An iOS Functional Testing Framework | 2022-09-20T14:39:32Z |
 | 89 | [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6133 | 1493 | Objective-C | 430 | Autoscroll Banner.   无限循环图片、文字轮播器。 | 2022-05-12T10:46:45Z |
 | 90 | [NewsBlur](https://github.com/samuelclay/NewsBlur) | 6101 | 959 | Objective-C | 126 | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | 2022-10-04T02:26:51Z |
-| 91 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 6085 | 992 | Objective-C | 201 | A software update framework for macOS | 2022-10-02T03:14:51Z |
+| 91 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 6086 | 992 | Objective-C | 201 | A software update framework for macOS | 2022-10-02T03:14:51Z |
 | 92 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | 5968 | 336 | Objective-C | 30 | Send User Notifications on macOS from the command-line. | 2022-08-25T19:20:53Z |
 | 93 | [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) | 5919 | 2125 | Objective-C | 513 | An XMPP Framework in Objective-C for Mac and iOS | 2022-08-31T07:31:30Z |
 | 94 | [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) | 5915 | 1313 | Objective-C | 155 | One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime. | 2021-03-19T07:10:38Z |
