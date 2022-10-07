@@ -50,11 +50,11 @@
 | 43 | [futhark](https://github.com/diku-dk/futhark) | 1855 | 133 | Haskell | 55 | :boom::computer::boom: A data-parallel functional programming language | 2022-10-07T12:54:25Z |
 | 44 | [lamdu](https://github.com/lamdu/lamdu) | 1797 | 68 | Haskell | 17 | lamdu - towards the next generation IDE | 2022-10-03T20:11:07Z |
 | 45 | [dapptools](https://github.com/dapphub/dapptools) | 1749 | 307 | Haskell | 141 | Dapp, Seth, Hevm, and more | 2022-10-07T15:08:27Z |
-| 46 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 1743 | 79 | Haskell | 75 | SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! | 2022-10-07T20:00:43Z |
+| 46 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 1743 | 79 | Haskell | 75 | SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! | 2022-10-07T20:05:49Z |
 | 47 | [servant](https://github.com/haskell-servant/servant) | 1649 | 379 | Haskell | 252 | Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! | 2022-10-05T14:10:22Z |
 | 48 | [erd](https://github.com/BurntSushi/erd) | 1609 | 142 | Haskell | 17 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. | 2021-09-29T18:07:09Z |
 | 49 | [scotty](https://github.com/scotty-web/scotty) | 1608 | 126 | Haskell | 43 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) | 2022-09-09T23:07:26Z |
-| 50 | [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1607 | 386 | Haskell | 33 | Informative git prompt for zsh | 2022-03-24T15:50:23Z |
+| 50 | [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1606 | 386 | Haskell | 33 | Informative git prompt for zsh | 2022-03-24T15:50:23Z |
 | 51 | [HLearn](https://github.com/mikeizbicki/HLearn) | 1592 | 137 | Haskell | 23 | Homomorphic machine learning | 2016-05-29T16:51:53Z |
 | 52 | [real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) | 1514 | 225 | Haskell | 14 | 《Real World Haskell》中文翻译项目 | 2022-02-14T13:35:16Z |
 | 53 | [taskell](https://github.com/smallhadroncollider/taskell) | 1485 | 55 | Haskell | 45 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects | 2022-02-03T16:24:25Z |

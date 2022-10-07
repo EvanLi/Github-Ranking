@@ -14,7 +14,7 @@
 | 7 | [Genie.jl](https://github.com/GenieFramework/Genie.jl) | 1868 | 170 | Julia | 89 | 🧞The highly productive Julia web framework | 2022-10-07T17:07:25Z |
 | 8 | [JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 1812 | 367 | Julia | 19 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) | 2022-10-05T15:58:52Z |
 | 9 | [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) | 1795 | 266 | Julia | 248 | Crafty statistical graphics for Julia. | 2022-09-18T18:53:08Z |
-| 10 | [Makie.jl](https://github.com/MakieOrg/Makie.jl) | 1715 | 179 | Julia | 633 | Visualizations and plotting in Julia | 2022-10-07T07:48:59Z |
+| 10 | [Makie.jl](https://github.com/MakieOrg/Makie.jl) | 1716 | 179 | Julia | 633 | Visualizations and plotting in Julia | 2022-10-07T07:48:59Z |
 | 11 | [Gen.jl](https://github.com/probcomp/Gen.jl) | 1671 | 148 | Julia | 139 | A general-purpose probabilistic programming system with programmable inference | 2022-10-04T00:16:49Z |
 | 12 | [Turing.jl](https://github.com/TuringLang/Turing.jl) | 1643 | 194 | Julia | 101 | Bayesian inference with probabilistic programming. | 2022-09-30T07:18:19Z |
 | 13 | [Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1609 | 306 | Julia | 663 | Powerful convenience for Julia visualizations and data analysis | 2022-10-07T19:54:42Z |
@@ -62,7 +62,7 @@
 | 55 | [LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) | 598 | 58 | Julia | 89 | Macro(s) for vectorizing loops. | 2022-10-04T20:35:51Z |
 | 56 | [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 583 | 224 | Julia | 130 | Julia implementation of Data structures | 2022-10-06T20:32:27Z |
 | 57 | [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) | 577 | 127 | Julia | 128 | Statically sized arrays for Julia | 2022-09-29T15:35:07Z |
-| 58 | [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 552 | 145 | Julia | 26 | HTTP for Julia | 2022-10-07T18:42:03Z |
+| 58 | [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 552 | 145 | Julia | 25 | HTTP for Julia | 2022-10-07T20:07:50Z |
 | 59 | [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) | 545 | 80 | Julia | 59 | Progress meter for long-running computations | 2022-08-11T11:02:30Z |
 | 60 | [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) | 525 | 79 | Julia | 31 | MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces. | 2022-09-20T18:49:17Z |
 | 61 | [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) | 515 | 45 | Julia | 19 | Formatted output of timed sections in Julia | 2022-09-01T05:51:57Z |

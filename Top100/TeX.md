@@ -8,7 +8,7 @@
 | 1 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 32959 | 9033 | TeX | 61 | Deep Learning Book Chinese Translation | 2019-12-03T04:25:44Z |
 | 2 | [libpku](https://github.com/lib-pku/libpku) | 27618 | 8025 | TeX | 9 | 贵校课程资料民间整理 | 2022-01-05T04:09:27Z |
 | 3 | [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | 24027 | 4483 | TeX | 15 | The most cited deep learning papers | 2020-08-27T13:43:48Z |
-| 4 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 17378 | 2412 | TeX | 60 | Latex code for making neural networks diagrams | 2022-09-16T16:45:50Z |
+| 4 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 17379 | 2412 | TeX | 60 | Latex code for making neural networks diagrams | 2022-09-16T16:45:50Z |
 | 5 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | 17356 | 4146 | TeX | 114 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | 2022-09-24T16:42:17Z |
 | 6 | [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) | 12334 | 2137 | TeX | 5 | A technical report on convolution arithmetic in the context of deep learning | 2022-09-12T14:17:02Z |
 | 7 | [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) | 12239 | 4287 | TeX | 27 | 谷歌全新开源人工智能系统TensorFlow官方文档中文版 | 2019-08-04T08:55:50Z |

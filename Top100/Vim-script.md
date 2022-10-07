@@ -7,13 +7,13 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [neovim](https://github.com/neovim/neovim) | 58373 | 4078 | Vim Script | 1263 | Vim-fork focused on extensibility and usability | 2022-10-07T15:06:00Z |
 | 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 29329 | 1815 | Vim Script | 98 | :hibiscus: Minimalist Vim Plugin Manager | 2022-09-28T13:59:34Z |
-| 3 | [vim](https://github.com/vim/vim) | 28589 | 4390 | Vim Script | 1164 | The official Vim repository | 2022-10-07T19:12:36Z |
+| 3 | [vim](https://github.com/vim/vim) | 28589 | 4390 | Vim Script | 1165 | The official Vim repository | 2022-10-07T19:12:36Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 27834 | 7034 | Vim Script | 32 | The ultimate Vim configuration (vimrc) | 2022-09-24T13:10:04Z |
 | 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23259 | 2562 | Vim Script | 160 | Vundle, the plug-in manager for Vim | 2022-04-15T16:22:18Z |
 | 6 | [nerdtree](https://github.com/preservim/nerdtree) | 17747 | 1402 | Vim Script | 42 | A tree explorer plugin for vim. | 2022-09-22T05:31:31Z |
 | 7 | [vim-airline](https://github.com/vim-airline/vim-airline) | 16820 | 1112 | Vim Script | 38 | lean & mean status/tabline for vim that's light as air | 2022-10-01T18:42:06Z |
 | 8 | [vim-fugitive](https://github.com/tpope/vim-fugitive) | 16597 | 970 | Vim Script | 17 | fugitive.vim: A Git wrapper so awesome, it should be illegal | 2022-09-04T16:45:34Z |
-| 9 | [spf13-vim](https://github.com/spf13/spf13-vim) | 15390 | 3751 | Vim Script | 311 | The ultimate vim distribution | 2021-07-08T00:11:51Z |
+| 9 | [spf13-vim](https://github.com/spf13/spf13-vim) | 15389 | 3751 | Vim Script | 311 | The ultimate vim distribution | 2021-07-08T00:11:51Z |
 | 10 | [solarized](https://github.com/altercation/solarized) | 15302 | 3581 | Vim Script | 153 | precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes | 2022-10-05T05:07:36Z |
 | 11 | [vim-go](https://github.com/fatih/vim-go) | 14952 | 1454 | Vim Script | 26 | Go development plugin for Vim | 2022-09-26T23:01:00Z |
 | 12 | [vim-galore](https://github.com/mhinz/vim-galore) | 14600 | 579 | Vim Script | 2 | :mortar_board: All things Vim! | 2022-06-28T00:44:43Z |

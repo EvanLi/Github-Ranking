@@ -58,8 +58,8 @@
 | 51 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 1092 | 373 | R | 0 | 🤹 Shiny tips & tricks for improving your apps and solving common problems | 2021-09-27T18:50:51Z |
 | 52 | [tidytext](https://github.com/juliasilge/tidytext) | 1082 | 189 | R | 6 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: | 2022-08-25T18:39:46Z |
 | 53 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 1078 | 486 | R | 40 | Mastering Shiny: a book | 2022-09-13T17:16:51Z |
-| 54 | [purrr](https://github.com/tidyverse/purrr) | 1064 | 230 | R | 6 | A functional programming toolkit for R | 2022-10-06T15:12:59Z |
-| 55 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1064 | 90 | R | 23 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2022-09-04T10:46:38Z |
+| 54 | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1064 | 90 | R | 23 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components | 2022-09-04T10:46:38Z |
+| 55 | [purrr](https://github.com/tidyverse/purrr) | 1064 | 230 | R | 6 | A functional programming toolkit for R | 2022-10-06T15:12:59Z |
 | 56 | [sf](https://github.com/r-spatial/sf) | 1056 | 258 | R | 106 | Simple Features for R | 2022-10-07T05:06:33Z |
 | 57 | [brms](https://github.com/paul-buerkner/brms) | 1049 | 149 | R | 103 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan | 2022-10-03T21:29:07Z |
 | 58 | [swirl](https://github.com/swirldev/swirl) | 1035 | 592 | R | 277 | :cyclone: Learn R, in R. | 2021-02-14T15:48:22Z |

@@ -22,7 +22,7 @@
 | 15 | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) | 16682 | 2033 | Kotlin | 79 | A rule-based tunnel for Android. | 2022-10-05T19:29:24Z |
 | 16 | [plaid](https://github.com/nickbutcher/plaid) | 16242 | 3249 | Kotlin | 75 | An Android app which provides design news & inspiration as well as being an example of implementing material design. | 2022-09-09T14:24:43Z |
 | 17 | [sunflower](https://github.com/android/sunflower) | 16174 | 4255 | Kotlin | 81 | A gardening app illustrating Android development best practices with Android Jetpack. | 2022-10-06T16:33:58Z |
-| 18 | [anko](https://github.com/Kotlin/anko) | 15946 | 1299 | Kotlin | 237 | Pleasant Android application development | 2019-12-05T08:59:41Z |
+| 18 | [anko](https://github.com/Kotlin/anko) | 15947 | 1299 | Kotlin | 237 | Pleasant Android application development | 2019-12-05T08:59:41Z |
 | 19 | [compose-samples](https://github.com/android/compose-samples) | 13244 | 3085 | Kotlin | 7 | Official Jetpack Compose samples. | 2022-10-07T19:59:59Z |
 | 20 | [uamp](https://github.com/android/uamp) | 12656 | 3683 | Kotlin | 61 | A sample audio app for Android | 2022-09-27T17:00:12Z |
 | 21 | [RxTool](https://github.com/Tamsiree/RxTool) | 11809 | 2848 | Kotlin | 69 | Android开发人员不得不收集的工具类集合 \| 支付宝支付 \| 微信支付（统一下单） \| 微信分享 \| Zip4j压缩（支持分卷压缩与加密） \| 一键集成UCrop选择圆形头像 \| 一键集成二维码和条形码的扫描与生成 \| 常用Dialog \| WebView的封装可播放视频 \| 仿斗鱼滑动验证码 \| Toast封装 \| 震动 \| GPS \| Location定位 \| 图片缩放 \| Exif 图片添加地理位置信息（经纬度） \| 蛛网等级 \| 颜色选择器 \| ArcGis \| VTPK \| 编译运行一下说不定会找到惊喜 | 2022-04-10T06:56:48Z |

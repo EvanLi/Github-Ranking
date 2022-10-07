@@ -32,7 +32,7 @@
 | 25 | [quine-relay](https://github.com/mame/quine-relay) | 12635 | 557 | Ruby | 15 | An uroboros program with 100+ programming languages | 2022-06-03T03:23:51Z |
 | 26 | [capistrano](https://github.com/capistrano/capistrano) | 12272 | 1803 | Ruby | 51 | Remote multi-server automation tool | 2022-08-07T17:38:32Z |
 | 27 | [postal](https://github.com/postalserver/postal) | 12092 | 865 | Ruby | 57 | ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail | 2022-09-28T12:28:37Z |
-| 28 | [sidekiq](https://github.com/mperham/sidekiq) | 12073 | 2200 | Ruby | 20 | Simple, efficient background processing for Ruby | 2022-10-05T17:54:08Z |
+| 28 | [sidekiq](https://github.com/mperham/sidekiq) | 12074 | 2200 | Ruby | 20 | Simple, efficient background processing for Ruby | 2022-10-05T17:54:08Z |
 | 29 | [rubocop](https://github.com/rubocop/rubocop) | 12005 | 2917 | Ruby | 227 | A Ruby static code analyzer and formatter, based on the community Ruby style guide. | 2022-10-07T17:54:07Z |
 | 30 | [spree](https://github.com/spree/spree) | 11974 | 4879 | Ruby | 193 | Open Source multi-language/multi-currency/multi-store eCommerce platform | 2022-10-06T19:32:31Z |
 | 31 | [homebrew-core](https://github.com/Homebrew/homebrew-core) | 11717 | 10846 | Ruby | 30 | 🍻 Default formulae for the missing package manager for macOS (or Linux) | 2022-10-07T19:41:36Z |

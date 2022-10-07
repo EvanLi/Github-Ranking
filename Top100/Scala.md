@@ -86,7 +86,7 @@
 | 79 | [graphcool-framework](https://github.com/Graphcool/graphcool-framework) | 1791 | 131 | Scala | 499 | None | 2020-09-04T16:57:58Z |
 | 80 | [mill](https://github.com/com-lihaoyi/mill) | 1789 | 256 | Scala | 93 | Your shiny new Java/Scala build tool! | 2022-10-06T20:54:14Z |
 | 81 | [metals](https://github.com/scalameta/metals) | 1780 | 256 | Scala | 172 | Scala language server with rich IDE features 🚀  | 2022-10-07T17:58:04Z |
-| 82 | [spire](https://github.com/typelevel/spire) | 1707 | 247 | Scala | 128 | Powerful new number types and numeric abstractions for Scala. | 2022-10-07T19:44:45Z |
+| 82 | [spire](https://github.com/typelevel/spire) | 1707 | 247 | Scala | 128 | Powerful new number types and numeric abstractions for Scala. | 2022-10-07T20:07:44Z |
 | 83 | [giter8](https://github.com/foundweekends/giter8) | 1687 | 228 | Scala | 42 | a command line tool to apply templates defined on GitHub  | 2022-10-04T21:27:22Z |
 | 84 | [SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) | 1651 | 517 | Scala | 12 | 深圳地铁大数据客流分析系统🚇🚄🌟 | 2022-06-21T03:16:23Z |
 | 85 | [cats-effect](https://github.com/typelevel/cats-effect) | 1631 | 434 | Scala | 142 | The pure asynchronous runtime for Scala | 2022-10-07T18:29:06Z |
