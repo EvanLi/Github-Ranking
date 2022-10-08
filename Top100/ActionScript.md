@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7393 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7392 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6478 | 512 | ActionScript | 15 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-09-09T01:59:16Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2553 | 840 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2433 | 1110 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
