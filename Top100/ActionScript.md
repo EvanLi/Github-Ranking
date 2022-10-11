@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7392 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6478 | 512 | ActionScript | 15 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-09-09T01:59:16Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6479 | 512 | ActionScript | 15 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-09-09T01:59:16Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2554 | 839 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2433 | 1109 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 464 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -19,12 +19,12 @@
 | 12 | [bfxr](https://github.com/increpare/bfxr) | 868 | 85 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 13 | [flashls](https://github.com/mangui/flashls) | 759 | 271 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 706 | 178 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2021-08-23T21:48:41Z |
-| 15 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 639 | 283 | ActionScript | 101 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
+| 15 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 283 | ActionScript | 101 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 16 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 621 | 177 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 611 | 123 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 550 | 242 | ActionScript | 64 | Modern AS3 Game Engine | 2018-08-20T12:13:13Z |
 | 19 | [Fanvas](https://github.com/Tencent/Fanvas) | 538 | 196 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
-| 20 | [emulator](https://github.com/nesbox/emulator) | 530 | 242 | ActionScript | 89 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 20 | [emulator](https://github.com/nesbox/emulator) | 531 | 242 | ActionScript | 89 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 21 | [as3swf](https://github.com/claus/as3swf) | 523 | 128 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 22 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 518 | 282 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 23 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 475 | 62 | ActionScript | 44 | A simple music making program | 2021-08-29T14:38:11Z |
@@ -38,7 +38,7 @@
 | 31 | [wck](https://github.com/jesses/wck) | 357 | 59 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 32 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 355 | 47 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
-| 34 | [royale-asjs](https://github.com/apache/royale-asjs) | 337 | 115 | ActionScript | 236 | Apache Royale ASJS | 2022-10-09T21:18:55Z |
+| 34 | [royale-asjs](https://github.com/apache/royale-asjs) | 337 | 115 | ActionScript | 236 | Apache Royale ASJS | 2022-10-10T22:37:12Z |
 | 35 | [chess_server](https://github.com/YKPublicGame/chess_server) | 336 | 166 | ActionScript | 6 | 开源棋牌服务器框架，使用skynet，网络协议使用pbc版的protobuf，数据库使用mongodb。 | 2018-11-12T12:14:17Z |
 | 36 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 331 | 63 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 37 | [flex-sdk](https://github.com/apache/flex-sdk) | 330 | 144 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
@@ -53,7 +53,7 @@
 | 46 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 279 | 87 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 47 | [flash](https://github.com/flowplayer/flash) | 278 | 182 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 48 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 275 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
-| 49 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 271 | 57 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
+| 49 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 271 | 56 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 50 | [as3-utils](https://github.com/as3/as3-utils) | 271 | 61 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 268 | 90 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 259 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
