@@ -5,15 +5,15 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7387 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6485 | 512 | ActionScript | 16 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-10-16T16:56:34Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2559 | 838 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7386 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6486 | 512 | ActionScript | 16 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-10-16T16:56:34Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2560 | 839 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2437 | 1112 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1486 | 464 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1322 | 524 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1255 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1114 | 198 | ActionScript | 67 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
-| 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1052 | 211 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
+| 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1053 | 211 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 968 | 268 | ActionScript | 13 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 11 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 920 | 391 | ActionScript | 169 | User interface components for Starling Framework and Adobe AIR | 2022-07-14T15:57:10Z |
 | 12 | [bfxr](https://github.com/increpare/bfxr) | 869 | 85 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
@@ -34,7 +34,7 @@
 | 27 | [flump](https://github.com/tconkling/flump) | 384 | 69 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 28 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 380 | 137 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 29 | [Weave](https://github.com/WeaveTeam/Weave) | 369 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
-| 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 366 | 122 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
+| 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 366 | 123 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 31 | [wck](https://github.com/jesses/wck) | 357 | 59 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 32 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 33 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 47 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
