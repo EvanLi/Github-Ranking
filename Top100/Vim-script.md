@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 59181 | 4128 | Vim Script | 1288 | Vim-fork focused on extensibility and usability | 2022-10-31T21:35:56Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 59181 | 4128 | Vim Script | 1287 | Vim-fork focused on extensibility and usability | 2022-10-31T22:14:20Z |
 | 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 29601 | 1831 | Vim Script | 103 | :hibiscus: Minimalist Vim Plugin Manager | 2022-10-08T12:00:46Z |
 | 3 | [vim](https://github.com/vim/vim) | 28763 | 4437 | Vim Script | 1203 | The official Vim repository | 2022-10-31T15:54:19Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 27986 | 7062 | Vim Script | 2 | The ultimate Vim configuration (vimrc) | 2022-10-23T18:19:40Z |
@@ -25,7 +25,7 @@
 | 18 | [til](https://github.com/jbranchaud/til) | 10770 | 640 | Vim Script | 5 | :memo: Today I Learned | 2022-10-31T02:58:54Z |
 | 19 | [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | 9341 | 1397 | Vim Script | 0 | Vim 从入门到精通 | 2022-10-10T15:11:52Z |
 | 20 | [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) | 9193 | 2428 | Vim Script | 51 | use vim as IDE | 2020-01-03T11:54:32Z |
-| 21 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 8424 | 534 | Vim Script | 278 | fzf :heart: vim | 2022-10-12T15:01:16Z |
+| 21 | [fzf.vim](https://github.com/junegunn/fzf.vim) | 8425 | 534 | Vim Script | 278 | fzf :heart: vim | 2022-10-12T15:01:16Z |
 | 22 | [janus](https://github.com/carlhuda/janus) | 7896 | 837 | Vim Script | 90 | Vim distribution | 2022-04-09T17:39:09Z |
 | 23 | [vim-gitgutter](https://github.com/airblade/vim-gitgutter) | 7853 | 284 | Vim Script | 3 | A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks. | 2022-10-22T16:57:54Z |
 | 24 | [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) | 7809 | 252 | Vim Script | 1 | True Sublime Text style multiple selections for Vim | 2020-07-30T19:52:03Z |
@@ -67,7 +67,7 @@
 | 60 | [ack.vim](https://github.com/mileszs/ack.vim) | 3006 | 398 | Vim Script | 55 | Vim plugin for the Perl module / CLI script 'ack' | 2022-08-31T08:07:55Z |
 | 61 | [CoVim](https://github.com/FredKSchott/CoVim) | 2959 | 98 | Vim Script | 0 | Collaborative Editing for Vim | 2017-12-23T16:01:23Z |
 | 62 | [vim-unimpaired](https://github.com/tpope/vim-unimpaired) | 2945 | 201 | Vim Script | 33 | unimpaired.vim: Pairs of handy bracket mappings | 2022-08-15T15:05:34Z |
-| 63 | [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | 2928 | 129 | Vim Script | 31 | EditorConfig plugin for Vim | 2022-10-31T17:03:44Z |
+| 63 | [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) | 2928 | 129 | Vim Script | 31 | EditorConfig plugin for Vim | 2022-10-31T22:26:24Z |
 | 64 | [vim-powerline](https://github.com/Lokaltog/vim-powerline) | 2873 | 391 | Vim Script | 0 | Moved to powerline/powerline. | 2013-01-22T07:14:05Z |
 | 65 | [unite.vim](https://github.com/Shougo/unite.vim) | 2847 | 228 | Vim Script | 1 | :dragon: Unite and create user interfaces | 2021-02-06T00:16:28Z |
 | 66 | [space-vim](https://github.com/liuchengxu/space-vim) | 2846 | 265 | Vim Script | 10 | :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution | 2022-09-29T22:53:14Z |

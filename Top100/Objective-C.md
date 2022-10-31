@@ -44,7 +44,7 @@
 | 37 | [SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9389 | 1976 | Objective-C | 144 | A conforming Objective-C WebSocket client library. | 2022-10-03T23:43:04Z |
 | 38 | [keycastr](https://github.com/keycastr/keycastr) | 9314 | 437 | Objective-C | 71 | KeyCastr, an open-source keystroke visualizer | 2022-07-10T21:00:29Z |
 | 39 | [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) | 8771 | 2758 | Objective-C | 250 | A simple iOS photo and video browser with grid view, captions and selections. | 2022-10-26T10:34:33Z |
-| 40 | [sequelpro](https://github.com/sequelpro/sequelpro) | 8764 | 853 | Objective-C | 476 | MySQL/MariaDB database management for macOS | 2021-06-07T08:13:22Z |
+| 40 | [sequelpro](https://github.com/sequelpro/sequelpro) | 8765 | 853 | Objective-C | 476 | MySQL/MariaDB database management for macOS | 2021-06-07T08:13:22Z |
 | 41 | [YYText](https://github.com/ibireme/YYText) | 8761 | 1483 | Objective-C | 452 | Powerful text framework for iOS to display and edit rich text. | 2022-07-26T02:47:04Z |
 | 42 | [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) | 8743 | 1664 | Objective-C | 150 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more | 2020-10-28T22:03:58Z |
 | 43 | [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 8586 | 1792 | Objective-C | 0 | For macOS.百度网盘 破解SVIP、下载速度限制~ | 2020-10-17T13:18:17Z |

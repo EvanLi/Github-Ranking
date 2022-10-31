@@ -19,12 +19,12 @@
 | 12 | [rmarkdown](https://github.com/rstudio/rmarkdown) | 2541 | 939 | R | 202 | Dynamic Documents for R | 2022-10-28T18:21:32Z |
 | 13 | [plotly.R](https://github.com/plotly/plotly.R) | 2276 | 603 | R | 557 | An interactive graphing library for R | 2022-10-25T21:29:00Z |
 | 14 | [devtools](https://github.com/r-lib/devtools) | 2228 | 750 | R | 12 | Tools to make an R developer's life easier | 2022-10-11T17:25:12Z |
-| 15 | [patchwork](https://github.com/thomasp85/patchwork) | 2147 | 153 | R | 69 | The Composer of ggplots | 2022-08-19T09:07:33Z |
-| 16 | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 1878 | 553 | R | 0 | Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database | 2022-08-30T21:26:08Z |
-| 17 | [benchm-ml](https://github.com/szilard/benchm-ml) | 1841 | 337 | R | 9 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). | 2022-09-16T14:01:14Z |
-| 18 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 1835 | 878 | R | 0 | a curated list of R tutorials for Data Science, NLP and Machine Learning  | 2022-04-29T23:59:53Z |
-| 19 | [gganimate](https://github.com/thomasp85/gganimate) | 1827 | 312 | R | 76 | A Grammar of Animated Graphics | 2022-09-20T18:47:14Z |
-| 20 | [rethinking](https://github.com/rmcelreath/rethinking) | 1771 | 538 | R | 154 | Statistical Rethinking course and book package | 2022-08-12T12:08:42Z |
+| 15 | [knitr](https://github.com/yihui/knitr) | 2218 | 855 | R | 123 | A general-purpose tool for dynamic report generation in R | 2022-10-19T22:24:26Z |
+| 16 | [patchwork](https://github.com/thomasp85/patchwork) | 2147 | 153 | R | 69 | The Composer of ggplots | 2022-08-19T09:07:33Z |
+| 17 | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 1878 | 553 | R | 0 | Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database | 2022-08-30T21:26:08Z |
+| 18 | [benchm-ml](https://github.com/szilard/benchm-ml) | 1841 | 337 | R | 9 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). | 2022-09-16T14:01:14Z |
+| 19 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 1835 | 878 | R | 0 | a curated list of R tutorials for Data Science, NLP and Machine Learning  | 2022-04-29T23:59:53Z |
+| 20 | [gganimate](https://github.com/thomasp85/gganimate) | 1827 | 312 | R | 76 | A Grammar of Animated Graphics | 2022-09-20T18:47:14Z |
 | 21 | [rethinking](https://github.com/rmcelreath/rethinking) | 1771 | 538 | R | 154 | Statistical Rethinking course and book package | 2022-08-12T12:08:42Z |
 | 22 | [investing](https://github.com/zonination/investing) | 1726 | 114 | R | 0 | Investing Returns on the Market as a Whole | 2016-12-27T13:58:02Z |
 | 23 | [labs](https://github.com/genomicsclass/labs) | 1701 | 1857 | R | 16 | Rmd source files for the HarvardX series PH525x | 2022-07-10T14:51:47Z |
@@ -49,7 +49,7 @@
 | 42 | [tidyverse](https://github.com/tidyverse/tidyverse) | 1293 | 270 | R | 1 | Easily install and load packages from the tidyverse | 2022-10-07T13:57:02Z |
 | 43 | [plumber](https://github.com/rstudio/plumber) | 1289 | 243 | R | 114 | Turn your R code into a web API. | 2022-10-06T20:11:15Z |
 | 44 | [tensorflow](https://github.com/rstudio/tensorflow) | 1263 | 323 | R | 37 | TensorFlow for R | 2022-10-14T17:27:14Z |
-| 45 | [ggthemes](https://github.com/jrnold/ggthemes) | 1203 | 218 | R | 11 | Additional themes, scales, and geoms for ggplot2 | 2022-10-21T04:38:46Z |
+| 45 | [ggthemes](https://github.com/jrnold/ggthemes) | 1204 | 218 | R | 11 | Additional themes, scales, and geoms for ggplot2 | 2022-10-21T04:38:46Z |
 | 46 | [geocompr](https://github.com/Robinlovelace/geocompr) | 1197 | 532 | R | 22 | Open source book: Geocomputation with R | 2022-10-23T11:48:41Z |
 | 47 | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1193 | 606 | R | 1 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. | 2021-04-06T03:03:04Z |
 | 48 | [tidyr](https://github.com/tidyverse/tidyr) | 1189 | 394 | R | 25 | Tidy Messy Data | 2022-10-31T21:42:17Z |

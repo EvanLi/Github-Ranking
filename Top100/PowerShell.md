@@ -5,13 +5,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [core](https://github.com/dotnet/core) | 18241 | 4664 | PowerShell | 415 | Home repository for .NET Core | 2022-10-31T15:37:49Z |
+| 1 | [core](https://github.com/dotnet/core) | 18241 | 4664 | PowerShell | 414 | Home repository for .NET Core | 2022-10-31T15:37:49Z |
 | 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 16476 | 1278 | PowerShell | 141 | A command-line installer for Windows. | 2022-10-31T20:07:23Z |
 | 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 15277 | 1866 | PowerShell | 256 | Script to remove Windows 10 bloatware. | 2022-04-12T15:33:13Z |
 | 4 | [WSL](https://github.com/microsoft/WSL) | 13787 | 705 | PowerShell | 1681 | Issues found on WSL | 2022-10-31T19:48:16Z |
 | 5 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 10017 | 4245 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
 | 6 | [blazor](https://github.com/dotnet/blazor) | 9350 | 672 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 7 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7927 | 17812 | PowerShell | 4870 | Open source documentation of Microsoft Azure | 2022-10-31T21:54:13Z |
+| 7 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 7928 | 17812 | PowerShell | 4869 | Open source documentation of Microsoft Azure | 2022-10-31T22:12:50Z |
 | 8 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 7534 | 1451 | PowerShell | 48 | Six Degrees of Domain Admin | 2022-10-21T19:20:25Z |
 | 9 | [nishang](https://github.com/samratashok/nishang) | 6949 | 2218 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
 | 10 | [runner-images](https://github.com/actions/runner-images) | 6803 | 2439 | PowerShell | 34 | GitHub Actions runner images | 2022-10-31T10:55:45Z |
@@ -47,7 +47,7 @@
 | 40 | [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | 2272 | 3017 | PowerShell | 0 | AZ-104 Microsoft Azure Administrator | 2022-10-27T21:12:47Z |
 | 41 | [bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) | 2142 | 1341 | PowerShell | 15 | The Official Bash Bunny Payload Repository | 2022-10-29T16:39:05Z |
 | 42 | [dbatools](https://github.com/dataplat/dbatools) | 2022 | 713 | PowerShell | 184 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer | 2022-10-31T08:33:43Z |
-| 43 | [sysmon-modular](https://github.com/olafhartong/sysmon-modular) | 2003 | 434 | PowerShell | 11 | A repository of sysmon configuration modules | 2022-10-03T19:21:51Z |
+| 43 | [sysmon-modular](https://github.com/olafhartong/sysmon-modular) | 2004 | 434 | PowerShell | 11 | A repository of sysmon configuration modules | 2022-10-03T19:21:51Z |
 | 44 | [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 1988 | 426 | PowerShell | 18 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server | 2022-09-01T04:32:29Z |
 | 45 | [ImportExcel](https://github.com/dfinke/ImportExcel) | 1973 | 339 | PowerShell | 11 | PowerShell module to import/export Excel spreadsheets, without Excel | 2022-10-21T23:45:23Z |
 | 46 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | 1938 | 385 | PowerShell | 4 | Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute | 2019-09-23T15:17:03Z |
@@ -64,7 +64,7 @@
 | 57 | [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) | 1614 | 326 | PowerShell | 16 | AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. | 2022-10-21T12:58:02Z |
 | 58 | [packer-windows](https://github.com/joefitzgerald/packer-windows) | 1610 | 1105 | PowerShell | 35 | Windows Packer Templates | 2019-08-05T14:35:46Z |
 | 59 | [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | 1610 | 1520 | PowerShell | 550 | Place to store our documentation, code samples, etc for public consumption. | 2022-10-31T09:03:39Z |
-| 60 | [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 1583 | 1439 | PowerShell | 396 | Open Source documentation for the Azure Architecture Center on Microsoft Docs | 2022-10-31T17:33:09Z |
+| 60 | [architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 1583 | 1439 | PowerShell | 395 | Open Source documentation for the Azure Architecture Center on Microsoft Docs | 2022-10-31T17:33:09Z |
 | 61 | [windows_hardening](https://github.com/0x6d69636b/windows_hardening) | 1565 | 239 | PowerShell | 7 | HardeningKitty and Windows Hardening settings and configurations | 2022-10-24T13:44:50Z |
 | 62 | [Fido](https://github.com/pbatard/Fido) | 1544 | 149 | PowerShell | 0 | A PowerShell script to download Windows ISOs or the UEFI Shell | 2022-10-25T15:10:28Z |
 | 63 | [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 1534 | 340 | PowerShell | 4 | The goal of this repository is to document the most common techniques to bypass AppLocker.  | 2021-02-18T17:03:12Z |

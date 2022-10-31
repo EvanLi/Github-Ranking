@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 40747 | 5020 | Julia | 3417 | The Julia Programming Language | 2022-10-31T22:08:49Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 40747 | 5020 | Julia | 3418 | The Julia Programming Language | 2022-10-31T22:08:49Z |
 | 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 4180 | 252 | Julia | 229 | 🎈 Simple reactive notebooks for Julia | 2022-10-29T08:34:50Z |
 | 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 3854 | 538 | Julia | 188 | Relax! Flux is the ML library that doesn't make you tensor | 2022-10-29T16:04:59Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2525 | 394 | Julia | 107 | Julia kernel for Jupyter | 2022-10-19T19:29:48Z |
@@ -30,7 +30,7 @@
 | 23 | [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) | 1090 | 146 | Julia | 276 | An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations | 2022-10-27T22:14:55Z |
 | 24 | [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) | 1070 | 106 | Julia | 11 | A generic, simple and fast implementation of Deepmind's AlphaZero algorithm. | 2022-09-26T16:11:31Z |
 | 25 | [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 1061 | 103 | Julia | 261 | A fast and modern CAS for a fast and modern language. | 2022-10-31T16:02:54Z |
-| 26 | [penumbra](https://github.com/nealmckee/penumbra) | 1034 | 18 | Julia | 7 | Penumbra Color Theme | 2022-09-13T06:47:06Z |
+| 26 | [penumbra](https://github.com/nealmckee/penumbra) | 1035 | 18 | Julia | 7 | Penumbra Color Theme | 2022-09-13T06:47:06Z |
 | 27 | [StatsWithJuliaBook](https://github.com/h-Klok/StatsWithJuliaBook) | 982 | 258 | Julia | 13 | None | 2021-08-17T18:08:08Z |
 | 28 | [Revise.jl](https://github.com/timholy/Revise.jl) | 976 | 88 | Julia | 40 | Automatically update function definitions in a running Julia session | 2022-10-27T13:22:55Z |
 | 29 | [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) | 976 | 63 | Julia | 4 | Unicode-based scientific plotting for working in the terminal | 2022-10-21T10:42:22Z |

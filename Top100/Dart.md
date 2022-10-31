@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [flutter](https://github.com/flutter/flutter) | 146144 | 23617 | Dart | 11102 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-31T22:02:15Z |
+| 1 | [flutter](https://github.com/flutter/flutter) | 146144 | 23617 | Dart | 11103 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2022-10-31T22:13:11Z |
 | 2 | [awesome-flutter](https://github.com/Solido/awesome-flutter) | 43713 | 6124 | Dart | 0 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2022-10-21T23:27:14Z |
 | 3 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 28803 | 1616 | Dart | 293 | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 2022-10-31T18:14:54Z |
 | 4 | [flutter-go](https://github.com/alibaba/flutter-go) | 23209 | 3747 | Dart | 0 | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | 2021-05-20T15:58:10Z |
@@ -16,13 +16,13 @@
 | 9 | [gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) | 13549 | 2413 | Dart | 6 | Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin | 2022-10-10T09:35:26Z |
 | 10 | [dio](https://github.com/flutterchina/dio) | 11087 | 1332 | Dart | 153 | A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc. | 2022-10-30T11:17:11Z |
 | 11 | [bloc](https://github.com/felangel/bloc) | 9719 | 2964 | Dart | 90 | A predictable state management library that helps implement the BLoC design pattern | 2022-10-25T00:03:36Z |
-| 12 | [sdk](https://github.com/dart-lang/sdk) | 8573 | 1343 | Dart | 6836 | The Dart SDK, including the VM, dart2js, core libraries, and more. | 2022-10-31T22:09:55Z |
+| 12 | [sdk](https://github.com/dart-lang/sdk) | 8573 | 1343 | Dart | 6836 | The Dart SDK, including the VM, dart2js, core libraries, and more. | 2022-10-31T22:10:38Z |
 | 13 | [flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) | 8146 | 1637 | Dart | 37 | TodoMVC for Flutter | 2021-03-06T14:55:42Z |
 | 14 | [getx](https://github.com/jonataslaw/getx) | 7668 | 1275 | Dart | 656 | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. | 2022-10-25T08:25:54Z |
 | 15 | [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) | 7401 | 1600 | Dart | 38 | 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4） | 2022-02-11T10:06:36Z |
 | 16 | [fish-redux](https://github.com/alibaba/fish-redux) | 7315 | 838 | Dart | 158 | An assembled flutter application framework. | 2022-02-17T16:21:20Z |
 | 17 | [flutterfire](https://github.com/firebase/flutterfire) | 7216 | 3513 | Dart | 227 | 🔥 A collection of Firebase plugins for Flutter apps. | 2022-10-31T14:18:41Z |
-| 18 | [flame](https://github.com/flame-engine/flame) | 7081 | 677 | Dart | 74 | A Flutter based game engine. | 2022-10-31T21:49:28Z |
+| 18 | [flame](https://github.com/flame-engine/flame) | 7081 | 677 | Dart | 74 | A Flutter based game engine. | 2022-10-31T22:11:49Z |
 | 19 | [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) | 6973 | 1169 | Dart | 0 | FlutterDemo合集，今天你fu了吗 | 2021-04-14T05:45:18Z |
 | 20 | [flutter_deer](https://github.com/simplezhli/flutter_deer) | 6554 | 1400 | Dart | 0 | 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project. Includes a complete UI design and exercises that are closer to real projects. | 2022-10-16T10:19:20Z |
 | 21 | [flutter_boost](https://github.com/alibaba/flutter_boost) | 6226 | 1108 | Dart | 227 | FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts | 2022-10-24T03:02:50Z |

@@ -10,8 +10,8 @@
 | 3 | [huginn](https://github.com/huginn/huginn) | 36765 | 3325 | Ruby | 564 | Create agents that monitor and act on your behalf.  Your agents are standing by! | 2022-10-30T06:21:17Z |
 | 4 | [discourse](https://github.com/discourse/discourse) | 36732 | 7798 | Ruby | 0 | A platform for community discussion. Free, open, simple. | 2022-10-31T21:38:57Z |
 | 5 | [fastlane](https://github.com/fastlane/fastlane) | 35969 | 5338 | Ruby | 134 | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 2022-10-31T07:49:28Z |
-| 6 | [brew](https://github.com/Homebrew/brew) | 33851 | 8179 | Ruby | 40 | 🍺 The missing package manager for macOS (or Linux) | 2022-10-31T17:30:26Z |
-| 7 | [mastodon](https://github.com/mastodon/mastodon) | 30681 | 4748 | Ruby | 2334 | Your self-hosted, globally interconnected microblogging community | 2022-10-31T21:43:20Z |
+| 6 | [brew](https://github.com/Homebrew/brew) | 33852 | 8179 | Ruby | 40 | 🍺 The missing package manager for macOS (or Linux) | 2022-10-31T17:30:26Z |
+| 7 | [mastodon](https://github.com/mastodon/mastodon) | 30682 | 4748 | Ruby | 2335 | Your self-hosted, globally interconnected microblogging community | 2022-10-31T21:43:20Z |
 | 8 | [devdocs](https://github.com/freeCodeCamp/devdocs) | 29987 | 2041 | Ruby | 116 | API Documentation Browser | 2022-10-31T01:48:12Z |
 | 9 | [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 29483 | 3501 | Ruby | 11 | A curated list of awesome awesomeness | 2022-08-17T00:15:46Z |
 | 10 | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | 28587 | 12632 | Ruby | 505 | Metasploit Framework | 2022-10-31T21:38:18Z |
@@ -23,7 +23,7 @@
 | 16 | [forem](https://github.com/forem/forem) | 19845 | 3532 | Ruby | 499 | For empowering community 🌱 | 2022-10-31T16:00:50Z |
 | 17 | [ruby](https://github.com/ruby/ruby) | 19634 | 5182 | Ruby | 0 | The Ruby Programming Language [mirror] | 2022-10-31T21:06:06Z |
 | 18 | [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 19529 | 10016 | Ruby | 22 | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | 2022-10-31T22:02:10Z |
-| 19 | [setup](https://github.com/lewagon/setup) | 14615 | 1398 | Ruby | 1 | Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp | 2022-10-18T15:39:52Z |
+| 19 | [setup](https://github.com/lewagon/setup) | 14614 | 1398 | Ruby | 1 | Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp | 2022-10-18T15:39:52Z |
 | 20 | [chatwoot](https://github.com/chatwoot/chatwoot) | 13923 | 1845 | Ruby | 725 | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 | 2022-10-31T16:44:24Z |
 | 21 | [CocoaPods](https://github.com/CocoaPods/CocoaPods) | 13874 | 2575 | Ruby | 408 | The Cocoa Dependency Manager. | 2022-10-27T21:05:34Z |
 | 22 | [diaspora](https://github.com/diaspora/diaspora) | 13149 | 2944 | Ruby | 418 | A privacy-aware, distributed, open source social network. | 2022-10-31T16:40:37Z |
@@ -38,7 +38,7 @@
 | 31 | [sinatra](https://github.com/sinatra/sinatra) | 11743 | 2072 | Ruby | 30 | Classy web-development dressed in a DSL (official / canonical repo) | 2022-10-28T17:45:30Z |
 | 32 | [tmuxinator](https://github.com/tmuxinator/tmuxinator) | 11637 | 626 | Ruby | 102 | Manage complex tmux sessions easily | 2022-09-20T16:57:20Z |
 | 33 | [fluentd](https://github.com/fluent/fluentd) | 11577 | 1272 | Ruby | 112 | Fluentd: Unified Logging Layer (project under CNCF) | 2022-10-31T14:40:12Z |
-| 34 | [fpm](https://github.com/jordansissel/fpm) | 10576 | 1052 | Ruby | 653 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. | 2022-10-30T22:16:20Z |
+| 34 | [fpm](https://github.com/jordansissel/fpm) | 10576 | 1052 | Ruby | 653 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. | 2022-10-31T22:17:48Z |
 | 35 | [faker](https://github.com/faker-ruby/faker) | 10458 | 3012 | Ruby | 8 | A library for generating fake data such as names, addresses, and phone numbers. | 2022-10-31T18:08:33Z |
 | 36 | [linguist](https://github.com/github/linguist) | 10398 | 3799 | Ruby | 88 | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! | 2022-10-31T18:28:10Z |
 | 37 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP) | 9984 | 1479 | Ruby | 1 | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 | 2022-02-27T13:57:02Z |

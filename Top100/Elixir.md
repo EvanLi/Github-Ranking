@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [elixir](https://github.com/elixir-lang/elixir) | 20931 | 2959 | Elixir | 15 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | 2022-10-31T14:31:29Z |
 | 2 | [phoenix](https://github.com/phoenixframework/phoenix) | 18743 | 2523 | Elixir | 22 | Peace of mind from prototype to production | 2022-10-31T19:21:53Z |
-| 3 | [analytics](https://github.com/plausible/analytics) | 12893 | 646 | Elixir | 27 | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2022-10-31T13:18:58Z |
+| 3 | [analytics](https://github.com/plausible/analytics) | 12894 | 646 | Elixir | 27 | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2022-10-31T13:18:58Z |
 | 4 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 11590 | 1120 | Elixir | 0 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2022-10-18T21:40:57Z |
 | 5 | [awesomo](https://github.com/lk-geimfari/awesomo) | 8663 | 647 | Elixir | 5 | Cool open source projects written in various languages. | 2022-10-28T22:28:10Z |
 | 6 | [ecto](https://github.com/elixir-ecto/ecto) | 5616 | 1318 | Elixir | 0 | A toolkit for data mapping and language integrated query. | 2022-10-31T20:32:56Z |

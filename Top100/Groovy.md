@@ -71,7 +71,7 @@
 | 64 | [betamax](https://github.com/betamaxteam/betamax) | 459 | 134 | Groovy | 10 | Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby. | 2017-05-28T14:51:41Z |
 | 65 | [gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin) | 455 | 89 | Groovy | 63 | Gradle plugin for integrating NodeJS in your build. :rocket: | 2022-10-22T07:45:32Z |
 | 66 | [grails](https://github.com/grails/grails) | 446 | 78 | Groovy | 0 | A powerful web application framework based on the Groovy language | 2010-02-11T01:46:24Z |
-| 67 | [openboxes](https://github.com/openboxes/openboxes) | 445 | 330 | Groovy | 198 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. | 2022-10-31T21:15:41Z |
+| 67 | [openboxes](https://github.com/openboxes/openboxes) | 445 | 330 | Groovy | 198 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. | 2022-10-31T22:18:16Z |
 | 68 | [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer) | 443 | 43 | Groovy | 4 | Gradle plugin to optimize png files and reduce resultant apk size within an Android project. | 2016-05-19T20:27:47Z |
 | 69 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) | 443 | 128 | Groovy | 16 | gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS | 2022-06-03T11:46:08Z |
 | 70 | [job-dsl-gradle-example](https://github.com/sheehan/job-dsl-gradle-example) | 428 | 327 | Groovy | 12 | An example Job DSL project that uses Gradle for building and testing. | 2022-04-21T02:40:44Z |
