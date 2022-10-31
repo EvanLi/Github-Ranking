@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [okhttp](https://github.com/square/okhttp) | 43084 | 8956 | Kotlin | 138 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2022-10-30T19:13:06Z |
-| 2 | [kotlin](https://github.com/JetBrains/kotlin) | 43012 | 5316 | Kotlin | 0 | The Kotlin Programming Language.  | 2022-10-31T21:46:07Z |
+| 1 | [okhttp](https://github.com/square/okhttp) | 43085 | 8956 | Kotlin | 138 | Square’s meticulous HTTP client for the JVM, Android, and GraalVM. | 2022-10-30T19:13:06Z |
+| 2 | [kotlin](https://github.com/JetBrains/kotlin) | 43013 | 5316 | Kotlin | 0 | The Kotlin Programming Language.  | 2022-10-31T21:46:07Z |
 | 3 | [architecture-samples](https://github.com/android/architecture-samples) | 41702 | 11314 | Kotlin | 147 | A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. | 2022-10-01T14:42:49Z |
 | 4 | [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 33014 | 11598 | Kotlin | 49 | A shadowsocks client for Android | 2022-09-23T14:20:16Z |
 | 5 | [p3c](https://github.com/alibaba/p3c) | 28386 | 7781 | Kotlin | 109 | Alibaba Java Coding Guidelines pmd implements and IDE plugin | 2022-09-30T06:59:56Z |
@@ -39,7 +39,7 @@
 | 32 | [compose-jb](https://github.com/JetBrains/compose-jb) | 9681 | 718 | Kotlin | 739 | Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. | 2022-10-31T19:00:07Z |
 | 33 | [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) | 9174 | 677 | Kotlin | 25 | Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio. | 2022-10-31T14:38:32Z |
 | 34 | [coil](https://github.com/coil-kt/coil) | 8658 | 540 | Kotlin | 19 | Image loading for Android backed by Kotlin Coroutines. | 2022-10-28T20:23:45Z |
-| 35 | [moshi](https://github.com/square/moshi) | 8595 | 706 | Kotlin | 71 | A modern JSON library for Kotlin and Java. | 2022-09-07T14:44:34Z |
+| 35 | [moshi](https://github.com/square/moshi) | 8595 | 706 | Kotlin | 72 | A modern JSON library for Kotlin and Java. | 2022-09-07T14:44:34Z |
 | 36 | [okio](https://github.com/square/okio) | 8146 | 1161 | Kotlin | 68 | A modern I/O library for Android, Java, and Kotlin Multiplatform. | 2022-09-20T00:31:29Z |
 | 37 | [nowinandroid](https://github.com/android/nowinandroid) | 7845 | 903 | Kotlin | 37 | A fully functional Android app built entirely with Kotlin and Jetpack Compose | 2022-10-31T16:00:51Z |
 | 38 | [cheesesquare](https://github.com/chrisbanes/cheesesquare) | 7798 | 1855 | Kotlin | 0 | Demos the new Android Design library. | 2020-12-07T17:39:00Z |
@@ -80,7 +80,7 @@
 | 73 | [williamchart](https://github.com/diogobernardino/williamchart) | 4911 | 800 | Kotlin | 28 | Android Library to rapidly develop attractive and insightful charts in android applications. | 2022-02-15T12:19:27Z |
 | 74 | [DBFlow](https://github.com/agrosner/DBFlow) | 4854 | 613 | Kotlin | 32 | A blazing fast, powerful, and very simple ORM android database library that writes database code for you. | 2022-03-15T02:19:57Z |
 | 75 | [sqldelight](https://github.com/cashapp/sqldelight) | 4837 | 416 | Kotlin | 145 | SQLDelight - Generates typesafe Kotlin APIs from SQL | 2022-10-30T11:56:53Z |
-| 76 | [mockk](https://github.com/mockk/mockk) | 4694 | 268 | Kotlin | 174 | mocking library for Kotlin | 2022-10-28T23:00:32Z |
+| 76 | [mockk](https://github.com/mockk/mockk) | 4695 | 268 | Kotlin | 174 | mocking library for Kotlin | 2022-10-28T23:00:32Z |
 | 77 | [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | 4680 | 596 | Kotlin | 11 | A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential | 2022-10-05T11:17:58Z |
 | 78 | [muzei](https://github.com/muzei/muzei) | 4432 | 951 | Kotlin | 26 | Muzei Live Wallpaper for Android | 2022-10-31T04:56:03Z |
 | 79 | [Unciv](https://github.com/yairm210/Unciv) | 4274 | 1060 | Kotlin | 152 | Open-source Android/Desktop remake of Civ V | 2022-10-31T18:46:56Z |
@@ -89,8 +89,8 @@
 | 82 | [Android-CleanArchitecture-Kotlin](https://github.com/android10/Android-CleanArchitecture-Kotlin) | 4220 | 870 | Kotlin | 71 | This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches. | 2022-02-18T13:56:04Z |
 | 83 | [SagerNet](https://github.com/SagerNet/SagerNet) | 4211 | 722 | Kotlin | 37 | The universal proxy toolchain for Android | 2022-10-30T08:27:54Z |
 | 84 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | 4166 | 545 | Kotlin | 315 | Kotlin multiplatform / multi-format serialization  | 2022-10-31T15:53:10Z |
-| 85 | [intellij-rust](https://github.com/intellij-rust/intellij-rust) | 4158 | 349 | Kotlin | 1561 | Rust plugin for the IntelliJ Platform | 2022-10-31T20:54:07Z |
-| 86 | [androidx](https://github.com/androidx/androidx) | 4092 | 652 | Kotlin | 0 | Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP. | 2022-10-31T21:58:18Z |
+| 85 | [intellij-rust](https://github.com/intellij-rust/intellij-rust) | 4158 | 349 | Kotlin | 1560 | Rust plugin for the IntelliJ Platform | 2022-10-31T22:10:13Z |
+| 86 | [androidx](https://github.com/androidx/androidx) | 4092 | 652 | Kotlin | 0 | Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP. | 2022-10-31T22:08:20Z |
 | 87 | [RxDownload](https://github.com/ssseasonnn/RxDownload) | 4088 | 622 | Kotlin | 41 | A multi-threaded download tool written with RxJava and Kotlin | 2021-10-28T03:03:13Z |
 | 88 | [Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) | 4080 | 565 | Kotlin | 8 | 【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程 | 2022-04-03T23:34:28Z |
 | 89 | [camera-samples](https://github.com/android/camera-samples) | 3960 | 2036 | Kotlin | 95 | Multiple samples showing the best practices in camera APIs on Android. | 2022-10-19T16:28:50Z |

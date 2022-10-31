@@ -36,7 +36,7 @@
 | 29 | [marathon](https://github.com/mesosphere/marathon) | 4048 | 876 | Scala | 23 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. | 2022-09-08T05:13:23Z |
 | 30 | [SynapseML](https://github.com/microsoft/SynapseML) | 3820 | 718 | Scala | 236 | Simple and Distributed Machine Learning | 2022-10-31T21:40:21Z |
 | 31 | [diffy](https://github.com/twitter-archive/diffy) | 3806 | 371 | Scala | 0 | Find potential bugs in your services with Diffy | 2020-07-01T19:13:06Z |
-| 32 | [zio](https://github.com/zio/zio) | 3602 | 1101 | Scala | 360 | ZIO — A type-safe, composable library for async and concurrent programming in Scala | 2022-10-31T20:48:55Z |
+| 32 | [zio](https://github.com/zio/zio) | 3602 | 1101 | Scala | 360 | ZIO — A type-safe, composable library for async and concurrent programming in Scala | 2022-10-31T22:02:07Z |
 | 33 | [scalding](https://github.com/twitter/scalding) | 3381 | 690 | Scala | 286 | A Scala API for Cascading | 2022-05-17T20:59:09Z |
 | 34 | [CoolplaySpark](https://github.com/lw-lin/CoolplaySpark) | 3379 | 1422 | Scala | 31 | 酷玩 Spark: Spark 源代码解析、Spark 类库等 | 2022-05-18T08:55:54Z |
 | 35 | [breeze](https://github.com/scalanlp/breeze) | 3377 | 704 | Scala | 82 | Breeze is a numerical processing library for Scala. | 2022-08-22T04:52:00Z |

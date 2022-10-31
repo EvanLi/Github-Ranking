@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [julia](https://github.com/JuliaLang/julia) | 40747 | 5020 | Julia | 3417 | The Julia Programming Language | 2022-10-31T21:16:47Z |
+| 1 | [julia](https://github.com/JuliaLang/julia) | 40747 | 5020 | Julia | 3417 | The Julia Programming Language | 2022-10-31T22:08:49Z |
 | 2 | [Pluto.jl](https://github.com/fonsp/Pluto.jl) | 4180 | 252 | Julia | 229 | 🎈 Simple reactive notebooks for Julia | 2022-10-29T08:34:50Z |
 | 3 | [Flux.jl](https://github.com/FluxML/Flux.jl) | 3854 | 538 | Julia | 188 | Relax! Flux is the ML library that doesn't make you tensor | 2022-10-29T16:04:59Z |
 | 4 | [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2525 | 394 | Julia | 107 | Julia kernel for Jupyter | 2022-10-19T19:29:48Z |
@@ -84,7 +84,7 @@
 | 77 | [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 481 | 47 | Julia | 112 | A framework for applied category theory in the Julia language | 2022-10-28T23:05:30Z |
 | 78 | [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) | 478 | 119 | Julia | 13 | Port of the book Think Python to the Julia programming language | 2022-09-03T19:58:46Z |
 | 79 | [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) | 467 | 49 | Julia | 56 | A framework for out-of-core and parallel execution | 2022-09-26T17:09:04Z |
-| 80 | [General](https://github.com/JuliaRegistries/General) | 466 | 347 | Julia | 3 | The official registry of general Julia packages | 2022-10-31T21:51:17Z |
+| 80 | [General](https://github.com/JuliaRegistries/General) | 466 | 347 | Julia | 3 | The official registry of general Julia packages | 2022-10-31T22:02:04Z |
 | 81 | [Gridap.jl](https://github.com/gridap/Gridap.jl) | 457 | 59 | Julia | 59 | Grid-based approximation of partial differential equations in Julia | 2022-10-28T00:56:50Z |
 | 82 | [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) | 456 | 92 | Julia | 109 | Physical quantities with arbitrary units | 2022-10-31T19:53:05Z |
 | 83 | [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) | 453 | 69 | Julia | 160 | Julia package for function approximation | 2022-10-20T12:26:37Z |
@@ -95,7 +95,7 @@
 | 88 | [PyPlot.jl](https://github.com/JuliaPy/PyPlot.jl) | 430 | 85 | Julia | 101 | Plotting for Julia based on matplotlib.pyplot | 2022-09-02T00:59:44Z |
 | 89 | [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) | 429 | 76 | Julia | 153 | Climate Machine: an Earth System Model that automatically learns from data | 2022-10-28T05:07:45Z |
 | 90 | [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) | 424 | 86 | Julia | 13 | Library for the numerical simulation of closed as well as open quantum systems. | 2022-10-26T22:50:10Z |
-| 91 | [Optimization.jl](https://github.com/SciML/Optimization.jl) | 420 | 55 | Julia | 60 | Local, global, and beyond optimization for scientific machine learning (SciML) | 2022-10-31T21:43:33Z |
+| 91 | [Optimization.jl](https://github.com/SciML/Optimization.jl) | 420 | 55 | Julia | 60 | Local, global, and beyond optimization for scientific machine learning (SciML) | 2022-10-31T22:06:27Z |
 | 92 | [JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl) | 418 | 53 | Julia | 108 | An opinionated code formatter for Julia. Plot twist - the opinion is your own. | 2022-10-23T17:03:26Z |
 | 93 | [Dash.jl](https://github.com/plotly/Dash.jl) | 416 | 37 | Julia | 31 | Dash for Julia - A Julia interface to the Dash ecosystem for creating analytic web applications in Julia. No JavaScript required. | 2022-06-20T00:20:33Z |
 | 94 | [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) | 413 | 57 | Julia | 30 | Metaprogramming tools for DataFrames | 2022-10-28T14:39:42Z |

@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 59180 | 4129 | Vim Script | 1288 | Vim-fork focused on extensibility and usability | 2022-10-31T21:35:56Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 59181 | 4128 | Vim Script | 1288 | Vim-fork focused on extensibility and usability | 2022-10-31T21:35:56Z |
 | 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 29601 | 1831 | Vim Script | 103 | :hibiscus: Minimalist Vim Plugin Manager | 2022-10-08T12:00:46Z |
 | 3 | [vim](https://github.com/vim/vim) | 28763 | 4437 | Vim Script | 1203 | The official Vim repository | 2022-10-31T15:54:19Z |
 | 4 | [vimrc](https://github.com/amix/vimrc) | 27986 | 7062 | Vim Script | 2 | The ultimate Vim configuration (vimrc) | 2022-10-23T18:19:40Z |
@@ -55,7 +55,7 @@
 | 48 | [auto-pairs](https://github.com/jiangmiao/auto-pairs) | 3792 | 361 | Vim Script | 131 | Vim plugin, insert or delete brackets, parens, quotes in pair | 2022-10-26T10:49:22Z |
 | 49 | [vim-easy-align](https://github.com/junegunn/vim-easy-align) | 3775 | 110 | Vim Script | 21 | :sunflower: A Vim alignment plugin | 2020-07-01T22:46:55Z |
 | 50 | [vim-javascript](https://github.com/pangloss/vim-javascript) | 3755 | 365 | Vim Script | 69 | Vastly improved Javascript indentation and syntax support in Vim. | 2022-08-15T08:08:39Z |
-| 51 | [copilot.vim](https://github.com/github/copilot.vim) | 3708 | 141 | Vim Script | 0 | Neovim plugin for GitHub Copilot | 2022-10-12T02:36:04Z |
+| 51 | [copilot.vim](https://github.com/github/copilot.vim) | 3708 | 142 | Vim Script | 0 | Neovim plugin for GitHub Copilot | 2022-10-12T02:36:04Z |
 | 52 | [vimplus](https://github.com/chxuan/vimplus) | 3654 | 1122 | Vim Script | 244 | :rocket:An automatic configuration program for vim | 2022-08-02T08:57:49Z |
 | 53 | [onedark.vim](https://github.com/joshdick/onedark.vim) | 3559 | 526 | Vim Script | 9 | A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme. | 2022-10-10T20:39:11Z |
 | 54 | [molokai](https://github.com/tomasr/molokai) | 3488 | 1710 | Vim Script | 21 | Molokai color scheme for Vim | 2022-10-27T16:47:30Z |

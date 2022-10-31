@@ -26,7 +26,7 @@
 | 19 | [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) | 4590 | 806 | TeX | 74 | A pandoc LaTeX template to convert markdown files to PDF or LaTeX. | 2022-08-15T00:04:24Z |
 | 20 | [cheatsheets](https://github.com/rstudio/cheatsheets) | 4470 | 1459 | TeX | 14 | RStudio Cheat Sheets | 2022-10-13T13:37:14Z |
 | 21 | [Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 4399 | 1171 | TeX | 29 | A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student | 2022-09-18T07:22:40Z |
-| 22 | [vimtex](https://github.com/lervag/vimtex) | 4187 | 358 | TeX | 19 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2022-10-31T20:57:43Z |
+| 22 | [vimtex](https://github.com/lervag/vimtex) | 4187 | 358 | TeX | 18 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2022-10-31T22:04:22Z |
 | 23 | [Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) | 3840 | 552 | TeX | 3 | A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between. | 2022-02-15T10:47:43Z |
 | 24 | [thuthesis](https://github.com/tuna/thuthesis) | 3657 | 984 | TeX | 5 | LaTeX Thesis Template for Tsinghua University | 2022-10-05T08:40:46Z |
 | 25 | [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) | 3598 | 390 | TeX | 6 | A curated list of awesome neural radiance fields papers | 2022-10-01T08:25:24Z |
@@ -86,7 +86,7 @@
 | 79 | [mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) | 1386 | 597 | TeX | 10 | A Nice-looking CV template made into LaTeX | 2022-08-22T19:04:11Z |
 | 80 | [dlbook_notation](https://github.com/goodfeli/dlbook_notation) | 1372 | 316 | TeX | 2 | LaTeX files for the Deep Learning book notation | 2018-08-07T18:24:58Z |
 | 81 | [LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples) | 1359 | 407 | TeX | 1 | Examples for the usage of LaTeX | 2022-08-20T07:33:23Z |
-| 82 | [latex2e](https://github.com/latex3/latex2e) | 1352 | 199 | TeX | 130 | The LaTeX2e kernel | 2022-10-31T21:33:49Z |
+| 82 | [latex2e](https://github.com/latex3/latex2e) | 1352 | 199 | TeX | 130 | The LaTeX2e kernel | 2022-10-31T22:07:52Z |
 | 83 | [pandoc_resume](https://github.com/mszep/pandoc_resume) | 1340 | 681 | TeX | 23 | The Markdown Resume | 2022-10-17T12:10:34Z |
 | 84 | [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) | 1315 | 406 | TeX | 2 | Repo for Yale Applied Empirical Methods PHD Course | 2022-05-05T17:01:38Z |
 | 85 | [rticles](https://github.com/rstudio/rticles) | 1243 | 494 | TeX | 38 | LaTeX Journal Article Templates for R Markdown | 2022-10-11T15:53:40Z |

@@ -7,14 +7,14 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [linux](https://github.com/torvalds/linux) | 140606 | 45258 | C | 0 | Linux kernel source tree | 2022-10-31T21:24:50Z |
 | 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 72270 | 7694 | C | 1123 | Display and control your Android device | 2022-10-25T20:05:48Z |
-| 3 | [netdata](https://github.com/netdata/netdata) | 61015 | 5395 | C | 203 | Real-time performance monitoring, done right! https://www.netdata.cloud | 2022-10-31T20:28:42Z |
+| 3 | [netdata](https://github.com/netdata/netdata) | 61015 | 5395 | C | 204 | Real-time performance monitoring, done right! https://www.netdata.cloud | 2022-10-31T20:28:42Z |
 | 4 | [redis](https://github.com/redis/redis) | 57417 | 21913 | C | 1746 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2022-10-31T20:10:30Z |
 | 5 | [git](https://github.com/git/git) | 44088 | 24233 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2022-10-31T12:00:59Z |
 | 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 42612 | 6361 | C | 465 | OBS Studio - Free and open source software for live streaming and screen recording | 2022-10-31T21:54:07Z |
 | 7 | [Ventoy](https://github.com/ventoy/Ventoy) | 40884 | 2944 | C | 340 | A new bootable USB solution. | 2022-10-31T01:49:59Z |
 | 8 | [php-src](https://github.com/php/php-src) | 34508 | 7349 | C | 242 | The PHP Interpreter | 2022-10-31T19:29:00Z |
 | 9 | [wrk](https://github.com/wg/wrk) | 33176 | 2745 | C | 117 | Modern HTTP benchmarking tool | 2022-09-30T14:22:08Z |
-| 10 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 32440 | 10211 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2022-10-31T21:50:05Z |
+| 10 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 32441 | 10212 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2022-10-31T22:05:04Z |
 | 11 | [ijkplayer](https://github.com/bilibili/ijkplayer) | 30863 | 7892 | C | 2719 | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. | 2022-10-16T07:24:49Z |
 | 12 | [curl](https://github.com/curl/curl) | 27278 | 5367 | C | 36 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | 2022-10-31T17:58:55Z |
 | 13 | [tmux](https://github.com/tmux/tmux) | 26649 | 1819 | C | 13 | tmux source code | 2022-10-31T14:23:58Z |
@@ -23,7 +23,7 @@
 | 16 | [lede](https://github.com/coolsnowwolf/lede) | 23531 | 18210 | C | 410 | Lean's LEDE source | 2022-10-31T14:49:43Z |
 | 17 | [jq](https://github.com/stedolan/jq) | 23446 | 1363 | C | 645 | Command-line JSON processor | 2022-10-16T12:49:56Z |
 | 18 | [darknet](https://github.com/pjreddie/darknet) | 23443 | 20652 | C | 1776 | Convolutional Neural Networks | 2022-09-21T11:04:25Z |
-| 19 | [emscripten](https://github.com/emscripten-core/emscripten) | 22868 | 2937 | C | 1134 | Emscripten: An LLVM-to-WebAssembly Compiler | 2022-10-31T21:53:41Z |
+| 19 | [emscripten](https://github.com/emscripten-core/emscripten) | 22868 | 2937 | C | 1134 | Emscripten: An LLVM-to-WebAssembly Compiler | 2022-10-31T22:01:25Z |
 | 20 | [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) | 20601 | 7175 | C | 47 | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 | 2021-07-03T07:47:32Z |
 | 21 | [rufus](https://github.com/pbatard/rufus) | 20539 | 2112 | C | 12 | The Reliable USB Formatting Utility | 2022-10-22T16:19:12Z |
 | 22 | [mpv](https://github.com/mpv-player/mpv) | 20417 | 2441 | C | 837 | 🎥 Command line video player | 2022-10-30T14:23:55Z |
@@ -45,26 +45,26 @@
 | 38 | [goaccess](https://github.com/allinurl/goaccess) | 15320 | 1011 | C | 356 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | 2022-10-23T00:36:30Z |
 | 39 | [nnn](https://github.com/jarun/nnn) | 15096 | 623 | C | 1 | n³ The unorthodox terminal file manager | 2022-10-26T11:56:32Z |
 | 40 | [C](https://github.com/TheAlgorithms/C) | 14848 | 3806 | C | 19 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. | 2022-10-31T11:34:08Z |
-| 41 | [nuklear](https://github.com/vurtun/nuklear) | 13486 | 1120 | C | 207 | A single-header ANSI C gui library | 2020-01-03T21:36:41Z |
-| 42 | [Mailspring](https://github.com/Foundry376/Mailspring) | 13383 | 842 | C | 3 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | 2022-10-26T12:22:11Z |
-| 43 | [yabai](https://github.com/koekeishiya/yabai) | 13339 | 468 | C | 168 | A tiling window manager for macOS based on binary space partitioning | 2022-10-25T07:10:56Z |
-| 44 | [openwrt](https://github.com/openwrt/openwrt) | 13052 | 7897 | C | 1682 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. | 2022-10-31T21:25:35Z |
-| 45 | [ish](https://github.com/ish-app/ish) | 12878 | 702 | C | 418 | Linux shell for iOS | 2022-10-31T16:18:49Z |
-| 46 | [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 12660 | 884 | C | 73 | NVIDIA Linux open GPU kernel module source | 2022-10-25T19:52:41Z |
-| 47 | [memcached](https://github.com/memcached/memcached) | 12229 | 3128 | C | 53 | memcached development tree | 2022-10-21T08:42:49Z |
-| 48 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 12183 | 3414 | C | 1006 | NGINX-based Media Streaming Server | 2022-06-21T08:56:37Z |
-| 49 | [kcp](https://github.com/skywind3000/kcp) | 11823 | 2258 | C | 146 | :zap: KCP - A Fast and Reliable ARQ Protocol | 2022-07-02T14:25:59Z |
-| 50 | [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 11782 | 1207 | C | 49 | Learning operating system development using Linux kernel and Raspberry Pi | 2022-02-16T17:29:18Z |
-| 51 | [tengine](https://github.com/alibaba/tengine) | 11695 | 2436 | C | 369 | A distribution of Nginx with some advanced features | 2022-10-31T11:42:23Z |
-| 52 | [twemproxy](https://github.com/twitter/twemproxy) | 11608 | 2014 | C | 143 | A fast, light-weight proxy for memcached and redis | 2022-10-09T10:48:45Z |
-| 53 | [brotli](https://github.com/google/brotli) | 11588 | 1122 | C | 83 | Brotli compression format | 2022-10-25T19:29:58Z |
-| 54 | [skynet](https://github.com/cloudwu/skynet) | 11587 | 3905 | C | 9 | A lightweight online game framework | 2022-10-27T08:15:57Z |
-| 55 | [robotjs](https://github.com/octalmage/robotjs) | 11373 | 867 | C | 140 | Node.js Desktop Automation.  | 2022-09-04T13:08:33Z |
-| 56 | [sway](https://github.com/swaywm/sway) | 11275 | 960 | C | 657 | i3-compatible Wayland compositor | 2022-10-31T09:01:30Z |
-| 57 | [tig](https://github.com/jonas/tig) | 11275 | 589 | C | 166 | Text-mode interface for git | 2022-10-27T10:44:18Z |
-| 58 | [postgres](https://github.com/postgres/postgres) | 11209 | 3548 | C | 0 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch | 2022-10-31T13:30:11Z |
-| 59 | [HandBrake](https://github.com/HandBrake/HandBrake) | 11020 | 1026 | C | 255 | HandBrake's main development repository  | 2022-10-30T20:26:28Z |
-| 60 | [openresty](https://github.com/openresty/openresty) | 10947 | 1430 | C | 247 | High Performance Web Platform Based on Nginx and LuaJIT | 2022-10-27T14:30:37Z |
+| 41 | [timescaledb](https://github.com/timescale/timescaledb) | 13958 | 737 | C | 389 | An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension. | 2022-10-31T21:55:17Z |
+| 42 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 13628 | 28933 | C | 259 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2022-10-31T22:00:54Z |
+| 43 | [nuklear](https://github.com/vurtun/nuklear) | 13486 | 1120 | C | 207 | A single-header ANSI C gui library | 2020-01-03T21:36:41Z |
+| 44 | [Mailspring](https://github.com/Foundry376/Mailspring) | 13383 | 842 | C | 3 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | 2022-10-26T12:22:11Z |
+| 45 | [yabai](https://github.com/koekeishiya/yabai) | 13339 | 468 | C | 168 | A tiling window manager for macOS based on binary space partitioning | 2022-10-25T07:10:56Z |
+| 46 | [openwrt](https://github.com/openwrt/openwrt) | 13052 | 7897 | C | 1682 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. | 2022-10-31T21:25:35Z |
+| 47 | [ish](https://github.com/ish-app/ish) | 12878 | 702 | C | 418 | Linux shell for iOS | 2022-10-31T16:18:49Z |
+| 48 | [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 12660 | 884 | C | 73 | NVIDIA Linux open GPU kernel module source | 2022-10-25T19:52:41Z |
+| 49 | [memcached](https://github.com/memcached/memcached) | 12229 | 3128 | C | 53 | memcached development tree | 2022-10-21T08:42:49Z |
+| 50 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 12183 | 3414 | C | 1006 | NGINX-based Media Streaming Server | 2022-06-21T08:56:37Z |
+| 51 | [kcp](https://github.com/skywind3000/kcp) | 11823 | 2258 | C | 146 | :zap: KCP - A Fast and Reliable ARQ Protocol | 2022-07-02T14:25:59Z |
+| 52 | [raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 11782 | 1207 | C | 49 | Learning operating system development using Linux kernel and Raspberry Pi | 2022-02-16T17:29:18Z |
+| 53 | [tengine](https://github.com/alibaba/tengine) | 11695 | 2436 | C | 369 | A distribution of Nginx with some advanced features | 2022-10-31T11:42:23Z |
+| 54 | [reactos](https://github.com/reactos/reactos) | 11619 | 1442 | C | 0 | A free Windows-compatible Operating System | 2022-10-31T21:16:50Z |
+| 55 | [twemproxy](https://github.com/twitter/twemproxy) | 11608 | 2014 | C | 143 | A fast, light-weight proxy for memcached and redis | 2022-10-09T10:48:45Z |
+| 56 | [brotli](https://github.com/google/brotli) | 11588 | 1122 | C | 83 | Brotli compression format | 2022-10-25T19:29:58Z |
+| 57 | [skynet](https://github.com/cloudwu/skynet) | 11587 | 3905 | C | 9 | A lightweight online game framework | 2022-10-27T08:15:57Z |
+| 58 | [robotjs](https://github.com/octalmage/robotjs) | 11373 | 867 | C | 140 | Node.js Desktop Automation.  | 2022-09-04T13:08:33Z |
+| 59 | [blurhash](https://github.com/woltapp/blurhash) | 11326 | 264 | C | 18 | A very compact representation of a placeholder for an image. | 2022-10-30T16:18:36Z |
+| 60 | [sway](https://github.com/swaywm/sway) | 11275 | 960 | C | 657 | i3-compatible Wayland compositor | 2022-10-31T09:01:30Z |
 | 61 | [tig](https://github.com/jonas/tig) | 11275 | 589 | C | 166 | Text-mode interface for git | 2022-10-27T10:44:18Z |
 | 62 | [postgres](https://github.com/postgres/postgres) | 11209 | 3548 | C | 0 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch | 2022-10-31T13:30:11Z |
 | 63 | [HandBrake](https://github.com/HandBrake/HandBrake) | 11020 | 1026 | C | 255 | HandBrake's main development repository  | 2022-10-30T20:26:28Z |

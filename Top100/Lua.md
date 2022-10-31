@@ -10,7 +10,7 @@
 | 3 | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | 19177 | 1468 | Lua | 21 | A community-driven modular vim/neovim distribution - The ultimate vimrc | 2022-10-31T17:33:05Z |
 | 4 | [neural-style](https://github.com/jcjohnson/neural-style) | 18281 | 2776 | Lua | 294 | Torch implementation of neural style algorithm | 2018-02-23T01:21:20Z |
 | 5 | [openface](https://github.com/cmusatyalab/openface) | 14531 | 3591 | Lua | 9 | Face recognition with deep neural networks. | 2022-09-28T10:55:14Z |
-| 6 | [NvChad](https://github.com/NvChad/NvChad) | 12922 | 839 | Lua | 4 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms | 2022-10-30T09:21:55Z |
+| 6 | [NvChad](https://github.com/NvChad/NvChad) | 12923 | 839 | Lua | 4 | An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms | 2022-10-30T09:21:55Z |
 | 7 | [koreader](https://github.com/koreader/koreader) | 11576 | 1052 | Lua | 465 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 2022-10-31T21:44:56Z |
 | 8 | [CycleGAN](https://github.com/junyanz/CycleGAN) | 11425 | 1906 | Lua | 51 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. | 2020-08-03T14:35:58Z |
 | 9 | [LunarVim](https://github.com/LunarVim/LunarVim) | 11339 | 1317 | Lua | 66 | An IDE layer for Neovim with sane defaults. Completely free and community driven. | 2022-10-31T18:25:21Z |
