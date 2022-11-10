@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7383 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6500 | 512 | ActionScript | 18 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-11-08T02:04:37Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2563 | 838 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2438 | 1113 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7382 | 138 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6499 | 511 | ActionScript | 19 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2022-11-08T02:04:37Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2564 | 838 | ActionScript | 69 | The Cross Platform Game Engine | 2022-09-17T12:57:10Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2439 | 1112 | ActionScript | 150 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/LLK/scratch-flash) | 1324 | 526 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1254 | 210 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -16,7 +16,7 @@
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1052 | 211 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 968 | 268 | ActionScript | 13 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 11 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 920 | 391 | ActionScript | 169 | User interface components for Starling Framework and Adobe AIR | 2022-11-03T17:26:12Z |
-| 12 | [bfxr](https://github.com/increpare/bfxr) | 871 | 85 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
+| 12 | [bfxr](https://github.com/increpare/bfxr) | 873 | 85 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 13 | [flashls](https://github.com/mangui/flashls) | 758 | 271 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 714 | 178 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2022-10-18T00:21:43Z |
 | 15 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 282 | ActionScript | 101 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
