@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33343 | 10235 | Objective-C | 82 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. | 2022-11-30T12:53:23Z |
-| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 24408 | 5854 | Objective-C | 46 | Asynchronous image downloader with cache support as a UIImageView category | 2022-12-02T13:27:14Z |
+| 2 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 24409 | 5854 | Objective-C | 46 | Asynchronous image downloader with cache support as a UIImageView category | 2022-12-02T13:27:14Z |
 | 3 | [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 20195 | 3426 | Objective-C | 807 | Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat) | 2022-09-22T02:51:33Z |
 | 4 | [GPUImage](https://github.com/BradLarson/GPUImage) | 20023 | 4646 | Objective-C | 903 | An open source iOS framework for GPU-based image and video processing | 2020-11-28T03:20:20Z |
 | 5 | [Masonry](https://github.com/SnapKit/Masonry) | 18044 | 3169 | Objective-C | 125 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 2022-11-14T20:08:11Z |
@@ -16,34 +16,34 @@
 | 9 | [YYKit](https://github.com/ibireme/YYKit) | 13948 | 3673 | Objective-C | 267 | A collection of iOS components. | 2022-04-29T07:46:02Z |
 | 10 | [fmdb](https://github.com/ccgus/fmdb) | 13710 | 2791 | Objective-C | 229 | A Cocoa / Objective-C wrapper around SQLite | 2022-10-06T16:26:58Z |
 | 11 | [MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13680 | 3559 | Objective-C | 27 | An easy way to use pull-to-refresh. | 2022-10-10T07:37:38Z |
-| 12 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 13658 | 4753 | Objective-C | 36 | React Native Mapview component for iOS + Android | 2022-11-27T23:21:22Z |
-| 13 | [spectacle](https://github.com/eczarny/spectacle) | 13477 | 823 | Objective-C | 0 | Spectacle allows you to organize your windows without using a mouse. | 2022-01-15T17:32:42Z |
+| 12 | [react-native-maps](https://github.com/react-native-maps/react-native-maps) | 13659 | 4752 | Objective-C | 37 | React Native Mapview component for iOS + Android | 2022-11-27T23:21:22Z |
+| 13 | [spectacle](https://github.com/eczarny/spectacle) | 13478 | 823 | Objective-C | 0 | Spectacle allows you to organize your windows without using a mouse. | 2022-01-15T17:32:42Z |
 | 14 | [FLEX](https://github.com/FLEXTool/FLEX) | 13311 | 1615 | Objective-C | 19 | An in-app debugging and exploration tool for iOS | 2022-12-02T10:40:09Z |
 | 15 | [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 13128 | 2429 | Objective-C | 131 | None | 2019-04-22T13:02:11Z |
-| 16 | [iTerm2](https://github.com/gnachman/iTerm2) | 13016 | 1128 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2022-11-30T08:07:37Z |
-| 17 | [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 12844 | 2242 | Objective-C | 7 | A fast & simple, yet powerful & flexible logging framework for Mac and iOS | 2022-11-28T11:00:57Z |
+| 16 | [iTerm2](https://github.com/gnachman/iTerm2) | 13020 | 1128 | Objective-C | 0 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 2022-12-03T08:07:31Z |
+| 17 | [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 12844 | 2241 | Objective-C | 7 | A fast & simple, yet powerful & flexible logging framework for Mac and iOS | 2022-11-28T11:00:57Z |
 | 18 | [react-native-navigation](https://github.com/wix/react-native-navigation) | 12681 | 2704 | Objective-C | 205 | A complete native navigation solution for React Native | 2022-12-01T12:35:57Z |
 | 19 | [IGListKit](https://github.com/Instagram/IGListKit) | 12528 | 1555 | Objective-C | 155 | A data-driven UICollectionView framework for building fast and flexible lists. | 2022-11-16T05:49:40Z |
 | 20 | [chameleon](https://github.com/vicc/chameleon) | 12525 | 1330 | Objective-C | 38 | Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). | 2021-05-03T07:11:02Z |
-| 21 | [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12363 | 2581 | Objective-C | 35 | A clean and lightweight progress HUD for your iOS and tvOS app. | 2022-11-11T10:05:59Z |
+| 21 | [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12364 | 2581 | Objective-C | 35 | A clean and lightweight progress HUD for your iOS and tvOS app. | 2022-11-11T10:05:59Z |
 | 22 | [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12288 | 2941 | Objective-C | 7 | Asynchronous socket networking library for Mac and iOS | 2022-09-28T00:30:45Z |
-| 23 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 12148 | 1757 | Objective-C | 166 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display | 2022-07-06T08:08:53Z |
+| 23 | [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 12147 | 1757 | Objective-C | 166 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display | 2022-07-06T08:08:53Z |
 | 24 | [iCarousel](https://github.com/nicklockwood/iCarousel) | 11941 | 2582 | Objective-C | 365 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS | 2022-09-06T12:26:52Z |
-| 25 | [JSPatch](https://github.com/bang590/JSPatch) | 11356 | 2282 | Objective-C | 106 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App. | 2020-12-01T02:18:35Z |
+| 25 | [JSPatch](https://github.com/bang590/JSPatch) | 11355 | 2282 | Objective-C | 106 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App. | 2020-12-01T02:18:35Z |
 | 26 | [Mantle](https://github.com/Mantle/Mantle) | 11322 | 1484 | Objective-C | 0 | Model framework for Cocoa and Cocoa Touch | 2022-10-18T09:40:02Z |
 | 27 | [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 11197 | 2868 | Objective-C | 0 | An elegant messages UI library for iOS | 2018-12-12T10:45:39Z |
 | 28 | [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10851 | 1826 | Objective-C | 227 | Super Awesome Easy Fetching for Core Data! | 2021-04-27T16:21:19Z |
-| 29 | [GitUp](https://github.com/git-up/GitUp) | 10588 | 923 | Objective-C | 296 | The Git interface you've been missing all your life has finally arrived. | 2022-12-01T14:58:01Z |
+| 29 | [GitUp](https://github.com/git-up/GitUp) | 10587 | 923 | Objective-C | 296 | The Git interface you've been missing all your life has finally arrived. | 2022-12-01T14:58:01Z |
 | 30 | [RestKit](https://github.com/RestKit/RestKit) | 10245 | 2166 | Objective-C | 343 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X | 2022-08-27T03:57:20Z |
 | 31 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10220 | 1876 | Objective-C | 390 | A fully customizable iOS calendar library, compatible with Objective-C and Swift | 2022-11-03T02:10:25Z |
 | 32 | [Alcatraz](https://github.com/alcatraz/Alcatraz) | 9963 | 1176 | Objective-C | 32 | Package manager for Xcode | 2017-09-28T10:13:15Z |
 | 33 | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9958 | 2027 | Objective-C | 116 | Template auto layout cell for automatically UITableViewCell height calculating | 2022-03-07T10:01:30Z |
 | 34 | [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 9842 | 516 | Objective-C | 492 | Staggeringly powerful macOS desktop automation with Lua | 2022-11-14T09:07:03Z |
 | 35 | [PNChart](https://github.com/kevinzhow/PNChart) | 9753 | 1791 | Objective-C | 172 | A simple and beautiful chart lib used in Piner and CoinsMan for iOS | 2018-07-02T12:43:03Z |
-| 36 | [keycastr](https://github.com/keycastr/keycastr) | 9507 | 447 | Objective-C | 72 | KeyCastr, an open-source keystroke visualizer | 2022-11-20T16:55:05Z |
+| 36 | [keycastr](https://github.com/keycastr/keycastr) | 9510 | 447 | Objective-C | 72 | KeyCastr, an open-source keystroke visualizer | 2022-11-20T16:55:05Z |
 | 37 | [SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9402 | 1977 | Objective-C | 145 | A conforming Objective-C WebSocket client library. | 2022-10-03T23:43:04Z |
 | 38 | [Shimmer](https://github.com/facebookarchive/Shimmer) | 9393 | 1132 | Objective-C | 17 | An easy way to add a simple, shimmering effect to any view in an iOS app. | 2021-02-06T00:01:46Z |
-| 39 | [sequelpro](https://github.com/sequelpro/sequelpro) | 8791 | 852 | Objective-C | 477 | MySQL/MariaDB database management for macOS | 2021-06-07T08:13:22Z |
+| 39 | [sequelpro](https://github.com/sequelpro/sequelpro) | 8792 | 852 | Objective-C | 477 | MySQL/MariaDB database management for macOS | 2021-06-07T08:13:22Z |
 | 40 | [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) | 8768 | 2756 | Objective-C | 250 | A simple iOS photo and video browser with grid view, captions and selections. | 2022-10-26T10:34:33Z |
 | 41 | [YYText](https://github.com/ibireme/YYText) | 8760 | 1484 | Objective-C | 454 | Powerful text framework for iOS to display and edit rich text. | 2022-07-26T02:47:04Z |
 | 42 | [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) | 8744 | 1664 | Objective-C | 150 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more | 2020-10-28T22:03:58Z |
@@ -51,8 +51,8 @@
 | 44 | [MJExtension](https://github.com/CoderMJLee/MJExtension) | 8498 | 2184 | Objective-C | 19 | A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file. | 2022-02-22T07:35:08Z |
 | 45 | [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) | 8375 | 1112 | Objective-C | 71 | ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features | 2018-10-29T18:56:03Z |
 | 46 | [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | 8356 | 1578 | Objective-C | 60 | Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift. | 2017-04-19T06:55:13Z |
-| 47 | [Aspects](https://github.com/steipete/Aspects) | 8324 | 1259 | Objective-C | 74 | Delightful, simple library for aspect oriented programming in Objective-C and Swift. | 2020-09-10T12:19:27Z |
-| 48 | [WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) | 8254 | 1149 | Objective-C | 59 | A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 | 2022-11-24T18:12:42Z |
+| 47 | [Aspects](https://github.com/steipete/Aspects) | 8325 | 1259 | Objective-C | 74 | Delightful, simple library for aspect oriented programming in Objective-C and Swift. | 2020-09-10T12:19:27Z |
+| 48 | [WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) | 8254 | 1151 | Objective-C | 59 | A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨 | 2022-11-24T18:12:42Z |
 | 49 | [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) | 8182 | 3567 | Objective-C | 167 | Removed according to regulations. | 2022-05-17T06:55:42Z |
 | 50 | [FastImageCache](https://github.com/path/FastImageCache) | 8157 | 959 | Objective-C | 34 | iOS library for quickly displaying images while scrolling | 2017-08-24T15:11:10Z |
 | 51 | [analyze](https://github.com/draveness/analyze) | 8033 | 1959 | Objective-C | 0 | Draven's Blog | 2021-11-14T19:00:39Z |
@@ -65,7 +65,7 @@
 | 58 | [slate](https://github.com/jigish/slate) | 7750 | 519 | Objective-C | 248 | A window management application (replacement for Divvy/SizeUp/ShiftIt) | 2022-06-23T09:17:42Z |
 | 59 | [PureLayout](https://github.com/PureLayout/PureLayout) | 7595 | 769 | Objective-C | 35 | The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible. | 2022-08-30T04:36:04Z |
 | 60 | [KVOController](https://github.com/facebookarchive/KVOController) | 7353 | 947 | Objective-C | 7 | Simple, modern, thread-safe key-value observing for iOS and OS X. | 2020-01-25T04:18:28Z |
-| 61 | [LuLu](https://github.com/objective-see/LuLu) | 7295 | 380 | Objective-C | 328 | LuLu is the free macOS firewall | 2022-07-13T12:04:52Z |
+| 61 | [LuLu](https://github.com/objective-see/LuLu) | 7298 | 380 | Objective-C | 328 | LuLu is the free macOS firewall | 2022-07-13T12:04:52Z |
 | 62 | [three20](https://github.com/facebookarchive/three20) | 7289 | 1518 | Objective-C | 0 | Three20 is an Objective-C library for iPhone developers | 2017-05-02T06:05:12Z |
 | 63 | [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 7203 | 1300 | Objective-C | 138 | An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application) | 2021-05-20T14:43:51Z |
 | 64 | [DateTools](https://github.com/MatthewYork/DateTools) | 7203 | 942 | Objective-C | 74 | Dates and times made easy in iOS | 2022-06-27T15:32:26Z |
@@ -79,7 +79,7 @@
 | 72 | [BlocksKit](https://github.com/BlocksKit/BlocksKit) | 6931 | 1278 | Objective-C | 74 | The Objective-C block utilities you always wish you had. | 2018-02-02T10:11:16Z |
 | 73 | [jsonmodel](https://github.com/jsonmodel/jsonmodel) | 6859 | 1071 | Objective-C | 24 | Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps. | 2021-11-06T12:23:36Z |
 | 74 | [ZFPlayer](https://github.com/renzifeng/ZFPlayer) | 6840 | 1704 | Objective-C | 185 | Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层) | 2022-11-19T15:05:16Z |
-| 75 | [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) | 6781 | 1400 | Objective-C | 160 |  A lightweight, easy to use, Side Drawer Navigation Controller | 2021-06-18T12:22:23Z |
+| 75 | [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) | 6781 | 1399 | Objective-C | 160 |  A lightweight, easy to use, Side Drawer Navigation Controller | 2021-06-18T12:22:23Z |
 | 76 | [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) | 6741 | 1452 | Objective-C | 150 | [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS13 & Dark Mode  & iPhone XS MAX supported】 | 2021-12-30T14:13:25Z |
 | 77 | [QMUI_iOS](https://github.com/Tencent/QMUI_iOS) | 6736 | 1324 | Objective-C | 117 | QMUI iOS——致力于提高项目 UI 开发效率的解决方案 | 2022-11-30T02:06:27Z |
 | 78 | [injectionforxcode](https://github.com/johnno1962/injectionforxcode) | 6523 | 580 | Objective-C | 77 | Runtime Code Injection for Objective-C & Swift | 2022-08-04T00:53:23Z |
@@ -94,11 +94,11 @@
 | 87 | [JSONKit](https://github.com/johnezang/JSONKit) | 6199 | 1699 | Objective-C | 67 | Objective-C JSON | 2020-11-22T17:51:42Z |
 | 88 | [NewsBlur](https://github.com/samuelclay/NewsBlur) | 6156 | 959 | Objective-C | 137 | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | 2022-12-01T16:03:33Z |
 | 89 | [KIF](https://github.com/kif-framework/KIF) | 6149 | 910 | Objective-C | 44 | Keep It Functional - An iOS Functional Testing Framework | 2022-09-20T14:39:32Z |
-| 90 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 6148 | 998 | Objective-C | 199 | A software update framework for macOS | 2022-11-28T02:51:22Z |
+| 90 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 6148 | 998 | Objective-C | 197 | A software update framework for macOS | 2022-12-03T07:01:02Z |
 | 91 | [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6138 | 1494 | Objective-C | 433 | Autoscroll Banner.   无限循环图片、文字轮播器。 | 2022-05-12T10:46:45Z |
-| 92 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | 6004 | 336 | Objective-C | 29 | Send User Notifications on macOS from the command-line. | 2022-08-25T19:20:53Z |
+| 92 | [terminal-notifier](https://github.com/julienXX/terminal-notifier) | 6005 | 337 | Objective-C | 29 | Send User Notifications on macOS from the command-line. | 2022-08-25T19:20:53Z |
 | 93 | [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) | 5924 | 2122 | Objective-C | 513 | An XMPP Framework in Objective-C for Mac and iOS | 2022-08-31T07:31:30Z |
-| 94 | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) | 5915 | 1071 | Objective-C | 149 | CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak. | 2022-07-09T08:24:07Z |
+| 94 | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) | 5916 | 1071 | Objective-C | 149 | CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak. | 2022-07-09T08:24:07Z |
 | 95 | [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) | 5911 | 1309 | Objective-C | 156 | One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime. | 2021-03-19T07:10:38Z |
 | 96 | [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) | 5891 | 1154 | Objective-C | 92 | A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style. | 2021-07-08T17:06:04Z |
 | 97 | [PonyDebugger](https://github.com/square/PonyDebugger) | 5872 | 620 | Objective-C | 42 | Remote network and data debugging for your native iOS app using Chrome Developer Tools | 2022-07-22T04:04:04Z |
