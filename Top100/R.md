@@ -52,7 +52,7 @@
 | 45 | [ggthemes](https://github.com/jrnold/ggthemes) | 1217 | 220 | R | 11 | Additional themes, scales, and geoms for ggplot2 | 2022-10-21T04:38:46Z |
 | 46 | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1209 | 608 | R | 2 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. | 2021-04-06T03:03:04Z |
 | 47 | [tidyr](https://github.com/tidyverse/tidyr) | 1205 | 398 | R | 26 | Tidy Messy Data | 2023-01-02T09:55:10Z |
-| 48 | [janitor](https://github.com/sfirke/janitor) | 1194 | 115 | R | 41 | simple tools for data cleaning in R | 2023-01-02T18:22:29Z |
+| 48 | [janitor](https://github.com/sfirke/janitor) | 1194 | 115 | R | 41 | simple tools for data cleaning in R | 2023-01-02T21:17:29Z |
 | 49 | [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1143 | 116 | R | 19 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 | 2021-11-22T00:20:31Z |
 | 50 | [mastering-shiny](https://github.com/hadley/mastering-shiny) | 1107 | 499 | R | 45 | Mastering Shiny: a book | 2022-12-12T16:59:46Z |
 | 51 | [advanced-shiny](https://github.com/daattali/advanced-shiny) | 1104 | 374 | R | 0 | 🤹 Shiny tips & tricks for improving your apps and solving common problems | 2021-09-27T18:50:51Z |
@@ -86,7 +86,7 @@
 | 79 | [tinytex](https://github.com/rstudio/tinytex) | 824 | 102 | R | 20 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live | 2022-12-14T03:26:32Z |
 | 80 | [rappor](https://github.com/google/rappor) | 824 | 166 | R | 28 | RAPPOR: Privacy-Preserving Reporting Algorithms | 2022-07-14T06:30:15Z |
 | 81 | [testthat](https://github.com/r-lib/testthat) | 815 | 301 | R | 74 | An R 📦 to make testing 😀 | 2022-12-14T14:07:36Z |
-| 82 | [performance](https://github.com/easystats/performance) | 812 | 73 | R | 84 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) | 2023-01-02T10:19:24Z |
+| 82 | [performance](https://github.com/easystats/performance) | 813 | 73 | R | 84 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) | 2023-01-02T10:19:24Z |
 | 83 | [generativeart](https://github.com/cutterkom/generativeart) | 806 | 145 | R | 5 | Create Generative Art with R | 2022-04-27T07:53:49Z |
 | 84 | [MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 806 | 62 | R | 4 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York | 2022-09-13T16:28:33Z |
 | 85 | [pagedown](https://github.com/rstudio/pagedown) | 797 | 128 | R | 64 | Paginate the HTML Output of R Markdown with CSS for Print | 2022-12-14T03:15:13Z |

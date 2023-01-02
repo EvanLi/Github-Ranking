@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [neovim](https://github.com/neovim/neovim) | 61011 | 4225 | Vim Script | 1352 | Vim-fork focused on extensibility and usability | 2023-01-02T19:55:23Z |
-| 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 30153 | 1857 | Vim Script | 103 | :hibiscus: Minimalist Vim Plugin Manager | 2022-12-19T19:02:05Z |
-| 3 | [vim](https://github.com/vim/vim) | 29256 | 4524 | Vim Script | 1197 | The official Vim repository | 2023-01-02T20:38:09Z |
-| 4 | [vimrc](https://github.com/amix/vimrc) | 28279 | 7105 | Vim Script | 4 | The ultimate Vim configuration (vimrc) | 2023-01-01T16:58:42Z |
+| 1 | [neovim](https://github.com/neovim/neovim) | 61013 | 4225 | Vim Script | 1352 | Vim-fork focused on extensibility and usability | 2023-01-02T19:55:23Z |
+| 2 | [vim-plug](https://github.com/junegunn/vim-plug) | 30152 | 1857 | Vim Script | 103 | :hibiscus: Minimalist Vim Plugin Manager | 2022-12-19T19:02:05Z |
+| 3 | [vim](https://github.com/vim/vim) | 29256 | 4524 | Vim Script | 1197 | The official Vim repository | 2023-01-02T21:04:12Z |
+| 4 | [vimrc](https://github.com/amix/vimrc) | 28280 | 7105 | Vim Script | 4 | The ultimate Vim configuration (vimrc) | 2023-01-01T16:58:42Z |
 | 5 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | 23377 | 2565 | Vim Script | 163 | Vundle, the plug-in manager for Vim | 2022-04-15T16:22:18Z |
 | 6 | [nerdtree](https://github.com/preservim/nerdtree) | 18085 | 1411 | Vim Script | 50 | A tree explorer plugin for vim. | 2022-10-16T21:19:58Z |
 | 7 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17019 | 1123 | Vim Script | 40 | lean & mean status/tabline for vim that's light as air | 2023-01-02T16:39:49Z |

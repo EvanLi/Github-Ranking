@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 14202 | 4070 | Groovy | 2017 | Adaptable, fast automation for all | 2023-01-02T19:27:13Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 14202 | 4071 | Groovy | 2017 | Adaptable, fast automation for all | 2023-01-02T19:27:13Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 6417 | 1466 | Groovy | 8 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2022-12-17T17:44:25Z |
 | 3 | [rundeck](https://github.com/rundeck/rundeck) | 4800 | 844 | Groovy | 480 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2022-12-31T19:02:12Z |
 | 4 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 3998 | 3218 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2022-11-13T04:56:37Z |

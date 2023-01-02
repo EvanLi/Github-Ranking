@@ -26,7 +26,7 @@
 | 19 | [fpinscala](https://github.com/fpinscala/fpinscala) | 5483 | 2967 | Scala | 70 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" | 2022-12-28T14:38:43Z |
 | 20 | [linkerd](https://github.com/linkerd/linkerd) | 5370 | 523 | Scala | 134 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. | 2022-12-07T18:09:05Z |
 | 21 | [dotty](https://github.com/lampepfl/dotty) | 5167 | 901 | Scala | 952 | The Scala 3 compiler, also known as Dotty. | 2023-01-02T15:18:31Z |
-| 22 | [cats](https://github.com/typelevel/cats) | 4825 | 1197 | Scala | 189 | Lightweight, modular, and extensible library for functional programming. | 2022-12-29T23:49:36Z |
+| 22 | [cats](https://github.com/typelevel/cats) | 4826 | 1197 | Scala | 189 | Lightweight, modular, and extensible library for functional programming. | 2022-12-29T23:49:36Z |
 | 23 | [aerosolve](https://github.com/airbnb/aerosolve) | 4790 | 587 | Scala | 6 | A machine learning package built for humans. | 2021-09-01T22:02:29Z |
 | 24 | [sbt](https://github.com/sbt/sbt) | 4606 | 904 | Scala | 760 | sbt, the interactive build tool | 2023-01-02T03:05:04Z |
 | 25 | [scalaz](https://github.com/scalaz/scalaz) | 4593 | 724 | Scala | 126 | Principled Functional Programming in Scala | 2023-01-02T15:00:49Z |
@@ -64,7 +64,7 @@
 | 57 | [node2vec](https://github.com/aditya-grover/node2vec) | 2462 | 904 | Scala | 81 | None | 2022-07-21T14:37:25Z |
 | 58 | [rocket-chip](https://github.com/chipsalliance/rocket-chip) | 2462 | 930 | Scala | 205 | Rocket Chip Generator | 2022-12-31T20:46:42Z |
 | 59 | [scio](https://github.com/spotify/scio) | 2411 | 492 | Scala | 110 | A Scala API for Apache Beam and Google Cloud Dataflow. | 2022-12-22T09:36:51Z |
-| 60 | [http4s](https://github.com/http4s/http4s) | 2361 | 748 | Scala | 210 | A minimal, idiomatic Scala interface for HTTP | 2023-01-02T20:25:03Z |
+| 60 | [http4s](https://github.com/http4s/http4s) | 2361 | 748 | Scala | 210 | A minimal, idiomatic Scala interface for HTTP | 2023-01-02T21:12:33Z |
 | 61 | [circe](https://github.com/circe/circe) | 2360 | 520 | Scala | 156 | Yet another JSON library for Scala | 2022-12-28T13:47:38Z |
 | 62 | [s3_website](https://github.com/laurilehmijoki/s3_website) | 2261 | 194 | Scala | 73 | Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features. | 2021-04-30T17:14:56Z |
 | 63 | [gizzard](https://github.com/twitter-archive/gizzard) | 2231 | 212 | Scala | 0 | [Archived] A flexible sharding framework for creating eventually-consistent distributed datastores | 2017-03-16T23:21:54Z |

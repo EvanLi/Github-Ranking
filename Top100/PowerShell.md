@@ -8,16 +8,16 @@
 | 1 | [core](https://github.com/dotnet/core) | 18437 | 4735 | PowerShell | 410 | Home repository for .NET Core | 2022-12-28T05:50:56Z |
 | 2 | [Scoop](https://github.com/ScoopInstaller/Scoop) | 16850 | 1296 | PowerShell | 147 | A command-line installer for Windows. | 2022-12-22T19:29:22Z |
 | 3 | [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 15683 | 1925 | PowerShell | 265 | Script to remove Windows 10 bloatware. | 2022-12-13T16:19:11Z |
-| 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 10191 | 4320 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
+| 4 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 10192 | 4320 | PowerShell | 67 | PowerSploit - A PowerShell Post-Exploitation Framework | 2020-08-17T23:19:49Z |
 | 5 | [blazor](https://github.com/dotnet/blazor) | 9350 | 670 | PowerShell | 0 | Blazor moved to https://github.com/dotnet/aspnetcore | 2021-02-23T15:13:56Z |
-| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 8288 | 18347 | PowerShell | 4656 | Open source documentation of Microsoft Azure | 2023-01-02T20:46:36Z |
+| 6 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | 8288 | 18347 | PowerShell | 4657 | Open source documentation of Microsoft Azure | 2023-01-02T20:46:36Z |
 | 7 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | 7724 | 1483 | PowerShell | 58 | Six Degrees of Domain Admin | 2023-01-02T08:58:48Z |
-| 8 | [runner-images](https://github.com/actions/runner-images) | 7145 | 2604 | PowerShell | 43 | GitHub Actions runner images | 2023-01-02T13:40:29Z |
+| 8 | [runner-images](https://github.com/actions/runner-images) | 7145 | 2604 | PowerShell | 43 | GitHub Actions runner images | 2023-01-02T21:20:50Z |
 | 9 | [nishang](https://github.com/samratashok/nishang) | 7119 | 2245 | PowerShell | 15 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security.  | 2022-03-26T16:47:44Z |
 | 10 | [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) | 6936 | 2264 | PowerShell | 16 | Small and highly portable detection tests based on MITRE's ATT&CK. | 2023-01-02T20:20:03Z |
 | 11 | [Empire](https://github.com/EmpireProject/Empire) | 6798 | 2650 | PowerShell | 64 | Empire is a PowerShell and Python post-exploitation agent. | 2020-01-19T22:50:59Z |
 | 12 | [posh-git](https://github.com/dahlbyk/posh-git) | 6651 | 797 | PowerShell | 62 | A PowerShell environment for Git | 2022-10-23T11:38:48Z |
-| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 6353 | 2666 | PowerShell | 425 | The Microsoft community Windows Package Manager manifest repository | 2023-01-02T20:56:11Z |
+| 13 | [winget-pkgs](https://github.com/microsoft/winget-pkgs) | 6354 | 2665 | PowerShell | 425 | The Microsoft community Windows Package Manager manifest repository | 2023-01-02T21:18:17Z |
 | 14 | [commando-vm](https://github.com/mandiant/commando-vm) | 5729 | 1186 | PowerShell | 33 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com | 2022-06-16T07:53:58Z |
 | 15 | [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 5683 | 840 | PowerShell | 28 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps | 2022-07-04T19:28:04Z |
 | 16 | [docker](https://github.com/jenkinsci/docker) | 5639 | 3937 | PowerShell | 31 | Docker official jenkins repo | 2022-12-29T14:03:28Z |
@@ -40,7 +40,7 @@
 | 33 | [Thanos.sh](https://github.com/hotvulcan/Thanos.sh) | 2653 | 285 | PowerShell | 46 | if you are Thanos(root), this command could delete half your files randomly | 2022-06-27T09:16:53Z |
 | 34 | [svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) | 2613 | 167 | PowerShell | 41 | Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files | 2020-06-01T14:47:56Z |
 | 35 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 2570 | 451 | PowerShell | 3 | Automation for internal Windows Penetrationtest / AD-Security | 2022-12-15T07:58:43Z |
-| 36 | [winutil](https://github.com/ChrisTitusTech/winutil) | 2474 | 283 | PowerShell | 152 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2023-01-02T14:15:00Z |
+| 36 | [winutil](https://github.com/ChrisTitusTech/winutil) | 2476 | 283 | PowerShell | 152 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 2023-01-02T14:15:00Z |
 | 37 | [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) | 2466 | 251 | PowerShell | 103 | A Project dedicated to making GPU Partitioning on Windows easier! | 2022-12-31T04:57:21Z |
 | 38 | [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | 2421 | 776 | PowerShell | 7 | My musings with PowerShell | 2021-11-19T12:18:24Z |
 | 39 | [AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) | 2396 | 3168 | PowerShell | 0 | AZ-104 Microsoft Azure Administrator | 2022-12-19T14:20:27Z |
@@ -51,7 +51,7 @@
 | 44 | [ImportExcel](https://github.com/dfinke/ImportExcel) | 2027 | 355 | PowerShell | 16 | PowerShell module to import/export Excel spreadsheets, without Excel | 2022-12-28T20:58:09Z |
 | 45 | [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 2027 | 432 | PowerShell | 18 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server | 2022-12-26T22:59:48Z |
 | 46 | [PowerShell](https://github.com/lazywinadmin/PowerShell) | 1975 | 640 | PowerShell | 9 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) | 2021-10-01T22:30:05Z |
-| 47 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | 1961 | 386 | PowerShell | 4 | Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute | 2019-09-23T15:17:03Z |
+| 47 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | 1962 | 386 | PowerShell | 4 | Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute | 2019-09-23T15:17:03Z |
 | 48 | [PrivescCheck](https://github.com/itm4n/PrivescCheck) | 1889 | 324 | PowerShell | 0 | Privilege Escalation Enumeration Script for Windows | 2022-11-23T15:37:25Z |
 | 49 | [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) | 1874 | 378 | PowerShell | 2 | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes. | 2022-12-22T09:22:22Z |
 | 50 | [PowerTools](https://github.com/PowerShellEmpire/PowerTools) | 1809 | 817 | PowerShell | 4 | PowerTools is a collection of PowerShell projects with a focus on offensive operations. | 2021-12-28T21:00:42Z |
@@ -72,7 +72,7 @@
 | 65 | [WSL](https://github.com/MicrosoftDocs/WSL) | 1582 | 505 | PowerShell | 127 | Source code behind the Windows Subsystem for Linux documentation. | 2022-12-31T18:09:28Z |
 | 66 | [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 1573 | 348 | PowerShell | 4 | The goal of this repository is to document the most common techniques to bypass AppLocker.  | 2021-02-18T17:03:12Z |
 | 67 | [sRDI](https://github.com/monoxgas/sRDI) | 1561 | 393 | PowerShell | 7 | Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode | 2022-12-14T16:01:43Z |
-| 68 | [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 1555 | 1410 | PowerShell | 34 | The official PowerShell documentation sources | 2023-01-01T15:31:14Z |
+| 68 | [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 1555 | 1410 | PowerShell | 35 | The official PowerShell documentation sources | 2023-01-01T15:31:14Z |
 | 69 | [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) | 1543 | 321 | PowerShell | 2 | None | 2022-06-13T08:56:55Z |
 | 70 | [Phant0m](https://github.com/hlldz/Phant0m) | 1538 | 312 | PowerShell | 1 | Windows Event Log Killer | 2021-06-20T19:16:02Z |
 | 71 | [usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) | 1527 | 639 | PowerShell | 2 | The Official USB Rubber Ducky Payload Repository | 2023-01-01T14:06:08Z |

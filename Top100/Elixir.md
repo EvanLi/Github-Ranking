@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [elixir](https://github.com/elixir-lang/elixir) | 21103 | 2986 | Elixir | 18 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | 2022-12-30T01:01:57Z |
 | 2 | [phoenix](https://github.com/phoenixframework/phoenix) | 18933 | 2569 | Elixir | 18 | Peace of mind from prototype to production | 2023-01-02T13:59:13Z |
-| 3 | [analytics](https://github.com/plausible/analytics) | 13416 | 674 | Elixir | 29 | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2023-01-02T15:57:37Z |
+| 3 | [analytics](https://github.com/plausible/analytics) | 13417 | 674 | Elixir | 29 | Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | 2023-01-02T15:57:37Z |
 | 4 | [awesome-elixir](https://github.com/h4cc/awesome-elixir) | 11672 | 1122 | Elixir | 0 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | 2022-12-24T14:13:54Z |
 | 5 | [awesomo](https://github.com/lk-geimfari/awesomo) | 8751 | 644 | Elixir | 5 | Cool open source projects written in various languages. | 2022-10-28T22:28:10Z |
 | 6 | [ecto](https://github.com/elixir-ecto/ecto) | 5660 | 1334 | Elixir | 1 | A toolkit for data mapping and language integrated query. | 2022-12-27T18:23:51Z |
@@ -20,7 +20,7 @@
 | 13 | [firezone](https://github.com/firezone/firezone) | 3457 | 149 | Elixir | 39 | WireGuard®-based VPN server and firewall | 2023-01-02T17:37:00Z |
 | 14 | [teslamate](https://github.com/adriankumpf/teslamate) | 3432 | 484 | Elixir | 79 | A self-hosted data logger for your Tesla  🚘 | 2023-01-02T12:44:51Z |
 | 15 | [guardian](https://github.com/ueberauth/guardian) | 3267 | 370 | Elixir | 7 | Elixir Authentication | 2022-11-24T18:57:53Z |
-| 16 | [livebook](https://github.com/livebook-dev/livebook) | 3223 | 281 | Elixir | 28 | Automate code & data workflows with interactive Elixir notebooks | 2023-01-02T18:39:18Z |
+| 16 | [livebook](https://github.com/livebook-dev/livebook) | 3223 | 281 | Elixir | 28 | Automate code & data workflows with interactive Elixir notebooks | 2023-01-02T21:01:08Z |
 | 17 | [30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | 2950 | 422 | Elixir | 0 | A walk through the Elixir language in 30 exercises. | 2022-04-13T18:14:27Z |
 | 18 | [distillery](https://github.com/bitwalker/distillery) | 2915 | 386 | Elixir | 46 | Simplify deployments in Elixir with OTP releases! | 2022-10-07T22:11:11Z |
 | 19 | [magnetissimo](https://github.com/sergiotapia/magnetissimo) | 2606 | 175 | Elixir | 12 | Web application that indexes all popular torrent sites, and saves it to the local database. | 2022-01-13T20:16:15Z |
@@ -73,7 +73,7 @@
 | 66 | [Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) | 1189 | 39 | Elixir | 2 | Catalog of Elixir-specific code smells | 2022-10-28T20:20:33Z |
 | 67 | [mint](https://github.com/elixir-mint/mint) | 1188 | 83 | Elixir | 1 | Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱 | 2022-11-30T07:18:22Z |
 | 68 | [ex_aws](https://github.com/ex-aws/ex_aws) | 1176 | 478 | Elixir | 39 | A flexible, easy to use set of clients AWS APIs for Elixir | 2022-12-23T09:57:11Z |
-| 69 | [grpc](https://github.com/elixir-grpc/grpc) | 1174 | 180 | Elixir | 26 | An Elixir implementation of gRPC | 2022-12-30T19:36:11Z |
+| 69 | [grpc](https://github.com/elixir-grpc/grpc) | 1174 | 180 | Elixir | 26 | An Elixir implementation of gRPC | 2023-01-02T21:02:13Z |
 | 70 | [fast-elixir](https://github.com/devonestes/fast-elixir) | 1168 | 36 | Elixir | 2 | :dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms. | 2021-05-05T14:17:21Z |
 | 71 | [axon](https://github.com/elixir-nx/axon) | 1157 | 70 | Elixir | 16 | Nx-powered Neural Networks | 2023-01-02T14:41:27Z |
 | 72 | [mox](https://github.com/dashbitco/mox) | 1145 | 65 | Elixir | 0 | Mocks and explicit contracts in Elixir | 2022-10-30T16:07:32Z |

@@ -17,13 +17,13 @@
 | 10 | [clashX](https://github.com/yichengchen/clashX) | 21725 | 2776 | Swift | 0 | None | 2022-12-26T08:25:13Z |
 | 11 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 21708 | 3366 | Swift | 108 | The better way to deal with JSON data in Swift. | 2022-11-01T15:24:23Z |
 | 12 | [Hero](https://github.com/HeroTransitions/Hero) | 21189 | 1706 | Swift | 29 | Elegant transition library for iOS & tvOS | 2022-10-06T05:20:53Z |
-| 13 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 20871 | 2356 | Swift | 72 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2023-01-02T01:07:02Z |
+| 13 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 20870 | 2356 | Swift | 72 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2023-01-02T01:07:02Z |
 | 14 | [Aerial](https://github.com/JohnCoates/Aerial) | 20325 | 1033 | Swift | 57 | Apple TV Aerial Screensaver for Mac | 2022-11-07T20:35:57Z |
 | 15 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 20045 | 628 | Swift | 87 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2022-12-29T22:25:17Z |
 | 16 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19975 | 3561 | Swift | 2 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2022-07-04T00:39:49Z |
 | 17 | [Rectangle](https://github.com/rxhanson/Rectangle) | 19794 | 575 | Swift | 47 | Move and resize windows on macOS with keyboard shortcuts and snap areas | 2022-12-16T03:53:09Z |
 | 18 | [SnapKit](https://github.com/SnapKit/SnapKit) | 19068 | 1915 | Swift | 79 | A Swift Autolayout DSL for iOS & OS X | 2022-11-01T03:19:33Z |
-| 19 | [UTM](https://github.com/utmapp/UTM) | 17209 | 1012 | Swift | 445 | Virtual machines for iOS and macOS | 2023-01-02T06:32:15Z |
+| 19 | [UTM](https://github.com/utmapp/UTM) | 17210 | 1012 | Swift | 445 | Virtual machines for iOS and macOS | 2023-01-02T06:32:15Z |
 | 20 | [SwiftLint](https://github.com/realm/SwiftLint) | 16879 | 2025 | Swift | 291 | A tool to enforce Swift style and conventions. | 2023-01-02T10:13:21Z |
 | 21 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 15922 | 2348 | Swift | 42 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2022-11-25T14:34:21Z |
 | 22 | [SwiftGuide](https://github.com/ipader/SwiftGuide) | 15795 | 3627 | Swift | 0 | Swift Featured Projects in brain Mapping | 2022-08-31T11:36:57Z |
@@ -50,10 +50,10 @@
 | 43 | [pock](https://github.com/pock/pock) | 9899 | 371 | Swift | 33 | Widgets manager for MacBook Touch Bar | 2022-11-12T18:15:22Z |
 | 44 | [Quick](https://github.com/Quick/Quick) | 9597 | 911 | Swift | 29 | The Swift (and Objective-C) testing framework. | 2022-12-05T09:00:31Z |
 | 45 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | 9592 | 2628 | Swift | 94 | A private messenger for iOS. | 2023-01-01T00:17:38Z |
-| 46 | [AudioKit](https://github.com/AudioKit/AudioKit) | 9527 | 1459 | Swift | 8 | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | 2023-01-02T19:54:45Z |
+| 46 | [AudioKit](https://github.com/AudioKit/AudioKit) | 9527 | 1459 | Swift | 8 | Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | 2023-01-02T21:21:00Z |
 | 47 | [FlappySwift](https://github.com/fullstackio/FlappySwift) | 9523 | 2657 | Swift | 3 | swift implementation of flappy bird. More at fullstackedu.com | 2022-06-29T21:06:43Z |
 | 48 | [mas](https://github.com/mas-cli/mas) | 9466 | 244 | Swift | 72 | :package: Mac App Store command line interface | 2022-11-25T13:58:24Z |
-| 49 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 9365 | 1100 | Swift | 0 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2022-10-17T12:54:33Z |
+| 49 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 9366 | 1100 | Swift | 0 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2022-10-17T12:54:33Z |
 | 50 | [swift-package-manager](https://github.com/apple/swift-package-manager) | 9058 | 1241 | Swift | 522 | The Package Manager for the Swift Programming Language | 2023-01-02T18:10:30Z |
 | 51 | [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) | 9025 | 1019 | Swift | 45 | Simple JSON Object mapping written in Swift | 2022-06-29T05:52:33Z |
 | 52 | [R.swift](https://github.com/mac-cain13/R.swift) | 8938 | 693 | Swift | 41 | Strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2022-12-12T09:37:51Z |
@@ -99,7 +99,7 @@
 | 92 | [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | 6177 | 592 | Swift | 4 | SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation. | 2022-12-01T06:41:44Z |
 | 93 | [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) | 6148 | 732 | Swift | 161 | Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺ | 2022-06-12T07:39:36Z |
 | 94 | [vimr](https://github.com/qvacua/vimr) | 6143 | 209 | Swift | 273 | VimR — Neovim GUI for macOS in Swift | 2022-12-30T16:51:14Z |
-| 95 | [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) | 6079 | 632 | Swift | 39 | Scrollable UINavigationBar that follows the scrolling of a UIScrollView | 2021-09-15T15:02:20Z |
+| 95 | [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) | 6078 | 632 | Swift | 39 | Scrollable UINavigationBar that follows the scrolling of a UIScrollView | 2021-09-15T15:02:20Z |
 | 96 | [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) | 6068 | 539 | Swift | 55 | SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps. | 2022-12-02T04:22:01Z |
 | 97 | [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) | 6017 | 1343 | Swift | 5 | Roadmap to becoming an iOS developer in 2018. | 2022-09-06T10:37:08Z |
 | 98 | [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) | 5947 | 767 | Swift | 52 | Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift. | 2022-05-11T11:22:57Z |

@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [shellcheck](https://github.com/koalaman/shellcheck) | 30990 | 1566 | Haskell | 813 | ShellCheck, a static analysis tool for shell scripts | 2022-12-15T23:48:11Z |
-| 2 | [pandoc](https://github.com/jgm/pandoc) | 27351 | 3036 | Haskell | 816 | Universal markup converter | 2023-01-02T18:17:20Z |
+| 2 | [pandoc](https://github.com/jgm/pandoc) | 27350 | 3036 | Haskell | 816 | Universal markup converter | 2023-01-02T18:17:20Z |
 | 3 | [postgrest](https://github.com/PostgREST/postgrest) | 19758 | 908 | Haskell | 169 | REST API for any Postgres database | 2022-12-30T14:40:17Z |
 | 4 | [semantic](https://github.com/github/semantic) | 8565 | 499 | Haskell | 102 | Parsing, analyzing, and comparing source code across many languages | 2022-07-22T15:39:27Z |
 | 5 | [hadolint](https://github.com/hadolint/hadolint) | 7997 | 347 | Haskell | 127 | Dockerfile linter, validate inline bash, written in Haskell | 2023-01-02T08:00:58Z |
@@ -36,8 +36,8 @@
 | 29 | [koka](https://github.com/koka-lang/koka) | 2435 | 118 | Haskell | 118 | Koka language compiler and interpreter | 2023-01-02T02:21:50Z |
 | 30 | [wiwinwlh](https://github.com/sdiehl/wiwinwlh) | 2417 | 234 | Haskell | 0 | What I Wish I Knew When Learning Haskell | 2022-02-25T06:38:14Z |
 | 31 | [haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) | 2412 | 224 | Haskell | 294 | The engine for haskell ide-integration. Not an IDE | 2020-12-23T06:21:46Z |
-| 32 | [kmonad](https://github.com/kmonad/kmonad) | 2363 | 265 | Haskell | 144 | An advanced keyboard manager | 2023-01-02T20:53:17Z |
-| 33 | [hledger](https://github.com/simonmichael/hledger) | 2261 | 269 | Haskell | 352 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 2022-12-31T17:41:26Z |
+| 32 | [kmonad](https://github.com/kmonad/kmonad) | 2363 | 265 | Haskell | 144 | An advanced keyboard manager | 2023-01-02T20:56:15Z |
+| 33 | [hledger](https://github.com/simonmichael/hledger) | 2262 | 269 | Haskell | 352 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 2022-12-31T17:41:26Z |
 | 34 | [haskell-language-server](https://github.com/haskell/haskell-language-server) | 2259 | 282 | Haskell | 482 | Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine. | 2023-01-02T19:07:14Z |
 | 35 | [wasp](https://github.com/wasp-lang/wasp) | 2219 | 113 | Haskell | 204 | A programming language that understands what a web app is. | 2023-01-02T17:39:58Z |
 | 36 | [simplex-chat](https://github.com/simplex-chat/simplex-chat) | 2148 | 104 | Haskell | 122 | SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱! | 2023-01-02T20:16:05Z |
@@ -70,7 +70,7 @@
 | 63 | [brick](https://github.com/jtdaugherty/brick) | 1396 | 157 | Haskell | 6 | A declarative Unix terminal UI library written in Haskell | 2022-12-28T01:00:09Z |
 | 64 | [haskell-trainings](https://github.com/google/haskell-trainings) | 1355 | 106 | Haskell | 4 | Haskell 101 and 102: slides and codelabs | 2022-11-03T23:35:40Z |
 | 65 | [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | 1348 | 592 | Haskell | 25 | None | 2022-11-01T19:05:13Z |
-| 66 | [dex-lang](https://github.com/google-research/dex-lang) | 1345 | 88 | Haskell | 132 | Research language for array processing in the Haskell/ML family | 2023-01-02T20:52:16Z |
+| 66 | [dex-lang](https://github.com/google-research/dex-lang) | 1345 | 88 | Haskell | 132 | Research language for array processing in the Haskell/ML family | 2023-01-02T21:08:22Z |
 | 67 | [hlint](https://github.com/ndmitchell/hlint) | 1332 | 175 | Haskell | 211 | Haskell source code suggestions | 2022-12-27T01:51:46Z |
 | 68 | [elm-format](https://github.com/avh4/elm-format) | 1290 | 142 | Haskell | 219 | elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide | 2022-09-28T17:50:43Z |
 | 69 | [fay](https://github.com/faylang/fay) | 1280 | 88 | Haskell | 22 | A proper subset of Haskell that compiles to JavaScript | 2021-06-09T15:10:00Z |
