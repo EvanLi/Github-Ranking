@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7385 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7384 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6539 | 515 | ActionScript | 18 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-02-02T22:26:53Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2619 | 838 | ActionScript | 70 | The Cross Platform Game Engine | 2023-01-03T17:14:01Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2446 | 1121 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -24,7 +24,7 @@
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 617 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 552 | 240 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
 | 19 | [Fanvas](https://github.com/Tencent/Fanvas) | 540 | 197 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
-| 20 | [emulator](https://github.com/nesbox/emulator) | 538 | 245 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 20 | [emulator](https://github.com/nesbox/emulator) | 538 | 246 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 21 | [as3swf](https://github.com/claus/as3swf) | 523 | 128 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 22 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 518 | 281 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 23 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 490 | 64 | ActionScript | 44 | A simple music making program | 2021-08-29T14:38:11Z |
