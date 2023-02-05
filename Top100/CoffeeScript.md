@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 18998 | 2977 | CoffeeScript | 617 | Manage and switch between multiple proxies quickly & easily. | 2022-12-06T08:08:46Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 17884 | 936 | CoffeeScript | 35 | The motion graphics toolbelt for the web | 2023-01-24T22:57:58Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16299 | 2031 | CoffeeScript | 61 | Unfancy JavaScript | 2023-01-02T19:22:22Z |
-| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 13734 | 911 | CoffeeScript | 103 | Low-Budget Password Strength Estimation | 2023-02-02T10:30:11Z |
-| 5 | [codecombat](https://github.com/codecombat/codecombat) | 7720 | 4046 | CoffeeScript | 404 | Game for learning how to code. | 2023-02-03T14:42:05Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 19000 | 2977 | CoffeeScript | 617 | Manage and switch between multiple proxies quickly & easily. | 2022-12-06T08:08:46Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 17885 | 936 | CoffeeScript | 35 | The motion graphics toolbelt for the web | 2023-01-24T22:57:58Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16301 | 2031 | CoffeeScript | 62 | Unfancy JavaScript | 2023-01-02T19:22:22Z |
+| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 13736 | 911 | CoffeeScript | 103 | Low-Budget Password Strength Estimation | 2023-02-02T10:30:11Z |
+| 5 | [codecombat](https://github.com/codecombat/codecombat) | 7721 | 4046 | CoffeeScript | 404 | Game for learning how to code. | 2023-02-03T14:42:05Z |
 | 6 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7526 | 422 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 7 | [morris.js](https://github.com/morrisjs/morris.js) | 6965 | 1261 | CoffeeScript | 286 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 8 | [At.js](https://github.com/ichord/At.js) | 5300 | 699 | CoffeeScript | 151 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
@@ -49,7 +49,7 @@
 | 42 | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) | 1845 | 117 | CoffeeScript | 93 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility | 2022-07-19T20:35:10Z |
 | 43 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1816 | 246 | CoffeeScript | 97 | Token based authentication module for angular.js. | 2022-12-06T18:43:58Z |
 | 44 | [BuckyClient](https://github.com/HubSpot/BuckyClient) | 1747 | 99 | CoffeeScript | 12 | Collect performance data from the client | 2016-08-05T20:07:08Z |
-| 45 | [local_time](https://github.com/basecamp/local_time) | 1732 | 118 | CoffeeScript | 22 | Rails engine for cache-friendly, client-side local time | 2023-01-19T04:15:31Z |
+| 45 | [local_time](https://github.com/basecamp/local_time) | 1732 | 119 | CoffeeScript | 22 | Rails engine for cache-friendly, client-side local time | 2023-01-19T04:15:31Z |
 | 46 | [slidesjs](https://github.com/nathansearles/slidesjs) | 1730 | 367 | CoffeeScript | 303 | SlidesJS is obsolete and no longer maintained. | 2020-12-07T00:07:08Z |
 | 47 | [eco](https://github.com/sstephenson/eco) | 1726 | 73 | CoffeeScript | 25 | Embedded CoffeeScript templates | 2019-07-02T05:26:52Z |
 | 48 | [dnschain](https://github.com/okTurtles/dnschain) | 1724 | 180 | CoffeeScript | 44 | A blockchain-based DNS + HTTP server that fixes HTTPS security, and more! | 2017-04-22T03:52:26Z |
