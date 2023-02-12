@@ -99,7 +99,7 @@ class ProcessorGQL(object):
 
     def __init__(self):
         self.gql_format = """query{
-            search(query: "%s", type: REPOSITORY, first: 60) {
+            search(query: "%s", type: REPOSITORY, first: 100) {
                 edges {
                     node {
                         ...on Repository {
