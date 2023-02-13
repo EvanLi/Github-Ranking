@@ -2,7 +2,7 @@
 from datetime import datetime
 import os
 import pandas as pd
-from common import get_api_repos, get_graphql_data, write_text, write_ranking_repo
+from common import get_graphql_data, write_text, write_ranking_repo
 import inspect
 
 # languages = ['Python']  # For test
@@ -53,41 +53,6 @@ table_of_contents = """
 * [Vim script](#vim-script)"""
 
 
-class ProcessorREST(object):
-    """
-    Github REST API v3
-    Deprecating API authentication through query parameters, should send the token in the header
-    ref: https://developer.github.com/changes/2020-02-10-deprecating-auth-through-query-param/
-    search limit 10 times per minute, with token is 30 per minute
-    check rate_limit with : curl -H "Authorization: token your-access-token" https://api.github.com/rate_limit
-    """
-
-    def __init__(self):
-
-        self.api_repo_stars = r'https://api.github.com/search/repositories?q=stars:>0&sort=stars&per_page=100'
-        self.api_repo_forks = r'https://api.github.com/search/repositories?q=forks:>0&sort=forks&per_page=100'
-        self.api_repo_stars_lang = r'https://api.github.com/search/repositories?q=language:{lang}&stars:>0&sort=stars&per_page=100'
-
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
-        self.repos_stars, self.repos_forks, self.repos_languages = self.get_all_repos()
-
-    def get_all_repos(self):
-        # get all repos of most stars and forks, and different languages
-
-        print("Get repos of most stars...")
-        repos_stars = get_api_repos(self.api_repo_stars)
-
-        print("Get repos of most forks...")
-        repos_forks = get_api_repos(self.api_repo_forks)
-
-        repos_languages = {}
-        for lang in languages:
-            print("Get most stars repos of {}...".format(lang))
-            repos_languages[lang] = get_api_repos(self.api_repo_stars_lang.format(lang=lang))
-        return repos_stars, repos_forks, repos_languages
-
-
 class ProcessorGQL(object):
     """
     Github GraphQL API v4
@@ -99,7 +64,8 @@ class ProcessorGQL(object):
 
     def __init__(self):
         self.gql_format = """query{
-            search(query: "%s", type: REPOSITORY, first: 100) {
+    search(query: "%s", type: REPOSITORY, first:%d %s) {
+      pageInfo { endCursor }
                 edges {
                     node {
                         ...on Repository {
@@ -113,13 +79,13 @@ class ProcessorGQL(object):
                             owner {
                                 login
                             }
-                            issues(states: OPEN) {
-                                totalCount
-                            }
                             description
                             pushedAt
                             primaryLanguage {
                                 name
+                            }
+                            openIssues: issues(states: OPEN) {
+                                totalCount
                             }
                         }
                     }
@@ -127,9 +93,11 @@ class ProcessorGQL(object):
             }
         }
         """
-        self.gql_stars = self.gql_format % "stars:>1000 sort:stars"
-        self.gql_forks = self.gql_format % "forks:>1000 sort:forks"
-        self.gql_stars_lang = self.gql_format % "language:%s stars:>0 sort:stars"
+        self.bulk_size = 50
+        self.bulk_count = 2
+        self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
+        self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
+        self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
 
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
                     'last_commit', 'description']
@@ -148,30 +116,35 @@ class ProcessorGQL(object):
                 'owner': {
                     'login': repo_data['owner']['login'],
                 },
-                'open_issues_count': repo_data['issues']['totalCount'],
+                'open_issues_count': repo_data['openIssues']['totalCount'],
                 'pushed_at': repo_data['pushedAt'],
-                'description': repo_data['description'],
+                'description': repo_data['description']
             })
         return res
+
+    def get_repos(self, qql):
+        cursor = ''
+        repos = []
+        for i in range(0, self.bulk_count):
+            repos_gql = get_graphql_data(qql % cursor)
+            cursor = ', after:"' + repos_gql["data"]["search"]["pageInfo"]["endCursor"] + '"'
+            repos += self.parse_gql_result(repos_gql)
+        return repos
 
     def get_all_repos(self):
         # get all repos of most stars and forks, and different languages
         print("Get repos of most stars...")
-        repos_stars_gql = get_graphql_data(self.gql_stars)
-        repos_stars = self.parse_gql_result(repos_stars_gql)
+        repos_stars = self.get_repos(self.gql_stars)
         print("Get repos of most stars success!")
 
         print("Get repos of most forks...")
-        repos_forks_gql = get_graphql_data(self.gql_forks)
-        repos_forks = self.parse_gql_result(repos_forks_gql)
+        repos_forks = self.get_repos(self.gql_forks)
         print("Get repos of most forks success!")
 
         repos_languages = {}
         for lang in languages:
             print("Get most stars repos of {}...".format(lang))
-            repos_languages[lang] = self.parse_gql_result(
-                get_graphql_data(self.gql_stars_lang % lang)
-            )
+            repos_languages[lang] = self.get_repos(self.gql_stars_lang % (lang, '%s'))
             print("Get most stars repos of {} success!".format(lang))
         return repos_stars, repos_forks, repos_languages
 
@@ -274,7 +247,6 @@ def run_by_gql():
     ROOT_PATH = os.path.abspath(os.path.join(__file__, "../../"))
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
-    # processor = ProcessorREST()  # use Github REST API v3
     processor = ProcessorGQL()  # use Github GraphQL API v4
     repos_stars, repos_forks, repos_languages = processor.get_all_repos()
     wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
