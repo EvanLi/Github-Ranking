@@ -73,11 +73,15 @@ def get_graphql_data(GQL):
     s = requests.session()
     s.keep_alive = False  # don't keep the session
     graphql_api = "https://api.github.com/graphql"
-    time.sleep(5)  # not get so fast
-
-    # requests.packages.urllib3.disable_warnings() # disable InsecureRequestWarning of verify=False,
-    r = requests.post(url=graphql_api, json={"query": GQL}, headers=headers)
-
-    if r.status_code != 200:
-        raise ValueError('Can not retrieve from {}'.format(GQL))
-    return r.json()
+    for _ in range(5):
+        time.sleep(2)  # not get so fast
+        try:
+            # requests.packages.urllib3.disable_warnings() # disable InsecureRequestWarning of verify=False,
+            r = requests.post(url=graphql_api, json={"query": GQL}, headers=headers, timeout=30)
+            if r.status_code != 200:
+                print(f'Can not retrieve from {GQL}. Response status is {r.status_code}, content is {r.content}.')
+            else:
+                return r.json()
+        except Exception as e:
+            print(e)
+            time.sleep(5)
