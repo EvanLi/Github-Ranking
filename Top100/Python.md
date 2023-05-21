@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 120410 | 8999 | Python | 3823 | Command-line program to download videos from YouTube.com and other video sites | 2023-05-19T19:08:11Z |
-| 2 | [django](https://github.com/django/django) | 70762 | 29226 | Python | 0 | The Web framework for perfectionists with deadlines. | 2023-05-20T00:11:30Z |
-| 3 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 68985 | 8988 | Python | 103 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 2023-04-28T01:11:43Z |
-| 4 | [pytorch](https://github.com/pytorch/pytorch) | 66948 | 18354 | Python | 11085 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 2023-05-20T02:59:59Z |
-| 5 | [flask](https://github.com/pallets/flask) | 62986 | 15660 | Python | 0 | The Python micro framework for building web applications. | 2023-05-18T12:33:44Z |
-| 6 | [keras](https://github.com/keras-team/keras) | 58379 | 19343 | Python | 290 | Deep Learning for humans | 2023-05-19T15:22:16Z |
-| 7 | [ansible](https://github.com/ansible/ansible) | 57404 | 23354 | Python | 660 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | 2023-05-19T23:18:59Z |
-| 8 | [requests](https://github.com/psf/requests) | 49546 | 9091 | Python | 209 | A simple, yet elegant, HTTP library. | 2023-05-17T12:28:43Z |
-| 9 | [face_recognition](https://github.com/ageitgey/face_recognition) | 48286 | 12932 | Python | 695 | The world's simplest facial recognition api for Python and the command line | 2023-05-17T09:22:26Z |
-| 10 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 47768 | 12601 | Python | 0 | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | 2023-05-18T11:33:55Z |
-| 11 | [localstack](https://github.com/localstack/localstack) | 47163 | 3576 | Python | 322 | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline | 2023-05-19T16:16:29Z |
-| 12 | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | 44832 | 2139 | Python | 61 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | 2023-04-06T10:47:36Z |
-| 13 | [rich](https://github.com/Textualize/rich) | 43307 | 1560 | Python | 100 | Rich is a Python library for rich text and beautiful formatting in the terminal. | 2023-05-19T07:31:06Z |
-| 14 | [langchain](https://github.com/hwchase17/langchain) | 40280 | 4493 | Python | 1190 | ⚡ Building applications with LLMs through composability ⚡ | 2023-05-20T02:53:17Z |
-| 15 | [pandas](https://github.com/pandas-dev/pandas) | 38398 | 16282 | Python | 3366 | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more | 2023-05-20T00:41:26Z |
-| 16 | [gpt4free](https://github.com/xtekky/gpt4free) | 36320 | 9356 | Python | 89 | decentralising the Ai Industry, just some language model api's... | 2023-05-19T21:10:10Z |
-| 17 | [ailearning](https://github.com/apachecn/ailearning) | 35465 | 11121 | Python | 3 | AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2 | 2023-05-03T06:22:58Z |
-| 18 | [cheat.sh](https://github.com/chubin/cheat.sh) | 35322 | 1700 | Python | 103 | the only cheat sheet you need | 2023-04-02T15:42:25Z |
-| 19 | [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | 35244 | 7222 | Python | 49 | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | 2022-11-27T13:18:32Z |
-| 20 | [interview_internal_reference](https://github.com/0voice/interview_internal_reference) | 34842 | 9288 | Python | 27 | 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 | 2023-05-17T07:20:27Z |
-| 21 | [sentry](https://github.com/getsentry/sentry) | 34204 | 3798 | Python | 994 | Developer-first error tracking and performance monitoring | 2023-05-20T01:02:58Z |
-| 22 | [shadowsocks](https://github.com/shadowsocks/shadowsocks) | 33373 | 19085 | Python | 0 | None | 2022-11-27T06:10:06Z |
-| 23 | [TaskMatrix](https://github.com/microsoft/TaskMatrix) | 32814 | 3141 | Python | 179 | None | 2023-05-19T05:29:15Z |
-| 24 | [wtfpython](https://github.com/satwikkansal/wtfpython) | 32646 | 2560 | Python | 59 | What the f*ck Python? 😱 | 2023-04-28T07:04:28Z |
-| 25 | [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | 32478 | 5936 | Python | 7 | Comprehensive Python Cheatsheet | 2023-04-13T16:17:20Z |
-| 26 | [black](https://github.com/psf/black) | 32389 | 2089 | Python | 361 | The uncompromising Python code formatter | 2023-05-19T23:04:16Z |
-| 27 | [jieba](https://github.com/fxsjy/jieba) | 30591 | 6673 | Python | 607 | 结巴中文分词 | 2022-07-17T00:34:33Z |
-| 28 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 30441 | 6258 | Python | 1584 | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) | 2023-05-18T06:56:27Z |
-| 29 | [airflow](https://github.com/apache/airflow) | 30246 | 12383 | Python | 682 | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows | 2023-05-20T02:59:02Z |
-| 30 | [linux-insides](https://github.com/0xAX/linux-insides) | 28163 | 3205 | Python | 26 | A little bit about a linux kernel | 2023-05-17T10:09:45Z |
-| 31 | [httpie](https://github.com/httpie/httpie) | 27782 | 3767 | Python | 136 | 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. | 2023-05-19T22:01:40Z |
-| 32 | [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | 27291 | 4358 | Python | 33 | 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. | 2022-10-02T09:13:36Z |
-| 33 | [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) | 26539 | 7731 | Python | 64 | PyTorch Tutorial for Deep Learning Researchers | 2023-04-04T13:56:59Z |
-| 34 | [ChatGPT](https://github.com/acheong08/ChatGPT) | 25530 | 4182 | Python | 3 | Reverse engineered ChatGPT API | 2023-05-17T12:05:16Z |
-| 35 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 25056 | 3109 | Python | 327 | ChatGLM-6B: An Open Bilingual Dialogue Language Model \| 开源双语对话语言模型 | 2023-05-19T06:13:47Z |
-| 36 | [DeepSpeed](https://github.com/microsoft/DeepSpeed) | 24816 | 2958 | Python | 716 | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | 2023-05-19T19:09:34Z |
-| 37 | [streamlit](https://github.com/streamlit/streamlit) | 24745 | 2180 | Python | 589 | Streamlit — A faster way to build and share data apps. | 2023-05-20T00:04:46Z |
-| 38 | [python-fire](https://github.com/google/python-fire) | 24546 | 1394 | Python | 116 | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. | 2023-04-07T17:41:10Z |
-| 39 | [mmdetection](https://github.com/open-mmlab/mmdetection) | 24220 | 8654 | Python | 657 | OpenMMLab Detection Toolbox and Benchmark | 2023-05-19T09:40:59Z |
-| 40 | [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 23926 | 3420 | Python | 133 | Code and documentation to train Stanford's Alpaca models, and generate the data. | 2023-05-07T11:45:09Z |
-| 41 | [pipenv](https://github.com/pypa/pipenv) | 23858 | 1844 | Python | 184 |  Python Development Workflow for Humans. | 2023-05-20T00:09:02Z |
-| 42 | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | 23711 | 3422 | Python | 32 | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. | 2023-05-18T16:38:46Z |
-| 43 | [numpy](https://github.com/numpy/numpy) | 23545 | 8125 | Python | 1983 | The fundamental package for scientific computing with Python. | 2023-05-20T01:59:07Z |
-| 44 | [professional-programming](https://github.com/charlax/professional-programming) | 23396 | 2019 | Python | 0 | A collection of learning resources for curious software engineers | 2023-05-16T17:12:31Z |
-| 45 | [jax](https://github.com/google/jax) | 23194 | 2156 | Python | 1135 | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more | 2023-05-20T01:11:26Z |
-| 46 | [redash](https://github.com/getredash/redash) | 23158 | 4027 | Python | 522 | Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | 2023-05-19T13:42:42Z |
-| 47 | [spleeter](https://github.com/deezer/spleeter) | 22534 | 2467 | Python | 173 | Deezer source separation library including pretrained models. | 2023-05-17T10:28:53Z |
-| 48 | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | 22151 | 4367 | Python | 32 | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. | 2022-10-26T05:13:56Z |
-| 49 | [fairseq](https://github.com/facebookresearch/fairseq) | 22065 | 5445 | Python | 886 | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. | 2023-05-19T01:29:33Z |
-| 50 | [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | 21981 | 2171 | Python | 184 | Investment Research for Everyone, Everywhere. | 2023-05-19T22:35:40Z |
-| 51 | [privateGPT](https://github.com/imartinez/privateGPT) | 18731 | 1912 | Python | 120 | Interact privately with your documents using the power of GPT, 100% privately, no data leaks | 2023-05-20T02:27:24Z |
-| 52 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 18710 | 5773 | Python | 13 | Python sample codes for robotics algorithms. | 2023-05-16T12:45:15Z |
-| 53 | [saleor](https://github.com/saleor/saleor) | 18477 | 5006 | Python | 436 | Saleor Core: the high performance, composable, headless commerce API. | 2023-05-19T18:25:45Z |
-| 54 | [magenta](https://github.com/magenta/magenta) | 18475 | 3738 | Python | 336 | Magenta: Music and Art Generation with Machine Intelligence | 2023-05-11T07:42:20Z |
-| 55 | [proxy_pool](https://github.com/jhao104/proxy_pool) | 17853 | 4624 | Python | 243 | Python爬虫代理IP池(proxy pool) | 2023-05-15T08:23:20Z |
-| 56 | [matplotlib](https://github.com/matplotlib/matplotlib) | 17411 | 6902 | Python | 1354 | matplotlib: plotting with Python | 2023-05-20T01:53:30Z |
-| 57 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 17112 | 2849 | Python | 88 | The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. | 2023-05-19T14:30:16Z |
-| 58 | [sanic](https://github.com/sanic-org/sanic) | 17068 | 1516 | Python | 65 |  Accelerate your web app development  \| Build fast. Run fast. | 2023-05-17T04:26:35Z |
-| 59 | [mkdocs](https://github.com/mkdocs/mkdocs) | 16440 | 2252 | Python | 121 | Project documentation with Markdown. | 2023-05-19T12:40:26Z |
-| 60 | [mindsdb](https://github.com/mindsdb/mindsdb) | 16139 | 1998 | Python | 575 | A low-code Machine Learning platform to help developers build #AI solutions | 2023-05-20T01:16:28Z |
-| 61 | [zipline](https://github.com/quantopian/zipline) | 16132 | 4580 | Python | 320 | Zipline, a Pythonic Algorithmic Trading Library | 2023-02-14T17:14:33Z |
-| 62 | [PySnooper](https://github.com/cool-RR/PySnooper) | 15856 | 940 | Python | 23 | Never use print for debugging again | 2023-04-16T03:54:42Z |
-| 63 | [ipython](https://github.com/ipython/ipython) | 15825 | 4426 | Python | 1533 | Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc. | 2023-05-19T09:54:00Z |
-| 64 | [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) | 15810 | 580 | Python | 137 | get things from one computer to another, safely | 2023-05-12T04:57:36Z |
-| 65 | [faker](https://github.com/joke2k/faker) | 15803 | 1766 | Python | 19 | Faker is a Python package that generates fake data for you. | 2023-05-18T02:38:14Z |
-| 66 | [llama_index](https://github.com/jerryjliu/llama_index) | 15546 | 1631 | Python | 291 | LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. | 2023-05-20T02:03:37Z |
-| 67 | [mypy](https://github.com/python/mypy) | 15378 | 2541 | Python | 2407 | Optional static typing for Python | 2023-05-20T00:47:56Z |
-| 68 | [calibre](https://github.com/kovidgoyal/calibre) | 15143 | 1917 | Python | 0 | The official source code repository for the calibre ebook manager | 2023-05-19T09:58:07Z |
-| 69 | [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) | 15049 | 3205 | Python | 60 | 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 | 2022-07-26T16:22:57Z |
-| 70 | [wagtail](https://github.com/wagtail/wagtail) | 14769 | 3197 | Python | 835 | A Django content management system focused on flexibility and user experience | 2023-05-19T22:00:34Z |
-| 71 | [learn-python](https://github.com/trekhleb/learn-python) | 14718 | 2395 | Python | 5 | 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. | 2023-03-21T10:43:21Z |
-| 72 | [insightface](https://github.com/deepinsight/insightface) | 14537 | 4286 | Python | 1233 | State-of-the-art 2D and 3D Face Analysis Project | 2023-05-17T03:19:52Z |
-| 73 | [babyagi](https://github.com/yoheinakajima/babyagi) | 14499 | 1984 | Python | 79 | None | 2023-05-18T14:40:52Z |
-| 74 | [baselines](https://github.com/openai/baselines) | 14392 | 4676 | Python | 407 | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms | 2023-04-02T11:36:25Z |
-| 75 | [jupyter](https://github.com/jupyter/jupyter) | 14359 | 3695 | Python | 195 | Jupyter metapackage for installation, docs and chat | 2023-05-19T17:46:18Z |
-| 76 | [gensim](https://github.com/RaRe-Technologies/gensim) | 14335 | 4360 | Python | 366 | Topic Modelling for Humans | 2023-05-15T06:47:55Z |
-| 77 | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | 14147 | 4988 | Python | 31 | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | 2023-05-19T20:50:41Z |
-| 78 | [vision](https://github.com/pytorch/vision) | 13983 | 6695 | Python | 717 | Datasets, Transforms and Models specific to Computer Vision | 2023-05-20T00:49:39Z |
-| 79 | [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) | 13856 | 4399 | Python | 29 | 微信《跳一跳》Python 辅助 | 2022-11-22T02:04:23Z |
-| 80 | [GHunt](https://github.com/mxrch/GHunt) | 13638 | 1150 | Python | 10 | 🕵️‍♂️ Offensive Google framework. | 2023-05-18T19:58:03Z |
-| 81 | [imgaug](https://github.com/aleju/imgaug) | 13547 | 2378 | Python | 277 | Image augmentation for machine learning experiments. | 2023-04-13T17:44:10Z |
-| 82 | [pyecharts](https://github.com/pyecharts/pyecharts) | 13543 | 2779 | Python | 5 | 🎨 Python Echarts Plotting Library | 2023-04-10T01:17:15Z |
-| 83 | [ranger](https://github.com/ranger/ranger) | 13396 | 843 | Python | 675 | A VIM-inspired filemanager for the console | 2023-05-17T16:46:46Z |
-| 84 | [yapf](https://github.com/google/yapf) | 13229 | 899 | Python | 376 | A formatter for Python files | 2023-05-19T13:42:55Z |
-| 85 | [requests-html](https://github.com/psf/requests-html) | 13157 | 950 | Python | 165 | Pythonic HTML Parsing for Humans™ | 2023-04-17T10:54:25Z |
-| 86 | [label-studio](https://github.com/heartexlabs/label-studio) | 13006 | 1548 | Python | 404 | Label Studio is a multi-type data labeling and annotation tool with standardized output format | 2023-05-19T23:30:26Z |
-| 87 | [discord.py](https://github.com/Rapptz/discord.py) | 12818 | 3626 | Python | 61 | An API wrapper for Discord written in Python. | 2023-05-20T01:30:34Z |
-| 88 | [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 12808 | 3180 | Python | 114 | 短信轰炸/短信测压/ \| 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ | 2023-03-17T16:06:53Z |
-| 89 | [newspaper](https://github.com/codelucas/newspaper) | 12780 | 2023 | Python | 399 | News, full-text, and article metadata extraction in Python 3. Advanced docs: | 2023-04-25T07:57:09Z |
-| 90 | [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 12770 | 1669 | Python | 0 | 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 | 2023-05-19T08:59:55Z |
-| 91 | [speedtest-cli](https://github.com/sivel/speedtest-cli) | 12755 | 1913 | Python | 0 | Command line interface for testing internet bandwidth using speedtest.net | 2023-04-29T19:11:54Z |
-| 92 | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | 12657 | 4069 | Python | 37 | A collection of simple python mini projects to enhance your python skills | 2022-07-17T08:51:24Z |
-| 93 | [unilm](https://github.com/microsoft/unilm) | 12354 | 1818 | Python | 318 | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities | 2023-05-19T13:07:07Z |
-| 94 | [awx](https://github.com/ansible/awx) | 12236 | 3117 | Python | 1367 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. | 2023-05-20T02:48:51Z |
-| 95 | [tushare](https://github.com/waditu/tushare) | 12156 | 4267 | Python | 510 | TuShare is a utility for crawling historical data of China stocks | 2023-01-28T07:04:37Z |
-| 96 | [mailinabox](https://github.com/mail-in-a-box/mailinabox) | 12077 | 1343 | Python | 453 | Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. | 2023-05-19T12:59:19Z |
-| 97 | [albumentations](https://github.com/albumentations-team/albumentations) | 12008 | 1509 | Python | 344 | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 2023-05-17T14:46:22Z |
-| 98 | [fauxpilot](https://github.com/fauxpilot/fauxpilot) | 11979 | 490 | Python | 46 | FauxPilot - an open-source alternative to GitHub Copilot server | 2023-04-27T04:22:14Z |
-| 99 | [prefect](https://github.com/PrefectHQ/prefect) | 11969 | 1228 | Python | 469 | The easiest way to orchestrate and observe your data pipelines | 2023-05-19T23:28:31Z |
-| 100 | [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) | 11950 | 2180 | Python | 157 | Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. | 2023-05-17T23:49:35Z |
+| 1 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 220512 | 39137 | Python | 181 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2023-05-10T21:18:56Z |
+| 2 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 136020 | 49115 | Python | 499 | Python - 100天从新手到大师 | 2023-04-24T03:43:56Z |
+| 3 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 132998 | 27246 | Python | 512 | An experimental open-source attempt to make GPT-4 fully autonomous. | 2023-05-21T02:55:48Z |
+| 4 | [thefuck](https://github.com/nvbn/thefuck) | 77470 | 3356 | Python | 213 | Magnificent app which corrects your previous console command. | 2023-05-04T12:27:07Z |
+| 5 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 76567 | 14801 | Python | 1878 | Stable Diffusion web UI | 2023-05-21T01:46:52Z |
+| 6 | [scrapy](https://github.com/scrapy/scrapy) | 47242 | 9990 | Python | 483 | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2023-05-20T10:48:07Z |
+| 7 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | 43297 | 9641 | Python | 11 | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions | 2023-05-20T23:56:00Z |
+| 8 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 41861 | 7608 | Python | 132 | Clone a voice in 5 seconds to generate arbitrary speech in real-time | 2023-05-05T10:49:10Z |
+| 9 | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | 39429 | 8813 | Python | 528 | DeepFaceLab is the leading software for creating deepfakes. | 2023-04-27T06:45:48Z |
+| 10 | [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) | 35250 | 7223 | Python | 49 | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! | 2022-11-27T13:18:32Z |
+| 11 | [shadowsocks](https://github.com/shadowsocks/shadowsocks) | 33376 | 19084 | Python | 0 | None | 2022-11-27T06:10:06Z |
+| 12 | [TaskMatrix](https://github.com/microsoft/TaskMatrix) | 32833 | 3142 | Python | 179 | None | 2023-05-19T05:29:15Z |
+| 13 | [XX-Net](https://github.com/XX-net/XX-Net) | 32027 | 7789 | Python | 7860 | A proxy tool to bypass GFW. | 2023-04-28T15:12:17Z |
+| 14 | [jieba](https://github.com/fxsjy/jieba) | 30594 | 6673 | Python | 607 | 结巴中文分词 | 2022-07-17T00:34:33Z |
+| 15 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 30445 | 6261 | Python | 1588 | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) | 2023-05-18T06:56:27Z |
+| 16 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | 29636 | 3447 | Python | 261 | Making large AI models cheaper, faster and more accessible | 2023-05-19T11:42:31Z |
+| 17 | [HanLP](https://github.com/hankcs/HanLP) | 29085 | 8292 | Python | 7 | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理 | 2023-04-24T02:15:26Z |
+| 18 | [MockingBird](https://github.com/babysor/MockingBird) | 28857 | 4322 | Python | 413 | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time | 2023-05-06T06:38:13Z |
+| 19 | [Python](https://github.com/geekcomputers/Python) | 27672 | 11603 | Python | 211 | My Python Examples | 2023-05-17T22:17:18Z |
+| 20 | [Detectron](https://github.com/facebookresearch/Detectron) | 25751 | 5512 | Python | 303 | FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. | 2023-05-12T15:02:32Z |
+| 21 | [ray](https://github.com/ray-project/ray) | 25646 | 4455 | Python | 2584 | Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. | 2023-05-21T02:51:54Z |
+| 22 | [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | 25320 | 4135 | Python | 58 | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more | 2023-05-19T01:46:13Z |
+| 23 | [streamlit](https://github.com/streamlit/streamlit) | 24767 | 2182 | Python | 589 | Streamlit — A faster way to build and share data apps. | 2023-05-20T17:33:57Z |
+| 24 | [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 23965 | 3426 | Python | 134 | Code and documentation to train Stanford's Alpaca models, and generate the data. | 2023-05-07T11:45:09Z |
+| 25 | [ItChat](https://github.com/littlecodersh/ItChat) | 23859 | 5467 | Python | 250 | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 | 2023-03-15T06:34:38Z |
+| 26 | [Depix](https://github.com/beurtschipper/Depix) | 23534 | 2908 | Python | 0 | Recovers passwords from pixelized screenshots | 2023-05-17T14:22:35Z |
+| 27 | [hosts](https://github.com/StevenBlack/hosts) | 22937 | 1982 | Python | 50 | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | 2023-05-21T01:17:22Z |
+| 28 | [stablediffusion](https://github.com/Stability-AI/stablediffusion) | 22778 | 2812 | Python | 145 | High-Resolution Image Synthesis with Latent Diffusion Models | 2023-05-15T16:17:29Z |
+| 29 | [cascadia-code](https://github.com/microsoft/cascadia-code) | 22533 | 743 | Python | 113 | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | 2022-12-06T01:05:48Z |
+| 30 | [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | 21993 | 2173 | Python | 185 | Investment Research for Everyone, Everywhere. | 2023-05-21T00:29:13Z |
+| 31 | [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 19287 | 1916 | Python | 7 | 🐧 A list of awesome Linux softwares  | 2023-05-20T15:55:31Z |
+| 32 | [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 18718 | 5775 | Python | 13 | Python sample codes for robotics algorithms. | 2023-05-16T12:45:15Z |
+| 33 | [kitty](https://github.com/kovidgoyal/kitty) | 18713 | 838 | Python | 16 | Cross-platform, fast, feature-rich, GPU based terminal | 2023-05-20T21:42:51Z |
+| 34 | [dash](https://github.com/plotly/dash) | 18704 | 1891 | Python | 701 | Data Apps & Dashboards for Python. No JavaScript Required. | 2023-05-19T14:05:16Z |
+| 35 | [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) | 17076 | 2907 | Python | 368 | Automated nginx proxy for Docker containers using docker-gen | 2023-05-19T13:44:05Z |
+| 36 | [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 16561 | 746 | Python | 130 | Google Chromium, sans integration with Google | 2023-05-19T17:03:22Z |
+| 37 | [DeOldify](https://github.com/jantic/DeOldify) | 16560 | 2391 | Python | 1 | A Deep Learning based project for colorizing and restoring old images (and video!) | 2023-04-16T16:39:32Z |
+| 38 | [reddit](https://github.com/reddit-archive/reddit) | 16454 | 2899 | Python | 0 | historical code from reddit.com | 2017-10-17T19:57:07Z |
+| 39 | [OSX-KVM](https://github.com/kholia/OSX-KVM) | 16110 | 1594 | Python | 0 | Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. | 2023-04-15T23:19:00Z |
+| 40 | [recommenders](https://github.com/microsoft/recommenders) | 15699 | 2735 | Python | 158 | Best Practices on Recommendation Systems | 2023-05-12T10:26:27Z |
+| 41 | [minGPT](https://github.com/karpathy/minGPT) | 15261 | 1777 | Python | 29 | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training | 2023-02-27T05:59:18Z |
+| 42 | [loguru](https://github.com/Delgan/loguru) | 14917 | 605 | Python | 94 | Python logging made (stupidly) simple | 2023-05-05T19:14:19Z |
+| 43 | [insightface](https://github.com/deepinsight/insightface) | 14603 | 4295 | Python | 1233 | State-of-the-art 2D and 3D Face Analysis Project | 2023-05-17T03:19:52Z |
+| 44 | [baselines](https://github.com/openai/baselines) | 14392 | 4676 | Python | 407 | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms | 2023-04-02T11:36:25Z |
+| 45 | [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | 13936 | 1461 | Python | 2230 | :cake: Desktop utility to download images/videos/music/text from various websites, and more. | 2023-05-16T13:26:53Z |
+| 46 | [GHunt](https://github.com/mxrch/GHunt) | 13642 | 1150 | Python | 10 | 🕵️‍♂️ Offensive Google framework. | 2023-05-18T19:58:03Z |
+| 47 | [imgaug](https://github.com/aleju/imgaug) | 13547 | 2378 | Python | 277 | Image augmentation for machine learning experiments. | 2023-04-13T17:44:10Z |
+| 48 | [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | 13343 | 710 | Python | 3 | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 | 2023-05-16T06:46:20Z |
+| 49 | [mackup](https://github.com/lra/mackup) | 13209 | 914 | Python | 281 | Keep your application settings in sync (OS X/Linux) | 2023-03-24T17:37:16Z |
+| 50 | [nni](https://github.com/microsoft/nni) | 12891 | 1789 | Python | 264 | An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. | 2023-05-20T07:27:49Z |
+| 51 | [matplotlib](https://github.com/matplotlib/matplotlib) | 17413 | 6902 | Python | 1350 | matplotlib: plotting with Python | 2023-05-21T01:00:43Z |
+| 52 | [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) | 16657 | 1849 | Python | 7 | A cheatsheet of modern C++ language and library features. | 2023-03-18T18:08:31Z |
+| 53 | [luigi](https://github.com/spotify/luigi) | 16546 | 2373 | Python | 88 | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  | 2023-05-09T08:37:29Z |
+| 54 | [mkdocs](https://github.com/mkdocs/mkdocs) | 16442 | 2252 | Python | 121 | Project documentation with Markdown. | 2023-05-19T12:40:26Z |
+| 55 | [rasa](https://github.com/RasaHQ/rasa) | 16342 | 4342 | Python | 1 | 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants | 2023-05-20T20:56:34Z |
+| 56 | [datasets](https://github.com/huggingface/datasets) | 16226 | 2171 | Python | 532 | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools | 2023-05-20T13:13:31Z |
+| 57 | [pyspider](https://github.com/binux/pyspider) | 15879 | 3673 | Python | 269 | A Powerful Spider(Web Crawler) System in Python. | 2023-04-16T12:41:59Z |
+| 58 | [faker](https://github.com/joke2k/faker) | 15803 | 1766 | Python | 19 | Faker is a Python package that generates fake data for you. | 2023-05-18T02:38:14Z |
+| 59 | [llama_index](https://github.com/jerryjliu/llama_index) | 15586 | 1635 | Python | 296 | LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data. | 2023-05-21T01:00:56Z |
+| 60 | [inter](https://github.com/rsms/inter) | 15376 | 370 | Python | 71 | The Inter font family | 2023-05-11T21:33:57Z |
+| 61 | [InstaPy](https://github.com/InstaPy/InstaPy) | 15331 | 3714 | Python | 428 | 📷 Instagram Bot - Tool for automated Instagram interactions | 2023-05-19T05:04:28Z |
+| 62 | [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) | 15050 | 3205 | Python | 60 | 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 | 2022-07-26T16:22:57Z |
+| 63 | [wagtail](https://github.com/wagtail/wagtail) | 14774 | 3198 | Python | 835 | A Django content management system focused on flexibility and user experience | 2023-05-20T10:25:48Z |
+| 64 | [learn-python](https://github.com/trekhleb/learn-python) | 14722 | 2395 | Python | 5 | 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. | 2023-03-21T10:43:21Z |
+| 65 | [babyagi](https://github.com/yoheinakajima/babyagi) | 14540 | 1991 | Python | 78 | None | 2023-05-20T19:48:22Z |
+| 66 | [gensim](https://github.com/RaRe-Technologies/gensim) | 14339 | 4360 | Python | 366 | Topic Modelling for Humans | 2023-05-20T23:25:28Z |
+| 67 | [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) | 14119 | 3821 | Python | 103 | PyTorch implementations of Generative Adversarial Networks. | 2022-10-24T12:28:43Z |
+| 68 | [dalle-mini](https://github.com/borisdayma/dalle-mini) | 14113 | 1135 | Python | 88 | DALL·E Mini - Generate images from a text prompt | 2023-05-19T18:24:38Z |
+| 69 | [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) | 13856 | 4399 | Python | 29 | 微信《跳一跳》Python 辅助 | 2022-11-22T02:04:23Z |
+| 70 | [click](https://github.com/pallets/click) | 13852 | 1342 | Python | 97 | Python composable command line interface toolkit | 2023-05-18T13:53:30Z |
+| 71 | [powerline](https://github.com/powerline/powerline) | 13801 | 1004 | Python | 198 | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. | 2023-05-19T21:15:47Z |
+| 72 | [pydantic](https://github.com/pydantic/pydantic) | 13730 | 1248 | Python | 256 | Data validation using Python type hints | 2023-05-20T20:54:20Z |
+| 73 | [tensor2tensor](https://github.com/tensorflow/tensor2tensor) | 13620 | 3267 | Python | 573 | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. | 2023-05-05T19:28:26Z |
+| 74 | [pyecharts](https://github.com/pyecharts/pyecharts) | 13542 | 2780 | Python | 5 | 🎨 Python Echarts Plotting Library | 2023-04-10T01:17:15Z |
+| 75 | [wxpy](https://github.com/youfou/wxpy) | 13499 | 2365 | Python | 295 | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | 2019-07-14T17:59:47Z |
+| 76 | [ranger](https://github.com/ranger/ranger) | 13398 | 843 | Python | 679 | A VIM-inspired filemanager for the console | 2023-05-17T16:46:46Z |
+| 77 | [horovod](https://github.com/horovod/horovod) | 13287 | 2184 | Python | 339 | Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. | 2023-05-19T16:13:42Z |
+| 78 | [salt](https://github.com/saltstack/salt) | 13220 | 5418 | Python | 2500 | Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:  | 2023-05-21T01:27:08Z |
+| 79 | [requests-html](https://github.com/psf/requests-html) | 13159 | 950 | Python | 165 | Pythonic HTML Parsing for Humans™ | 2023-04-17T10:54:25Z |
+| 80 | [label-studio](https://github.com/heartexlabs/label-studio) | 13008 | 1547 | Python | 404 | Label Studio is a multi-type data labeling and annotation tool with standardized output format | 2023-05-21T03:02:55Z |
+| 81 | [Hello-Python](https://github.com/mouredev/Hello-Python) | 12829 | 855 | Python | 8 | Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más... | 2023-04-01T06:34:48Z |
+| 82 | [discord.py](https://github.com/Rapptz/discord.py) | 12827 | 3627 | Python | 62 | An API wrapper for Discord written in Python. | 2023-05-21T00:20:39Z |
+| 83 | [newspaper](https://github.com/codelucas/newspaper) | 12786 | 2023 | Python | 399 | News, full-text, and article metadata extraction in Python 3. Advanced docs: | 2023-04-25T07:57:09Z |
+| 84 | [speedtest-cli](https://github.com/sivel/speedtest-cli) | 12756 | 1914 | Python | 0 | Command line interface for testing internet bandwidth using speedtest.net | 2023-04-29T19:11:54Z |
+| 85 | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | 12659 | 4073 | Python | 37 | A collection of simple python mini projects to enhance your python skills | 2022-07-17T08:51:24Z |
+| 86 | [awx](https://github.com/ansible/awx) | 12239 | 3117 | Python | 1368 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. | 2023-05-20T02:48:51Z |
+| 87 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | 12110 | 2424 | Python | 0 | SoftVC VITS Singing Voice Conversion | 2023-05-20T11:43:45Z |
+| 88 | [mailinabox](https://github.com/mail-in-a-box/mailinabox) | 12078 | 1343 | Python | 453 | Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. | 2023-05-20T12:59:49Z |
+| 89 | [nltk](https://github.com/nltk/nltk) | 11956 | 2741 | Python | 229 | NLTK Source | 2023-05-17T22:15:20Z |
+| 90 | [Zappa](https://github.com/Miserlou/Zappa) | 11898 | 1253 | Python | 604 | Serverless Python | 2023-03-23T13:59:31Z |
+| 91 | [pyxel](https://github.com/kitao/pyxel) | 11884 | 757 | Python | 12 | A retro game engine for Python | 2023-05-18T23:54:04Z |
+| 92 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 11842 | 1254 | Python | 42 | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复 | 2023-05-19T09:00:55Z |
+| 93 | [dgl](https://github.com/dmlc/dgl) | 11747 | 2821 | Python | 315 | Python package built to ease deep learning on graph, on top of existing DL frameworks. | 2023-05-20T11:18:58Z |
+| 94 | [TTS](https://github.com/coqui-ai/TTS) | 11734 | 1535 | Python | 26 | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production | 2023-05-18T09:24:56Z |
+| 95 | [pix2code](https://github.com/tonybeltramelli/pix2code) | 11676 | 1391 | Python | 0 | pix2code: Generating Code from a Graphical User Interface Screenshot | 2023-02-20T14:51:25Z |
+| 96 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 11613 | 2027 | Python | 264 | 🏄 Embed/reason/rank images and sentences with CLIP models | 2023-05-16T09:36:29Z |
+| 97 | [XSStrike](https://github.com/s0md3v/XSStrike) | 11555 | 1751 | Python | 48 | Most advanced XSS scanner. | 2023-05-20T14:16:52Z |
+| 98 | [impacket](https://github.com/fortra/impacket) | 11121 | 3169 | Python | 161 | Impacket is a collection of Python classes for working with network protocols. | 2023-05-20T13:28:55Z |
+| 99 | [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) | 11004 | 1208 | Python | 47 | Style transfer, deep learning, feature transform | 2022-09-08T16:10:37Z |
+| 100 | [qlib](https://github.com/microsoft/qlib) | 10917 | 1955 | Python | 187 | Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib. | 2023-05-19T04:50:39Z |
 
