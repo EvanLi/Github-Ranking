@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7373 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7372 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6588 | 521 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-06-20T16:05:54Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2706 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-03-21T18:11:44Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2467 | 1124 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2707 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-03-21T18:11:44Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1125 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1488 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1324 | 523 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1277 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -28,7 +28,7 @@
 | 21 | [as3swf](https://github.com/claus/as3swf) | 524 | 127 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 22 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 517 | 278 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 23 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 504 | 65 | ActionScript | 45 | A simple music making program | 2021-08-29T14:38:11Z |
-| 24 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 474 | 39 | ActionScript | 22 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
+| 24 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 475 | 39 | ActionScript | 22 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 25 | [Ash](https://github.com/richardlord/Ash) | 447 | 92 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 26 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 411 | 142 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 27 | [flump](https://github.com/tconkling/flump) | 382 | 69 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
@@ -76,7 +76,7 @@
 | 69 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 197 | 27 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 70 | [FileReader](https://github.com/AVapps/FileReader) | 193 | 62 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 71 | [avmplus](https://github.com/adobe-flash/avmplus) | 187 | 91 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
-| 72 | [kingdom](https://github.com/noio/kingdom) | 184 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
+| 72 | [kingdom](https://github.com/noio/kingdom) | 185 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 73 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 183 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 74 | [avmplus](https://github.com/adobe/avmplus) | 183 | 73 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
 | 75 | [ovmeet](https://github.com/ccallcn/ovmeet) | 182 | 104 | ActionScript | 1 | MCU融屏、会议级联、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-06-06T03:11:00Z |
@@ -90,9 +90,9 @@
 | 83 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 173 | 94 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
 | 84 | [GPUImage](https://github.com/inspirit/GPUImage) | 170 | 30 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 85 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 168 | 50 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
-| 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 164 | 99 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
+| 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 164 | 100 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 87 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 162 | 25 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
-| 88 | [AutoAni](https://github.com/LePtC/AutoAni) | 155 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
+| 88 | [AutoAni](https://github.com/LePtC/AutoAni) | 156 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 89 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 153 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
 | 90 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 151 | 48 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 91 | [as3delaunay](https://github.com/nodename/as3delaunay) | 149 | 102 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
