@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 12904 | 676 | ActionScript | 2979 | A Flash Player emulator written in Rust | 2023-08-04T02:41:11Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 12905 | 676 | ActionScript | 2995 | A Flash Player emulator written in Rust | 2023-08-05T01:59:08Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7367 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6616 | 520 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-08-03T20:55:30Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6617 | 520 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-08-03T20:55:30Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2718 | 837 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1123 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2467 | 1123 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1324 | 521 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1280 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -23,7 +23,7 @@
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 278 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 629 | 123 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 620 | 178 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
-| 19 | [emulator](https://github.com/nesbox/emulator) | 557 | 248 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 19 | [emulator](https://github.com/nesbox/emulator) | 557 | 249 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 549 | 236 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 545 | 201 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 525 | 127 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
@@ -34,8 +34,8 @@
 | 27 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 409 | 142 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 28 | [flump](https://github.com/tconkling/flump) | 382 | 69 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
 | 29 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 381 | 151 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
-| 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 370 | 124 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
-| 31 | [Weave](https://github.com/WeaveTeam/Weave) | 370 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
+| 30 | [Weave](https://github.com/WeaveTeam/Weave) | 371 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
+| 31 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 370 | 124 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 32 | [wck](https://github.com/jesses/wck) | 356 | 57 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 33 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 355 | 45 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 34 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
@@ -68,7 +68,7 @@
 | 61 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 238 | 106 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
 | 62 | [MMORPG](https://github.com/dianbaer/MMORPG) | 229 | 109 | ActionScript | 0 | MMORPG是一个可以用来学习ARPG核心战斗的项目（不再维护）。http://v.youku.com/v_show/id_XOTE5NDg1MTg0.html?firsttime=0 | 2018-03-12T12:38:25Z |
 | 63 | [swiz-framework](https://github.com/swiz/swiz-framework) | 227 | 44 | ActionScript | 14 | Swiz framework for AS3 and Flex | 2013-06-19T04:19:12Z |
-| 64 | [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) | 210 | 72 | ActionScript | 11 | Library to help Flash, Flex and ActionScript clients connect to Socket.IO servers. | 2016-09-22T20:16:49Z |
+| 64 | [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) | 211 | 72 | ActionScript | 11 | Library to help Flash, Flex and ActionScript clients connect to Socket.IO servers. | 2016-09-22T20:16:49Z |
 | 65 | [Starling-Filters](https://github.com/devon-o/Starling-Filters) | 208 | 51 | ActionScript | 0 | A collection of filters for use with the Starling AS3 framework. | 2017-12-12T17:18:45Z |
 | 66 | [Flashbang](https://github.com/cure53/Flashbang) | 208 | 55 | ActionScript | 14 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 67 | [GrindPlayer](https://github.com/kutu/GrindPlayer) | 207 | 63 | ActionScript | 7 | OSMF + Flex based flash video player, which provides most needed functionality in nowadays | 2014-10-02T17:32:44Z |
@@ -76,11 +76,11 @@
 | 69 | [flexlib](https://github.com/flex-users/flexlib) | 204 | 91 | ActionScript | 283 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
 | 70 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 196 | 26 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 71 | [FileReader](https://github.com/AVapps/FileReader) | 193 | 62 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
-| 72 | [avmplus](https://github.com/adobe-flash/avmplus) | 190 | 91 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
+| 72 | [avmplus](https://github.com/adobe-flash/avmplus) | 191 | 91 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
 | 73 | [kingdom](https://github.com/noio/kingdom) | 186 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
-| 74 | [avmplus](https://github.com/adobe/avmplus) | 185 | 74 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
-| 75 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 184 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
-| 76 | [ovmeet](https://github.com/ccallcn/ovmeet) | 184 | 104 | ActionScript | 1 | MCU融屏、会议级联、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
+| 74 | [ovmeet](https://github.com/ccallcn/ovmeet) | 185 | 104 | ActionScript | 1 | MCU融屏、会议级联、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
+| 75 | [avmplus](https://github.com/adobe/avmplus) | 185 | 74 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
+| 76 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 184 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 181 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 78 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 32 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 79 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 178 | 49 | ActionScript | 3 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2023-01-14T21:23:47Z |
