@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [bulma](https://github.com/jgthms/bulma) | 47433 | 3971 | CSS | 200 | Modern CSS framework based on Flexbox | 2023-08-18T16:43:10Z |
-| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 45798 | 3370 | CSS | 24 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2023-07-28T07:10:05Z |
-| 3 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 36444 | 1371 | CSS | 140 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
-| 4 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 30207 | 8009 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2023-07-27T10:39:33Z |
-| 5 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26632 | 5419 | CSS | 98 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
-| 6 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 19229 | 1848 | CSS | 5 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
-| 7 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 19140 | 1666 | CSS | 68 | Monospaced font family for user interface and coding environments | 2023-04-12T09:14:41Z |
-| 8 | [Skeleton](https://github.com/dhg/Skeleton) | 18891 | 3155 | CSS | 76 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-05-02T06:17:46Z |
-| 9 | [ratchet](https://github.com/twbs/ratchet) | 14566 | 1503 | CSS | 202 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2021-05-26T13:51:40Z |
-| 10 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13519 | 3254 | CSS | 0 | Tomorrow Theme | 2022-07-09T10:34:23Z |
-| 11 | [dalai](https://github.com/cocktailpeanut/dalai) | 12640 | 1429 | CSS | 295 | The simplest way to run LLaMA on your local machine | 2023-06-30T13:51:06Z |
-| 12 | [2048](https://github.com/gabrielecirulli/2048) | 11744 | 16669 | CSS | 60 | A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024) | 2023-06-01T12:22:19Z |
-| 13 | [spectre](https://github.com/picturepan2/spectre) | 11218 | 812 | CSS | 164 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2023-01-27T09:29:24Z |
-| 14 | [Effeckt.css](https://github.com/h5bp/Effeckt.css) | 10946 | 1434 | CSS | 0 | This repo is archived. Thanks! | 2019-03-01T16:28:55Z |
-| 15 | [_s](https://github.com/Automattic/_s) | 10775 | 3138 | CSS | 55 | Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for. | 2023-03-18T01:50:39Z |
-| 16 | [loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10178 | 1248 | CSS | 9 | Delightful, performance-focused pure css loading animations. | 2023-05-03T19:08:55Z |
-| 17 | [photon](https://github.com/connors/photon) | 9946 | 590 | CSS | 64 | The fastest way to build beautiful Electron apps using simple HTML and CSS | 2022-10-23T10:19:31Z |
-| 18 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9573 | 687 | CSS | 43 | :octocat: Dark GitHub style | 2023-08-16T20:11:23Z |
-| 19 | [spin.js](https://github.com/fgnass/spin.js) | 9328 | 1043 | CSS | 12 | A spinning activity indicator | 2021-09-01T22:19:41Z |
-| 20 | [landscape](https://github.com/cncf/landscape) | 8877 | 1881 | CSS | 61 | 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | 2023-08-20T14:20:16Z |
-| 21 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 8833 | 3276 | CSS | 21 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2023-07-04T16:09:02Z |
-| 22 | [plex](https://github.com/IBM/plex) | 8773 | 569 | CSS | 60 | The package of IBM’s typeface, IBM Plex. | 2023-08-15T16:15:19Z |
-| 23 | [primeng](https://github.com/primefaces/primeng) | 8401 | 4224 | CSS | 725 | The Most Complete Angular UI Component Library | 2023-08-20T05:30:36Z |
-| 24 | [hint.css](https://github.com/chinchang/hint.css) | 8359 | 718 | CSS | 38 | A CSS only tooltip library for your lovely websites. | 2023-02-28T17:58:01Z |
-| 25 | [arc-theme](https://github.com/horst3180/arc-theme) | 8321 | 620 | CSS | 174 | A flat theme with transparent elements | 2021-02-22T01:52:31Z |
-| 26 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8034 | 35248 | CSS | 146 | Build a Jekyll blog in minutes, without touching the command line. | 2023-08-19T02:49:41Z |
-| 27 | [thejsway](https://github.com/thejsway/thejsway) | 7813 | 815 | CSS | 1 | The JavaScript Way book | 2023-04-26T21:38:37Z |
-| 28 | [purecss-francine](https://github.com/cyanharlow/purecss-francine) | 7728 | 525 | CSS | 44 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. | 2022-08-18T09:48:16Z |
-| 29 | [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | 7521 | 1511 | CSS | 2 | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | 2022-10-06T01:16:28Z |
-| 30 | [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | 7495 | 1812 | CSS | 9 | A list of public penetration test reports published by several consulting firms and academic security groups. | 2023-08-12T16:55:50Z |
-| 31 | [icheck](https://github.com/dargullin/icheck) | 7426 | 1653 | CSS | 165 | Highly customizable checkboxes and radio buttons (jQuery & Zepto) | 2020-12-19T03:59:54Z |
-| 32 | [odometer](https://github.com/HubSpot/odometer) | 7234 | 737 | CSS | 78 | Smoothly transitions numbers with ease. #hubspot-open-source | 2018-06-30T03:01:51Z |
-| 33 | [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | 7221 | 2147 | CSS | 9 | The minimal amount of CSS to replicate the GitHub Markdown style | 2023-02-10T16:27:24Z |
-| 34 | [DataTables](https://github.com/DataTables/DataTables) | 7196 | 2205 | CSS | 0 | Tables plug-in for jQuery | 2022-01-25T11:01:31Z |
-| 35 | [json-api](https://github.com/json-api/json-api) | 7185 | 850 | CSS | 115 | A specification for building JSON APIs | 2023-06-18T14:50:09Z |
-| 36 | [css-loaders](https://github.com/lukehaas/css-loaders) | 7011 | 1069 | CSS | 12 | A collection of loading spinners animated with CSS | 2023-07-29T13:35:30Z |
-| 37 | [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) | 6993 | 2008 | CSS | 69 | Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day! | 2023-08-01T17:48:11Z |
-| 38 | [vex](https://github.com/HubSpot/vex) | 6934 | 504 | CSS | 50 | A modern dialog library which is highly configurable and easy to style. #hubspot-open-source | 2023-02-26T00:28:34Z |
-| 39 | [compass](https://github.com/Compass/compass) | 6760 | 1197 | CSS | 415 | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | 2023-04-24T17:45:42Z |
-| 40 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 6722 | 20643 | CSS | 11 | A sample Spring-based application | 2023-08-20T04:44:25Z |
-| 41 | [sorry](https://github.com/xtyxtyx/sorry) | 6422 | 792 | CSS | 15 | 在线制作`sorry 为所欲为`的gif | 2023-04-11T12:44:58Z |
-| 42 | [magic-of-css](https://github.com/adamschwartz/magic-of-css) | 6354 | 394 | CSS | 8 | A CSS course to turn you into a magician. | 2022-09-24T17:12:46Z |
-| 43 | [basscss](https://github.com/basscss/basscss) | 5798 | 314 | CSS | 17 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library | 2022-12-30T17:37:47Z |
-| 44 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 5454 | 400 | CSS | 0 | 程序员工作中常见的英语词汇 | 2023-07-12T06:09:07Z |
-| 45 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5417 | 1328 | CSS | 1 | Javascript tutorial book | 2023-04-01T08:50:14Z |
-| 46 | [handcalcs](https://github.com/connorferster/handcalcs) | 5251 | 413 | CSS | 66 | Python library for converting Python calculations into rendered latex. | 2022-12-27T18:49:13Z |
-| 47 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 5154 | 244 | CSS | 4 | 🕶️ Awesome stuff for Obsidian | 2023-08-11T14:40:37Z |
-| 48 | [vscode-docs](https://github.com/microsoft/vscode-docs) | 5154 | 4262 | CSS | 69 | Public documentation for Visual Studio Code | 2023-08-20T21:50:46Z |
-| 49 | [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) | 5129 | 669 | CSS | 955 | The next generation Javascript WYSIWYG HTML Editor. | 2023-08-16T10:30:46Z |
-| 50 | [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | 5094 | 1174 | CSS | 0 | An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version. | 2023-07-31T04:37:43Z |
-| 51 | [home](https://github.com/rime/home) | 3864 | 218 | CSS | 365 | Rime::Home is home to Rime users and developers | 2023-07-04T04:25:12Z |
-| 52 | [megaboilerplate](https://github.com/sahat/megaboilerplate) | 3831 | 276 | CSS | 64 | Handcrafted starter projects, optimized for simplicity and ease of use. | 2022-07-22T00:58:43Z |
-| 53 | [picnic](https://github.com/franciscop/picnic) | 3685 | 224 | CSS | 0 | :handbag: A beautiful CSS library to kickstart your projects | 2023-07-15T16:13:47Z |
-| 54 | [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) | 3628 | 418 | CSS | 9 | HTML5 mockups of popular devices, to showcase your portfolio and spice up your website. | 2021-11-27T08:34:56Z |
-| 55 | [hyde](https://github.com/poole/hyde) | 3524 | 3843 | CSS | 26 | A brazen two-column theme for Jekyll. | 2023-05-10T16:11:53Z |
-| 56 | [open-iconic](https://github.com/iconic/open-iconic) | 3523 | 428 | CSS | 33 | An open source icon set with 223 marks in SVG, webfont and raster formats | 2023-07-31T00:08:23Z |
-| 57 | [voxel.css](https://github.com/HunterLarco/voxel.css) | 3350 | 130 | CSS | 10 | A lightweight 3D CSS voxel library. | 2016-05-09T10:05:30Z |
-| 58 | [rfs](https://github.com/twbs/rfs) | 3207 | 217 | CSS | 6 | ✩ Automates responsive resizing ✩ | 2023-07-24T18:11:33Z |
-| 59 | [material](https://github.com/Daemonite/material) | 3192 | 738 | CSS | 35 | Material Design for Bootstrap 4 | 2023-03-06T07:50:37Z |
-| 60 | [qlmarkdown](https://github.com/toland/qlmarkdown) | 3190 | 141 | CSS | 43 | QuickLook generator for Markdown files. | 2021-12-13T23:28:22Z |
-| 61 | [ui-buttons](https://github.com/eludadev/ui-buttons) | 3146 | 233 | CSS | 1 | 100 Modern CSS Buttons. Every style that you can imagine. | 2022-08-01T09:09:38Z |
-| 62 | [lanyon](https://github.com/poole/lanyon) | 3143 | 2929 | CSS | 22 | A content-first, sliding sidebar theme for Jekyll. | 2023-08-12T01:02:03Z |
-| 63 | [cssicon](https://github.com/wentin/cssicon) | 3142 | 185 | CSS | 13 | icon set made with pure css code, no dependencies, "grab and go" icons | 2023-04-25T17:11:23Z |
-| 64 | [understrap](https://github.com/understrap/understrap) | 2986 | 957 | CSS | 25 | Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme. | 2023-08-17T09:50:28Z |
-| 65 | [mini.css](https://github.com/Chalarangelo/mini.css) | 2953 | 212 | CSS | 8 | A minimal, responsive, style-agnostic CSS framework! | 2022-04-04T14:51:07Z |
-| 66 | [Ionic-Material](https://github.com/zachfitz/Ionic-Material) | 2924 | 917 | CSS | 120 | Material Design style and animations for Ionic | 2017-05-16T23:42:54Z |
-| 67 | [halfmoon](https://github.com/halfmoonui/halfmoon) | 2879 | 109 | CSS | 62 | Drop-in Bootstrap replacement, fully customizable with CSS variables. | 2023-08-19T09:31:02Z |
-| 68 | [hubpress.io](https://github.com/HubPress/hubpress.io) | 2820 | 2681 | CSS | 74 | A web application to build your blog on GitHub | 2019-09-17T07:44:22Z |
-| 69 | [poole](https://github.com/poole/poole) | 2780 | 1845 | CSS | 8 | The Jekyll Butler. A no frills responsive Jekyll blog theme. | 2023-08-13T03:25:24Z |
-| 70 | [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) | 2775 | 559 | CSS | 139 | 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用: | 2022-03-08T03:05:27Z |
-| 71 | [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) | 2719 | 297 | CSS | 11 | Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias | 2021-07-07T23:05:50Z |
-| 72 | [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 2703 | 162 | CSS | 53 | A distraction-free and highly customizable theme for Obsidian | 2023-08-16T22:31:48Z |
-| 73 | [wtf-forms](https://github.com/mdo/wtf-forms) | 2702 | 161 | CSS | 0 | Friendlier HTML form controls with a little CSS magic.  | 2020-09-28T05:00:37Z |
-| 74 | [lollms-webui](https://github.com/ParisNeo/lollms-webui) | 2692 | 358 | CSS | 61 | gpt4all chatbot ui | 2023-08-21T00:04:13Z |
-| 75 | [online-cv](https://github.com/sharu725/online-cv) | 2688 | 5256 | CSS | 13 | A minimal Jekyll Theme to host your resume (CV) | 2023-08-20T18:23:56Z |
-| 76 | [JSbooks](https://github.com/revolunet/JSbooks) | 2493 | 728 | CSS | 6 | Directory of free JavaScript ebooks | 2020-09-25T10:27:36Z |
-| 77 | [django-material](https://github.com/kmmbvnr/django-material) | 2484 | 426 | CSS | 20 | Material Design for Django | 2023-04-12T06:12:45Z |
-| 78 | [awesome-programmers](https://github.com/rekihattori/awesome-programmers) | 2424 | 139 | CSS | 6 | A list of history's greatest software engineers and tech pioneers | 2021-05-11T19:07:37Z |
-| 79 | [Garlic.js](https://github.com/guillaumepotier/Garlic.js) | 2369 | 184 | CSS | 58 | Automatically persist your forms' text and select field values locally, until the form is submitted. | 2021-11-03T09:57:46Z |
-| 80 | [drop](https://github.com/HubSpot/drop) | 2366 | 216 | CSS | 44 | A library for creating dropdowns and other floating elements. #hubspot-open-source | 2020-09-11T02:16:41Z |
-| 81 | [webgradients](https://github.com/itmeo/webgradients) | 2354 | 142 | CSS | 5 | A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats. | 2021-04-07T14:54:50Z |
-| 82 | [HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) | 2329 | 728 | CSS | 0 | A simple set of best practices to get HTML5 projects off on the right foot. | 2023-08-01T16:22:42Z |
-| 83 | [micron](https://github.com/webkul/micron) | 2313 | 104 | CSS | 2 | a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power | 2018-10-04T10:52:29Z |
-| 84 | [flogo](https://github.com/TIBCOSoftware/flogo) | 2298 | 288 | CSS | 126 | Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps. | 2023-03-24T18:16:50Z |
-| 85 | [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) | 2297 | 219 | CSS | 1 | This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts! | 2023-04-22T20:11:16Z |
-| 86 | [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) | 2244 | 259 | CSS | 1 | A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome. | 2022-09-22T06:48:20Z |
-| 87 | [b374k](https://github.com/b374k/b374k) | 2240 | 763 | CSS | 15 | PHP Webshell with handy features | 2023-07-06T20:23:03Z |
-| 88 | [nodejsscan](https://github.com/ajinabraham/nodejsscan) | 2213 | 350 | CSS | 4 | nodejsscan is a static security code scanner for Node.js applications. | 2023-08-05T21:17:36Z |
-| 89 | [recess](https://github.com/twitter-archive/recess) | 2194 | 202 | CSS | 0 | A simple and attractive code quality tool for CSS built on top of LESS | 2016-04-18T11:53:32Z |
-| 90 | [tmt-workflow](https://github.com/Tencent/tmt-workflow) | 2179 | 278 | CSS | 0 | A web developer workflow used by WeChat team based on Gulp, with cross-platform supported and solutions prepared. | 2020-07-30T10:34:05Z |
-| 91 | [minimal](https://github.com/orderedlist/minimal) | 2163 | 736 | CSS | 24 | A Theme for GitHub Pages | 2023-04-11T16:25:43Z |
-| 92 | [system.css](https://github.com/sakofchit/system.css) | 2159 | 63 | CSS | 2 | A design system for building retro Apple interfaces | 2023-08-01T23:49:04Z |
-| 93 | [iziModal](https://github.com/marcelodolza/iziModal) | 2146 | 291 | CSS | 85 | Elegant, responsive, flexible and lightweight modal plugin with jQuery. | 2022-05-30T09:28:57Z |
-| 94 | [cssremedy](https://github.com/jensimmons/cssremedy) | 2125 | 112 | CSS | 31 | Start your project with a remedy for the technical debt of CSS.  | 2022-07-07T22:11:37Z |
-| 95 | [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | 2104 | 2435 | CSS | 65 | Cloudflare’s documentation | 2023-08-20T20:49:16Z |
-| 96 | [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) | 2100 | 327 | CSS | 51 | Happy Hacking Emacs & Spacemacs (Simplified Chinese) | 2023-08-17T14:33:17Z |
-| 97 | [based.cooking](https://github.com/LukeSmithxyz/based.cooking) | 2082 | 556 | CSS | 6 | A simple culinary website. | 2023-08-16T08:44:54Z |
-| 98 | [humane-js](https://github.com/wavded/humane-js) | 2069 | 195 | CSS | 10 | A simple, modern, browser notification system | 2019-10-14T02:18:03Z |
-| 99 | [sparks](https://github.com/aftertheflood/sparks) | 2058 | 59 | CSS | 5 | A typeface for creating sparklines in text without code. | 2020-05-06T18:13:18Z |
-| 100 | [V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) | 2050 | 637 | CSS | 36 | 正在开发的全新 V2ray.Fun | 2022-12-26T20:15:22Z |
+| 1 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 36443 | 1371 | CSS | 140 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
+| 2 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 19142 | 1666 | CSS | 68 | Monospaced font family for user interface and coding environments | 2023-04-12T09:14:41Z |
+| 3 | [Skeleton](https://github.com/dhg/Skeleton) | 18891 | 3155 | CSS | 76 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-05-02T06:17:46Z |
+| 4 | [2048](https://github.com/gabrielecirulli/2048) | 11744 | 16670 | CSS | 60 | A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024) | 2023-06-01T12:22:19Z |
+| 5 | [spectre](https://github.com/picturepan2/spectre) | 11219 | 812 | CSS | 164 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2023-01-27T09:29:24Z |
+| 6 | [_s](https://github.com/Automattic/_s) | 10775 | 3138 | CSS | 55 | Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for. | 2023-03-18T01:50:39Z |
+| 7 | [photon](https://github.com/connors/photon) | 9946 | 590 | CSS | 64 | The fastest way to build beautiful Electron apps using simple HTML and CSS | 2022-10-23T10:19:31Z |
+| 8 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 8834 | 3276 | CSS | 21 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2023-07-04T16:09:02Z |
+| 9 | [primeng](https://github.com/primefaces/primeng) | 8400 | 4225 | CSS | 716 | The Most Complete Angular UI Component Library | 2023-08-21T19:29:55Z |
+| 10 | [hint.css](https://github.com/chinchang/hint.css) | 8359 | 718 | CSS | 38 | A CSS only tooltip library for your lovely websites. | 2023-02-28T17:58:01Z |
+| 11 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8035 | 35253 | CSS | 146 | Build a Jekyll blog in minutes, without touching the command line. | 2023-08-19T02:49:41Z |
+| 12 | [thejsway](https://github.com/thejsway/thejsway) | 7812 | 817 | CSS | 1 | The JavaScript Way book | 2023-04-26T21:38:37Z |
+| 13 | [purecss-francine](https://github.com/cyanharlow/purecss-francine) | 7727 | 525 | CSS | 44 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. | 2022-08-18T09:48:16Z |
+| 14 | [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | 7521 | 1511 | CSS | 2 | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | 2022-10-06T01:16:28Z |
+| 15 | [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | 7498 | 1813 | CSS | 9 | A list of public penetration test reports published by several consulting firms and academic security groups. | 2023-08-21T11:42:13Z |
+| 16 | [icheck](https://github.com/dargullin/icheck) | 7426 | 1653 | CSS | 165 | Highly customizable checkboxes and radio buttons (jQuery & Zepto) | 2020-12-19T03:59:54Z |
+| 17 | [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | 7224 | 2147 | CSS | 9 | The minimal amount of CSS to replicate the GitHub Markdown style | 2023-02-10T16:27:24Z |
+| 18 | [DataTables](https://github.com/DataTables/DataTables) | 7196 | 2205 | CSS | 0 | Tables plug-in for jQuery | 2022-01-25T11:01:31Z |
+| 19 | [css-loaders](https://github.com/lukehaas/css-loaders) | 7010 | 1069 | CSS | 12 | A collection of loading spinners animated with CSS | 2023-07-29T13:35:30Z |
+| 20 | [compass](https://github.com/Compass/compass) | 6760 | 1197 | CSS | 415 | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | 2023-04-24T17:45:42Z |
+| 21 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 6724 | 20650 | CSS | 11 | A sample Spring-based application | 2023-08-20T04:44:25Z |
+| 22 | [sorry](https://github.com/xtyxtyx/sorry) | 6422 | 792 | CSS | 15 | 在线制作`sorry 为所欲为`的gif | 2023-04-11T12:44:58Z |
+| 23 | [magic-of-css](https://github.com/adamschwartz/magic-of-css) | 6355 | 394 | CSS | 8 | A CSS course to turn you into a magician. | 2022-09-24T17:12:46Z |
+| 24 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 5454 | 400 | CSS | 0 | 程序员工作中常见的英语词汇 | 2023-07-12T06:09:07Z |
+| 25 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5417 | 1330 | CSS | 1 | Javascript tutorial book | 2023-04-01T08:50:14Z |
+| 26 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 5162 | 245 | CSS | 4 | 🕶️ Awesome stuff for Obsidian | 2023-08-21T20:14:43Z |
+| 27 | [vscode-docs](https://github.com/microsoft/vscode-docs) | 5155 | 4263 | CSS | 67 | Public documentation for Visual Studio Code | 2023-08-22T00:37:30Z |
+| 28 | [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) | 5130 | 669 | CSS | 955 | The next generation Javascript WYSIWYG HTML Editor. | 2023-08-16T10:30:46Z |
+| 29 | [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | 5094 | 1174 | CSS | 0 | An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version. | 2023-07-31T04:37:43Z |
+| 30 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 5054 | 1488 | CSS | 58 | ❤️静态响应式网址导航网站 - webstack.cc | 2023-08-19T20:40:12Z |
+| 31 | [balloon.css](https://github.com/kazzkiq/balloon.css) | 5011 | 465 | CSS | 18 | Simple tooltips made of pure CSS | 2023-07-08T13:19:06Z |
+| 32 | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 4970 | 583 | CSS | 53 | 💄CSS tricks for web developers~ | 2022-08-11T03:21:36Z |
+| 33 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | 4679 | 375 | CSS | 12 | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 2023-08-14T13:00:19Z |
+| 34 | [retinajs](https://github.com/strues/retinajs) | 4450 | 634 | CSS | 40 | JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants | 2020-03-14T13:18:57Z |
+| 35 | [css-animation-101](https://github.com/cssanimation/css-animation-101) | 4400 | 219 | CSS | 0 | Learn how to bring animation to your web projects | 2022-06-11T14:59:53Z |
+| 36 | [transmission-web-control](https://github.com/ronggang/transmission-web-control) | 4300 | 778 | CSS | 207 | 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. | 2023-05-21T18:53:13Z |
+| 37 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 4048 | 374 | CSS | 5 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. | 2023-03-09T17:09:56Z |
+| 38 | [macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) | 4040 | 235 | CSS | 620 | Replacement icons for popular apps in the style of macOS Big Sur | 2023-07-27T12:45:54Z |
+| 39 | [instagram.css](https://github.com/picturepan2/instagram.css) | 4004 | 244 | CSS | 5 | Instagram.css - Complete set of Instagram filters in pure CSS | 2023-01-15T20:28:15Z |
+| 40 | [960-Grid-System](https://github.com/nathansmith/960-Grid-System) | 3943 | 538 | CSS | 0 | The 960 Grid System is an effort to streamline web development workflow. | 2020-08-01T19:11:33Z |
+| 41 | [devices.css](https://github.com/marvelapp/devices.css) | 3922 | 624 | CSS | 12 | Pure CSS phones and tablets | 2023-01-10T21:59:59Z |
+| 42 | [animsition](https://github.com/blivesta/animsition) | 3848 | 804 | CSS | 73 | A simple and easy jQuery plugin for CSS animated page transitions. | 2019-11-19T05:15:32Z |
+| 43 | [megaboilerplate](https://github.com/sahat/megaboilerplate) | 3831 | 276 | CSS | 64 | Handcrafted starter projects, optimized for simplicity and ease of use. | 2022-07-22T00:58:43Z |
+| 44 | [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) | 3445 | 1545 | CSS | 35 | 🍭　Cnblogs theme _ Basic theme :  SimpleMemory | 2023-08-01T03:24:47Z |
+| 45 | [voxel.css](https://github.com/HunterLarco/voxel.css) | 3350 | 130 | CSS | 10 | A lightweight 3D CSS voxel library. | 2016-05-09T10:05:30Z |
+| 46 | [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) | 3281 | 137 | CSS | 8 | Webpage tracking only using CSS (and no JS) | 2022-07-12T21:47:12Z |
+| 47 | [TLCL](https://github.com/billie66/TLCL) | 3260 | 829 | CSS | 3 | 《快乐的 Linux 命令行》 | 2022-12-14T12:52:46Z |
+| 48 | [project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) | 3221 | 799 | CSS | 7 | Master the creation of Modern UX/UI Websites | 2023-07-29T09:23:54Z |
+| 49 | [rfs](https://github.com/twbs/rfs) | 3208 | 217 | CSS | 6 | ✩ Automates responsive resizing ✩ | 2023-07-24T18:11:33Z |
+| 50 | [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) | 3168 | 442 | CSS | 0 | Chrome extension and Express server that exploits keylogging abilities of CSS. | 2018-02-20T23:49:04Z |
+| 51 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5417 | 1330 | CSS | 1 | Javascript tutorial book | 2023-04-01T08:50:14Z |
+| 52 | [blueprint-css](https://github.com/joshuaclayton/blueprint-css) | 5342 | 613 | CSS | 0 | A CSS framework that aims to cut down on your CSS development time | 2016-06-27T05:08:49Z |
+| 53 | [progit2](https://github.com/progit/progit2) | 5290 | 2027 | CSS | 123 | Pro Git 2nd Edition | 2023-08-20T02:08:25Z |
+| 54 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | 5256 | 660 | CSS | 3 | the CS missing semester Chinese version | 2023-08-19T01:17:07Z |
+| 55 | [seeker](https://github.com/thewhiteh4t/seeker) | 5246 | 1471 | CSS | 13 | Accurately Locate Smartphones using Social Engineering  | 2023-08-16T19:08:04Z |
+| 56 | [popcorn-app](https://github.com/popcorn-time/popcorn-app) | 5201 | 1740 | CSS | 0 | An experiment using the peerflix module of nodejs and connecting a bunch of APIs. | 2020-10-01T13:17:09Z |
+| 57 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 5162 | 245 | CSS | 4 | 🕶️ Awesome stuff for Obsidian | 2023-08-21T20:14:43Z |
+| 58 | [vscode-docs](https://github.com/microsoft/vscode-docs) | 5155 | 4263 | CSS | 67 | Public documentation for Visual Studio Code | 2023-08-22T00:37:30Z |
+| 59 | [mvvm](https://github.com/DMQ/mvvm) | 5146 | 1269 | CSS | 11 | 剖析vue实现原理，自己动手实现mvvm | 2023-03-08T02:36:19Z |
+| 60 | [sanitize.css](https://github.com/csstools/sanitize.css) | 5081 | 316 | CSS | 10 | A best-practices CSS foundation | 2022-11-11T19:50:29Z |
+| 61 | [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) | 5064 | 1193 | CSS | 110 | Synthwave inspired colour theme for VS Code 🌅🕶  | 2023-06-28T23:12:15Z |
+| 62 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 5054 | 1488 | CSS | 58 | ❤️静态响应式网址导航网站 - webstack.cc | 2023-08-19T20:40:12Z |
+| 63 | [plt](https://github.com/steshaw/plt) | 5030 | 333 | CSS | 0 | Programming Language Theory λΠ | 2023-07-28T02:20:01Z |
+| 64 | [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) | 5012 | 1029 | CSS | 55 | http://learnopengl.com 系列教程的简体中文翻译 | 2023-06-28T02:27:08Z |
+| 65 | [sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) | 4922 | 1455 | CSS | 10 | :book: [译] scikit-learn（sklearn） 中文文档 | 2023-07-21T08:48:33Z |
+| 66 | [Fira](https://github.com/mozilla/Fira) | 4919 | 324 | CSS | 89 | Mozilla's new typeface, used in Firefox OS | 2020-12-16T10:22:30Z |
+| 67 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | 4679 | 375 | CSS | 12 | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 2023-08-14T13:00:19Z |
+| 68 | [simpsons-in-css](https://github.com/pattle/simpsons-in-css) | 4520 | 636 | CSS | 16 | Simpsons characters in CSS | 2021-03-11T18:00:14Z |
+| 69 | [micro-app](https://github.com/micro-zoe/micro-app) | 4490 | 490 | CSS | 349 | A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架 | 2023-08-18T08:20:04Z |
+| 70 | [cssnano](https://github.com/cssnano/cssnano) | 4483 | 326 | CSS | 84 | A modular minifier, built on top of the PostCSS ecosystem. | 2023-08-18T15:38:40Z |
+| 71 | [retinajs](https://github.com/strues/retinajs) | 4450 | 634 | CSS | 40 | JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants | 2020-03-14T13:18:57Z |
+| 72 | [smoothState.js](https://github.com/miguel-perez/smoothState.js) | 4449 | 522 | CSS | 117 | Unobtrusive page transitions with jQuery. | 2021-11-23T17:12:14Z |
+| 73 | [primereact](https://github.com/primefaces/primereact) | 4443 | 761 | CSS | 225 | The Most Complete React UI Component Library | 2023-08-21T20:25:11Z |
+| 74 | [css-animation-101](https://github.com/cssanimation/css-animation-101) | 4400 | 219 | CSS | 0 | Learn how to bring animation to your web projects | 2022-06-11T14:59:53Z |
+| 75 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | 4359 | 1247 | CSS | 6 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli | 2023-08-17T06:15:40Z |
+| 76 | [react-projects](https://github.com/john-smilga/react-projects) | 4274 | 3702 | CSS | 3 | None | 2023-08-10T17:39:21Z |
+| 77 | [hass-config](https://github.com/matt8707/hass-config) | 4255 | 647 | CSS | 5 | ✨ A different take on designing a Lovelace UI (Dashboard) | 2023-07-04T04:20:00Z |
+| 78 | [advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) | 4223 | 5087 | CSS | 23 | Starter files, final projects and FAQ for my Advanced CSS course | 2023-05-26T16:59:19Z |
+| 79 | [primevue](https://github.com/primefaces/primevue) | 4222 | 778 | CSS | 404 | Next Generation Vue UI Component Library | 2023-08-21T16:40:26Z |
+| 80 | [abrash-black-book](https://github.com/jagregory/abrash-black-book) | 4218 | 321 | CSS | 2 | Markdown source for Michael Abrash's Graphics Programming Black Book | 2023-06-20T19:44:42Z |
+| 81 | [assemble](https://github.com/assemble/assemble) | 4201 | 293 | CSS | 27 | Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more! Gulp- and grunt-friendly.   | 2022-02-20T09:16:14Z |
+| 82 | [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) | 4198 | 767 | CSS | 5 | Learn the fundamentals of cloud computing | 2023-08-20T12:22:38Z |
+| 83 | [helios](https://github.com/helios-framework/helios) | 4131 | 341 | CSS | 0 | An extensible open-source mobile backend framework | 2015-09-30T17:16:45Z |
+| 84 | [AlgoWiki](https://github.com/vicky002/AlgoWiki) | 4127 | 1185 | CSS | 20 | Repository which contains links and resources on different topics of Computer Science. | 2023-08-15T13:59:52Z |
+| 85 | [hexo-theme-material](https://github.com/iblh/hexo-theme-material) | 4040 | 582 | CSS | 94 | Material Design theme for hexo. | 2022-05-18T09:25:36Z |
+| 86 | [instagram.css](https://github.com/picturepan2/instagram.css) | 4004 | 244 | CSS | 5 | Instagram.css - Complete set of Instagram filters in pure CSS | 2023-01-15T20:28:15Z |
+| 87 | [960-Grid-System](https://github.com/nathansmith/960-Grid-System) | 3943 | 538 | CSS | 0 | The 960 Grid System is an effort to streamline web development workflow. | 2020-08-01T19:11:33Z |
+| 88 | [devices.css](https://github.com/marvelapp/devices.css) | 3922 | 624 | CSS | 12 | Pure CSS phones and tablets | 2023-01-10T21:59:59Z |
+| 89 | [home](https://github.com/rime/home) | 3867 | 219 | CSS | 365 | Rime::Home is home to Rime users and developers | 2023-07-04T04:25:12Z |
+| 90 | [inuit.css](https://github.com/csswizardry/inuit.css) | 3848 | 427 | CSS | 12 | Powerful, scalable, Sass-based, BEM, OOCSS framework. | 2016-06-28T13:16:09Z |
+| 91 | [animsition](https://github.com/blivesta/animsition) | 3848 | 804 | CSS | 73 | A simple and easy jQuery plugin for CSS animated page transitions. | 2019-11-19T05:15:32Z |
+| 92 | [megaboilerplate](https://github.com/sahat/megaboilerplate) | 3831 | 276 | CSS | 64 | Handcrafted starter projects, optimized for simplicity and ease of use. | 2022-07-22T00:58:43Z |
+| 93 | [document-library](https://github.com/LiangJunrong/document-library) | 3812 | 617 | CSS | 0 | jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等…… | 2023-08-21T15:41:49Z |
+| 94 | [css_tricks](https://github.com/QiShaoXuan/css_tricks) | 3786 | 397 | CSS | 69 | Some CSS tricks - 一些 CSS 常用样式 | 2023-04-26T09:35:11Z |
+| 95 | [sakura](https://github.com/oxalorg/sakura) | 3739 | 171 | CSS | 16 | :cherry_blossom: a minimal css framework/theme. | 2023-08-13T17:33:50Z |
+| 96 | [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) | 3734 | 1547 | CSS | 19 | :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】 | 2021-08-09T03:54:42Z |
+| 97 | [Flatabulous](https://github.com/anmoljagetia/Flatabulous) | 3680 | 247 | CSS | 50 | This is a Flat theme for Ubuntu and other Gnome based Linux Systems. | 2018-10-18T17:20:14Z |
+| 98 | [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) | 3628 | 418 | CSS | 9 | HTML5 mockups of popular devices, to showcase your portfolio and spice up your website. | 2021-11-27T08:34:56Z |
+| 99 | [SocialFish](https://github.com/UndeadSec/SocialFish) | 3571 | 1224 | CSS | 23 | Phishing Tool & Information Collector  | 2023-03-04T21:48:40Z |
+| 100 | [loading](https://github.com/jxnblk/loading) | 3532 | 273 | CSS | 8 | This could take a while | 2016-05-29T11:03:52Z |
 
