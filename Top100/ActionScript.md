@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 12982 | 675 | ActionScript | 3195 | A Flash Player emulator written in Rust | 2023-08-28T01:21:34Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 12994 | 676 | ActionScript | 3202 | A Flash Player emulator written in Rust | 2023-08-29T00:03:17Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7368 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6631 | 522 | ActionScript | 22 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-08-28T02:17:19Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2729 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6632 | 522 | ActionScript | 21 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-08-28T20:00:03Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2730 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2465 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1326 | 520 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
@@ -18,12 +18,12 @@
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 970 | 264 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 12 | [bfxr](https://github.com/increpare/bfxr) | 916 | 92 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 915 | 386 | ActionScript | 171 | User interface components for Starling Framework and Adobe AIR | 2023-06-22T12:10:38Z |
-| 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 799 | 188 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
+| 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 799 | 189 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
 | 15 | [flashls](https://github.com/mangui/flashls) | 756 | 270 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 278 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
 | 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 628 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 619 | 178 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
-| 19 | [emulator](https://github.com/nesbox/emulator) | 559 | 251 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 19 | [emulator](https://github.com/nesbox/emulator) | 559 | 252 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 548 | 236 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 545 | 201 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 526 | 127 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
@@ -93,7 +93,7 @@
 | 86 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 167 | 50 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 87 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 164 | 100 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 162 | 25 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
-| 89 | [AutoAni](https://github.com/LePtC/AutoAni) | 156 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
+| 89 | [AutoAni](https://github.com/LePtC/AutoAni) | 155 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 90 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 153 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
 | 91 | [books](https://github.com/zengfeng/books) | 152 | 87 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 92 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 151 | 48 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
