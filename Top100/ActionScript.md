@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13006 | 678 | ActionScript | 3210 | A Flash Player emulator written in Rust | 2023-09-01T02:11:49Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13009 | 677 | ActionScript | 3212 | A Flash Player emulator written in Rust | 2023-09-02T01:56:31Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7368 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6632 | 522 | ActionScript | 20 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-08-31T19:52:43Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6632 | 522 | ActionScript | 20 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-02T02:53:21Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2732 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2465 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -49,7 +49,7 @@
 | 42 | [nd2d](https://github.com/lrrrs/nd2d) | 319 | 60 | ActionScript | 6 | A Flash Molehill (Stage3D) GPU accelerated 2D game engine | 2015-09-29T08:13:02Z |
 | 43 | [mBlock](https://github.com/Makeblock-official/mBlock) | 309 | 223 | ActionScript | 44 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 44 | [Spike](https://github.com/SpikeApp/Spike) | 308 | 208 | ActionScript | 45 | Get The Most Out Of Your CGM Transmitter | 2020-11-25T07:06:05Z |
-| 45 | [flash](https://github.com/flowplayer/flash) | 281 | 183 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
+| 45 | [flash](https://github.com/flowplayer/flash) | 282 | 183 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 46 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 280 | 87 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 47 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 280 | 88 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 48 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 274 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
@@ -59,7 +59,7 @@
 | 52 | [Flint](https://github.com/richardlord/Flint) | 259 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 115 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [skyui](https://github.com/schlangster/skyui) | 251 | 169 | ActionScript | 29 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
-| 55 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 250 | 123 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-07-27T00:05:32Z |
+| 55 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 250 | 122 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-07-27T00:05:32Z |
 | 56 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 246 | 95 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 57 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 246 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 58 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 245 | 94 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
