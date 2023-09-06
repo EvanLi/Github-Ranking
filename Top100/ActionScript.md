@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13032 | 678 | ActionScript | 3237 | A Flash Player emulator written in Rust | 2023-09-05T02:36:52Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13038 | 678 | ActionScript | 3240 | A Flash Player emulator written in Rust | 2023-09-06T00:03:07Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7366 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6637 | 522 | ActionScript | 20 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-04T14:45:53Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6637 | 523 | ActionScript | 22 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-05T18:22:20Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2735 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2465 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -39,7 +39,7 @@
 | 32 | [wck](https://github.com/jesses/wck) | 356 | 56 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 34 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 45 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
-| 35 | [royale-asjs](https://github.com/apache/royale-asjs) | 354 | 118 | ActionScript | 244 | Apache Royale ASJS | 2023-09-03T11:52:38Z |
+| 35 | [royale-asjs](https://github.com/apache/royale-asjs) | 354 | 118 | ActionScript | 244 | Apache Royale ASJS | 2023-09-05T17:13:37Z |
 | 36 | [Flare](https://github.com/prefuse/Flare) | 345 | 79 | ActionScript | 3 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 37 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 341 | 31 | ActionScript | 1 | Anodyne 1 Source Code | 2023-01-24T04:59:53Z |
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 336 | 145 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
