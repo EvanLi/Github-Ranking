@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13042 | 679 | ActionScript | 3258 | A Flash Player emulator written in Rust | 2023-09-09T00:02:56Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13048 | 680 | ActionScript | 3265 | A Flash Player emulator written in Rust | 2023-09-09T21:06:14Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7364 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6640 | 523 | ActionScript | 21 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-08T21:43:47Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6639 | 523 | ActionScript | 22 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-10T02:19:57Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2735 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2467 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
