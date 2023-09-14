@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13072 | 682 | ActionScript | 3293 | A Flash Player emulator written in Rust | 2023-09-12T21:06:04Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7364 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6640 | 524 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-10T21:08:30Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13077 | 681 | ActionScript | 3301 | A Flash Player emulator written in Rust | 2023-09-14T00:03:08Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7363 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6642 | 524 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-09-14T01:55:01Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2738 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -21,7 +21,7 @@
 | 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 799 | 190 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
 | 15 | [flashls](https://github.com/mangui/flashls) | 756 | 270 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 277 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
-| 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 628 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
+| 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 629 | 122 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 619 | 178 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
 | 19 | [emulator](https://github.com/nesbox/emulator) | 559 | 251 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 548 | 234 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
@@ -77,7 +77,7 @@
 | 70 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 196 | 26 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 71 | [FileReader](https://github.com/AVapps/FileReader) | 193 | 62 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 72 | [avmplus](https://github.com/adobe-flash/avmplus) | 192 | 91 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
-| 73 | [avmplus](https://github.com/adobe/avmplus) | 188 | 74 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
+| 73 | [avmplus](https://github.com/adobe/avmplus) | 189 | 75 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
 | 74 | [ovmeet](https://github.com/ccallcn/ovmeet) | 186 | 103 | ActionScript | 1 | MCU融屏、指挥调度 、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
 | 75 | [kingdom](https://github.com/noio/kingdom) | 186 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 76 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 184 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
