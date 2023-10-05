@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13148 | 684 | ActionScript | 3403 | A Flash Player emulator written in Rust | 2023-10-04T01:08:44Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7363 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13150 | 684 | ActionScript | 3407 | A Flash Player emulator written in Rust | 2023-10-05T02:48:22Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6648 | 526 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-03T02:03:39Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2743 | 834 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2464 | 1121 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
@@ -40,7 +40,7 @@
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 34 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 45 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
 | 35 | [royale-asjs](https://github.com/apache/royale-asjs) | 354 | 119 | ActionScript | 245 | Apache Royale ASJS | 2023-09-25T13:32:40Z |
-| 36 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 351 | 31 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
+| 36 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 352 | 31 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
 | 37 | [Flare](https://github.com/prefuse/Flare) | 346 | 79 | ActionScript | 3 | Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques.  | 2012-08-02T16:28:23Z |
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 337 | 145 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
 | 39 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 331 | 62 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
@@ -57,7 +57,7 @@
 | 50 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 55 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 91 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 258 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
-| 53 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 254 | 125 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-07-27T00:05:32Z |
+| 53 | [LotteryPrediction](https://github.com/yangboz/LotteryPrediction) | 255 | 126 | ActionScript | 1 | :full_moon_with_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed. | 2023-07-27T00:05:32Z |
 | 54 | [skyui](https://github.com/schlangster/skyui) | 254 | 169 | ActionScript | 29 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 55 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 114 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 56 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 246 | 45 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
@@ -78,8 +78,8 @@
 | 71 | [FileReader](https://github.com/AVapps/FileReader) | 193 | 62 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 72 | [avmplus](https://github.com/adobe-flash/avmplus) | 192 | 91 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
 | 73 | [avmplus](https://github.com/adobe/avmplus) | 191 | 75 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
-| 74 | [ovmeet](https://github.com/ccallcn/ovmeet) | 186 | 103 | ActionScript | 1 | MCU融屏、指挥调度 、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
-| 75 | [kingdom](https://github.com/noio/kingdom) | 186 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
+| 74 | [kingdom](https://github.com/noio/kingdom) | 187 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
+| 75 | [ovmeet](https://github.com/ccallcn/ovmeet) | 186 | 103 | ActionScript | 1 | MCU融屏、指挥调度 、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
 | 76 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 185 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 181 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 78 | [Unlight](https://github.com/unlightcpa/Unlight) | 180 | 81 | ActionScript | 5 | Unlight Browser Card Game | 2022-06-01T07:39:01Z |
@@ -91,7 +91,7 @@
 | 84 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 173 | 93 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
 | 85 | [GPUImage](https://github.com/inspirit/GPUImage) | 170 | 30 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 86 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 168 | 51 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
-| 87 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 164 | 100 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
+| 87 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 165 | 99 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 25 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
 | 89 | [AutoAni](https://github.com/LePtC/AutoAni) | 155 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 90 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 154 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
