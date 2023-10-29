@@ -5,19 +5,19 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9974 | 1450 | MATLAB | 29 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2021-08-02T01:07:44Z |
-| 2 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 6230 | 1791 | MATLAB | 304 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2022-07-04T14:01:45Z |
+| 1 | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9975 | 1450 | MATLAB | 29 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  | 2021-08-02T01:07:44Z |
+| 2 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 6230 | 1790 | MATLAB | 304 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. | 2022-07-04T14:01:45Z |
 | 3 | [PRMLT](https://github.com/PRML/PRMLT) | 5887 | 2204 | MATLAB | 0 | Matlab code of machine learning algorithms in book PRML | 2020-03-04T13:50:30Z |
 | 4 | [vrn](https://github.com/AaronJackson/vrn) | 4503 | 765 | MATLAB | 5 | :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" | 2022-07-26T00:06:01Z |
-| 5 | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3746 | 2305 | MATLAB | 69 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. | 2018-10-13T18:08:01Z |
-| 6 | [Stanford-CS-229](https://github.com/Kivy-CN/Stanford-CS-229) | 3236 | 841 | MATLAB | 3 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 | 2022-03-01T05:11:19Z |
-| 7 | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2759 | 1009 | MATLAB | 45 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks | 2022-10-11T07:35:47Z |
+| 5 | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3747 | 2305 | MATLAB | 69 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. | 2018-10-13T18:08:01Z |
+| 6 | [Stanford-CS-229](https://github.com/Kivy-CN/Stanford-CS-229) | 3237 | 841 | MATLAB | 3 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 | 2022-03-01T05:11:19Z |
+| 7 | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2760 | 1009 | MATLAB | 45 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks | 2022-10-11T07:35:47Z |
 | 8 | [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn) | 2631 | 1216 | MATLAB | 138 | Faster R-CNN | 2018-07-26T04:26:32Z |
-| 9 | [Math_Model](https://github.com/personqianduixue/Math_Model) | 2318 | 625 | MATLAB | 1 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法 | 2022-10-30T06:08:57Z |
+| 9 | [Math_Model](https://github.com/personqianduixue/Math_Model) | 2319 | 625 | MATLAB | 1 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法 | 2022-10-30T06:08:57Z |
 | 10 | [rcnn](https://github.com/rbgirshick/rcnn) | 2317 | 985 | MATLAB | 52 | R-CNN: Regions with Convolutional Neural Network Features | 2017-04-03T16:16:14Z |
 | 11 | [eviltransform](https://github.com/googollee/eviltransform) | 2311 | 468 | MATLAB | 8 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). | 2023-01-26T00:07:41Z |
-| 12 | [OpenTLD](https://github.com/zk00006/OpenTLD) | 2090 | 1290 | MATLAB | 33 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html | 2022-05-18T19:06:49Z |
-| 13 | [Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 1848 | 685 | MATLAB | 0 | Matlab Coding homework for Machine Learning | 2020-04-28T02:45:57Z |
+| 12 | [OpenTLD](https://github.com/zk00006/OpenTLD) | 2090 | 1289 | MATLAB | 33 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html | 2022-05-18T19:06:49Z |
+| 13 | [Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 1847 | 685 | MATLAB | 0 | Matlab Coding homework for Machine Learning | 2020-04-28T02:45:57Z |
 | 14 | [Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) | 1841 | 575 | MATLAB | 2 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） | 2022-12-25T17:27:52Z |
 | 15 | [CAM](https://github.com/zhoubolei/CAM) | 1768 | 465 | MATLAB | 19 | Class Activation Mapping | 2022-09-13T14:02:02Z |
 | 16 | [MCM-ICM](https://github.com/dick20/MCM-ICM) | 1474 | 311 | MATLAB | 1 | 2004-2020美赛O奖论文 | 2023-02-09T21:05:26Z |
@@ -28,19 +28,19 @@
 | 21 | [omniglot](https://github.com/brendenlake/omniglot) | 1288 | 359 | MATLAB | 0 | Omniglot data set for one-shot learning | 2023-02-01T21:28:32Z |
 | 22 | [R-FCN](https://github.com/daijifeng001/R-FCN) | 1238 | 545 | MATLAB | 30 | R-FCN: Object Detection via Region-based Fully Convolutional Networks | 2017-05-05T15:50:59Z |
 | 23 | [PlatEMO](https://github.com/BIMK/PlatEMO) | 1218 | 423 | MATLAB | 59 | Evolutionary multi-objective optimization platform | 2023-10-23T14:09:40Z |
-| 24 | [export_fig](https://github.com/altmany/export_fig) | 1198 | 353 | MATLAB | 33 | A MATLAB toolbox for exporting publication quality figures | 2023-07-05T21:52:51Z |
+| 24 | [export_fig](https://github.com/altmany/export_fig) | 1198 | 354 | MATLAB | 33 | A MATLAB toolbox for exporting publication quality figures | 2023-07-05T21:52:51Z |
 | 25 | [machine-learning-coursera-1](https://github.com/Borye/machine-learning-coursera-1) | 1130 | 915 | MATLAB | 0 | This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. | 2019-07-28T13:49:39Z |
 | 26 | [tiny](https://github.com/peiyunh/tiny) | 1128 | 324 | MATLAB | 5 | Tiny Face Detector, CVPR 2017 | 2020-03-21T02:04:30Z |
 | 27 | [robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1108 | 427 | MATLAB | 78 | Robotics Toolbox for MATLAB | 2023-01-01T21:23:11Z |
-| 28 | [matlab-schemer](https://github.com/scottclowe/matlab-schemer) | 1101 | 265 | MATLAB | 12 | Apply and save color schemes in MATLAB with ease. | 2023-06-09T16:21:05Z |
+| 28 | [matlab-schemer](https://github.com/scottclowe/matlab-schemer) | 1100 | 265 | MATLAB | 12 | Apply and save color schemes in MATLAB with ease. | 2023-06-09T16:21:05Z |
 | 29 | [Coursera-Machine-Learning-Stanford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) | 1085 | 769 | MATLAB | 2 | Machine learning-Stanford University | 2023-04-04T13:28:55Z |
 | 30 | [awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement) | 975 | 175 | MATLAB | 0 | This is a resouce list for low light image enhancement | 2023-10-06T04:46:53Z |
 | 31 | [BPL](https://github.com/brendenlake/BPL) | 964 | 312 | MATLAB | 0 | Bayesian Program Learning model for one-shot learning | 2015-12-28T20:48:56Z |
-| 32 | [Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU) | 894 | 406 | MATLAB | 22 | None | 2023-10-14T12:00:26Z |
+| 32 | [Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU) | 896 | 406 | MATLAB | 22 | None | 2023-10-14T12:00:26Z |
 | 33 | [convnet-burden](https://github.com/albanie/convnet-burden) | 892 | 114 | MATLAB | 5 | Memory consumption and FLOP count estimates for convnets | 2019-01-17T11:15:00Z |
 | 34 | [activityrecognition](https://github.com/jindongwang/activityrecognition) | 882 | 351 | MATLAB | 1 | Resources about activity recognition-行为识别资料 | 2019-08-20T05:46:37Z |
-| 35 | [MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | 860 | 215 | MATLAB | 0 | This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions. | 2023-10-25T17:09:39Z |
-| 36 | [toolbox](https://github.com/pdollar/toolbox) | 830 | 503 | MATLAB | 32 | Piotr's Image & Video Matlab Toolbox | 2019-05-06T18:46:16Z |
+| 35 | [MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | 860 | 216 | MATLAB | 0 | This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions. | 2023-10-25T17:09:39Z |
+| 36 | [toolbox](https://github.com/pdollar/toolbox) | 830 | 504 | MATLAB | 32 | Piotr's Image & Video Matlab Toolbox | 2019-05-06T18:46:16Z |
 | 37 | [Octave](https://github.com/schneems/Octave) | 819 | 517 | MATLAB | 5 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course | 2021-07-02T19:34:38Z |
 | 38 | [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) | 805 | 240 | MATLAB | 0 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained | 2020-07-08T05:58:17Z |
 | 39 | [edges](https://github.com/pdollar/edges) | 801 | 367 | MATLAB | 17 | Structured Edge Detection Toolbox | 2019-12-02T22:40:33Z |
@@ -54,11 +54,11 @@
 | 47 | [quadrotor](https://github.com/yrlu/quadrotor) | 681 | 260 | MATLAB | 8 | Quadrotor control, path planning and trajectory optimization | 2022-07-05T07:23:42Z |
 | 48 | [NTURGB-D](https://github.com/shahroudy/NTURGB-D) | 649 | 174 | MATLAB | 19 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" | 2022-02-18T07:49:02Z |
 | 49 | [mexopencv](https://github.com/kyamagu/mexopencv) | 649 | 318 | MATLAB | 37 | Collection and a development kit of matlab mex functions for OpenCV library | 2020-10-23T01:25:05Z |
-| 50 | [hctsa](https://github.com/benfulcher/hctsa) | 644 | 274 | MATLAB | 9 | Highly comparative time-series analysis | 2023-10-27T23:04:19Z |
+| 50 | [hctsa](https://github.com/benfulcher/hctsa) | 645 | 274 | MATLAB | 9 | Highly comparative time-series analysis | 2023-10-28T23:04:17Z |
 | 51 | [IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture) | 643 | 254 | MATLAB | 0 | calibration for Imu and show gesture | 2023-10-09T07:22:51Z |
 | 52 | [Mathematics](https://github.com/Ewenwan/Mathematics) | 636 | 248 | MATLAB | 2 | 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合 | 2020-09-12T02:38:03Z |
 | 53 | [cnn-for-image-retrieval](https://github.com/willard-yuan/cnn-for-image-retrieval) | 629 | 228 | MATLAB | 1 | :sunrise:The code of post "Image retrieval using MatconvNet and pre-trained imageNet" | 2021-01-05T04:45:05Z |
-| 54 | [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) | 621 | 140 | MATLAB | 5 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. | 2020-12-01T10:20:50Z |
+| 54 | [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) | 622 | 140 | MATLAB | 5 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. | 2020-12-01T10:20:50Z |
 | 55 | [siamese-fc](https://github.com/bertinetto/siamese-fc) | 611 | 225 | MATLAB | 33 | Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks. | 2019-05-16T10:10:53Z |
 | 56 | [ECO](https://github.com/martin-danelljan/ECO) | 603 | 248 | MATLAB | 15 | Matlab implementation of the ECO tracker. | 2019-10-24T11:11:11Z |
 | 57 | [vgg_face2](https://github.com/ox-vgg/vgg_face2) | 599 | 109 | MATLAB | 5 | None | 2020-02-18T15:30:05Z |
@@ -73,13 +73,13 @@
 | 66 | [IRCNN](https://github.com/cszn/IRCNN) | 557 | 175 | MATLAB | 11 | Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab) | 2021-10-09T22:03:58Z |
 | 67 | [Detect-Track](https://github.com/feichtenhofer/Detect-Track) | 547 | 107 | MATLAB | 18 | Code release for "Detect to Track and Track to Detect", ICCV 2017 | 2018-07-03T16:38:41Z |
 | 68 | [chebfun](https://github.com/chebfun/chebfun) | 542 | 136 | MATLAB | 150 | Chebfun:  numerical computing with functions. | 2023-10-11T06:38:29Z |
-| 69 | [kalibr_allan](https://github.com/rpng/kalibr_allan) | 538 | 211 | MATLAB | 8 | IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters. | 2020-06-21T16:54:04Z |
-| 70 | [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | 537 | 316 | MATLAB | 2 | MATLAB sample codes for mobile robot navigation | 2018-11-10T23:36:18Z |
-| 71 | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course) | 523 | 361 | MATLAB | 0 | machine learning course programming exercise | 2011-12-25T10:04:23Z |
+| 69 | [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | 538 | 316 | MATLAB | 2 | MATLAB sample codes for mobile robot navigation | 2018-11-10T23:36:18Z |
+| 70 | [kalibr_allan](https://github.com/rpng/kalibr_allan) | 538 | 211 | MATLAB | 8 | IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters. | 2020-06-21T16:54:04Z |
+| 71 | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course) | 524 | 362 | MATLAB | 0 | machine learning course programming exercise | 2011-12-25T10:04:23Z |
 | 72 | [cfnet](https://github.com/bertinetto/cfnet) | 522 | 154 | MATLAB | 24 | [CVPR'17] Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed.. | 2018-05-31T13:59:08Z |
 | 73 | [SFD](https://github.com/sfzhang15/SFD) | 517 | 136 | MATLAB | 1 | S³FD: Single Shot Scale-invariant Face Detector, ICCV, 2017 | 2018-10-17T15:02:16Z |
 | 74 | [SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar) | 513 | 197 | MATLAB | 0 | 合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme.md | 2020-07-20T02:47:46Z |
-| 75 | [CBIG](https://github.com/ThomasYeoLab/CBIG) | 509 | 363 | MATLAB | 9 | None | 2023-10-02T07:02:43Z |
+| 75 | [CBIG](https://github.com/ThomasYeoLab/CBIG) | 509 | 364 | MATLAB | 9 | None | 2023-10-02T07:02:43Z |
 | 76 | [automated-driving-control](https://github.com/VincentWong3/automated-driving-control) | 507 | 257 | MATLAB | 7 | None | 2020-12-04T13:45:46Z |
 | 77 | [NaveGo](https://github.com/rodralez/NaveGo) | 504 | 204 | MATLAB | 9 | NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis. | 2023-05-06T22:38:16Z |
 | 78 | [OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj) | 498 | 195 | MATLAB | 27 | A trajectory optimization library for Matlab | 2023-06-06T00:37:01Z |
@@ -91,8 +91,8 @@
 | 84 | [OpenCE](https://github.com/baidut/OpenCE) | 470 | 145 | MATLAB | 6 | Contrast Enhancement Techniques for low-light images  | 2018-06-28T09:14:34Z |
 | 85 | [Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) | 470 | 97 | MATLAB | 8 | Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-date with image class and object level annotations. | 2023-08-29T07:46:58Z |
 | 86 | [Smart-Algorithm](https://github.com/LiYangSir/Smart-Algorithm) | 470 | 144 | MATLAB | 2 | 智能算法-遗传算法、蚁群算法、粒子群算法实现。实现版本Java,Python,MatLab多版本实现 | 2020-05-10T13:43:07Z |
-| 87 | [PIDtoolbox](https://github.com/bw1129/PIDtoolbox) | 467 | 59 | MATLAB | 5 | PIDtoolbox is a set of graphical tools for analyzing blackbox log data | 2023-10-21T17:42:54Z |
-| 88 | [Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | 464 | 87 | MATLAB | 8 | Deep Learning-based Image Fusion: A Survey | 2023-06-15T02:24:39Z |
+| 87 | [PIDtoolbox](https://github.com/bw1129/PIDtoolbox) | 468 | 59 | MATLAB | 5 | PIDtoolbox is a set of graphical tools for analyzing blackbox log data | 2023-10-21T17:42:54Z |
+| 88 | [Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | 465 | 87 | MATLAB | 8 | Deep Learning-based Image Fusion: A Survey | 2023-06-15T02:24:39Z |
 | 89 | [2DASL](https://github.com/XgTu/2DASL) | 463 | 115 | MATLAB | 27 | The code (pytorch for testing & matlab for 3D plot and evaluation) for our project: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning （2DASL） | 2020-06-14T14:36:35Z |
 | 90 | [DeepXi](https://github.com/anicolson/DeepXi) | 459 | 119 | MATLAB | 5 | Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR. | 2022-02-17T04:28:56Z |
 | 91 | [clothing-co-parsing](https://github.com/bearpaw/clothing-co-parsing) | 449 | 119 | MATLAB | 4 | CCP dataset from "Clothing Co-Parsing by Joint Image Segmentation and Labeling " (CVPR 2014) | 2019-05-21T22:12:02Z |
@@ -101,8 +101,8 @@
 | 94 | [automatic-driving-decision-and-planning-for-matlab](https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab) | 443 | 205 | MATLAB | 3 | None | 2022-08-06T16:42:56Z |
 | 95 | [FaceVerification](https://github.com/happynear/FaceVerification) | 442 | 235 | MATLAB | 55 | An Experimental Implementation of Face Verification, 96.8% on LFW. | 2023-06-27T13:07:05Z |
 | 96 | [MBeautifier](https://github.com/davidvarga/MBeautifier) | 438 | 67 | MATLAB | 22 | MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable. | 2023-02-09T14:09:24Z |
-| 97 | [RankIQA](https://github.com/xialeiliu/RankIQA) | 437 | 115 | MATLAB | 16 | The rep for the RankIQA paper in ICCV 2017  | 2019-02-19T14:26:08Z |
+| 97 | [RankIQA](https://github.com/xialeiliu/RankIQA) | 436 | 115 | MATLAB | 16 | The rep for the RankIQA paper in ICCV 2017  | 2019-02-19T14:26:08Z |
 | 98 | [LapSRN](https://github.com/phoenix104104/LapSRN) | 435 | 118 | MATLAB | 4 | Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution (CVPR 2017) | 2017-12-09T18:38:42Z |
-| 99 | [Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction) | 431 | 53 | MATLAB | 3 | Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021).  | 2021-08-14T17:21:52Z |
-| 100 | [jgt-code](https://github.com/erich666/jgt-code) | 430 | 73 | MATLAB | 0 | Code developed for articles in the "Journal of Graphics Tools" | 2023-08-28T20:54:10Z |
+| 99 | [jgt-code](https://github.com/erich666/jgt-code) | 431 | 73 | MATLAB | 0 | Code developed for articles in the "Journal of Graphics Tools" | 2023-08-28T20:54:10Z |
+| 100 | [Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction) | 431 | 53 | MATLAB | 3 | Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021).  | 2021-08-14T17:21:52Z |
 
