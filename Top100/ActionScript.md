@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13434 | 695 | ActionScript | 3567 | A Flash Player emulator written in Rust | 2023-10-30T00:27:25Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6652 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-29T02:04:44Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2752 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13440 | 694 | ActionScript | 3578 | A Flash Player emulator written in Rust | 2023-10-31T00:03:05Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6653 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-29T02:04:44Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2753 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1326 | 520 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
@@ -21,9 +21,9 @@
 | 14 | [malware-samples](https://github.com/InQuest/malware-samples) | 817 | 190 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2023-06-23T15:44:07Z |
 | 15 | [flashls](https://github.com/mangui/flashls) | 756 | 270 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 638 | 278 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2017-05-11T02:34:54Z |
-| 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 630 | 121 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
+| 17 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 629 | 121 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 18 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 619 | 178 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
-| 19 | [emulator](https://github.com/nesbox/emulator) | 566 | 251 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 19 | [emulator](https://github.com/nesbox/emulator) | 567 | 251 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 548 | 233 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 546 | 200 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 527 | 127 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
@@ -36,7 +36,7 @@
 | 29 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 381 | 150 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 30 | [Weave](https://github.com/WeaveTeam/Weave) | 371 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
 | 31 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 369 | 125 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
-| 32 | [royale-asjs](https://github.com/apache/royale-asjs) | 356 | 120 | ActionScript | 245 | Apache Royale ASJS | 2023-10-13T11:12:16Z |
+| 32 | [royale-asjs](https://github.com/apache/royale-asjs) | 356 | 120 | ActionScript | 245 | Apache Royale ASJS | 2023-10-30T03:14:04Z |
 | 33 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 355 | 32 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
 | 34 | [wck](https://github.com/jesses/wck) | 355 | 56 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 35 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
@@ -95,7 +95,7 @@
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 25 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
 | 89 | [AutoAni](https://github.com/LePtC/AutoAni) | 155 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 90 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 154 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
-| 91 | [books](https://github.com/zengfeng/books) | 153 | 87 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
+| 91 | [books](https://github.com/zengfeng/books) | 154 | 87 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 92 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 151 | 48 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 93 | [as3delaunay](https://github.com/nodename/as3delaunay) | 150 | 103 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
 | 94 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 148 | 114 | ActionScript | 17 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2021-05-04T07:37:24Z |
