@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13440 | 694 | ActionScript | 3578 | A Flash Player emulator written in Rust | 2023-10-31T00:03:05Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13445 | 694 | ActionScript | 3584 | A Flash Player emulator written in Rust | 2023-11-01T03:00:13Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6653 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-29T02:04:44Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6652 | 527 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-10-29T02:04:44Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2753 | 835 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2467 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1487 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1326 | 520 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1288 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -45,11 +45,11 @@
 | 38 | [flex-sdk](https://github.com/apache/flex-sdk) | 337 | 145 | ActionScript | 0 | Mirror of Apache Flex SDK | 2021-03-16T22:15:38Z |
 | 39 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 331 | 62 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 40 | [Zoe](https://github.com/CreateJS/Zoe) | 329 | 102 | ActionScript | 7 | Zoë is an open source tool for generating spritesheet images and frame data from SWF files. It enables illustrators to maintain a familiar workflow while generating animations for EaselJS and other formats. | 2015-09-01T06:54:47Z |
-| 41 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 321 | 144 | ActionScript | 0 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2022-02-15T08:41:53Z |
+| 41 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 322 | 144 | ActionScript | 0 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2022-02-15T08:41:53Z |
 | 42 | [nd2d](https://github.com/lrrrs/nd2d) | 319 | 60 | ActionScript | 6 | A Flash Molehill (Stage3D) GPU accelerated 2D game engine | 2015-09-29T08:13:02Z |
 | 43 | [mBlock](https://github.com/Makeblock-official/mBlock) | 309 | 225 | ActionScript | 45 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 44 | [Spike](https://github.com/SpikeApp/Spike) | 308 | 207 | ActionScript | 45 | Get The Most Out Of Your CGM Transmitter | 2020-11-25T07:06:05Z |
-| 45 | [flash](https://github.com/flowplayer/flash) | 283 | 184 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
+| 45 | [flash](https://github.com/flowplayer/flash) | 281 | 184 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 46 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 281 | 88 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 47 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 280 | 87 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 48 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 274 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
