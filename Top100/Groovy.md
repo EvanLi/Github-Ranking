@@ -5,19 +5,19 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [gradle](https://github.com/gradle/gradle) | 15376 | 4418 | Groovy | 2327 | Adaptable, fast automation for all | 2023-11-05T03:01:48Z |
+| 1 | [gradle](https://github.com/gradle/gradle) | 15381 | 4421 | Groovy | 2330 | Adaptable, fast automation for all | 2023-11-06T03:01:49Z |
 | 2 | [devops-resources](https://github.com/bregman-arie/devops-resources) | 7846 | 1941 | Groovy | 10 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 2023-07-26T02:42:48Z |
-| 3 | [rundeck](https://github.com/rundeck/rundeck) | 5119 | 880 | Groovy | 563 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2023-11-03T21:26:57Z |
+| 3 | [rundeck](https://github.com/rundeck/rundeck) | 5119 | 879 | Groovy | 563 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | 2023-11-05T23:59:30Z |
 | 4 | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4113 | 3385 | Groovy | 0 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin | 2023-08-31T09:25:29Z |
 | 5 | [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3874 | 560 | Groovy | 149 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. | 2021-09-15T07:40:48Z |
-| 6 | [shadow](https://github.com/johnrengelman/shadow) | 3416 | 382 | Groovy | 224 | Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin. | 2023-11-01T17:00:18Z |
+| 6 | [shadow](https://github.com/johnrengelman/shadow) | 3417 | 384 | Groovy | 225 | Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin. | 2023-11-06T01:57:41Z |
 | 7 | [fat-aar-android](https://github.com/kezong/fat-aar-android) | 2951 | 547 | Groovy | 148 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ | 2023-09-04T15:35:23Z |
-| 8 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2510 | 90862 | Groovy | 63 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
-| 9 | [asgard](https://github.com/Netflix/asgard) | 2233 | 435 | Groovy | 87 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases | 2023-04-10T10:34:31Z |
-| 10 | [nextflow](https://github.com/nextflow-io/nextflow) | 2198 | 565 | Groovy | 233 | A DSL for data-driven computational pipelines | 2023-11-03T15:30:18Z |
+| 8 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2510 | 90861 | Groovy | 63 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
+| 9 | [asgard](https://github.com/Netflix/asgard) | 2234 | 435 | Groovy | 87 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases | 2023-04-10T10:34:31Z |
+| 10 | [nextflow](https://github.com/nextflow-io/nextflow) | 2198 | 565 | Groovy | 233 | A DSL for data-driven computational pipelines | 2023-11-05T15:03:30Z |
 | 11 | [bintray-release](https://github.com/novoda/bintray-release) | 1862 | 208 | Groovy | 0 | A helper for releasing from gradle up to bintray | 2022-02-11T06:01:47Z |
 | 12 | [job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1853 | 830 | Groovy | 0 | A Groovy DSL for Jenkins Jobs - Sweeeeet! | 2023-10-30T12:39:24Z |
-| 13 | [protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin) | 1649 | 275 | Groovy | 61 | Protobuf Plugin for Gradle | 2023-09-05T20:12:54Z |
+| 13 | [protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin) | 1650 | 275 | Groovy | 61 | Protobuf Plugin for Gradle | 2023-09-05T20:12:54Z |
 | 14 | [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) | 1487 | 393 | Groovy | 98 | Framework for unit testing Jenkins pipelines  | 2023-10-26T06:52:20Z |
 | 15 | [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) | 1415 | 140 | Groovy | 33 | DEPRECATED Gradle plugin which downloads and manages your Android SDK. | 2016-10-07T23:07:08Z |
 | 16 | [gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | 1364 | 286 | Groovy | 2 | Android渠道打包工具 | 2019-01-23T04:53:39Z |
@@ -39,21 +39,21 @@
 | 32 | [gradle-task-tree](https://github.com/dorongold/gradle-task-tree) | 803 | 51 | Groovy | 9 | Gradle plugin that adds a 'taskTree' task that prints task dependency tree | 2022-12-31T21:34:16Z |
 | 33 | [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin) | 788 | 104 | Groovy | 0 | 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。 | 2022-02-21T12:34:52Z |
 | 34 | [okreplay](https://github.com/airbnb/okreplay) | 776 | 76 | Groovy | 18 | 📼 Record and replay OkHttp network interaction in your tests. | 2022-08-29T06:31:17Z |
-| 35 | [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 773 | 34 | Groovy | 22 | A Gradle plugin for printing beautiful logs on the console while running tests | 2023-10-26T13:23:55Z |
+| 35 | [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 774 | 34 | Groovy | 22 | A Gradle plugin for printing beautiful logs on the console while running tests | 2023-10-26T13:23:55Z |
 | 36 | [gogradle](https://github.com/gogradle/gogradle) | 772 | 94 | Groovy | 92 | A Gradle Plugin Providing Full Support for Go | 2021-10-11T18:44:58Z |
 | 37 | [AppJoint](https://github.com/PrototypeZ/AppJoint) | 760 | 119 | Groovy | 15 | 🔧 Cross module Android development made easy! | 2019-08-20T02:52:28Z |
 | 38 | [spock-example](https://github.com/spockframework/spock-example) | 751 | 507 | Groovy | 1 | Spock example specifications along with ready-to-go Gradle and Maven builds | 2023-10-23T21:39:44Z |
 | 39 | [Tinker_imitator](https://github.com/zzz40500/Tinker_imitator) | 723 | 110 | Groovy | 6 | (UNMAINTAINED)微信热更新方案实践 | 2017-02-07T03:40:40Z |
-| 40 | [gradle-docker](https://github.com/palantir/gradle-docker) | 723 | 163 | Groovy | 112 | a Gradle plugin for orchestrating docker builds and pushes. | 2023-11-01T21:49:19Z |
+| 40 | [gradle-docker](https://github.com/palantir/gradle-docker) | 723 | 163 | Groovy | 112 | a Gradle plugin for orchestrating docker builds and pushes. | 2023-11-05T14:47:16Z |
 | 41 | [lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin) | 705 | 110 | Groovy | 9 | A Gradle Plugin that removes unused resources in Android projects. | 2019-02-04T00:08:29Z |
 | 42 | [gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) | 700 | 94 | Groovy | 102 | A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  | 2023-10-03T19:43:07Z |
 | 43 | [awesome-groovy](https://github.com/kdabir/awesome-groovy) | 699 | 100 | Groovy | 1 | A curated list of awesome groovy libraries, frameworks and resources | 2023-07-10T15:08:16Z |
 | 44 | [hibeaver](https://github.com/hydraxman/hibeaver) | 697 | 107 | Groovy | 14 | HiBeaver is a gradle plugin for java byte code manipulation and AOP design by modifying project byte code during build of the package, or modifying byte code within Jar independently. | 2022-12-27T04:05:31Z |
 | 45 | [thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect) | 686 | 112 | Groovy | 10 | A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse | 2023-09-17T02:05:51Z |
 | 46 | [Mess](https://github.com/eleme/Mess) | 682 | 110 | Groovy | 10 | a gradle plugin for minifying activities, services, receivers, providers and custom view | 2020-10-01T23:49:31Z |
-| 47 | [plugins](https://github.com/ihub-pub/plugins) | 680 | 10 | Groovy | 1 | A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集 | 2023-11-04T11:58:00Z |
+| 47 | [plugins](https://github.com/ihub-pub/plugins) | 681 | 10 | Groovy | 1 | A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集 | 2023-11-05T09:25:28Z |
 | 48 | [jenkins-scripts](https://github.com/cloudbees/jenkins-scripts) | 661 | 404 | Groovy | 12 | None | 2023-10-27T12:26:21Z |
-| 49 | [docToolchain](https://github.com/docToolchain/docToolchain) | 660 | 217 | Groovy | 219 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation | 2023-11-04T21:16:24Z |
+| 49 | [docToolchain](https://github.com/docToolchain/docToolchain) | 660 | 217 | Groovy | 219 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation | 2023-11-05T19:19:09Z |
 | 50 | [gretty](https://github.com/akhikhl/gretty) | 659 | 171 | Groovy | 229 | Advanced gradle plugin for running web-apps on jetty and tomcat. | 2021-03-05T16:27:48Z |
 | 51 | [gradle-docker](https://github.com/Transmode/gradle-docker) | 644 | 146 | Groovy | 76 | A Gradle plugin to build Docker images from the build script. | 2020-08-20T11:48:11Z |
 | 52 | [lazybones](https://github.com/pledbrook/lazybones) | 616 | 101 | Groovy | 52 | A simple project creation tool that uses packaged project templates. | 2020-10-13T10:40:55Z |
@@ -87,7 +87,7 @@
 | 80 | [clouddriver](https://github.com/spinnaker/clouddriver) | 417 | 1028 | Groovy | 0 | read and write operations across cloud providers | 2023-11-02T20:26:25Z |
 | 81 | [gradle-static-analysis-plugin](https://github.com/novoda/gradle-static-analysis-plugin) | 407 | 31 | Groovy | 0 | Easy setup of static analysis tools for Android and Java projects. | 2022-02-11T05:57:36Z |
 | 82 | [gradle-android-plugin](https://github.com/jvoegele/gradle-android-plugin) | 406 | 98 | Groovy | 0 | Android plugin for the Gradle build system. | 2013-10-21T17:34:13Z |
-| 83 | [license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin) | 399 | 113 | Groovy | 78 | Manage your license(s) | 2023-08-26T20:46:58Z |
+| 83 | [license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin) | 400 | 113 | Groovy | 78 | Manage your license(s) | 2023-08-26T20:46:58Z |
 | 84 | [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin) | 397 | 71 | Groovy | 21 | Gradle plugin that generates JaCoCo reports from an Android Gradle Project | 2023-05-01T05:23:12Z |
 | 85 | [groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) | 396 | 116 | Groovy | 33 | Lightweight SOAP and REST webservice clients for Groovy | 2023-02-07T21:13:26Z |
 | 86 | [gradle-docker-compose-plugin](https://github.com/avast/gradle-docker-compose-plugin) | 394 | 99 | Groovy | 14 | Simplifies usage of Docker Compose for integration testing in Gradle environment. | 2023-10-19T17:14:53Z |
@@ -97,8 +97,8 @@
 | 90 | [android-gradle-study](https://github.com/JeremyLiao/android-gradle-study) | 367 | 55 | Groovy | 1 | 深入理解Android Gradle | 2019-11-23T01:49:17Z |
 | 91 | [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) | 366 | 245 | Groovy | 101 | Bridge between SmartThings and MQTT | 2021-06-20T06:34:24Z |
 | 92 | [gradle-unused-resources-remover-plugin](https://github.com/konifar/gradle-unused-resources-remover-plugin) | 363 | 26 | Groovy | 17 | Gradle Plugin that removes unused resources in Android projects. | 2018-06-20T07:18:50Z |
-| 93 | [templates](https://github.com/embeddedartistry/templates) | 360 | 1443 | Groovy | 1 | Document templates for open-source projects (README, CONTRIBUTING, GitHub templates) | 2023-10-10T20:21:48Z |
-| 94 | [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 360 | 59 | Groovy | 24 | Gradle plugin that provides a task to generate a HTML license report of your project. | 2023-10-30T20:59:00Z |
+| 93 | [gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 361 | 59 | Groovy | 24 | Gradle plugin that provides a task to generate a HTML license report of your project. | 2023-10-30T20:59:00Z |
+| 94 | [templates](https://github.com/embeddedartistry/templates) | 360 | 1443 | Groovy | 1 | Document templates for open-source projects (README, CONTRIBUTING, GitHub templates) | 2023-10-10T20:21:48Z |
 | 95 | [gradle-ospackage-plugin](https://github.com/nebula-plugins/gradle-ospackage-plugin) | 358 | 128 | Groovy | 69 | Gradle plugin for constructing linux packages, specifically RPM and DEBs. | 2023-10-20T23:21:06Z |
 | 96 | [gradle-android-command-plugin](https://github.com/novoda/gradle-android-command-plugin) | 357 | 36 | Groovy | 0 | Handy commands for testing Android on CI | 2022-02-11T02:45:35Z |
 | 97 | [java-bullshifier](https://github.com/takipi/java-bullshifier) | 356 | 25 | Groovy | 3 | An open source project by OverOps. Generate massive random Java applications with a command line tool | 2022-12-28T20:05:35Z |
