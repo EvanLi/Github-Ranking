@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13475 | 695 | ActionScript | 3619 | A Flash Player emulator written in Rust | 2023-11-06T00:26:41Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13488 | 695 | ActionScript | 3622 | A Flash Player emulator written in Rust | 2023-11-06T21:06:13Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7364 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6657 | 529 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-01T21:20:57Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2754 | 837 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
@@ -53,7 +53,7 @@
 | 46 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 281 | 88 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 47 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 280 | 87 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 48 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 274 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
-| 49 | [as3-utils](https://github.com/as3/as3-utils) | 271 | 59 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
+| 49 | [as3-utils](https://github.com/as3/as3-utils) | 272 | 59 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 50 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 55 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 51 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 91 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 258 | 56 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
