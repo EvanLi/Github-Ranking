@@ -5,14 +5,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13543 | 704 | ActionScript | 3656 | A Flash Player emulator written in Rust | 2023-11-21T00:14:03Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13549 | 704 | ActionScript | 3655 | A Flash Player emulator written in Rust | 2023-11-22T00:03:17Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7366 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6665 | 529 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-20T01:34:23Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2755 | 837 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
-| 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1488 | 465 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
+| 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 466 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1325 | 520 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
-| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1288 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
+| 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1289 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 9 | [flixel](https://github.com/AdamAtomic/flixel) | 1123 | 196 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 10 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 208 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2018-10-11T10:29:32Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 970 | 264 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
@@ -81,7 +81,7 @@
 | 74 | [ovmeet](https://github.com/ccallcn/ovmeet) | 189 | 103 | ActionScript | 1 | MCU融屏、指挥调度 、H5视频教学、视频会议、H5视频直播、WebRtc、RTMP、SIP、RTSP、白板、视频录制、视频通话、旁路直播、AR眼镜、执法记录仪、AR专家系统、AR远程协助、AR巡检、电视盒子、机顶盒 | 2023-08-01T08:17:44Z |
 | 75 | [kingdom](https://github.com/noio/kingdom) | 188 | 56 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 76 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 185 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
-| 77 | [Unlight](https://github.com/unlightcpa/Unlight) | 182 | 81 | ActionScript | 5 | Unlight Browser Card Game | 2022-06-01T07:39:01Z |
+| 77 | [Unlight](https://github.com/unlightcpa/Unlight) | 183 | 81 | ActionScript | 5 | Unlight Browser Card Game | 2022-06-01T07:39:01Z |
 | 78 | [fzip](https://github.com/claus/fzip) | 181 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 79 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 32 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 80 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 179 | 49 | ActionScript | 4 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2023-10-05T13:23:50Z |
@@ -94,7 +94,7 @@
 | 87 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 165 | 99 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 88 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 25 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
 | 89 | [AutoAni](https://github.com/LePtC/AutoAni) | 155 | 38 | ActionScript | 1 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
-| 90 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 154 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
+| 90 | [DesignPanel](https://github.com/DragonBones/DesignPanel) | 155 | 78 | ActionScript | 17 | DragonBones DesignPanel | 2021-04-20T11:49:36Z |
 | 91 | [books](https://github.com/zengfeng/books) | 154 | 87 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 92 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 151 | 48 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 93 | [as3delaunay](https://github.com/nodename/as3delaunay) | 150 | 103 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
