@@ -5,11 +5,11 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13579 | 703 | ActionScript | 3664 | A Flash Player emulator written in Rust | 2023-11-29T02:43:41Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7365 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6664 | 531 | ActionScript | 28 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-29T02:11:42Z |
-| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2757 | 836 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2469 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13582 | 701 | ActionScript | 3679 | A Flash Player emulator written in Rust | 2023-11-30T01:59:07Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7366 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6664 | 531 | ActionScript | 27 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2023-11-30T01:56:58Z |
+| 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2756 | 836 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2468 | 1120 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 466 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 7 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1325 | 520 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 8 | [mapgen2](https://github.com/amitp/mapgen2) | 1290 | 209 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -37,7 +37,7 @@
 | 30 | [Weave](https://github.com/WeaveTeam/Weave) | 371 | 71 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
 | 31 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 369 | 125 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 32 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 357 | 32 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
-| 33 | [royale-asjs](https://github.com/apache/royale-asjs) | 356 | 120 | ActionScript | 245 | Apache Royale ASJS | 2023-10-30T03:14:04Z |
+| 33 | [royale-asjs](https://github.com/apache/royale-asjs) | 356 | 120 | ActionScript | 243 | Apache Royale ASJS | 2023-11-29T19:18:07Z |
 | 34 | [wck](https://github.com/jesses/wck) | 355 | 56 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 35 | [Gestouch](https://github.com/fljot/Gestouch) | 354 | 84 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 36 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 46 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
@@ -87,8 +87,8 @@
 | 80 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 179 | 49 | ActionScript | 4 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2023-10-05T13:23:50Z |
 | 81 | [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) | 179 | 24 | ActionScript | 19 | Port of hamcrest to ActionScript 3,  a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively, to be used in other frameworks. Typical scenarios include testing frameworks, mocking libraries and UI validation rules. | 2012-03-21T11:48:40Z |
 | 82 | [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) | 175 | 39 | ActionScript | 10 | A RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS | 2017-07-08T01:07:49Z |
-| 83 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 173 | 95 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
-| 84 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 173 | 93 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
+| 83 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 174 | 95 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
+| 84 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 174 | 93 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
 | 85 | [GPUImage](https://github.com/inspirit/GPUImage) | 170 | 30 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 86 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 168 | 51 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
 | 87 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 165 | 99 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
