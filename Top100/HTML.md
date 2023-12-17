@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [styleguide](https://github.com/google/styleguide) | 35932 | 13363 | HTML | 193 | Style guides for Google-originated open-source projects | 2023-11-21T18:18:36Z |
-| 2 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 29412 | 10340 | HTML | 50 | 吴恩达老师的机器学习课程个人笔记 | 2023-10-05T16:23:23Z |
-| 3 | [awesome-compose](https://github.com/docker/awesome-compose) | 27529 | 5335 | HTML | 66 | Awesome Docker Compose samples | 2023-12-08T12:04:59Z |
-| 4 | [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | 23262 | 2087 | HTML | 1 | A curated list of awesome warez and piracy links | 2023-06-18T22:05:28Z |
-| 5 | [SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 20483 | 2185 | HTML | 0 | 全国各省市停贷通知汇总 | 2023-08-23T00:55:17Z |
-| 6 | [skill-map](https://github.com/TeamStuQ/skill-map) | 19595 | 4375 | HTML | 67 | 程序员技能图谱 | 2023-01-20T04:25:02Z |
-| 7 | [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | 18678 | 1252 | HTML | 30 | CSS is powerful, you can do a lot of things without JS. | 2023-11-01T06:50:58Z |
-| 8 | [skrollr](https://github.com/Prinzhorn/skrollr) | 18549 | 3505 | HTML | 243 | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). | 2018-01-23T20:05:59Z |
-| 9 | [web-starter-kit](https://github.com/google/web-starter-kit) | 18435 | 3122 | HTML | 50 | Web Starter Kit - a workflow for multi-device websites | 2023-11-28T02:54:38Z |
-| 10 | [flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) | 17977 | 2457 | HTML | 43 | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 | 2023-06-11T11:07:54Z |
-| 11 | [nndl.github.io](https://github.com/nndl/nndl.github.io) | 16889 | 3554 | HTML | 77 | 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning  | 2022-10-07T09:50:14Z |
-| 12 | [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | 16601 | 3223 | HTML | 32 | Documentation that simply works | 2023-12-15T21:46:06Z |
-| 13 | [twemoji](https://github.com/twitter/twemoji) | 16442 | 1921 | HTML | 79 | Emoji for everyone. https://twemoji.twitter.com/ | 2023-11-30T13:19:07Z |
-| 14 | [AR.js](https://github.com/jeromeetienne/AR.js) | 15745 | 2291 | HTML | 10 | Efficient Augmented Reality for the Web - 60fps on mobile! | 2022-12-07T23:32:13Z |
-| 15 | [zepto](https://github.com/madrobby/zepto) | 14999 | 4001 | HTML | 69 | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API | 2022-09-19T09:37:10Z |
-| 16 | [opensource.guide](https://github.com/github/opensource.guide) | 13248 | 16417 | HTML | 0 | 📚 Community guides for open source creators | 2023-12-11T05:17:32Z |
-| 17 | [ai-edu](https://github.com/microsoft/ai-edu) | 12794 | 2834 | HTML | 69 | AI education materials for Chinese students, teachers and IT professionals. | 2023-10-17T07:04:18Z |
-| 18 | [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) | 12628 | 1977 | HTML | 0 | 2023中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。 | 2023-12-09T15:23:03Z |
-| 19 | [smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 11737 | 356 | HTML | 53 | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 | 2023-11-28T14:34:52Z |
-| 20 | [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) | 11511 | 2866 | HTML | 4 | Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! | 2022-12-19T13:01:22Z |
-| 21 | [dashboards](https://github.com/keen/dashboards) | 11028 | 1464 | HTML | 3 | Responsive dashboard templates 📊✨ | 2021-11-02T12:25:42Z |
-| 22 | [isotope](https://github.com/metafizzy/isotope) | 10947 | 1435 | HTML | 63 | :revolving_hearts: Filter & sort magical layouts | 2021-09-24T03:20:14Z |
-| 23 | [box](https://github.com/liu673cn/box) | 10746 | 1964 | HTML | 0 | TVbox开源版（空壳-自行配置） | 2023-12-10T08:17:11Z |
-| 24 | [node-interview](https://github.com/ElemeFE/node-interview) | 10456 | 1573 | HTML | 6 | How to pass the Node.js interview of ElemeFE. | 2020-10-19T03:29:22Z |
-| 25 | [sovereign](https://github.com/sovereign/sovereign) | 10379 | 844 | HTML | 84 | A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. | 2022-12-11T09:26:37Z |
-| 26 | [electron-api-demos](https://github.com/electron/electron-api-demos) | 10221 | 2268 | HTML | 42 | Explore the Electron APIs | 2022-11-10T14:34:33Z |
-| 27 | [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) | 10130 | 1875 | HTML | 231 | Convert PDF to HTML without losing text or format. | 2023-06-02T21:11:14Z |
-| 28 | [milligram](https://github.com/milligram/milligram) | 10115 | 778 | HTML | 58 | A minimalist CSS framework. | 2023-10-31T16:35:52Z |
-| 29 | [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) | 9590 | 5745 | HTML | 67 | A free, open source, Bootstrap admin theme created by Start Bootstrap | 2023-12-03T11:23:42Z |
-| 30 | [zphisher](https://github.com/htr-tech/zphisher) | 9476 | 3235 | HTML | 85 | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! | 2023-12-05T02:50:55Z |
-| 31 | [awesome-angular](https://github.com/PatrickJS/awesome-angular) | 9116 | 1336 | HTML | 0 | :page_facing_up: A curated list of awesome Angular resources | 2023-10-31T16:36:28Z |
-| 32 | [js-the-right-way](https://github.com/braziljs/js-the-right-way) | 8631 | 947 | HTML | 17 | An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web | 2021-10-31T10:32:14Z |
-| 33 | [Gogh](https://github.com/Gogh-Co/Gogh) | 8394 | 619 | HTML | 21 | Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. | 2023-12-12T03:11:17Z |
-| 34 | [solid](https://github.com/solid/solid) | 8168 | 394 | HTML | 126 | Solid - Re-decentralizing the web (project directory) | 2022-08-24T14:54:37Z |
-| 35 | [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) | 7906 | 1750 | HTML | 5 | Data science interview questions and answers | 2023-09-27T20:16:26Z |
-| 36 | [school-of-sre](https://github.com/linkedin/school-of-sre) | 7496 | 680 | HTML | 14 | At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. | 2023-11-15T07:50:16Z |
-| 37 | [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) | 7494 | 157 | HTML | 0 | Resume template website for the LearnCS8 Lab 3 | 2021-01-04T06:37:12Z |
-| 38 | [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) | 7344 | 1463 | HTML | 3 |  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. | 2023-11-25T08:07:49Z |
-| 39 | [GoJS](https://github.com/NorthwoodsSoftware/GoJS) | 7230 | 2895 | HTML | 0 | JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. | 2023-11-27T16:41:07Z |
-| 40 | [learnyounode](https://github.com/workshopper/learnyounode) | 7200 | 1846 | HTML | 102 | Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. | 2021-12-04T20:27:04Z |
-| 41 | [tempus-dominus](https://github.com/Eonasdan/tempus-dominus) | 7142 | 4468 | HTML | 22 | A powerful Date/time picker widget. | 2023-12-05T11:03:05Z |
-| 42 | [screenfull](https://github.com/sindresorhus/screenfull) | 6942 | 710 | HTML | 17 | Simple wrapper for cross-browser usage of the JavaScript Fullscreen API | 2022-07-08T13:02:03Z |
-| 43 | [FitText.js](https://github.com/davatron5000/FitText.js) | 6777 | 1415 | HTML | 8 | A jQuery plugin for inflating web type | 2020-12-02T14:09:34Z |
-| 44 | [omnivore](https://github.com/omnivore-app/omnivore) | 6695 | 295 | HTML | 389 | Omnivore is a complete, open source read-it-later solution for people who like reading. | 2023-12-15T14:29:20Z |
-| 45 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) | 6684 | 4516 | HTML | 109 | My Blog / Jekyll Themes / PWA | 2023-12-12T11:03:58Z |
-| 46 | [delta](https://github.com/delta-io/delta) | 6574 | 1485 | HTML | 417 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs | 2023-12-16T01:04:13Z |
-| 47 | [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) | 6507 | 315 | HTML | 31 | A vintage 1980s DOS inspired Twitter Bootstrap theme | 2023-10-25T18:04:54Z |
-| 48 | [es6-features](https://github.com/rse/es6-features) | 6234 | 1148 | HTML | 16 | ECMAScript 6: Feature Overview & Comparison | 2020-11-21T17:25:58Z |
-| 49 | [tidytuesday](https://github.com/rfordatascience/tidytuesday) | 6112 | 2333 | HTML | 209 | Official repo for the #tidytuesday project | 2023-12-13T21:42:53Z |
-| 50 | [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | 6059 | 739 | HTML | 16 | Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. | 2023-12-12T08:15:26Z |
-| 51 | [minimal](https://github.com/ivandavidov/minimal) | 1451 | 293 | HTML | 39 | Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library, and Busybox userland utilities. | 2023-11-03T12:13:45Z |
-| 52 | [2019.fossasia.org](https://github.com/fossasia/2019.fossasia.org) | 1445 | 140 | HTML | 24 | FOSSASIA Summit 2019 https://2019.fossasia.org | 2021-03-02T17:16:18Z |
-| 53 | [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | 1393 | 317 | HTML | 16 | None | 2021-06-21T05:09:07Z |
-| 54 | [python-web](https://github.com/mouredev/python-web) | 1392 | 86 | HTML | 0 | Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev. | 2023-12-15T14:26:59Z |
-| 55 | [LayerVisualizer](https://github.com/romannurik/LayerVisualizer) | 1362 | 97 | HTML | 0 | A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows) | 2017-06-18T02:45:09Z |
-| 56 | [unicons](https://github.com/Iconscout/unicons) | 1339 | 100 | HTML | 21 | 1000+ Pixel-perfect vector icons and Iconfont for your next project. | 2023-09-27T08:59:09Z |
-| 57 | [roxy-wi](https://github.com/hap-wi/roxy-wi) | 1339 | 240 | HTML | 7 | Web interface for managing Haproxy, Nginx, Apache and Keepalived servers | 2023-12-15T06:13:01Z |
-| 58 | [ResponsifyJS](https://github.com/wentin/ResponsifyJS) | 1324 | 83 | HTML | 7 | A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars! | 2020-11-25T22:57:54Z |
-| 59 | [queues.io](https://github.com/lukaszx0/queues.io) | 1305 | 183 | HTML | 0 | Queues, all of them. | 2020-02-05T19:48:00Z |
-| 60 | [sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) | 1304 | 1139 | HTML | 4 | A consistent code style guide for SQL to ensure legible and maintainable projects | 2023-10-17T03:17:13Z |
-| 61 | [reinforcejs](https://github.com/karpathy/reinforcejs) | 1282 | 338 | HTML | 18 | Reinforcement Learning Agents in Javascript (Dynamic Programming, Temporal Difference, Deep Q-Learning, Stochastic/Deterministic Policy Gradients) | 2019-02-18T20:11:56Z |
-| 62 | [create-react-pwa](https://github.com/jeffposnick/create-react-pwa) | 1276 | 109 | HTML | 5 | https://github.com/facebookincubator/create-react-app + Progressive Web App goodness | 2020-11-02T19:41:58Z |
-| 63 | [formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) | 1276 | 539 | HTML | 2 | 🏎 An online formulae browser for Homebrew | 2023-12-15T08:52:13Z |
-| 64 | [CodeGuide](https://github.com/AlloyTeam/CodeGuide) | 1275 | 321 | HTML | 16 | Alloyteam代码规范 | 2019-06-05T07:03:49Z |
-| 65 | [ghostium](https://github.com/oswaldoacauan/ghostium) | 1263 | 388 | HTML | 38 | A Ghost theme focused on content based on Medium design/ux. | 2022-12-02T05:26:20Z |
-| 66 | [next-right-now](https://github.com/UnlyEd/next-right-now) | 1249 | 117 | HTML | 32 | Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support | 2023-10-29T18:15:29Z |
-| 67 | [Machine-Learning-in-Action-Python3](https://github.com/wzy6642/Machine-Learning-in-Action-Python3) | 1249 | 507 | HTML | 9 | 《机器学习实战》的python3源码 | 2020-08-02T00:49:50Z |
-| 68 | [qikqiak.com](https://github.com/cnych/qikqiak.com) | 1239 | 330 | HTML | 199 | 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉 | 2023-07-23T11:35:17Z |
-| 69 | [d3fc](https://github.com/d3fc/d3fc) | 1223 | 190 | HTML | 155 | A collection of components that make it easy to build interactive charts with D3 | 2023-11-07T14:07:38Z |
-| 70 | [MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) | 1206 | 208 | HTML | 86 | Home for explainer documents originated by the Microsoft Edge team | 2023-12-15T15:58:42Z |
-| 71 | [Qexo](https://github.com/Qexo/Qexo) | 1186 | 191 | HTML | 9 | A Quick, Powerful and Pretty Online Manager for Hexo.  | 2023-12-12T09:21:45Z |
-| 72 | [iOS-Fleet-Management-SDK](https://github.com/Estimote/iOS-Fleet-Management-SDK) | 1179 | 407 | HTML | 3 | Estimote Fleet Management SDK for iOS | 2020-04-24T16:31:53Z |
-| 73 | [html2jade](https://github.com/donpark/html2jade) | 1177 | 199 | HTML | 17 | Converts HTML to Jade template. Not perfect but useful enough for non-daily conversions. | 2017-04-24T04:35:25Z |
-| 74 | [code-samples](https://github.com/NVIDIA-developer-blog/code-samples) | 1151 | 633 | HTML | 13 | Source code examples from the Parallel Forall Blog | 2023-05-10T19:53:39Z |
-| 75 | [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 1137 | 437 | HTML | 5 | 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js   | 2023-11-20T23:51:38Z |
-| 76 | [server-side-tls](https://github.com/mozilla/server-side-tls) | 1114 | 156 | HTML | 15 | Server side TLS Tools | 2023-05-16T22:42:39Z |
-| 77 | [qwery](https://github.com/ded/qwery) | 1107 | 103 | HTML | 13 | a query selector engine | 2020-12-17T13:38:23Z |
-| 78 | [et-book](https://github.com/edwardtufte/et-book) | 1092 | 99 | HTML | 13 | A webfont of the typeface used in Edward Tufte’s books. | 2022-03-07T08:49:52Z |
-| 79 | [loklak.net](https://github.com/loklak/loklak.net) | 1082 | 0 | HTML | 0 | loklak.net | 2017-08-06T11:20:38Z |
-| 80 | [hierapolis](https://github.com/lab2023/hierapolis) | 1072 | 540 | HTML | 16 | Bootstrap 3 based flat style admin theme | 2016-07-25T12:32:52Z |
-| 81 | [dev.loklak.org](https://github.com/loklak/dev.loklak.org) | 1069 | 7 | HTML | 7 | Loklak Documentation Repository http://dev.loklak.org | 2022-05-24T18:26:20Z |
-| 82 | [travellings](https://github.com/travellings-link/travellings) | 1064 | 87 | HTML | 48 | 开往-友链接力 | 2023-12-13T17:46:07Z |
-| 83 | [blog.loklak.org](https://github.com/loklak/blog.loklak.org) | 1062 | 0 | HTML | 0 | Labs and Ideas for loklak development http://blog.loklak.org | 2018-09-10T15:51:03Z |
-| 84 | [sphinx_loklak_theme](https://github.com/loklak/sphinx_loklak_theme) | 1061 | 0 | HTML | 0 | None | 2017-09-30T12:53:50Z |
-| 85 | [bootstrap-lightbox](https://github.com/jbutz/bootstrap-lightbox) | 1057 | 293 | HTML | 0 | A simple lightbox plugin based on the bootstrap modal plugin. | 2022-09-02T17:06:49Z |
-| 86 | [android-dev-bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks) | 1056 | 259 | HTML | 3 | Android Dev Bookmarks(ADB) - Android 开发者的浏览器书签 For CN-Dev now \| 历史更新文章戳这里：https://rocko.xyz/categories/Android-Dev-Bookmarks/  \|  订阅： https://tinyletter.com/Rocko  \|   站点主页： | 2017-01-14T14:12:49Z |
-| 87 | [fashiontec.org](https://github.com/fashiontec/fashiontec.org) | 1056 | 5 | HTML | 0 | Fashiontec Website | 2020-09-30T14:50:17Z |
-| 88 | [BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) | 1043 | 311 | HTML | 25 | None | 2023-10-28T21:26:39Z |
-| 89 | [angular.io](https://github.com/angular/angular.io) | 1032 | 890 | HTML | 178 | Website for the Angular project (see github.com/angular/angular for the project repo) | 2017-12-03T16:38:32Z |
-| 90 | [140bytes](https://github.com/jed/140bytes) | 1031 | 61 | HTML | 2 | Once a tweet-sized, fork-to-play, community-curated collection of JavaScript. | 2017-05-12T03:19:38Z |
-| 91 | [FFII.org](https://github.com/ffii/FFII.org) | 1027 | 0 | HTML | 0 | FFII.org | 2020-03-12T15:48:16Z |
-| 92 | [ffii.de](https://github.com/ffii/ffii.de) | 1027 | 2 | HTML | 0 | FFII.de Website | 2020-09-30T18:21:51Z |
-| 93 | [wisdom](https://github.com/merlinmann/wisdom) | 1023 | 46 | HTML | 5 | Merlin Mann attempts to capture the best advice he's heard and learned from.  | 2023-10-08T07:37:20Z |
-| 94 | [pyecharts-gallery](https://github.com/pyecharts/pyecharts-gallery) | 1021 | 571 | HTML | 2 | Just use pyecharts to imitate Echarts official example. | 2023-04-07T08:10:02Z |
-| 95 | [old-docs-site](https://github.com/Polymer/old-docs-site) | 1013 | 2486 | HTML | 88 | Old Polymer site. Replaced by these repos: polymer-project.org, polymer-library-docs | 2018-11-25T17:13:19Z |
-| 96 | [chemdemo.github.io](https://github.com/chemdemo/chemdemo.github.io) | 1011 | 120 | HTML | 15 | dmyang blog | 2017-05-16T16:38:01Z |
-| 97 | [jquery-visible](https://github.com/customd/jquery-visible) | 995 | 374 | HTML | 8 | A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position | 2019-09-19T04:09:03Z |
-| 98 | [1pass](https://github.com/georgebrock/1pass) | 988 | 57 | HTML | 12 | A command line interface for 1Password | 2021-05-26T10:50:50Z |
-| 99 | [awesome-resources](https://github.com/shahednasser/awesome-resources) | 963 | 468 | HTML | 15 | :sunglasses: List of helpful resources added by the community for the community! | 2023-12-06T07:12:39Z |
-| 100 | [NViconsLib_Silhouette](https://github.com/nullice/NViconsLib_Silhouette) | 955 | 166 | HTML | 2 | vector PSD and SVG  popular website Icon (Especially China )  | 2020-10-01T12:57:51Z |
+| 1 | [styleguide](https://github.com/google/styleguide) | 35935 | 13363 | HTML | 193 | Style guides for Google-originated open-source projects | 2023-11-21T18:18:36Z |
+| 2 | [zju-icicles](https://github.com/QSCTech/zju-icicles) | 34712 | 9194 | HTML | 6 | 浙江大学课程攻略共享计划 | 2023-12-10T06:41:31Z |
+| 3 | [material-design-lite](https://github.com/google/material-design-lite) | 32240 | 5245 | HTML | 369 | Material Design Components in HTML/CSS/JS | 2023-11-25T00:02:15Z |
+| 4 | [JavaScript30](https://github.com/wesbos/JavaScript30) | 25804 | 35442 | HTML | 0 | 30 Day Vanilla JS Challenge | 2023-12-12T19:23:23Z |
+| 5 | [fastText](https://github.com/facebookresearch/fastText) | 25281 | 4702 | HTML | 459 | Library for fast text representation and classification. | 2023-12-05T14:58:09Z |
+| 6 | [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | 16612 | 3222 | HTML | 33 | Documentation that simply works | 2023-12-16T12:08:12Z |
+| 7 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 14741 | 1057 | HTML | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2023-12-15T21:46:17Z |
+| 8 | [TW-Elements](https://github.com/mdbootstrap/TW-Elements) | 12289 | 1622 | HTML | 109 | 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 | 2023-12-14T12:36:04Z |
+| 9 | [html-css](https://github.com/gustavoguanabara/html-css) | 11730 | 2946 | HTML | 299 | Curso de HTML5 e CSS3 | 2023-12-03T16:01:28Z |
+| 10 | [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | 11708 | 3090 | HTML | 3 | Free Bootstrap Admin & Dashboard Template  | 2023-11-25T17:56:49Z |
+| 11 | [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) | 10132 | 1876 | HTML | 231 | Convert PDF to HTML without losing text or format. | 2023-06-02T21:11:14Z |
+| 12 | [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) | 9361 | 1184 | HTML | 46 | Grid based on CSS3 flexbox | 2020-10-01T09:36:06Z |
+| 13 | [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) | 9086 | 782 | HTML | 3 |  A collection of resources and papers on Diffusion Models | 2023-12-14T02:00:36Z |
+| 14 | [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 8392 | 8684 | HTML | 221 | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 | 2023-11-20T12:53:37Z |
+| 15 | [zenbot](https://github.com/DeviaVir/zenbot) | 8213 | 2088 | HTML | 290 | Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB. | 2022-02-14T16:11:27Z |
+| 16 | [pup](https://github.com/ericchiang/pup) | 7896 | 288 | HTML | 78 | Parsing HTML at the command line | 2023-10-11T16:19:55Z |
+| 17 | [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) | 7882 | 1924 | HTML | 4 | Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization. | 2023-11-29T01:53:24Z |
+| 18 | [growth-ebook](https://github.com/phodal/growth-ebook) | 7732 | 1248 | HTML | 0 | Growth Engineering: The Definitive Guide。全栈增长工程师指南 | 2022-08-25T23:39:31Z |
+| 19 | [raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) | 7358 | 750 | HTML | 83 | Main Web Site (Online Books) | 2023-12-05T20:53:22Z |
+| 20 | [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) | 7345 | 1464 | HTML | 3 |  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. | 2023-11-25T08:07:49Z |
+| 21 | [personal-website](https://github.com/github/personal-website) | 7301 | 6767 | HTML | 0 | Code that'll help you kickstart a personal website that showcases your work as a software developer. | 2023-02-01T05:35:32Z |
+| 22 | [learnyounode](https://github.com/workshopper/learnyounode) | 7200 | 1846 | HTML | 102 | Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops. | 2021-12-04T20:27:04Z |
+| 23 | [screenfull](https://github.com/sindresorhus/screenfull) | 6943 | 710 | HTML | 17 | Simple wrapper for cross-browser usage of the JavaScript Fullscreen API | 2022-07-08T13:02:03Z |
+| 24 | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) | 6685 | 4519 | HTML | 109 | My Blog / Jekyll Themes / PWA | 2023-12-12T11:03:58Z |
+| 25 | [pdfs](https://github.com/tpn/pdfs) | 6658 | 1306 | HTML | 3 | Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) | 2023-10-22T21:03:45Z |
+| 26 | [learning-area](https://github.com/mdn/learning-area) | 6431 | 26351 | HTML | 5 | GitHub repo for the MDN Learning Area.  | 2023-12-16T05:10:19Z |
+| 27 | [learn-python3](https://github.com/jerry-git/learn-python3) | 6108 | 1745 | HTML | 1 | Jupyter notebooks for teaching/learning Python 3 | 2023-05-10T16:22:13Z |
+| 28 | [guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com) | 6075 | 769 | HTML | 11 | Rails Girls Guides | 2023-11-07T10:14:54Z |
+| 29 | [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | 6060 | 745 | HTML | 16 | Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. | 2023-12-12T08:15:26Z |
+| 30 | [openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) | 5807 | 2471 | HTML | 0 | None | 2023-12-12T15:48:31Z |
+| 31 | [cve](https://github.com/trickest/cve) | 5721 | 726 | HTML | 11 | Gather and update all available and newest CVEs with their PoC. | 2023-12-16T12:24:32Z |
+| 32 | [scrollama](https://github.com/russellsamora/scrollama) | 5694 | 284 | HTML | 10 | Scrollytelling with IntersectionObserver. | 2022-10-13T13:55:43Z |
+| 33 | [howtheytest](https://github.com/abhivaikar/howtheytest) | 5608 | 516 | HTML | 1 | A collection of public resources about how software companies test their software | 2023-11-06T22:41:15Z |
+| 34 | [technical-books](https://github.com/doocs/technical-books) | 5447 | 955 | HTML | 0 | 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习... | 2023-12-06T09:33:21Z |
+| 35 | [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) | 5407 | 4652 | HTML | 1 | A minimal, responsive, and feature-rich Jekyll theme for technical writing. | 2023-12-16T14:21:59Z |
+| 36 | [schemaorg](https://github.com/schemaorg/schemaorg) | 5100 | 875 | HTML | 765 | Schema.org - schemas and supporting software | 2023-12-14T18:15:44Z |
+| 37 | [country-list](https://github.com/umpirsky/country-list) | 5083 | 1564 | HTML | 7 | :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats. | 2022-03-11T23:49:21Z |
+| 38 | [expressjs.com](https://github.com/expressjs/expressjs.com) | 5030 | 1327 | HTML | 63 | None | 2023-12-07T20:27:48Z |
+| 39 | [epoch](https://github.com/epochjs/epoch) | 4982 | 292 | HTML | 66 | A general purpose, real-time visualization library. | 2019-02-14T08:38:22Z |
+| 40 | [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) | 4959 | 82 | HTML | 3 | None | 2022-01-24T21:12:16Z |
+| 41 | [RuoYi](https://github.com/yangzongzhuan/RuoYi) | 4832 | 1564 | HTML | 4 | :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 | 2023-12-05T03:37:07Z |
+| 42 | [Cerberus](https://github.com/TedGoas/Cerberus) | 4830 | 710 | HTML | 7 | A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. | 2023-10-21T12:33:45Z |
+| 43 | [FitVids.js](https://github.com/davatron5000/FitVids.js) | 4778 | 1005 | HTML | 26 | A lightweight, easy-to-use jQuery plugin for fluid width video embeds. | 2022-05-06T07:42:30Z |
+| 44 | [favorites-web](https://github.com/cloudfavorites/favorites-web) | 4759 | 1750 | HTML | 9 | 云收藏 Spring Boot 2.X 开源项目 | 2022-09-01T22:30:47Z |
+| 45 | [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | 4681 | 195 | HTML | 7 | Automagically reverse-engineer REST APIs via capturing traffic | 2023-12-11T21:39:24Z |
+| 46 | [blog](https://github.com/biaochenxuying/blog) | 4498 | 726 | HTML | 63 | 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。 | 2023-10-27T06:05:30Z |
+| 47 | [webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) | 4431 | 635 | HTML | 35 | WebGL lessons that start with the basics | 2023-08-26T18:36:18Z |
+| 48 | [stroll.js](https://github.com/hakimel/stroll.js) | 4360 | 744 | HTML | 13 | CSS3 list scroll effects | 2020-07-24T09:23:03Z |
+| 49 | [otto](https://github.com/hashicorp/otto) | 4282 | 236 | HTML | 0 | Development and deployment made easy. | 2020-06-26T17:13:47Z |
+| 50 | [bootflat.github.io](https://github.com/bootflat/bootflat.github.io) | 4260 | 447 | HTML | 56 | BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps. | 2021-10-23T17:53:11Z |
+| 51 | [node-unfluff](https://github.com/ageitgey/node-unfluff) | 2134 | 228 | HTML | 25 | Automatically extract body content (and other cool stuff) from an html document | 2023-05-26T18:52:19Z |
+| 52 | [cufon](https://github.com/sorccu/cufon) | 2097 | 240 | HTML | 101 | Fast text replacement with canvas and VML - no Flash or images required. | 2017-04-30T12:37:26Z |
+| 53 | [fetch](https://github.com/whatwg/fetch) | 2044 | 392 | HTML | 234 | Fetch Standard | 2023-12-14T18:45:21Z |
+| 54 | [x-gif](https://github.com/geelen/x-gif) | 2005 | 119 | HTML | 21 | A custom element for flexible GIF playback | 2017-04-18T07:16:18Z |
+| 55 | [jcarousel](https://github.com/jsor/jcarousel) | 2001 | 749 | HTML | 32 | Riding carousels with jQuery. | 2020-04-25T12:46:20Z |
+| 56 | [godbasin.github.io](https://github.com/godbasin/godbasin.github.io) | 1997 | 290 | HTML | 21 | 被删前端博客--喜欢请star | 2023-11-25T13:44:39Z |
+| 57 | [jsr](https://github.com/mercyblitz/jsr) | 1997 | 1194 | HTML | 0 | Java Specification Requests  | 2023-10-27T04:35:49Z |
+| 58 | [particle-life](https://github.com/hunar4321/particle-life) | 1991 | 243 | HTML | 13 | A simple program to simulate artificial life using attraction/reuplsion forces between many particles | 2022-12-21T12:31:38Z |
+| 59 | [website](https://github.com/jonbarron/website) | 1983 | 1657 | HTML | 4 | None | 2023-12-15T16:12:29Z |
+| 60 | [320andup](https://github.com/malarkey/320andup) | 1913 | 263 | HTML | 12 | This is the new 320 and Up | 2016-11-15T13:08:21Z |
+| 61 | [webdevbootcamp](https://github.com/nax3t/webdevbootcamp) | 1805 | 1072 | HTML | 6 | All source code for back-end projects from the Web Developer Bootcamp | 2023-04-30T12:10:59Z |
+| 62 | [webdevchecklist.com](https://github.com/toptal/webdevchecklist.com) | 1804 | 385 | HTML | 0 | Web Developer Checklist | 2023-01-19T10:14:05Z |
+| 63 | [NodeGoat](https://github.com/OWASP/NodeGoat) | 1790 | 1507 | HTML | 28 | The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them. | 2023-12-14T20:32:50Z |
+| 64 | [SnappyDB](https://github.com/nhachicha/SnappyDB) | 1784 | 231 | HTML | 66 | A key-value database for Android | 2019-11-03T10:25:44Z |
+| 65 | [weui](https://github.com/logoove/weui) | 1754 | 573 | HTML | 2 | weui+是在weui和zepto基础上开发的增强UI组件,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式 | 2023-12-12T18:14:13Z |
+| 66 | [ha-floorplan](https://github.com/pkozul/ha-floorplan) | 1675 | 233 | HTML | 0 | Floorplan for Home Assistant | 2021-01-25T08:15:58Z |
+| 67 | [html5sortable](https://github.com/farhadi/html5sortable) | 1654 | 425 | HTML | 0 | Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API. | 2020-10-01T09:09:07Z |
+| 68 | [mitro](https://github.com/mitro-co/mitro) | 1652 | 254 | HTML | 73 | Repository for all Mitro client & server code | 2015-10-10T19:35:53Z |
+| 69 | [angularjs-book](https://github.com/shyamseshadri/angularjs-book) | 1650 | 1123 | HTML | 20 | Examples and Code snippets from the first AngularJS O'Reilly book which is now heavily out of date! | 2018-06-04T09:28:42Z |
+| 70 | [Simple-Grid](https://github.com/ThisIsDallas/Simple-Grid) | 1645 | 289 | HTML | 13 | A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/ | 2022-07-25T12:22:32Z |
+| 71 | [Email-Framework](https://github.com/g13nn/Email-Framework) | 1641 | 349 | HTML | 4 | Responsive HTML Email Framework | 2022-06-07T11:52:09Z |
+| 72 | [simplify](https://github.com/leggett/simplify) | 1636 | 105 | HTML | 97 | Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface | 2021-08-08T04:15:29Z |
+| 73 | [make-wheels](https://github.com/haixiangyan/make-wheels) | 1626 | 100 | HTML | 0 | 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦 | 2022-01-27T07:08:00Z |
+| 74 | [SingleDivProject](https://github.com/manrajgrover/SingleDivProject) | 1590 | 109 | HTML | 8 | ☝️One <div>. Many possibilities. | 2021-07-19T21:33:46Z |
+| 75 | [this-is-responsive](https://github.com/bradfrost/this-is-responsive) | 1587 | 197 | HTML | 4 | This Is Responsive | 2023-04-16T22:55:49Z |
+| 76 | [1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth) | 1582 | 136 | HTML | 0 | None | 2023-12-12T13:02:10Z |
+| 77 | [cc](https://github.com/ccforward/cc) | 1580 | 199 | HTML | 66 | Code & Blog | 2023-09-04T03:11:59Z |
+| 78 | [strangeioc](https://github.com/strangeioc/strangeioc) | 1570 | 485 | HTML | 37 | The IoC/Binding Framework for Unity3D and C# | 2023-03-17T09:06:18Z |
+| 79 | [sql-formatter](https://github.com/doctrine/sql-formatter) | 1553 | 17 | HTML | 10 | A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting. | 2023-08-17T06:46:40Z |
+| 80 | [css-handbook](https://github.com/doyoe/css-handbook) | 1528 | 307 | HTML | 38 | CSS参考手册 | 2019-04-24T10:24:39Z |
+| 81 | [support.eventyay.com](https://github.com/fossasia/support.eventyay.com) | 1506 | 62 | HTML | 27 | Support site for eventyay platform https://support.eventyay.com | 2021-03-07T17:27:59Z |
+| 82 | [2020.fossasia.org](https://github.com/fossasia/2020.fossasia.org) | 1501 | 10 | HTML | 1 | None | 2021-03-08T14:49:00Z |
+| 83 | [re-data](https://github.com/re-data/re-data) | 1490 | 118 | HTML | 65 | re_data - fix data issues before your users & CEO would discover them 😊 | 2023-12-02T03:23:44Z |
+| 84 | [kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) | 1476 | 398 | HTML | 0 | A searchable compilation of Kaggle past solutions | 2019-12-23T09:17:04Z |
+| 85 | [minimal](https://github.com/ivandavidov/minimal) | 1451 | 293 | HTML | 39 | Minimal Linux Live (MLL) is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library, and Busybox userland utilities. | 2023-11-03T12:13:45Z |
+| 86 | [bitters](https://github.com/thoughtbot/bitters) | 1395 | 147 | HTML | 1 | Add a dash of pre-defined style to your Bourbon. | 2021-09-24T16:02:48Z |
+| 87 | [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | 1393 | 317 | HTML | 16 | None | 2021-06-21T05:09:07Z |
+| 88 | [epg](https://github.com/iptv-org/epg) | 1376 | 94 | HTML | 38 | Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. | 2023-12-14T04:02:29Z |
+| 89 | [opentechsummit.net](https://github.com/OpnTec/opentechsummit.net) | 1371 | 0 | HTML | 0 | OpenTechSummit https://opentechsummit.net | 2019-07-30T17:46:52Z |
+| 90 | [2017.opentechsummit.net](https://github.com/OpnTec/2017.opentechsummit.net) | 1365 | 0 | HTML | 0 | OpenTechSummit Meetups 2017 https://2017.opentechsummit.net | 2019-07-30T15:04:02Z |
+| 91 | [LayerVisualizer](https://github.com/romannurik/LayerVisualizer) | 1362 | 97 | HTML | 0 | A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows) | 2017-06-18T02:45:09Z |
+| 92 | [typeplate.github.io](https://github.com/typeplate/typeplate.github.io) | 1355 | 110 | HTML | 16 | Official Website for Typeplate: “A Typographic Starter Kit.” | 2017-02-07T16:19:54Z |
+| 93 | [code-standards](https://github.com/isobar-us/code-standards) | 1342 | 431 | HTML | 25 | Isobar Front-end development coding standards. Memorize them BY HEART. | 2016-11-10T18:22:55Z |
+| 94 | [unicons](https://github.com/Iconscout/unicons) | 1339 | 100 | HTML | 21 | 1000+ Pixel-perfect vector icons and Iconfont for your next project. | 2023-09-27T08:59:09Z |
+| 95 | [github-contributions](https://github.com/IonicaBizau/github-contributions) | 1332 | 117 | HTML | 3 | :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar. | 2023-10-02T07:35:25Z |
+| 96 | [ResponsifyJS](https://github.com/wentin/ResponsifyJS) | 1324 | 83 | HTML | 7 | A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars! | 2020-11-25T22:57:54Z |
+| 97 | [queues.io](https://github.com/lukaszx0/queues.io) | 1305 | 183 | HTML | 0 | Queues, all of them. | 2020-02-05T19:48:00Z |
+| 98 | [sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) | 1304 | 1139 | HTML | 4 | A consistent code style guide for SQL to ensure legible and maintainable projects | 2023-10-17T03:17:13Z |
+| 99 | [php-simple-html-dom-parser](https://github.com/sunra/php-simple-html-dom-parser) | 1287 | 386 | HTML | 30 | PHP Simple HTML DOM Parser adaptation for Composer and PSR-0 | 2023-08-15T11:30:05Z |
+| 100 | [cleopatra](https://github.com/moesaid/cleopatra) | 1285 | 234 | HTML | 0 | Admin Dashboard Template Built On Tailwind CSS | 2022-05-09T13:27:28Z |
 
