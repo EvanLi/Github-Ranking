@@ -5,7 +5,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 20197 | 3078 | CoffeeScript | 685 | Manage and switch between multiple proxies quickly & easily. | 2023-12-08T19:04:03Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 20199 | 3079 | CoffeeScript | 684 | Manage and switch between multiple proxies quickly & easily. | 2023-12-08T19:04:03Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18164 | 943 | CoffeeScript | 36 | The motion graphics toolbelt for the web | 2023-11-24T22:15:18Z |
 | 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16400 | 2069 | CoffeeScript | 68 | Unfancy JavaScript | 2023-09-19T15:59:28Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 14341 | 952 | CoffeeScript | 105 | Low-Budget Password Strength Estimation | 2023-11-05T05:53:02Z |
@@ -28,7 +28,7 @@
 | 21 | [pagedraw](https://github.com/Pagedraw/pagedraw) | 3416 | 457 | CoffeeScript | 12 | a UI builder for React web apps | 2023-01-12T01:49:13Z |
 | 22 | [pow](https://github.com/basecamp/pow) | 3415 | 273 | CoffeeScript | 107 | Zero-configuration Rack server for Mac OS X | 2020-05-14T20:48:22Z |
 | 23 | [Keypress](https://github.com/dmauro/Keypress) | 3194 | 322 | CoffeeScript | 33 | A keyboard input capturing utility in which any key can be a modifier key. | 2020-09-06T00:02:02Z |
-| 24 | [docpad](https://github.com/docpad/docpad) | 3049 | 251 | CoffeeScript | 25 | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | 2023-12-11T09:52:11Z |
+| 24 | [docpad](https://github.com/docpad/docpad) | 3049 | 251 | CoffeeScript | 25 | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | 2023-12-17T13:29:35Z |
 | 25 | [sticky-kit](https://github.com/leafo/sticky-kit) | 2924 | 525 | CoffeeScript | 138 | A jQuery plugin for creating smart sticky elements | 2021-02-23T03:23:59Z |
 | 26 | [butterfly](https://github.com/paradoxxxzero/butterfly) | 2888 | 323 | CoffeeScript | 82 | A web terminal based on websocket and tornado | 2020-05-25T04:55:13Z |
 | 27 | [engine](https://github.com/gss/engine) | 2869 | 120 | CoffeeScript | 113 | GSS engine | 2019-12-17T00:22:16Z |
@@ -47,7 +47,7 @@
 | 40 | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) | 1844 | 119 | CoffeeScript | 91 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility | 2022-07-19T20:35:10Z |
 | 41 | [local_time](https://github.com/basecamp/local_time) | 1827 | 129 | CoffeeScript | 3 | Rails engine for cache-friendly, client-side local time | 2023-12-06T05:45:36Z |
 | 42 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1808 | 243 | CoffeeScript | 97 | Token based authentication module for angular.js. | 2022-12-06T18:43:58Z |
-| 43 | [camo](https://github.com/atmos/camo) | 1770 | 401 | CoffeeScript | 17 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
+| 43 | [camo](https://github.com/atmos/camo) | 1771 | 401 | CoffeeScript | 17 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
 | 44 | [unpoly](https://github.com/unpoly/unpoly) | 1758 | 71 | CoffeeScript | 18 | Unobtrusive Javascript Framework for server-side applications | 2023-12-16T12:35:02Z |
 | 45 | [BuckyClient](https://github.com/HubSpot/BuckyClient) | 1741 | 100 | CoffeeScript | 12 | Collect performance data from the client | 2016-08-05T20:07:08Z |
 | 46 | [dnschain](https://github.com/okTurtles/dnschain) | 1730 | 179 | CoffeeScript | 44 | A blockchain-based DNS + HTTP server that fixes HTTPS security, and more! | 2017-04-22T03:52:26Z |
@@ -88,7 +88,7 @@
 | 81 | [git-time-machine](https://github.com/littlebee/git-time-machine) | 1118 | 44 | CoffeeScript | 43 | Atom package that allows you to travel back in commit history | 2021-08-01T02:38:19Z |
 | 82 | [literallycanvas](https://github.com/literallycanvas/literallycanvas) | 1107 | 326 | CoffeeScript | 94 | A canvas in your browser. Literally. | 2020-05-29T21:28:35Z |
 | 83 | [hubble](https://github.com/jaymedavis/hubble) | 1088 | 39 | CoffeeScript | 0 | A dashboard that displays in the terminal | 2023-02-01T16:16:55Z |
-| 84 | [node-slug](https://github.com/dodo/node-slug) | 1084 | 94 | CoffeeScript | 25 | slugifies even utf-8 chars! | 2019-04-05T15:49:19Z |
+| 84 | [node-slug](https://github.com/dodo/node-slug) | 1085 | 94 | CoffeeScript | 25 | slugifies even utf-8 chars! | 2019-04-05T15:49:19Z |
 | 85 | [node-rtsp-rtmp-server](https://github.com/iizukanao/node-rtsp-rtmp-server) | 1079 | 278 | CoffeeScript | 81 | RTSP/RTMP/HTTP hybrid server | 2021-09-22T14:42:39Z |
 | 86 | [Coffee-Physics](https://github.com/soulwire/Coffee-Physics) | 1058 | 90 | CoffeeScript | 6 | A simple, lightweight physics engine written in CoffeeScript | 2016-12-12T17:36:34Z |
 | 87 | [buckets](https://github.com/bucketsio/buckets) | 1056 | 153 | CoffeeScript | 0 | [DEPRECATED] Manage content better. | 2015-05-31T04:57:37Z |
