@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 178602 | 29489 | JavaScript | 119 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2023-12-12T20:32:46Z |
-| 2 | [next.js](https://github.com/vercel/next.js) | 115766 | 25374 | JavaScript | 2484 | The React Framework | 2023-12-20T02:56:19Z |
-| 3 | [svelte](https://github.com/sveltejs/svelte) | 74460 | 4188 | JavaScript | 908 | Cybernetically enhanced web apps | 2023-12-20T02:29:26Z |
-| 4 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 60085 | 8597 | JavaScript | 13 | 📜 33 JavaScript concepts every developer should know. | 2023-12-10T09:14:19Z |
-| 5 | [angular.js](https://github.com/angular/angular.js) | 59010 | 28128 | JavaScript | 391 | AngularJS - HTML enhanced for web apps! | 2022-04-12T15:57:22Z |
-| 6 | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 52197 | 15763 | JavaScript | 104 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 | 2023-11-28T04:45:49Z |
-| 7 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 50889 | 5092 | JavaScript | 965 | Semantic is a UI component framework based around useful principles from natural language. | 2023-12-08T10:19:17Z |
-| 8 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 45547 | 9237 | JavaScript | 105 | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | 2023-11-27T08:07:33Z |
-| 9 | [serverless](https://github.com/serverless/serverless) | 45432 | 5769 | JavaScript | 1051 | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  | 2023-12-18T10:37:01Z |
-| 10 | [meteor](https://github.com/meteor/meteor) | 43880 | 5416 | JavaScript | 205 | Meteor, the JavaScript App Platform | 2023-12-19T22:11:38Z |
-| 11 | [react](https://github.com/typescript-cheatsheets/react) | 43121 | 4010 | JavaScript | 2 | Cheatsheets for experienced React developers getting started with TypeScript | 2023-12-07T20:07:40Z |
-| 12 | [parcel](https://github.com/parcel-bundler/parcel) | 42853 | 2326 | JavaScript | 640 | The zero configuration build tool for the web. 📦🚀 | 2023-12-19T20:57:05Z |
-| 13 | [Leaflet](https://github.com/Leaflet/Leaflet) | 39076 | 5823 | JavaScript | 379 | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 | 2023-12-18T12:11:19Z |
-| 14 | [husky](https://github.com/typicode/husky) | 30732 | 1054 | JavaScript | 24 | Git hooks made easy 🐶 woof! | 2023-12-12T07:01:24Z |
-| 15 | [particles.js](https://github.com/VincentGarreau/particles.js) | 27954 | 4869 | JavaScript | 298 | A lightweight JavaScript library for creating particles | 2023-09-20T07:49:56Z |
-| 16 | [sharp](https://github.com/lovell/sharp) | 26935 | 1294 | JavaScript | 96 | High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. | 2023-12-19T19:07:47Z |
-| 17 | [quasar](https://github.com/quasarframework/quasar) | 24683 | 3391 | JavaScript | 428 | Quasar Framework - Build high-performance VueJS user interfaces in record time | 2023-12-19T00:11:58Z |
-| 18 | [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | 23423 | 3406 | JavaScript | 602 | JavaScript image gallery for mobile and desktop, modular, framework independent | 2023-12-04T14:50:40Z |
-| 19 | [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 23380 | 11754 | JavaScript | 161 | OpenZeppelin Contracts is a library for secure smart contract development. | 2023-12-19T21:02:45Z |
-| 20 | [react-motion](https://github.com/chenglou/react-motion) | 21588 | 1213 | JavaScript | 149 | A spring that solves your animation problems. | 2022-12-08T17:31:42Z |
-| 21 | [normalizr](https://github.com/paularmstrong/normalizr) | 20987 | 908 | JavaScript | 0 | Normalizes nested JSON according to a schema | 2022-03-19T22:44:12Z |
-| 22 | [joi](https://github.com/hapijs/joi) | 20372 | 1546 | JavaScript | 158 | The most powerful data validation library for JS | 2023-11-22T11:22:24Z |
-| 23 | [p5.js](https://github.com/processing/p5.js) | 20343 | 3084 | JavaScript | 219 | p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — | 2023-12-19T15:57:29Z |
-| 24 | [kuboard-press](https://github.com/eip-work/kuboard-press) | 20112 | 1442 | JavaScript | 398 | Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 | 2023-12-13T12:45:23Z |
-| 25 | [popmotion](https://github.com/Popmotion/popmotion) | 19670 | 710 | JavaScript | 39 | Simple animation libraries for delightful user interfaces | 2023-12-12T22:04:56Z |
-| 26 | [jsdom](https://github.com/jsdom/jsdom) | 19493 | 1679 | JavaScript | 446 | A JavaScript implementation of various web standards, for use with Node.js | 2023-12-12T00:58:04Z |
-| 27 | [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) | 19452 | 2904 | JavaScript | 226 | Vue drag-and-drop component based on Sortable.js | 2023-08-16T10:46:13Z |
-| 28 | [vue-router](https://github.com/vuejs/vue-router) | 19015 | 5166 | JavaScript | 64 | 🚦 The official router for Vue 2 | 2023-11-17T14:31:17Z |
-| 29 | [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | 18771 | 2502 | JavaScript | 77 | A draggable and resizable grid layout with responsive breakpoints, for React. | 2023-11-28T19:22:33Z |
-| 30 | [cleave.js](https://github.com/nosir/cleave.js) | 17915 | 1666 | JavaScript | 184 | Format input text content when you are typing... | 2023-11-25T10:40:46Z |
-| 31 | [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 17870 | 3643 | JavaScript | 3 | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | 2023-11-22T12:18:50Z |
-| 32 | [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) | 17243 | 2560 | JavaScript | 207 | Revive unavailable songs for Netease Cloud Music | 2023-06-25T22:31:49Z |
-| 33 | [simple-icons](https://github.com/simple-icons/simple-icons) | 17072 | 2384 | JavaScript | 501 | SVG icons for popular brands | 2023-12-19T22:50:03Z |
-| 34 | [less.js](https://github.com/less/less.js) | 16970 | 3521 | JavaScript | 175 | Less. The dynamic stylesheet language. | 2023-12-10T19:33:30Z |
-| 35 | [react-loadable](https://github.com/jamiebuilds/react-loadable) | 16587 | 856 | JavaScript | 0 | :hourglass_flowing_sand: A higher order component for loading components with promises. | 2022-10-12T02:29:29Z |
-| 36 | [sweetalert2](https://github.com/sweetalert2/sweetalert2) | 16491 | 1594 | JavaScript | 7 | ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦 | 2023-12-09T15:24:31Z |
-| 37 | [lexical](https://github.com/facebook/lexical) | 16228 | 1329 | JavaScript | 404 | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. | 2023-12-19T17:09:13Z |
-| 38 | [mdx](https://github.com/mdx-js/mdx) | 16211 | 1194 | JavaScript | 7 | Markdown for the component era | 2023-12-19T16:34:21Z |
-| 39 | [brave-browser](https://github.com/brave/brave-browser) | 16066 | 2114 | JavaScript | 6631 | Next generation Brave browser for Android, Linux, macOS, Windows. | 2023-12-20T00:03:18Z |
-| 40 | [mjml](https://github.com/mjmlio/mjml) | 16014 | 950 | JavaScript | 61 | MJML: the only framework that makes responsive-email easy | 2023-12-06T23:01:18Z |
-| 41 | [electron-vue](https://github.com/SimulatedGREG/electron-vue) | 15435 | 1580 | JavaScript | 269 | An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. | 2022-01-14T15:11:42Z |
-| 42 | [N-blog](https://github.com/nswbmw/N-blog) | 15348 | 4733 | JavaScript | 22 | 《一起学 Node.js》 | 2023-04-26T10:06:31Z |
-| 43 | [charts](https://github.com/frappe/charts) | 14859 | 770 | JavaScript | 122 | Simple, responsive, modern SVG Charts with zero dependencies | 2023-09-30T20:04:40Z |
-| 44 | [gpu.js](https://github.com/gpujs/gpu.js) | 14825 | 756 | JavaScript | 193 | GPU Accelerated JavaScript | 2023-12-16T23:07:16Z |
-| 45 | [keystone-classic](https://github.com/keystonejs/keystone-classic) | 14662 | 2288 | JavaScript | 304 | Node.js CMS and web app framework | 2023-12-13T02:27:13Z |
-| 46 | [bootstrap](https://github.com/angular-ui/bootstrap) | 14327 | 6861 | JavaScript | 270 | PLEASE READ THE PROJECT STATUS BELOW.  Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue! | 2019-02-10T12:36:40Z |
-| 47 | [yjs](https://github.com/yjs/yjs) | 13878 | 534 | JavaScript | 82 | Shared data types for building collaborative software | 2023-12-14T21:02:00Z |
-| 48 | [mithril.js](https://github.com/MithrilJS/mithril.js) | 13772 | 1007 | JavaScript | 131 | A JavaScript Framework for Building Brilliant Applications | 2023-09-17T20:53:47Z |
-| 49 | [x-spreadsheet](https://github.com/myliang/x-spreadsheet) | 13629 | 1670 | JavaScript | 332 | The project has been migrated to @wolf-table/table https://github.com/wolf-table/table | 2023-12-14T20:31:51Z |
-| 50 | [editor.md](https://github.com/pandao/editor.md) | 13333 | 2419 | JavaScript | 537 | The open source embeddable online markdown editor (component). | 2023-12-06T09:34:25Z |
-| 51 | [js-ipfs](https://github.com/ipfs/js-ipfs) | 7449 | 1391 | JavaScript | 1 | IPFS implementation in JavaScript | 2023-05-25T17:13:28Z |
-| 52 | [ejs](https://github.com/mde/ejs) | 7395 | 832 | JavaScript | 100 | Embedded JavaScript templates -- http://ejs.co | 2023-07-18T21:48:39Z |
-| 53 | [autocannon](https://github.com/mcollina/autocannon) | 7385 | 332 | JavaScript | 40 | fast HTTP/1.1 benchmarking tool written in Node.js | 2023-12-15T16:20:59Z |
-| 54 | [jsdiff](https://github.com/kpdecker/jsdiff) | 7339 | 537 | JavaScript | 103 | A javascript text differencing implementation. | 2023-12-19T17:13:21Z |
-| 55 | [umd](https://github.com/umdjs/umd) | 7332 | 460 | JavaScript | 24 | UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere. | 2023-10-13T21:03:13Z |
-| 56 | [react-modal](https://github.com/reactjs/react-modal) | 7288 | 827 | JavaScript | 159 | Accessible modal dialog component for React | 2023-09-25T10:41:35Z |
-| 57 | [i18next](https://github.com/i18next/i18next) | 7142 | 632 | JavaScript | 24 |  i18next: learn once - translate everywhere | 2023-12-14T21:55:03Z |
-| 58 | [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) | 7119 | 2682 | JavaScript | 181 | A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks" | 2021-01-06T05:38:06Z |
-| 59 | [turn.js](https://github.com/blasten/turn.js) | 7074 | 2460 | JavaScript | 369 | The page flip effect for HTML5 | 2023-07-18T15:47:17Z |
-| 60 | [node-qrcode](https://github.com/soldair/node-qrcode) | 6949 | 605 | JavaScript | 61 | qr code generator | 2023-05-29T22:54:21Z |
-| 61 | [brunch](https://github.com/brunch/brunch) | 6823 | 473 | JavaScript | 19 | :fork_and_knife: Web applications made easy. Since 2011. | 2023-01-10T19:30:15Z |
-| 62 | [overreacted.io](https://github.com/gaearon/overreacted.io) | 6815 | 1689 | JavaScript | 1 | Personal blog by Dan Abramov. | 2023-12-17T19:59:15Z |
-| 63 | [Swipe](https://github.com/thebird/Swipe) | 6811 | 1776 | JavaScript | 184 | Swipe is the most accurate touch slider. | 2020-05-12T17:10:27Z |
-| 64 | [choo](https://github.com/choojs/choo) | 6767 | 673 | JavaScript | 38 | :steam_locomotive::train: - sturdy 4kb frontend framework | 2020-01-23T17:13:46Z |
-| 65 | [annyang](https://github.com/TalAter/annyang) | 6530 | 1076 | JavaScript | 49 | :speech_balloon: Speech recognition for your site | 2022-10-03T18:05:48Z |
-| 66 | [query-string](https://github.com/sindresorhus/query-string) | 6520 | 459 | JavaScript | 22 | Parse and stringify URL query strings | 2023-08-06T01:24:55Z |
-| 67 | [iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) | 6460 | 985 | JavaScript | 81 | Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames | 2023-12-19T22:56:33Z |
-| 68 | [sizzle](https://github.com/jquery/sizzle) | 6260 | 992 | JavaScript | 8 | A sizzlin' hot selector engine. | 2023-09-07T14:52:31Z |
-| 69 | [oocss](https://github.com/stubbornella/oocss) | 6245 | 742 | JavaScript | 58 | Object Oriented CSS Framework | 2020-10-01T08:11:47Z |
-| 70 | [peerflix](https://github.com/mafintosh/peerflix) | 6121 | 718 | JavaScript | 118 | Streaming torrent client for node.js | 2022-06-19T23:29:59Z |
-| 71 | [whs.js](https://github.com/WhitestormJS/whs.js) | 6069 | 425 | JavaScript | 40 | :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js | 2023-04-16T18:10:45Z |
-| 72 | [OSINT-Framework](https://github.com/lockfale/OSINT-Framework) | 6068 | 1123 | JavaScript | 74 | OSINT Framework | 2023-11-28T06:56:26Z |
-| 73 | [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) | 6040 | 1698 | JavaScript | 397 | A desktop application for downloading Udemy Courses | 2023-11-12T01:27:51Z |
-| 74 | [vue-design](https://github.com/HcySunYang/vue-design) | 6009 | 933 | JavaScript | 54 | 📖 master分支：《渲染器》 | 2022-12-03T06:00:25Z |
-| 75 | [textures](https://github.com/riccardoscalco/textures) | 6007 | 245 | JavaScript | 12 | Textures.js is a JavaScript library for creating SVG patterns | 2023-01-01T20:03:38Z |
-| 76 | [Snap.js](https://github.com/jakiestfu/Snap.js) | 6006 | 698 | JavaScript | 129 | A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) | 2016-10-31T06:17:11Z |
-| 77 | [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | 5965 | 646 | JavaScript | 12 | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ | 2023-12-12T13:51:02Z |
-| 78 | [instant.page](https://github.com/instantpage/instant.page) | 5902 | 202 | JavaScript | 23 | Make your site’s pages instant in 1 minute and improve your conversion rate by 1% | 2023-12-18T16:15:57Z |
-| 79 | [cors](https://github.com/expressjs/cors) | 5893 | 475 | JavaScript | 18 | Node.js CORS middleware | 2023-11-06T10:56:18Z |
-| 80 | [holder](https://github.com/imsky/holder) | 5840 | 611 | JavaScript | 29 | :city_sunrise: Client-side image placeholders. | 2023-10-07T03:19:47Z |
-| 81 | [zero](https://github.com/remoteinterview/zero) | 5815 | 244 | JavaScript | 37 | Zero is a web server to simplify web development. | 2023-09-06T02:49:23Z |
-| 82 | [Framer](https://github.com/koenbok/Framer) | 5806 | 503 | JavaScript | 173 | Framer - Design Everything | 2019-05-07T20:15:48Z |
-| 83 | [x-ray](https://github.com/matthewmueller/x-ray) | 5804 | 415 | JavaScript | 63 | The next web scraper. See through the <html> noise. | 2023-10-20T16:14:54Z |
-| 84 | [puppeteer-extra](https://github.com/berstend/puppeteer-extra) | 5758 | 704 | JavaScript | 189 | 💯  Teach puppeteer new tricks through plugins. | 2023-12-06T19:43:30Z |
-| 85 | [weweChat](https://github.com/trazyn/weweChat) | 5733 | 760 | JavaScript | 128 | 💬 Unofficial WeChat client built with React, MobX and Electron. | 2021-04-22T02:24:10Z |
-| 86 | [website-archive](https://github.com/CodingTrain/website-archive) | 5708 | 5819 | JavaScript | 16 | Archive of the Coding Train website (first version) | 2022-07-05T00:30:46Z |
-| 87 | [how2](https://github.com/santinic/how2) | 5681 | 176 | JavaScript | 20 | AI for the Command Line | 2023-03-15T06:25:21Z |
-| 88 | [nbnhhsh](https://github.com/itorr/nbnhhsh) | 5570 | 246 | JavaScript | 27 | 😩「能不能好好说话？」 拼音首字母缩写翻译工具 | 2023-01-10T15:09:08Z |
-| 89 | [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | 5516 | 246 | JavaScript | 173 | markdown preview plugin for (neo)vim | 2023-11-09T21:28:09Z |
-| 90 | [jarvis](https://github.com/zouhir/jarvis) | 5448 | 215 | JavaScript | 20 | A very intelligent browser based Webpack dashboard | 2023-02-17T09:20:53Z |
-| 91 | [waterline](https://github.com/balderdashy/waterline) | 5414 | 576 | JavaScript | 0 | An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more | 2022-12-11T08:47:16Z |
-| 92 | [places](https://github.com/algolia/places) | 5363 | 263 | JavaScript | 2 | :globe_with_meridians: Turn any <input> into an address autocomplete | 2023-02-02T08:40:26Z |
-| 93 | [fusuma](https://github.com/hiroppy/fusuma) | 5335 | 205 | JavaScript | 23 | ✍️ Fusuma makes slides with Markdown easily. | 2023-12-19T16:31:25Z |
-| 94 | [ssh2](https://github.com/mscdex/ssh2) | 5323 | 690 | JavaScript | 47 | SSH2 client and server modules written in pure JavaScript for node.js | 2023-12-18T19:56:51Z |
-| 95 | [theByteBook](https://github.com/isno/theByteBook) | 5306 | 322 | JavaScript | 1 | ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue | 2023-12-19T09:52:57Z |
-| 96 | [react-css-modules](https://github.com/gajus/react-css-modules) | 5229 | 236 | JavaScript | 0 | Seamless mapping of class names to CSS modules inside of React components. | 2019-11-02T09:55:04Z |
-| 97 | [laravel-mix](https://github.com/laravel-mix/laravel-mix) | 5220 | 827 | JavaScript | 241 | The power of webpack, distilled for the rest of us. | 2023-04-02T16:09:24Z |
-| 98 | [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 5211 | 840 | JavaScript | 1 | 你想知道的前端内容都在这 | 2022-12-15T09:55:39Z |
-| 99 | [js-assessment](https://github.com/rmurphey/js-assessment) | 5163 | 2095 | JavaScript | 5 | A test-driven approach to assessing JS skills | 2023-01-26T17:23:29Z |
-| 100 | [node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo) | 5095 | 1402 | JavaScript | 1 | A simple demo app using node and mongodb for beginners (with docker) | 2023-10-26T08:12:32Z |
+| 1 | [infinity](https://github.com/airbnb/infinity) | 2812 | 305 | JavaScript | 32 | UITableViews for the web (DEPRECATED) | 2018-05-07T05:22:17Z |
+| 2 | [bootstrap](https://github.com/jasny/bootstrap) | 2687 | 517 | JavaScript | 32 | The missing components for your favorite front-end framework. | 2020-12-08T18:45:06Z |
+| 3 | [redux-promise](https://github.com/redux-utilities/redux-promise) | 2673 | 134 | JavaScript | 22 | FSA-compliant promise middleware for Redux. | 2023-01-21T15:40:28Z |
+| 4 | [angular-ui-tree](https://github.com/angular-ui-tree/angular-ui-tree) | 2583 | 795 | JavaScript | 131 | A tree component for AngularJS, without jQuery as dependency. | 2021-03-05T08:06:31Z |
+| 5 | [create](https://github.com/bergie/create) | 2478 | 293 | JavaScript | 53 | Midgard Create, a generic web editing interface for any CMS | 2021-07-17T07:32:54Z |
+| 6 | [contrast-ratio](https://github.com/siege-media/contrast-ratio) | 2463 | 224 | JavaScript | 9 | A tool to calculate the contrast ratio between any two valid CSS colors. | 2023-05-02T13:34:00Z |
+| 7 | [elasticsearch-kopf](https://github.com/lmenezes/elasticsearch-kopf) | 2422 | 344 | JavaScript | 33 | web admin interface for elasticsearch | 2019-11-21T06:29:38Z |
+| 8 | [goread](https://github.com/mjibson/goread) | 2387 | 356 | JavaScript | 87 | RSS reader in go on app engine; formerly goread.io | 2022-01-16T22:54:04Z |
+| 9 | [Backbone-relational](https://github.com/PaulUithol/Backbone-relational) | 2343 | 344 | JavaScript | 58 | Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models | 2022-03-19T00:59:49Z |
+| 10 | [ngStorage](https://github.com/gsklee/ngStorage) | 2337 | 470 | JavaScript | 64 | localStorage and sessionStorage done right for AngularJS. | 2018-09-17T17:31:07Z |
+| 11 | [toolbar](https://github.com/paulkinzett/toolbar) | 2302 | 337 | JavaScript | 24 | A tooltip style toolbar jQuery plugin | 2017-01-20T11:36:20Z |
+| 12 | [plax](https://github.com/cameronmcefee/plax) | 2292 | 227 | JavaScript | 17 | JQuery powered parallaxing | 2017-09-15T15:50:21Z |
+| 13 | [BigVideo.js](https://github.com/johnpolacek/BigVideo.js) | 2260 | 439 | JavaScript | 80 | The jQuery Plugin for Big Background Video (and Images) | 2020-08-06T20:22:37Z |
+| 14 | [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial) | 2231 | 556 | JavaScript | 1 | react-redux-tutorial in Chinese, catalog && code examples | 2021-10-01T04:52:03Z |
+| 15 | [material-start](https://github.com/angular/material-start) | 2214 | 1232 | JavaScript | 2 | Starter Repository for AngularJS Material | 2022-03-08T19:25:14Z |
+| 16 | [WeixinApi](https://github.com/zxlie/WeixinApi) | 2204 | 772 | JavaScript | 28 | 专门用于微信公众平台的Javascript API | 2019-04-18T04:08:00Z |
+| 17 | [binaryjs](https://github.com/binaryjs/binaryjs) | 2198 | 343 | JavaScript | 56 | Node binary websocket streaming made easy | 2023-01-20T03:37:18Z |
+| 18 | [lesshat](https://github.com/madebysource/lesshat) | 2195 | 267 | JavaScript | 47 | Smart LESS CSS mixins library. | 2022-03-23T14:21:36Z |
+| 19 | [react-redux-form](https://github.com/davidkpiano/react-redux-form) | 2074 | 261 | JavaScript | 169 | Create forms easily in React with Redux. | 2022-06-22T21:07:26Z |
+| 20 | [ied](https://github.com/alexanderGugel/ied) | 1989 | 76 | JavaScript | 39 | :package: Like npm, but faster - an alternative package manager for Node | 2017-01-10T06:30:18Z |
+| 21 | [bonsai](https://github.com/uxebu/bonsai) | 1970 | 201 | JavaScript | 92 | BonsaiJS is a graphics library and renderer | 2017-12-18T22:54:13Z |
+| 22 | [alfred-workflows](https://github.com/willfarrell/alfred-workflows) | 1956 | 95 | JavaScript | 1 | Alfred Workflows for Developers | 2021-08-23T20:25:08Z |
+| 23 | [slate](https://github.com/slate/slate) | 1924 | 109 | JavaScript | 67 | Slate IRC client | 2014-05-30T00:32:37Z |
+| 24 | [Ink](https://github.com/sapo/Ink) | 1907 | 270 | JavaScript | 12 | An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping | 2022-01-31T14:41:36Z |
+| 25 | [md-data-table](https://github.com/daniel-nagy/md-data-table) | 1906 | 533 | JavaScript | 277 | Material Design Data Table for Angular Material | 2021-09-27T11:59:51Z |
+| 26 | [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) | 1904 | 697 | JavaScript | 10 | A localStorage adapter for Backbone.js | 2023-10-20T09:45:01Z |
+| 27 | [hawk](https://github.com/mozilla/hawk) | 1902 | 186 | JavaScript | 3 | HTTP Holder-Of-Key Authentication Scheme | 2023-07-10T11:05:10Z |
+| 28 | [node.io](https://github.com/node-js-libs/node.io) | 1812 | 147 | JavaScript | 0 | None | 2015-11-18T03:22:35Z |
+| 29 | [visualsearch](https://github.com/documentcloud/visualsearch) | 1800 | 237 | JavaScript | 29 | A Rich Search Box for Real Data | 2022-09-30T08:00:06Z |
+| 30 | [tower](https://github.com/tower/tower) | 1796 | 126 | JavaScript | 5 | UNMAINTAINED - Small components for building apps, manipulating data, and automating a distributed infrastructure. | 2013-12-14T05:00:37Z |
+| 31 | [mashape-oauth](https://github.com/Kong/mashape-oauth) | 1782 | 195 | JavaScript | 6 | OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0 | 2020-04-25T09:47:05Z |
+| 32 | [react-d3](https://github.com/esbullington/react-d3) | 1761 | 187 | JavaScript | 14 | Modular React charts made with d3.js | 2016-06-07T08:22:56Z |
+| 33 | [cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) | 1759 | 128 | JavaScript | 3 | ᕙ༼ຈل͜ຈ༽ᕗ | 2017-05-07T11:19:50Z |
+| 34 | [knox](https://github.com/Automattic/knox) | 1738 | 294 | JavaScript | 55 | S3 Lib | 2022-05-19T22:58:09Z |
+| 35 | [Durandal](https://github.com/BlueSpire/Durandal) | 1729 | 381 | JavaScript | 0 | Durandal has evolved to the next generation: Aurelia. | 2018-11-30T08:54:06Z |
+| 36 | [persistencejs](https://github.com/coresmart/persistencejs) | 1726 | 248 | JavaScript | 75 | persistence.js is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them). | 2017-08-08T14:23:16Z |
+| 37 | [ng-demos](https://github.com/johnpapa/ng-demos) | 1711 | 983 | JavaScript | 39 | variety of angular demos | 2017-09-28T09:29:18Z |
+| 38 | [calipso](https://github.com/cliftonc/calipso) | 1707 | 356 | JavaScript | 44 | Calipso is a simple NodeJS content management system based on Express, Connect & Mongoose. | 2017-04-18T22:58:31Z |
+| 39 | [node-amqp](https://github.com/postwait/node-amqp) | 1698 | 398 | JavaScript | 189 | [UNMAINTAINED] node-amqp is an AMQP client for nodejs | 2018-09-10T13:41:39Z |
+| 40 | [Nested](https://github.com/suprb/Nested) | 1695 | 253 | JavaScript | 36 | Gap free multi column grid | 2015-08-31T22:02:36Z |
+| 41 | [fb-flo](https://github.com/facebookarchive/fb-flo) | 1691 | 105 | JavaScript | 0 | A Chrome extension that lets you modify running apps without reloading them. | 2015-12-15T20:55:34Z |
+| 42 | [trails](https://github.com/trailsjs/trails) | 1669 | 70 | JavaScript | 57 | :evergreen_tree: Modern Web Application Framework for Node.js. | 2018-06-30T19:12:47Z |
+| 43 | [cta.js](https://github.com/chinchang/cta.js) | 1653 | 152 | JavaScript | 4 | Animate your 'action-to-effect' paths | 2016-07-07T18:06:04Z |
+| 44 | [angular-client-side-auth](https://github.com/fnakstad/angular-client-side-auth) | 1645 | 353 | JavaScript | 18 | One way to implement authentication/authorization in Angular applications | 2014-11-23T09:56:12Z |
+| 45 | [megalo](https://github.com/kaola-fed/megalo) | 1632 | 121 | JavaScript | 56 | 基于 Vue 的小程序开发框架 | 2023-01-03T18:13:48Z |
+| 46 | [PWABuilder-CLI](https://github.com/pwa-builder/PWABuilder-CLI) | 1630 | 152 | JavaScript | 26 | Node.js tool for App Generation | 2021-05-12T21:50:31Z |
+| 47 | [js-data](https://github.com/js-data/js-data) | 1623 | 145 | JavaScript | 66 | Give your data the treatment it deserves with a framework-agnostic, datastore-agnostic JavaScript ORM built for ease of use and peace of mind. Works in Node.js and in the Browser. Main Site: http://js-data.io, API Reference Docs: http://api.js-data.io/js-data | 2023-01-05T14:03:56Z |
+| 48 | [htmlbars](https://github.com/tildeio/htmlbars) | 1610 | 193 | JavaScript | 31 | A variant of Handlebars that emits DOM and allows you to write helpers that manipulate live DOM nodes | 2019-04-03T18:32:33Z |
+| 49 | [static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) | 1608 | 97 | JavaScript | 38 | Minimal, unopinionated static site generator powered by webpack | 2018-12-28T12:27:40Z |
+| 50 | [reactcss](https://github.com/casesandberg/reactcss) | 1599 | 86 | JavaScript | 2 | :lipstick: Inline Styles in JS | 2020-08-14T15:49:07Z |
+| 51 | [mailcheck](https://github.com/mailcheck/mailcheck) | 7951 | 499 | JavaScript | 30 | Reduce misspelled email addresses in your web apps. | 2022-05-06T21:06:51Z |
+| 52 | [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) | 7845 | 2233 | JavaScript | 12 | 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ \| Live2D widget for web platform | 2023-12-15T17:46:07Z |
+| 53 | [react-router-redux](https://github.com/reactjs/react-router-redux) | 7843 | 694 | JavaScript | 1 | Ruthlessly simple bindings to keep react-router and redux in sync | 2018-10-26T15:42:15Z |
+| 54 | [pickadate.js](https://github.com/amsul/pickadate.js) | 7701 | 1053 | JavaScript | 299 | The mobile-friendly, responsive, and lightweight jQuery date & time input picker. | 2023-07-14T10:02:54Z |
+| 55 | [sharedrop](https://github.com/szimek/sharedrop) | 7660 | 594 | JavaScript | 92 | Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop | 2023-05-13T17:36:00Z |
+| 56 | [stitches](https://github.com/stitchesjs/stitches) | 7643 | 250 | JavaScript | 114 | [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. | 2023-08-21T08:34:48Z |
+| 57 | [windmill](https://github.com/windmill-labs/windmill) | 7630 | 346 | JavaScript | 84 | Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. | 2023-12-21T01:38:17Z |
+| 58 | [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 7427 | 2255 | JavaScript | 81 | Community curated list of templates for the nuclei engine to find security vulnerabilities. | 2023-12-20T18:19:25Z |
+| 59 | [radium](https://github.com/FormidableLabs/radium) | 7414 | 352 | JavaScript | 68 | A toolchain for React component styling. | 2022-08-19T13:33:58Z |
+| 60 | [jquery.transit](https://github.com/rstacruz/jquery.transit) | 7318 | 896 | JavaScript | 114 | Super-smooth CSS3 transformations and transitions for jQuery | 2022-01-18T08:56:25Z |
+| 61 | [covid19india-react](https://github.com/covid19india/covid19india-react) | 6872 | 3455 | JavaScript | 27 | Tracking the impact of COVID-19 in India | 2021-12-02T12:28:51Z |
+| 62 | [react-apollo](https://github.com/apollographql/react-apollo) | 6869 | 808 | JavaScript | 183 | :recycle: React integration for Apollo Client | 2023-04-13T21:00:49Z |
+| 63 | [rockstar](https://github.com/RockstarLang/rockstar) | 6848 | 232 | JavaScript | 89 | The Rockstar programming language specification | 2023-12-02T11:43:49Z |
+| 64 | [fastdom](https://github.com/wilsonpage/fastdom) | 6718 | 269 | JavaScript | 11 | Eliminates layout thrashing by batching DOM measurement and mutation tasks | 2022-06-07T10:13:27Z |
+| 65 | [OS.js](https://github.com/os-js/OS.js) | 6712 | 871 | JavaScript | 15 | OS.js - JavaScript Web Desktop Platform | 2022-12-12T13:14:32Z |
+| 66 | [shaka-player](https://github.com/shaka-project/shaka-player) | 6688 | 1368 | JavaScript | 191 | JavaScript player library / DASH & HLS client / MSE-EME player | 2023-12-18T18:16:56Z |
+| 67 | [FE-Interview](https://github.com/lgwebdream/FE-Interview) | 6547 | 900 | JavaScript | 1146 | 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 | 2023-01-06T11:32:02Z |
+| 68 | [wysihtml5](https://github.com/tiff/wysihtml5) | 6508 | 1039 | JavaScript | 262 | Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles. | 2016-04-02T13:08:16Z |
+| 69 | [moon](https://github.com/kbrsh/moon) | 6014 | 231 | JavaScript | 11 | 🌙 The minimal & fast library for functional user interfaces | 2020-09-05T23:40:01Z |
+| 70 | [lightbox2](https://github.com/lokesh/lightbox2) | 6005 | 1786 | JavaScript | 39 | THE original Lightbox script (v2). | 2023-12-19T14:06:40Z |
+| 71 | [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) | 5929 | 817 | JavaScript | 138 | Reverse engineering WhatsApp Web. | 2023-04-27T18:12:21Z |
+| 72 | [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) | 5791 | 806 | JavaScript | 1977 | Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable. | 2023-04-27T04:39:08Z |
+| 73 | [code-prettify](https://github.com/googlearchive/code-prettify) | 5772 | 1000 | JavaScript | 181 | An embeddable script that makes source-code snippets in HTML prettier. | 2020-04-21T16:43:49Z |
+| 74 | [AutoPiano](https://github.com/AutoPiano/AutoPiano) | 5758 | 963 | JavaScript | 42 | 🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online | 2022-12-23T16:51:40Z |
+| 75 | [generator-angular](https://github.com/yeoman/generator-angular) | 5752 | 1480 | JavaScript | 70 | Yeoman generator for AngularJS | 2017-06-08T15:28:19Z |
+| 76 | [wouter](https://github.com/molefrog/wouter) | 5740 | 134 | JavaScript | 11 | 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS. | 2023-12-19T07:44:58Z |
+| 77 | [lesspass](https://github.com/lesspass/lesspass) | 5580 | 323 | JavaScript | 38 | :key: stateless open source password manager | 2023-11-09T15:38:02Z |
+| 78 | [instantclick](https://github.com/dieulot/instantclick) | 5495 | 267 | JavaScript | 49 | InstantClick makes following links in your website instant. | 2018-06-06T14:25:22Z |
+| 79 | [trust](https://github.com/ncase/trust) | 5472 | 899 | JavaScript | 65 | An interactive guide to the game theory of cooperation | 2021-11-14T18:08:01Z |
+| 80 | [nyc](https://github.com/istanbuljs/nyc) | 5468 | 392 | JavaScript | 170 | the Istanbul command line interface | 2023-12-03T09:28:39Z |
+| 81 | [nideshop](https://github.com/tumobi/nideshop) | 5460 | 1777 | JavaScript | 5 | NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS） | 2021-08-09T08:39:39Z |
+| 82 | [breach_core](https://github.com/spolu/breach_core) | 5423 | 446 | JavaScript | 56 | A Browser written in JS. Free. Modular. Hackable. | 2023-03-24T22:19:22Z |
+| 83 | [hygen](https://github.com/jondot/hygen) | 5392 | 257 | JavaScript | 74 | The simple, fast, and scalable code generator that lives in your project. | 2023-12-03T04:02:46Z |
+| 84 | [pull](https://github.com/wei/pull) | 5364 | 720 | JavaScript | 5 | 🤖 Keep your forks up-to-date via automated PRs | 2023-12-16T00:55:29Z |
+| 85 | [entropic](https://github.com/entropic-dev/entropic) | 5313 | 166 | JavaScript | 65 | 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝 | 2023-01-03T23:46:54Z |
+| 86 | [boring-avatars](https://github.com/boringdesigners/boring-avatars) | 5183 | 171 | JavaScript | 0 | Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette. | 2023-08-18T17:04:54Z |
+| 87 | [github-contributions-chart](https://github.com/sallar/github-contributions-chart) | 4995 | 243 | JavaScript | 12 | :octocat: Generate an image of all your Github contributions | 2023-12-19T11:33:50Z |
+| 88 | [serverless-express](https://github.com/CodeGenieApp/serverless-express) | 4977 | 674 | JavaScript | 77 | Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more. | 2023-12-19T12:49:07Z |
+| 89 | [node-style-guide](https://github.com/felixge/node-style-guide) | 4957 | 943 | JavaScript | 13 | A guide for styling your node.js / JavaScript code. Fork & adjust to your taste. | 2021-01-24T03:40:33Z |
+| 90 | [keras-js](https://github.com/transcranial/keras-js) | 4954 | 529 | JavaScript | 70 | Run Keras models in the browser, with GPU support using WebGL | 2022-06-15T12:11:24Z |
+| 91 | [UpUp](https://github.com/TalAter/UpUp) | 4876 | 280 | JavaScript | 35 | ✈️ Easily create sites that work offline as well as online | 2022-12-06T21:57:24Z |
+| 92 | [scripts](https://github.com/chavyleung/scripts) | 4803 | 1189 | JavaScript | 69 | BoxJs | 2023-12-04T03:42:22Z |
+| 93 | [oboe.js](https://github.com/jimhigson/oboe.js) | 4741 | 231 | JavaScript | 84 | A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes. | 2023-01-07T13:20:08Z |
+| 94 | [data](https://github.com/GoogleTrends/data) | 4524 | 467 | JavaScript | 10 | An index of all open-source data | 2023-11-07T02:02:04Z |
+| 95 | [untrusted](https://github.com/AlexNisnevich/untrusted) | 4493 | 730 | JavaScript | 51 | A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin. | 2023-11-16T23:50:42Z |
+| 96 | [ejs](https://github.com/tj/ejs) | 4450 | 573 | JavaScript | 80 | Embedded JavaScript templates for node | 2023-09-12T07:15:27Z |
+| 97 | [node-apn](https://github.com/node-apn/node-apn) | 4371 | 701 | JavaScript | 69 | :calling: Apple Push Notification module for Node.js | 2023-10-02T00:21:46Z |
+| 98 | [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 4308 | 1036 | JavaScript | 62 | IDURAR Open Code Source ERP CRM Alternative to SalesForce \| Node Js React AntD MERN | 2023-12-19T17:38:57Z |
+| 99 | [cinnamon](https://github.com/linuxmint/cinnamon) | 4280 | 743 | JavaScript | 1584 | A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.  | 2023-12-19T15:09:48Z |
+| 100 | [fontfaceobserver](https://github.com/bramstein/fontfaceobserver) | 4213 | 286 | JavaScript | 7 | Webfont loading. Simple, small, and efficient. | 2023-10-30T18:25:38Z |
 
