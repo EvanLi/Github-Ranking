@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13752 | 718 | ActionScript | 3806 | A Flash Player emulator written in Rust | 2024-01-13T01:42:18Z |
+| 1 | [ruffle](https://github.com/ruffle-rs/ruffle) | 13757 | 718 | ActionScript | 3809 | A Flash Player emulator written in Rust | 2024-01-14T00:47:59Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 141 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6711 | 541 | ActionScript | 20 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-01-12T22:53:21Z |
+| 3 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6716 | 541 | ActionScript | 20 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-01-13T23:35:39Z |
 | 4 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2767 | 840 | ActionScript | 70 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 5 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2472 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 6 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1491 | 468 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
@@ -26,8 +26,8 @@
 | 19 | [emulator](https://github.com/nesbox/emulator) | 571 | 252 | ActionScript | 91 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 548 | 201 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 21 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 548 | 236 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
-| 22 | [as3swf](https://github.com/claus/as3swf) | 528 | 129 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
-| 23 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 527 | 69 | ActionScript | 47 | A simple music making program | 2023-09-27T22:44:02Z |
+| 22 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 528 | 69 | ActionScript | 47 | A simple music making program | 2023-09-27T22:44:02Z |
+| 23 | [as3swf](https://github.com/claus/as3swf) | 528 | 129 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 24 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 514 | 277 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
 | 25 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 475 | 40 | ActionScript | 24 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 26 | [Ash](https://github.com/richardlord/Ash) | 446 | 95 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
