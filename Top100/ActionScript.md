@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7360 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6775 | 548 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-02-09T12:48:15Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2777 | 841 | ActionScript | 71 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7361 | 140 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6775 | 549 | ActionScript | 24 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-02-09T12:48:15Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2778 | 841 | ActionScript | 71 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2473 | 1122 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 468 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1327 | 521 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
@@ -36,7 +36,7 @@
 | 29 | [Weave](https://github.com/WeaveTeam/Weave) | 371 | 73 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
 | 30 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 370 | 125 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2017-06-20T16:30:59Z |
 | 31 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 359 | 33 | ActionScript | 1 | Anodyne 1 Source Code | 2023-09-23T09:10:20Z |
-| 32 | [royale-asjs](https://github.com/apache/royale-asjs) | 357 | 124 | ActionScript | 243 | Apache Royale ASJS | 2024-02-03T23:01:49Z |
+| 32 | [royale-asjs](https://github.com/apache/royale-asjs) | 357 | 125 | ActionScript | 243 | Apache Royale ASJS | 2024-02-03T23:01:49Z |
 | 33 | [Gestouch](https://github.com/fljot/Gestouch) | 355 | 85 | ActionScript | 36 | Gestouch: multitouch gesture recognition library for Flash (ActionScript) development. | 2016-03-01T17:49:07Z |
 | 34 | [wck](https://github.com/jesses/wck) | 355 | 57 | ActionScript | 12 | Box2d Flash Alchemy Port + World Construction Kit (AS3 Physics Engine) | 2015-09-01T06:23:50Z |
 | 35 | [AS3Libs](https://github.com/gskinner/AS3Libs) | 354 | 46 | ActionScript | 0 | A collection of AS3 libraries and sketches that I have built over the years. | 2021-08-25T12:08:46Z |
@@ -104,5 +104,5 @@
 | 97 | [SoundAS](https://github.com/treefortress/SoundAS) | 139 | 46 | ActionScript | 7 | A modern lightweight sound manager for AS3.  | 2023-10-02T01:43:38Z |
 | 98 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 136 | 152 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
 | 99 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 135 | 82 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
-| 100 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 134 | 51 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
+| 100 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 133 | 51 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
 
