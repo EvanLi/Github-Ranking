@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7360 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6779 | 548 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-02-13T19:03:34Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7359 | 139 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6780 | 548 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-02-13T19:03:34Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2779 | 839 | ActionScript | 71 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2473 | 1123 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2472 | 1123 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1489 | 468 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1327 | 522 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1295 | 213 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -24,7 +24,7 @@
 | 17 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 618 | 179 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
 | 18 | [emulator](https://github.com/nesbox/emulator) | 573 | 254 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 19 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 549 | 235 | ActionScript | 64 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
-| 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 548 | 201 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
+| 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 548 | 196 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 21 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 536 | 69 | ActionScript | 47 | A simple music making program | 2023-09-27T22:44:02Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 527 | 129 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 515 | 277 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2017-10-26T18:02:48Z |
@@ -53,11 +53,11 @@
 | 46 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 280 | 89 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
 | 47 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 274 | 26 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 48 | [as3-utils](https://github.com/as3/as3-utils) | 272 | 58 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
-| 49 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 56 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
-| 50 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 94 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
+| 49 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 94 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
+| 50 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 269 | 56 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 51 | [skyui](https://github.com/schlangster/skyui) | 263 | 171 | ActionScript | 32 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 258 | 57 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
-| 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 250 | 115 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
+| 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 115 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 249 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 55 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 247 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
 | 56 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 246 | 96 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
@@ -72,7 +72,7 @@
 | 65 | [GrindPlayer](https://github.com/kutu/GrindPlayer) | 206 | 64 | ActionScript | 7 | OSMF + Flex based flash video player, which provides most needed functionality in nowadays | 2014-10-02T17:32:44Z |
 | 66 | [glitch-avatars](https://github.com/tinyspeck/glitch-avatars) | 206 | 100 | ActionScript | 1 | Art and source for Glitch's customizable avatars | 2013-12-03T01:51:08Z |
 | 67 | [flexlib](https://github.com/flex-users/flexlib) | 204 | 91 | ActionScript | 283 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
-| 68 | [avmplus](https://github.com/adobe/avmplus) | 196 | 77 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
+| 68 | [avmplus](https://github.com/adobe/avmplus) | 196 | 76 | ActionScript | 6 | Source code for the Actionscript virtual machine | 2019-10-02T23:38:19Z |
 | 69 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 195 | 27 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 70 | [avmplus](https://github.com/adobe-flash/avmplus) | 194 | 93 | ActionScript | 2 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
 | 71 | [FileReader](https://github.com/AVapps/FileReader) | 192 | 63 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
