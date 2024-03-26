@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 167858 | 25531 | Shell | 128 | 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2024-03-23T19:39:57Z |
-| 2 | [d3](https://github.com/d3/d3) | 107450 | 22914 | Shell | 7 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2024-03-14T13:29:04Z |
-| 3 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 82596 | 5592 | Shell | 17 | Papers from the computer science community to read and discuss. | 2023-10-05T16:21:00Z |
-| 4 | [nvm](https://github.com/nvm-sh/nvm) | 74914 | 7588 | Shell | 349 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2024-03-17T22:01:31Z |
-| 5 | [node](https://github.com/base-org/node) | 67064 | 2115 | Shell | 3 | Everything required to run your own Base node | 2024-03-15T03:03:34Z |
-| 6 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 59516 | 8166 | Shell | 355 | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). | 2024-03-12T19:00:51Z |
-| 7 | [pi-hole](https://github.com/pi-hole/pi-hole) | 46456 | 2586 | Shell | 39 | A black hole for Internet advertisements | 2024-03-23T10:52:33Z |
-| 8 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 46411 | 10709 | Shell | 149 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2024-03-25T01:27:21Z |
-| 9 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | 42277 | 2040 | Shell | 35 | A Zsh theme | 2024-03-19T08:13:17Z |
-| 10 | [acme.sh](https://github.com/acmesh-official/acme.sh) | 36015 | 4698 | Shell | 945 | A pure Unix shell script implementing ACME client protocol | 2024-03-21T13:50:04Z |
-| 11 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 35716 | 3204 | Shell | 44 | 📖 A collection of pure bash alternatives to external processes. | 2023-11-28T03:26:23Z |
-| 12 | [og-aws](https://github.com/open-guides/og-aws) | 35283 | 3797 | Shell | 140 | 📙 Amazon Web Services — a practical guide | 2023-11-18T20:10:42Z |
-| 13 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 34832 | 1711 | Shell | 322 | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | 2024-03-16T05:30:15Z |
-| 14 | [dotfiles](https://github.com/mathiasbynens/dotfiles) | 29725 | 8728 | Shell | 139 | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | 2024-02-18T11:18:52Z |
-| 15 | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | 29316 | 1824 | Shell | 132 | Fish-like autosuggestions for zsh | 2023-11-18T15:06:08Z |
-| 16 | [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) | 28471 | 1842 | Shell | 151 | :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 | 2024-02-22T06:22:01Z |
+| 1 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 167876 | 25535 | Shell | 128 | 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2024-03-25T23:00:10Z |
+| 2 | [d3](https://github.com/d3/d3) | 107453 | 22914 | Shell | 7 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2024-03-25T10:46:03Z |
+| 3 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 82617 | 5593 | Shell | 17 | Papers from the computer science community to read and discuss. | 2023-10-05T16:21:00Z |
+| 4 | [nvm](https://github.com/nvm-sh/nvm) | 74934 | 7591 | Shell | 349 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 2024-03-17T22:01:31Z |
+| 5 | [node](https://github.com/base-org/node) | 67066 | 2115 | Shell | 5 | Everything required to run your own Base node | 2024-03-15T03:03:34Z |
+| 6 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 59534 | 8168 | Shell | 355 | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). | 2024-03-12T19:00:51Z |
+| 7 | [pi-hole](https://github.com/pi-hole/pi-hole) | 46461 | 2588 | Shell | 39 | A black hole for Internet advertisements | 2024-03-25T04:55:34Z |
+| 8 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 46445 | 10716 | Shell | 149 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  | 2024-03-25T08:32:18Z |
+| 9 | [powerlevel10k](https://github.com/romkatv/powerlevel10k) | 42297 | 2040 | Shell | 35 | A Zsh theme | 2024-03-19T08:13:17Z |
+| 10 | [acme.sh](https://github.com/acmesh-official/acme.sh) | 36033 | 4701 | Shell | 946 | A pure Unix shell script implementing ACME client protocol | 2024-03-25T18:48:06Z |
+| 11 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 35713 | 3206 | Shell | 44 | 📖 A collection of pure bash alternatives to external processes. | 2023-11-28T03:26:23Z |
+| 12 | [og-aws](https://github.com/open-guides/og-aws) | 35288 | 3799 | Shell | 140 | 📙 Amazon Web Services — a practical guide | 2023-11-18T20:10:42Z |
+| 13 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 34842 | 1712 | Shell | 323 | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | 2024-03-16T05:30:15Z |
+| 14 | [dotfiles](https://github.com/mathiasbynens/dotfiles) | 29731 | 8725 | Shell | 139 | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | 2024-02-18T11:18:52Z |
+| 15 | [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | 29326 | 1826 | Shell | 132 | Fish-like autosuggestions for zsh | 2023-11-18T15:06:08Z |
+| 16 | [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) | 28473 | 1842 | Shell | 152 | :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 | 2024-02-22T06:22:01Z |
 | 17 | [gitflow](https://github.com/nvie/gitflow) | 26481 | 2658 | Shell | 236 | Git extensions to provide high-level repository operations for Vincent Driessen's branching model. | 2024-03-03T22:28:12Z |
-| 18 | [dokku](https://github.com/dokku/dokku) | 25843 | 1817 | Shell | 23 | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2024-03-24T23:38:58Z |
-| 19 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 25501 | 1495 | Shell | 133 | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws | 2024-02-26T22:28:42Z |
-| 20 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 25395 | 6075 | Shell | 7 | I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc. | 2024-03-24T09:41:23Z |
-| 21 | [fonts](https://github.com/powerline/fonts) | 25260 | 3198 | Shell | 152 | Patched fonts for Powerline users. | 2024-03-22T16:47:30Z |
-| 22 | [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | 24086 | 6410 | Shell | 20 | Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty | 2024-02-20T00:40:11Z |
-| 23 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 23833 | 6131 | Shell | 0 | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | 2024-03-21T02:40:32Z |
-| 24 | [vscodium](https://github.com/VSCodium/vscodium) | 23373 | 976 | Shell | 103 | binary releases of VS Code without MS branding/telemetry/licensing | 2024-03-22T14:20:16Z |
+| 18 | [dokku](https://github.com/dokku/dokku) | 25845 | 1817 | Shell | 23 | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2024-03-25T13:25:39Z |
+| 19 | [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 25500 | 1495 | Shell | 133 | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws | 2024-02-26T22:28:42Z |
+| 20 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 25400 | 6076 | Shell | 7 | I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc. | 2024-03-24T09:41:23Z |
+| 21 | [fonts](https://github.com/powerline/fonts) | 25266 | 3199 | Shell | 152 | Patched fonts for Powerline users. | 2024-03-22T16:47:30Z |
+| 22 | [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | 24088 | 6410 | Shell | 20 | Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty | 2024-02-20T00:40:11Z |
+| 23 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 23840 | 6132 | Shell | 0 | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | 2024-03-21T02:40:32Z |
+| 24 | [vscodium](https://github.com/VSCodium/vscodium) | 23381 | 976 | Shell | 102 | binary releases of VS Code without MS branding/telemetry/licensing | 2024-03-22T14:20:16Z |
 | 25 | [streisand](https://github.com/StreisandEffect/streisand) | 23102 | 1996 | Shell | 211 | Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. | 2021-05-04T09:42:40Z |
-| 26 | [v2ray](https://github.com/233boy/v2ray) | 22536 | 15596 | Shell | 148 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 2024-02-01T05:18:14Z |
-| 27 | [.tmux](https://github.com/gpakosz/.tmux) | 20961 | 3275 | Shell | 30 | 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️ | 2024-03-24T17:08:32Z |
-| 28 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 20510 | 2565 | Shell | 15 | Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) | 2024-03-22T16:55:10Z |
-| 29 | [config](https://github.com/nikitavoloboev/config) | 20240 | 841 | Shell | 0 | Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor.. | 2024-03-24T19:41:49Z |
-| 30 | [asdf](https://github.com/asdf-vm/asdf) | 20173 | 743 | Shell | 143 | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more | 2024-03-18T02:53:44Z |
-| 31 | [neofetch](https://github.com/dylanaraps/neofetch) | 20119 | 1442 | Shell | 288 | 🖼️  A command-line system information tool written in bash 3.2+ | 2024-03-22T12:00:36Z |
-| 32 | [dotfiles](https://github.com/lewagon/dotfiles) | 19685 | 24407 | Shell | 1 | Default configuration for Le Wagon's students | 2024-03-14T23:01:26Z |
-| 33 | [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | 19016 | 963 | Shell | 98 | :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt | 2024-03-22T13:21:35Z |
-| 34 | [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | 18860 | 1307 | Shell | 150 | Fish shell like syntax highlighting for Zsh. | 2024-03-22T01:10:50Z |
-| 35 | [n](https://github.com/tj/n) | 18422 | 723 | Shell | 3 | Node version management | 2024-02-25T03:38:22Z |
-| 36 | [openvpn-install](https://github.com/Nyr/openvpn-install) | 18236 | 4723 | Shell | 5 | OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora | 2024-02-02T08:49:44Z |
-| 37 | [git-extras](https://github.com/tj/git-extras) | 16665 | 1189 | Shell | 81 | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more | 2024-02-29T03:11:01Z |
-| 38 | [docker-elk](https://github.com/deviantony/docker-elk) | 16460 | 6578 | Shell | 7 | The Elastic stack (ELK) powered by Docker and Compose. | 2024-02-25T00:25:11Z |
-| 39 | [interview_python](https://github.com/taizilongxu/interview_python) | 16227 | 5525 | Shell | 31 | 关于Python的面试题 | 2023-05-15T09:47:05Z |
-| 40 | [Hack](https://github.com/source-foundry/Hack) | 16178 | 600 | Shell | 119 | A typeface designed for source code | 2022-11-21T18:05:33Z |
-| 41 | [z](https://github.com/rupa/z) | 15984 | 1158 | Shell | 82 | z - jump around | 2024-03-04T09:05:27Z |
-| 42 | [rbenv](https://github.com/rbenv/rbenv) | 15713 | 1375 | Shell | 10 | Manage your app's Ruby environment | 2024-03-14T10:54:10Z |
-| 43 | [redox](https://github.com/redox-os/redox) | 14816 | 907 | Shell | 0 | Mirror of https://gitlab.redox-os.org/redox-os/redox | 2024-03-25T02:17:22Z |
-| 44 | [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 14651 | 2241 | Shell | 5 | A curated list for awesome kubernetes sources :ship::tada: | 2024-03-05T10:47:08Z |
-| 45 | [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | 14280 | 524 | Shell | 4 | A collection of ZSH frameworks, plugins, themes and tutorials. | 2024-03-24T16:47:40Z |
-| 46 | [graphql-spec](https://github.com/graphql/graphql-spec) | 14200 | 1114 | Shell | 144 | GraphQL is a query language and execution engine tied to any backend service. | 2024-03-20T18:45:02Z |
-| 47 | [bash-it](https://github.com/Bash-it/bash-it) | 13972 | 2278 | Shell | 35 | A community Bash framework. | 2024-03-20T11:09:54Z |
-| 48 | [prezto](https://github.com/sorin-ionescu/prezto) | 13748 | 4482 | Shell | 140 | The configuration framework for Zsh | 2024-03-17T14:16:59Z |
-| 49 | [kaldi](https://github.com/kaldi-asr/kaldi) | 13605 | 5261 | Shell | 175 | kaldi-asr/kaldi is the official location of the Kaldi project. | 2024-01-31T11:21:57Z |
-| 50 | [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 13493 | 825 | Shell | 11 | 🖥 📊 🕹 🛠 A curated list of command line apps | 2024-03-24T08:55:15Z |
-| 51 | [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) | 13474 | 1142 | Shell | 327 | Tools to set up a quick macOS VM in QEMU, accelerated by KVM. | 2024-02-20T16:44:10Z |
-| 52 | [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) | 13444 | 953 | Shell | 117 | Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k. | 2020-04-23T18:43:47Z |
-| 53 | [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | 13442 | 1110 | Shell | 1 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS | 2023-08-06T15:57:37Z |
-| 54 | [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) | 13343 | 1063 | Shell | 1 | How to improve NGINX performance, security, and other important things. | 2021-10-20T18:55:46Z |
-| 55 | [distributions](https://github.com/nodesource/distributions) | 13197 | 3062 | Shell | 17 | NodeSource Node.js Binary Distributions | 2024-03-22T19:56:14Z |
-| 56 | [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | 13125 | 1700 | Shell | 68 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. | 2024-03-24T18:40:47Z |
-| 57 | [pure](https://github.com/sindresorhus/pure) | 12727 | 963 | Shell | 28 | Pretty, minimal and fast ZSH prompt | 2024-03-10T12:35:35Z |
-| 58 | [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 12578 | 980 | Shell | 2 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | 2024-03-09T16:05:15Z |
-| 59 | [v2ray-agent](https://github.com/mack-a/v2ray-agent) | 12449 | 4281 | Shell | 10 | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | 2024-03-21T02:13:43Z |
-| 60 | [lynis](https://github.com/CISOfy/lynis) | 12345 | 1377 | Shell | 121 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. | 2024-03-22T05:42:24Z |
-| 61 | [haoel.github.io](https://github.com/haoel/haoel.github.io) | 12188 | 1924 | Shell | 163 | None | 2023-05-11T09:58:42Z |
-| 62 | [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) | 12127 | 2875 | Shell | 4 | Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier | 2024-01-21T23:49:42Z |
-| 63 | [termux-packages](https://github.com/termux/termux-packages) | 12016 | 2798 | Shell | 549 | A package build system for Termux. | 2024-03-25T00:25:48Z |
-| 64 | [git-secrets](https://github.com/awslabs/git-secrets) | 11945 | 1146 | Shell | 82 | Prevents you from committing secrets and credentials into git repositories | 2024-03-10T01:14:41Z |
-| 65 | [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 11872 | 597 | Shell | 36 | 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. | 2024-03-21T15:20:09Z |
-| 66 | [fancyss](https://github.com/hq450/fancyss) | 11854 | 3140 | Shell | 156 | fancyss is a project providing tools to across the GFW on asuswrt/merlin based router. | 2024-03-25T01:44:16Z |
-| 67 | [openvpn-install](https://github.com/angristan/openvpn-install) | 11739 | 2728 | Shell | 93 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. | 2024-01-27T01:10:39Z |
-| 68 | [ansible-examples](https://github.com/ansible/ansible-examples) | 11367 | 7378 | Shell | 50 | A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications. | 2024-03-18T10:56:16Z |
-| 69 | [tpm](https://github.com/tmux-plugins/tpm) | 11049 | 391 | Shell | 90 | Tmux Plugin Manager | 2024-02-07T15:26:44Z |
-| 70 | [bocker](https://github.com/p8952/bocker) | 11028 | 704 | Shell | 7 | Docker implemented in around 100 lines of bash | 2017-12-09T14:16:38Z |
-| 71 | [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 10919 | 2933 | Shell | 3 | Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook | 2023-08-07T01:15:08Z |
-| 72 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 10743 | 2011 | Shell | 8 | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 2024-01-07T12:08:26Z |
-| 73 | [CodeGuide](https://github.com/fuzhengwei/CodeGuide) | 10633 | 3430 | Shell | 36 | :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！ | 2024-03-23T10:29:33Z |
-| 74 | [bashtop](https://github.com/aristocratos/bashtop) | 10622 | 547 | Shell | 54 | Linux/OSX/FreeBSD resource monitor | 2023-08-21T03:58:13Z |
-| 75 | [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | 10597 | 394 | Shell | 204 | Persists tmux environment across system restarts. | 2024-03-24T13:23:18Z |
-| 76 | [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) | 10547 | 265 | Shell | 0 | Blame someone else for your bad code. | 2023-12-04T14:41:06Z |
-| 77 | [TabNine](https://github.com/codota/TabNine) | 10350 | 469 | Shell | 4 | AI Code Completions | 2024-01-17T07:20:54Z |
-| 78 | [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) | 10215 | 880 | Shell | 51 | 🎬 A curated list of movies every hacker & cyberpunk must watch. | 2022-12-11T22:54:37Z |
-| 79 | [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | 10154 | 293 | Shell | 136 | JetBrains Mono – the free and open-source typeface for developers | 2023-10-02T23:51:01Z |
-| 80 | [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) | 10123 | 714 | Shell | 0 | :zap: From finding text to search and replace, from sorting to beautifying text and more :art: | 2022-11-04T05:43:17Z |
+| 26 | [v2ray](https://github.com/233boy/v2ray) | 22544 | 15598 | Shell | 148 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 | 2024-02-01T05:18:14Z |
+| 27 | [.tmux](https://github.com/gpakosz/.tmux) | 20961 | 3280 | Shell | 30 | 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️ | 2024-03-25T19:23:42Z |
+| 28 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 20537 | 2568 | Shell | 16 | Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) | 2024-03-22T16:55:10Z |
+| 29 | [config](https://github.com/nikitavoloboev/config) | 20243 | 841 | Shell | 0 | Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor.. | 2024-03-24T19:41:49Z |
+| 30 | [asdf](https://github.com/asdf-vm/asdf) | 20197 | 743 | Shell | 143 | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more | 2024-03-18T02:53:44Z |
+| 31 | [neofetch](https://github.com/dylanaraps/neofetch) | 20130 | 1442 | Shell | 288 | 🖼️  A command-line system information tool written in bash 3.2+ | 2024-03-22T12:00:36Z |
+| 32 | [dotfiles](https://github.com/lewagon/dotfiles) | 19741 | 24466 | Shell | 1 | Default configuration for Le Wagon's students | 2024-03-14T23:01:26Z |
+| 33 | [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | 19019 | 963 | Shell | 98 | :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt | 2024-03-22T13:21:35Z |
+| 34 | [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | 18868 | 1306 | Shell | 150 | Fish shell like syntax highlighting for Zsh. | 2024-03-22T01:10:50Z |
+| 35 | [n](https://github.com/tj/n) | 18425 | 723 | Shell | 3 | Node version management | 2024-02-25T03:38:22Z |
+| 36 | [openvpn-install](https://github.com/Nyr/openvpn-install) | 18238 | 4725 | Shell | 5 | OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora | 2024-02-02T08:49:44Z |
+| 37 | [git-extras](https://github.com/tj/git-extras) | 16663 | 1189 | Shell | 81 | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more | 2024-02-29T03:11:01Z |
+| 38 | [docker-elk](https://github.com/deviantony/docker-elk) | 16467 | 6580 | Shell | 7 | The Elastic stack (ELK) powered by Docker and Compose. | 2024-02-25T00:25:11Z |
+| 39 | [interview_python](https://github.com/taizilongxu/interview_python) | 16228 | 5525 | Shell | 31 | 关于Python的面试题 | 2023-05-15T09:47:05Z |
+| 40 | [Hack](https://github.com/source-foundry/Hack) | 16179 | 600 | Shell | 119 | A typeface designed for source code | 2022-11-21T18:05:33Z |
+| 41 | [z](https://github.com/rupa/z) | 15988 | 1158 | Shell | 82 | z - jump around | 2024-03-04T09:05:27Z |
+| 42 | [rbenv](https://github.com/rbenv/rbenv) | 15709 | 1375 | Shell | 11 | Manage your app's Ruby environment | 2024-03-14T10:54:10Z |
+| 43 | [redox](https://github.com/redox-os/redox) | 14818 | 907 | Shell | 0 | Mirror of https://gitlab.redox-os.org/redox-os/redox | 2024-03-25T22:17:22Z |
+| 44 | [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 14651 | 2242 | Shell | 6 | A curated list for awesome kubernetes sources :ship::tada: | 2024-03-05T10:47:08Z |
+| 45 | [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | 14288 | 524 | Shell | 4 | A collection of ZSH frameworks, plugins, themes and tutorials. | 2024-03-24T16:47:40Z |
+| 46 | [graphql-spec](https://github.com/graphql/graphql-spec) | 14201 | 1114 | Shell | 144 | GraphQL is a query language and execution engine tied to any backend service. | 2024-03-20T18:45:02Z |
+| 47 | [bash-it](https://github.com/Bash-it/bash-it) | 13975 | 2277 | Shell | 36 | A community Bash framework. | 2024-03-20T11:09:54Z |
+| 48 | [prezto](https://github.com/sorin-ionescu/prezto) | 13750 | 4482 | Shell | 140 | The configuration framework for Zsh | 2024-03-17T14:16:59Z |
+| 49 | [kaldi](https://github.com/kaldi-asr/kaldi) | 13609 | 5261 | Shell | 175 | kaldi-asr/kaldi is the official location of the Kaldi project. | 2024-01-31T11:21:57Z |
+| 50 | [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 13497 | 825 | Shell | 11 | 🖥 📊 🕹 🛠 A curated list of command line apps | 2024-03-26T02:33:27Z |
+| 51 | [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) | 13475 | 1143 | Shell | 327 | Tools to set up a quick macOS VM in QEMU, accelerated by KVM. | 2024-02-20T16:44:10Z |
+| 52 | [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) | 13442 | 953 | Shell | 117 | Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k. | 2020-04-23T18:43:47Z |
+| 53 | [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | 13441 | 1110 | Shell | 1 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS | 2023-08-06T15:57:37Z |
+| 54 | [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) | 13341 | 1063 | Shell | 1 | How to improve NGINX performance, security, and other important things. | 2021-10-20T18:55:46Z |
+| 55 | [distributions](https://github.com/nodesource/distributions) | 13199 | 3062 | Shell | 18 | NodeSource Node.js Binary Distributions | 2024-03-22T19:56:14Z |
+| 56 | [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | 13132 | 1702 | Shell | 68 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. | 2024-03-26T02:30:30Z |
+| 57 | [pure](https://github.com/sindresorhus/pure) | 12730 | 963 | Shell | 28 | Pretty, minimal and fast ZSH prompt | 2024-03-10T12:35:35Z |
+| 58 | [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 12580 | 981 | Shell | 2 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | 2024-03-09T16:05:15Z |
+| 59 | [v2ray-agent](https://github.com/mack-a/v2ray-agent) | 12458 | 4284 | Shell | 10 | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | 2024-03-21T02:13:43Z |
+| 60 | [lynis](https://github.com/CISOfy/lynis) | 12365 | 1377 | Shell | 121 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. | 2024-03-22T05:42:24Z |
+| 61 | [haoel.github.io](https://github.com/haoel/haoel.github.io) | 12189 | 1924 | Shell | 163 | None | 2023-05-11T09:58:42Z |
+| 62 | [nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) | 12125 | 2875 | Shell | 4 | Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier | 2024-01-21T23:49:42Z |
+| 63 | [termux-packages](https://github.com/termux/termux-packages) | 12015 | 2798 | Shell | 548 | A package build system for Termux. | 2024-03-26T00:25:45Z |
+| 64 | [git-secrets](https://github.com/awslabs/git-secrets) | 11948 | 1146 | Shell | 82 | Prevents you from committing secrets and credentials into git repositories | 2024-03-10T01:14:41Z |
+| 65 | [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 11876 | 598 | Shell | 36 | 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. | 2024-03-21T15:20:09Z |
+| 66 | [fancyss](https://github.com/hq450/fancyss) | 11855 | 3140 | Shell | 157 | fancyss is a project providing tools to across the GFW on asuswrt/merlin based router. | 2024-03-25T01:44:16Z |
+| 67 | [openvpn-install](https://github.com/angristan/openvpn-install) | 11748 | 2728 | Shell | 94 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. | 2024-01-27T01:10:39Z |
+| 68 | [ansible-examples](https://github.com/ansible/ansible-examples) | 11371 | 7382 | Shell | 50 | A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications. | 2024-03-18T10:56:16Z |
+| 69 | [tpm](https://github.com/tmux-plugins/tpm) | 11059 | 391 | Shell | 90 | Tmux Plugin Manager | 2024-02-07T15:26:44Z |
+| 70 | [bocker](https://github.com/p8952/bocker) | 11030 | 704 | Shell | 7 | Docker implemented in around 100 lines of bash | 2017-12-09T14:16:38Z |
+| 71 | [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 10916 | 2934 | Shell | 3 | Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook | 2023-08-07T01:15:08Z |
+| 72 | [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) | 10744 | 2011 | Shell | 8 | 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap: | 2024-01-07T12:08:26Z |
+| 73 | [CodeGuide](https://github.com/fuzhengwei/CodeGuide) | 10640 | 3432 | Shell | 36 | :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！ | 2024-03-25T08:05:23Z |
+| 74 | [bashtop](https://github.com/aristocratos/bashtop) | 10623 | 547 | Shell | 54 | Linux/OSX/FreeBSD resource monitor | 2023-08-21T03:58:13Z |
+| 75 | [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | 10599 | 394 | Shell | 204 | Persists tmux environment across system restarts. | 2024-03-24T13:23:18Z |
+| 76 | [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) | 10551 | 255 | Shell | 0 | Blame someone else for your bad code. | 2023-12-04T14:41:06Z |
+| 77 | [TabNine](https://github.com/codota/TabNine) | 10348 | 469 | Shell | 4 | AI Code Completions | 2024-01-17T07:20:54Z |
+| 78 | [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) | 10220 | 880 | Shell | 51 | 🎬 A curated list of movies every hacker & cyberpunk must watch. | 2022-12-11T22:54:37Z |
+| 79 | [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | 10161 | 293 | Shell | 136 | JetBrains Mono – the free and open-source typeface for developers | 2023-10-02T23:51:01Z |
+| 80 | [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) | 10124 | 714 | Shell | 0 | :zap: From finding text to search and replace, from sorting to beautifying text and more :art: | 2022-11-04T05:43:17Z |
 | 81 | [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) | 10071 | 809 | Shell | 76 | The Fish Shell Framework | 2023-02-13T03:38:34Z |
 | 82 | [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | 9910 | 1377 | Shell | 48 | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | 2024-03-23T18:30:39Z |
 | 83 | [ievms](https://github.com/xdissent/ievms) | 9868 | 505 | Shell | 60 | Automated installation of the Microsoft IE App Compat virtual machines | 2020-02-13T17:02:43Z |
-| 84 | [m-cli](https://github.com/rgcr/m-cli) | 9563 | 318 | Shell | 21 |  Swiss Army Knife for macOS  | 2024-01-03T22:32:16Z |
-| 85 | [oss-fuzz](https://github.com/google/oss-fuzz) | 9547 | 2057 | Shell | 269 | OSS-Fuzz - continuous fuzzing for open source software. | 2024-03-24T19:28:14Z |
-| 86 | [perf-tools](https://github.com/brendangregg/perf-tools) | 9544 | 1616 | Shell | 35 | Performance analysis tools based on Linux perf_events (aka perf) and ftrace | 2023-11-22T18:01:21Z |
-| 87 | [windows](https://github.com/dockur/windows) | 9533 | 690 | Shell | 23 | Windows in a Docker container. | 2024-03-22T10:08:13Z |
-| 88 | [gvm](https://github.com/moovweb/gvm) | 9466 | 499 | Shell | 164 | Go Version Manager | 2024-03-24T18:44:21Z |
+| 84 | [windows](https://github.com/dockur/windows) | 9632 | 700 | Shell | 22 | Windows in a Docker container. | 2024-03-26T01:35:24Z |
+| 85 | [m-cli](https://github.com/rgcr/m-cli) | 9565 | 318 | Shell | 21 |  Swiss Army Knife for macOS  | 2024-01-03T22:32:16Z |
+| 86 | [perf-tools](https://github.com/brendangregg/perf-tools) | 9548 | 1616 | Shell | 35 | Performance analysis tools based on Linux perf_events (aka perf) and ftrace | 2023-11-22T18:01:21Z |
+| 87 | [oss-fuzz](https://github.com/google/oss-fuzz) | 9547 | 2057 | Shell | 270 | OSS-Fuzz - continuous fuzzing for open source software. | 2024-03-26T02:51:01Z |
+| 88 | [gvm](https://github.com/moovweb/gvm) | 9475 | 501 | Shell | 164 | Go Version Manager | 2024-03-25T20:37:28Z |
 | 89 | [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) | 9419 | 834 | Shell | 8 | A collection of small bash scripts for heavy terminal users | 2024-01-09T18:02:11Z |
-| 90 | [Proxmox](https://github.com/tteck/Proxmox) | 9272 | 1474 | Shell | 0 | Proxmox VE Helper-Scripts | 2024-03-24T15:21:00Z |
-| 91 | [jsproxy](https://github.com/EtherDream/jsproxy) | 9258 | 3615 | Shell | 179 | An online proxy based on ServiceWorker | 2024-01-11T02:45:21Z |
-| 92 | [Xray_onekey](https://github.com/wulabing/Xray_onekey) | 9183 | 3661 | Shell | 7 | Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本  | 2024-01-22T01:43:29Z |
-| 93 | [spinnaker](https://github.com/spinnaker/spinnaker) | 9155 | 1208 | Shell | 149 | Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. | 2023-09-12T08:09:58Z |
-| 94 | [super-linter](https://github.com/super-linter/super-linter) | 9115 | 918 | Shell | 25 | Combination of multiple linters to run as a GitHub Action or standalone | 2024-03-22T14:56:21Z |
-| 95 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | 8996 | 22050 | Shell | 0 | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) | 2024-03-06T02:58:26Z |
-| 96 | [quickemu](https://github.com/quickemu-project/quickemu) | 8934 | 413 | Shell | 75 | Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. | 2024-03-23T12:16:00Z |
-| 97 | [docker-bench-security](https://github.com/docker/docker-bench-security) | 8849 | 989 | Shell | 11 | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | 2024-02-11T10:25:10Z |
-| 98 | [baseimage-docker](https://github.com/phusion/baseimage-docker) | 8848 | 1092 | Shell | 5 | A minimal Ubuntu base image modified for Docker-friendliness | 2024-03-20T15:58:39Z |
-| 99 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | 8764 | 337 | Shell | 0 |  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac. | 2024-01-13T21:16:08Z |
-| 100 | [Hackintosh](https://github.com/daliansky/Hackintosh) | 8719 | 1067 | Shell | 0 | Hackintosh long-term maintenance model EFI and installation tutorial | 2024-03-17T08:59:51Z |
+| 90 | [Proxmox](https://github.com/tteck/Proxmox) | 9288 | 1475 | Shell | 0 | Proxmox VE Helper-Scripts | 2024-03-25T18:58:49Z |
+| 91 | [jsproxy](https://github.com/EtherDream/jsproxy) | 9257 | 3615 | Shell | 179 | An online proxy based on ServiceWorker | 2024-01-11T02:45:21Z |
+| 92 | [Xray_onekey](https://github.com/wulabing/Xray_onekey) | 9185 | 3660 | Shell | 7 | Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本  | 2024-01-22T01:43:29Z |
+| 93 | [spinnaker](https://github.com/spinnaker/spinnaker) | 9158 | 1208 | Shell | 149 | Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. | 2023-09-12T08:09:58Z |
+| 94 | [super-linter](https://github.com/super-linter/super-linter) | 9116 | 917 | Shell | 25 | Combination of multiple linters to run as a GitHub Action or standalone | 2024-03-25T13:38:31Z |
+| 95 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | 8997 | 22057 | Shell | 0 | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) | 2024-03-06T02:58:26Z |
+| 96 | [quickemu](https://github.com/quickemu-project/quickemu) | 8940 | 413 | Shell | 76 | Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. | 2024-03-23T12:16:00Z |
+| 97 | [docker-bench-security](https://github.com/docker/docker-bench-security) | 8849 | 989 | Shell | 12 | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | 2024-02-11T10:25:10Z |
+| 98 | [baseimage-docker](https://github.com/phusion/baseimage-docker) | 8849 | 1092 | Shell | 5 | A minimal Ubuntu base image modified for Docker-friendliness | 2024-03-20T15:58:39Z |
+| 99 | [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) | 8763 | 337 | Shell | 0 |  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac. | 2024-01-13T21:16:08Z |
+| 100 | [distrobox](https://github.com/89luca89/distrobox) | 8725 | 361 | Shell | 67 | Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox | 2024-03-25T19:11:51Z |
 
