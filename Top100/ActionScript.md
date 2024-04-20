@@ -6,16 +6,16 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7351 | 119 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6816 | 543 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-04-12T12:04:00Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2794 | 818 | ActionScript | 71 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2477 | 1110 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6817 | 543 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-04-12T12:04:00Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2793 | 818 | ActionScript | 71 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2478 | 1110 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1491 | 446 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1326 | 514 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1294 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1129 | 197 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 210 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 967 | 266 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 11 | [bfxr](https://github.com/increpare/bfxr) | 943 | 90 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
+| 11 | [bfxr](https://github.com/increpare/bfxr) | 944 | 90 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 915 | 387 | ActionScript | 171 | User interface components for Starling Framework and Adobe AIR | 2024-04-02T21:00:45Z |
 | 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 859 | 192 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 753 | 267 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
@@ -82,7 +82,7 @@
 | 75 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 185 | 51 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 76 | [fzip](https://github.com/claus/fzip) | 181 | 63 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 77 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 32 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
-| 78 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 179 | 50 | ActionScript | 4 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-01-20T12:50:38Z |
+| 78 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 179 | 50 | ActionScript | 5 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-01-20T12:50:38Z |
 | 79 | [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) | 179 | 25 | ActionScript | 19 | Port of hamcrest to ActionScript 3,  a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively, to be used in other frameworks. Typical scenarios include testing frameworks, mocking libraries and UI validation rules. | 2012-03-21T11:48:40Z |
 | 80 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 177 | 92 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
 | 81 | [glitch-client](https://github.com/tinyspeck/glitch-client) | 176 | 91 | ActionScript | 0 | Source for the Flash-based Glitch client | 2014-01-22T02:12:05Z |
