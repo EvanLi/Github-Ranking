@@ -49,7 +49,7 @@ table_of_contents = """
 * [Shell](#shell)
 * [Swift](#swift)
 * [TeX](#tex)
-* [TypeScript](#typeScript)
+* [TypeScript](#typescript)
 * [Vim script](#vim-script)"""
 
 
