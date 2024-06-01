@@ -15,7 +15,7 @@
 | 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1129 | 194 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects. | 2015-11-05T01:35:36Z |
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2023-12-19T17:01:37Z |
 | 10 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 967 | 261 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 11 | [bfxr](https://github.com/increpare/bfxr) | 953 | 90 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
+| 11 | [bfxr](https://github.com/increpare/bfxr) | 955 | 90 | ActionScript | 9 | Flash + AIR sound effects generator.   Based on Sfxr. | 2021-06-17T15:56:58Z |
 | 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 916 | 385 | ActionScript | 171 | User interface components for Starling Framework and Adobe AIR | 2024-04-02T21:00:45Z |
 | 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 865 | 193 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 750 | 265 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
@@ -26,9 +26,9 @@
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 556 | 71 | ActionScript | 50 | A simple music making program | 2024-03-09T23:21:15Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 549 | 231 | ActionScript | 65 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 547 | 197 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
-| 22 | [as3swf](https://github.com/claus/as3swf) | 527 | 126 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
+| 22 | [as3swf](https://github.com/claus/as3swf) | 528 | 126 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 516 | 272 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2024-04-04T12:36:16Z |
-| 24 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 491 | 41 | ActionScript | 24 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
+| 24 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 491 | 42 | ActionScript | 24 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 25 | [Ash](https://github.com/richardlord/Ash) | 444 | 95 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 26 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 409 | 144 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 27 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 385 | 135 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
@@ -60,7 +60,7 @@
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 117 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 250 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
 | 55 | [Flixel-Power-Tools](https://github.com/photonstorm/Flixel-Power-Tools) | 248 | 46 | ActionScript | 6 | The Flixel Power Tools are a set of plug-ins for Flixel 2.5+ to assist with your game development | 2013-11-28T02:35:08Z |
-| 56 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 245 | 96 | ActionScript | 8 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
+| 56 | [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) | 245 | 96 | ActionScript | 7 | ActionScript 3 WebSocket client implementation for the final WebSocket Draft RFC6455 | 2016-09-22T20:13:57Z |
 | 57 | [as3httpclient](https://github.com/gabriel/as3httpclient) | 243 | 74 | ActionScript | 11 | HTTP Client for AS3 | 2021-11-03T03:04:15Z |
 | 58 | [Papervision3D](https://github.com/Papervision3D/Papervision3D) | 241 | 55 | ActionScript | 4 | A Real-Time 3D Engine for Flash Player 10 | 2009-11-17T02:21:30Z |
 | 59 | [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) | 238 | 107 | ActionScript | 33 | Simple flash file for recording audio and saving as a WAV | 2016-10-25T15:21:38Z |
@@ -99,7 +99,7 @@
 | 92 | [red-rogue](https://github.com/st33d/red-rogue) | 146 | 15 | ActionScript | 2 | flex roguelike | 2019-01-15T21:13:13Z |
 | 93 | [mockolate](https://github.com/drewbourne/mockolate) | 145 | 26 | ActionScript | 27 | fake chocolate, mock objects and test spies for AS3 | 2012-07-18T02:16:19Z |
 | 94 | [StarlingPunk](https://github.com/asaia/StarlingPunk) | 141 | 30 | ActionScript | 4 | StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects.  As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port. | 2017-04-17T03:21:37Z |
-| 95 | [purePDF](https://github.com/sephiroth74/purePDF) | 141 | 66 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
+| 95 | [purePDF](https://github.com/sephiroth74/purePDF) | 140 | 66 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 96 | [SoundAS](https://github.com/treefortress/SoundAS) | 139 | 46 | ActionScript | 7 | A modern lightweight sound manager for AS3.  | 2023-10-02T01:43:38Z |
 | 97 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 135 | 150 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
 | 98 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 134 | 51 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
