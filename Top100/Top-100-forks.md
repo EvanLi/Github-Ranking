@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [datasharing](https://github.com/jtleek/datasharing) | 6491 | 243458 | None | 304 | The Leek group guide to data sharing  | 2024-04-05T08:19:19Z |
-| 2 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 819 | 143372 | R | 194 | Repository for Programming Assignment 2 for R Programming on Coursera | 2024-05-30T00:45:43Z |
-| 3 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 12322 | 143283 | HTML | 2116 | This repo is for demonstration purposes only. | 2024-06-08T19:09:00Z |
-| 4 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2548 | 90157 | Groovy | 63 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
-| 5 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 26585 | 83780 | Jupyter Notebook | 127 | Course Files for Complete Python 3 Bootcamp Course on Udemy | 2024-06-05T19:55:17Z |
-| 6 | [gitignore](https://github.com/github/gitignore) | 158859 | 83230 | None | 0 | A collection of useful .gitignore templates | 2024-06-08T22:36:42Z |
-| 7 | [bootstrap](https://github.com/twbs/bootstrap) | 167822 | 78485 | JavaScript | 439 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2024-06-05T14:31:20Z |
-| 8 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 295336 | 74522 | None | 44 | A complete computer science study plan to become a software engineer. | 2024-06-09T02:48:50Z |
-| 9 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 43091 | 74443 | None | 37 | 🚀✨ Help beginners to contribute to open source projects | 2024-06-09T02:54:48Z |
-| 10 | [tensorflow](https://github.com/tensorflow/tensorflow) | 183336 | 74010 | C++ | 1919 | An Open Source Machine Learning Framework for Everyone | 2024-06-09T02:41:41Z |
-| 11 | [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) | 2342 | 71250 | JavaScript | 218 | nightscout web monitor | 2024-06-08T15:55:17Z |
-| 12 | [css-exercises](https://github.com/TheOdinProject/css-exercises) | 1516 | 61839 | HTML | 1 | None | 2024-06-08T01:02:13Z |
-| 13 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 323371 | 60216 | None | 26 | :books: Freely available programming books | 2024-06-07T10:17:45Z |
-| 14 | [docs](https://github.com/github/docs) | 15679 | 58326 | JavaScript | 32 | The open-source repo for docs.github.com | 2024-06-09T02:55:24Z |
-| 15 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 71245 | 56972 | TypeScript | 270 | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 | 2024-06-09T01:37:23Z |
-| 16 | [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) | 262 | 56656 | None | 76 | Plotting Assignment 1 for Exploratory Data Analysis | 2024-03-27T22:44:35Z |
-| 17 | [opencv](https://github.com/opencv/opencv) | 76394 | 55636 | C++ | 2444 | Open Source Computer Vision Library | 2024-06-08T20:44:51Z |
-| 18 | [tutorials](https://github.com/eugenp/tutorials) | 36169 | 54359 | Java | 20 | Just Announced - "Learn Spring Security OAuth":  | 2024-06-09T00:38:01Z |
-| 19 | [linux](https://github.com/torvalds/linux) | 172810 | 52248 | C | 0 | Linux kernel source tree | 2024-06-09T02:17:53Z |
-| 20 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 151449 | 51490 | Python | 527 | Python - 100天从新手到大师 | 2024-06-06T07:28:08Z |
-| 21 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 173100 | 50761 | None | 130 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 2024-05-29T07:30:40Z |
-| 22 | [ant-design](https://github.com/ant-design/ant-design) | 90667 | 46908 | TypeScript | 1059 | An enterprise-class UI design language and React UI library | 2024-06-09T02:28:40Z |
-| 23 | [models](https://github.com/tensorflow/models) | 76719 | 45861 | Python | 1063 | Models and examples built with TensorFlow | 2024-06-07T23:39:22Z |
-| 24 | [react](https://github.com/facebook/react) | 223996 | 45627 | JavaScript | 725 | The library for web and native user interfaces. | 2024-06-09T02:07:07Z |
-| 25 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 144202 | 45354 | Java | 59 | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ | 2024-06-06T09:31:19Z |
-| 26 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 259808 | 44183 | Python | 202 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2024-06-05T01:30:21Z |
-| 27 | [it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) | 841 | 43963 | Python | 99 | Google IT Automation with Python Professional Certificate - Practice files | 2024-06-08T22:12:25Z |
-| 28 | [Python](https://github.com/TheAlgorithms/Python) | 181238 | 43878 | Python | 26 | All Algorithms implemented in Python | 2024-06-06T14:18:53Z |
-| 29 | [DO180-apps](https://github.com/RedHatTraining/DO180-apps) | 274 | 43179 | JavaScript | 0 | DO180 Repository for Sample Applications | 2024-04-23T12:28:54Z |
-| 30 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 162855 | 43063 | Python | 69 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2024-06-08T23:56:39Z |
-| 31 | [patchwork](https://github.com/jlord/patchwork) | 1112 | 41155 | Rich Text Format | 26 | All the Git-it Workshop completers!  | 2024-06-07T12:38:00Z |
-| 32 | [spring-boot](https://github.com/spring-projects/spring-boot) | 73312 | 40194 | Java | 547 | Spring Boot | 2024-06-08T17:53:07Z |
-| 33 | [academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 10749 | 39207 | JavaScript | 38 | Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes | 2024-06-08T06:55:38Z |
-| 34 | [kubernetes](https://github.com/kubernetes/kubernetes) | 107743 | 38694 | Go | 1851 | Production-Grade Container Scheduling and Management | 2024-06-09T00:37:59Z |
-| 35 | [spring-framework](https://github.com/spring-projects/spring-framework) | 55452 | 37691 | Java | 259 | Spring Framework | 2024-06-07T17:08:09Z |
-| 36 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 17331 | 37408 | C | 295 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2024-06-09T01:09:25Z |
-| 37 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 279059 | 37334 | TypeScript | 6 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2024-06-09T00:06:00Z |
-| 38 | [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) | 101 | 37108 | None | 7 | Peer Assessment 1 for Reproducible Research | 2024-05-16T17:26:07Z |
-| 39 | [JavaScript30](https://github.com/wesbos/JavaScript30) | 27065 | 36592 | HTML | 0 | 30 Day Vanilla JS Challenge | 2024-06-08T12:53:32Z |
-| 40 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 391196 | 35907 | TypeScript | 223 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2024-06-09T02:42:03Z |
-| 41 | [bitcoin](https://github.com/bitcoin/bitcoin) | 76820 | 35488 | C++ | 366 | Bitcoin Core integration/staging tree | 2024-06-09T02:31:36Z |
-| 42 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8184 | 35188 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-06-01T19:39:14Z |
-| 43 | [three.js](https://github.com/mrdoob/three.js) | 99753 | 35161 | JavaScript | 369 | JavaScript 3D Library. | 2024-06-08T22:40:34Z |
-| 44 | [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) | 4747 | 35095 | Jupyter Notebook | 2029 | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. | 2024-06-09T02:53:16Z |
-| 45 | [vue](https://github.com/vuejs/vue) | 207245 | 33634 | TypeScript | 356 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | 2024-06-04T14:14:48Z |
-| 46 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 177308 | 33355 | None | 79 | A book series on JavaScript. @YDKJS on twitter. | 2024-02-20T18:11:09Z |
-| 47 | [public-apis](https://github.com/public-apis/public-apis) | 295654 | 32106 | Python | 2 | A collective list of free APIs | 2024-06-05T21:09:23Z |
-| 48 | [material-ui](https://github.com/mui/material-ui) | 92127 | 31687 | TypeScript | 1655 | Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design. | 2024-06-09T01:11:17Z |
-| 49 | [courses](https://github.com/DataScienceSpecialization/courses) | 4025 | 31431 | HTML | 26 | Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1 | 2021-03-30T06:51:57Z |
-| 50 | [django](https://github.com/django/django) | 77464 | 31109 | Python | 0 | The Web framework for perfectionists with deadlines. | 2024-06-09T01:27:37Z |
-| 51 | [javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) | 1191 | 30451 | JavaScript | 2 | None | 2024-06-04T11:00:24Z |
-| 52 | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 86823 | 30364 | Vue | 1231 | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 2024-05-11T06:52:46Z |
-| 53 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 47476 | 29863 | TypeScript | 543 | The repository for high quality TypeScript type definitions. | 2024-06-08T22:44:50Z |
-| 54 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 184360 | 29756 | JavaScript | 130 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2024-06-07T18:08:12Z |
-| 55 | [cpython](https://github.com/python/cpython) | 60394 | 29206 | Python | 7020 | The Python programming language | 2024-06-09T02:17:24Z |
-| 56 | [core](https://github.com/home-assistant/core) | 69345 | 28551 | Python | 2411 | :house_with_garden: Open source home automation that puts local control and privacy first. | 2024-06-09T01:37:02Z |
-| 57 | [mall](https://github.com/macrozheng/mall) | 76063 | 28434 | Java | 22 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2024-06-03T09:19:50Z |
-| 58 | [node](https://github.com/nodejs/node) | 104652 | 28255 | JavaScript | 1575 | Node.js JavaScript runtime ✨🐢🚀✨ | 2024-06-09T00:30:27Z |
-| 59 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 109615 | 28113 | None | 0 | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 2024-05-05T12:56:06Z |
-| 60 | [spark](https://github.com/apache/spark) | 38656 | 28012 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2024-06-08T20:51:05Z |
-| 61 | [vscode](https://github.com/microsoft/vscode) | 159586 | 27920 | TypeScript | 8355 | Visual Studio Code | 2024-06-08T21:48:03Z |
-| 62 | [simple-java-maven-app](https://github.com/jenkins-docs/simple-java-maven-app) | 429 | 27910 | Shell | 0 | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. | 2024-06-08T08:42:11Z |
-| 63 | [angular.js](https://github.com/angular/angular.js) | 58914 | 27550 | JavaScript | 391 | AngularJS - HTML enhanced for web apps! | 2024-04-12T17:43:16Z |
-| 64 | [streamlit-example](https://github.com/streamlit/streamlit-example) | 289 | 27088 | Python | 2 | Example Streamlit app that you can fork to test out share.streamlit.io | 2024-05-16T14:41:12Z |
-| 65 | [awesome](https://github.com/sindresorhus/awesome) | 306153 | 26916 | None | 12 | 😎 Awesome lists about all kinds of interesting topics | 2024-06-05T15:16:23Z |
-| 66 | [flutter](https://github.com/flutter/flutter) | 162628 | 26754 | Dart | 12480 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2024-06-09T01:31:55Z |
-| 67 | [learning-area](https://github.com/mdn/learning-area) | 6772 | 26649 | HTML | 3 | GitHub repo for the MDN Learning Area.  | 2024-06-08T02:39:52Z |
-| 68 | [create-react-app](https://github.com/facebook/create-react-app) | 102074 | 26643 | JavaScript | 1731 | Set up a modern web app by running one command. | 2024-05-19T23:54:46Z |
-| 69 | [mslearn-tailspin-spacegame-web](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web) | 161 | 26353 | Shell | 17 | Code used in Microsoft Learn modules to support Azure DevOps | 2024-06-07T05:32:10Z |
-| 70 | [dubbo](https://github.com/apache/dubbo) | 40148 | 26312 | Java | 722 | The java implementation of Apache Dubbo. An RPC and microservice framework. | 2024-06-08T12:33:10Z |
-| 71 | [javascript](https://github.com/airbnb/javascript) | 142602 | 26247 | JavaScript | 91 | JavaScript Style Guide | 2024-06-06T19:50:25Z |
-| 72 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 87768 | 26115 | Java | 138 | Design patterns implemented in Java | 2024-06-08T17:34:10Z |
-| 73 | [next.js](https://github.com/vercel/next.js) | 122011 | 26103 | JavaScript | 2756 | The React Framework | 2024-06-09T02:12:44Z |
-| 74 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 169972 | 25652 | Shell | 127 | 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2024-06-08T11:32:54Z |
-| 75 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 271285 | 25606 | None | 183 | Master programming by recreating your favorite technologies from scratch. | 2024-06-06T16:11:18Z |
-| 76 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 133271 | 25564 | Python | 2109 | Stable Diffusion web UI | 2024-06-09T02:15:42Z |
-| 77 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 46692 | 25497 | Jupyter Notebook | 9 | 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ | 2024-06-08T13:49:07Z |
-| 78 | [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | 12400 | 25326 | C# | 515 | Documentation for ASP.NET Core | 2024-06-08T22:50:47Z |
-| 79 | [git](https://github.com/git/git) | 50675 | 25278 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2024-06-08T23:32:38Z |
-| 80 | [transformers](https://github.com/huggingface/transformers) | 127297 | 25228 | Python | 863 | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 2024-06-09T02:12:13Z |
-| 81 | [dotfiles](https://github.com/lewagon/dotfiles) | 20091 | 25145 | Shell | 1 | Default configuration for Le Wagon's students | 2024-05-07T13:00:08Z |
-| 82 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 58572 | 25067 | Python | 1556 | scikit-learn: machine learning in Python | 2024-06-08T17:50:10Z |
-| 83 | [Curso.Prep.Henry](https://github.com/atralice/Curso.Prep.Henry) | 951 | 24833 | JavaScript | 0 | Curso de Preparación para Ingresar a Henry. | 2024-04-04T06:18:28Z |
-| 84 | [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 11973 | 24808 | HTML | 25 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. | 2024-06-03T00:44:53Z |
-| 85 | [angular](https://github.com/angular/angular) | 94932 | 24801 | TypeScript | 1359 | Deliver web apps with confidence 🚀 | 2024-06-09T01:48:15Z |
-| 86 | [awesome-python](https://github.com/vinta/awesome-python) | 209211 | 24567 | Python | 0 | An opinionated list of awesome Python frameworks, libraries, software and resources. | 2024-06-06T20:54:36Z |
-| 87 | [elasticsearch](https://github.com/elastic/elasticsearch) | 68296 | 24272 | Java | 3856 | Free and Open, Distributed, RESTful Search Engine | 2024-06-08T19:34:50Z |
-| 88 | [react-native](https://github.com/facebook/react-native) | 116581 | 24028 | C++ | 633 | A framework for building native applications using React | 2024-06-09T00:41:37Z |
-| 89 | [laravel](https://github.com/laravel/laravel) | 77170 | 23884 | PHP | 0 | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | 2024-06-08T15:31:58Z |
-| 90 | [ansible](https://github.com/ansible/ansible) | 61553 | 23736 | Python | 533 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | 2024-06-08T20:28:35Z |
-| 91 | [redis](https://github.com/redis/redis) | 65280 | 23538 | C | 1996 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2024-06-07T07:42:06Z |
-| 92 | [SecLists](https://github.com/danielmiessler/SecLists) | 54664 | 23447 | PHP | 30 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2024-06-09T00:23:25Z |
-| 93 | [V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) | 8409 | 23337 | Dockerfile | 0 | The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng. | 2024-02-23T01:40:44Z |
-| 94 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 175934 | 23158 | None | 78 | Curated list of project-based tutorials | 2024-05-29T17:13:50Z |
-| 95 | [odoo](https://github.com/odoo/odoo) | 35481 | 23135 | Python | 2632 | Odoo. Open Source Apps To Grow Your Business. | 2024-06-09T02:35:35Z |
-| 96 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 123887 | 23126 | Markdown | 371 | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  | 2024-06-03T03:14:05Z |
-| 97 | [d3](https://github.com/d3/d3) | 107915 | 22896 | Shell | 6 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2024-06-03T15:27:31Z |
-| 98 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 7336 | 22766 | CSS | 8 | A sample Spring-based application | 2024-06-08T03:13:56Z |
-| 99 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | 9212 | 22497 | Shell | 0 | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) | 2024-04-30T04:03:40Z |
-| 100 | [Best-README-Template](https://github.com/othneildrew/Best-README-Template) | 13323 | 22461 | None | 3 | An awesome README template to jumpstart your projects!  | 2024-06-06T16:55:32Z |
+| 1 | [datasharing](https://github.com/jtleek/datasharing) | 6491 | 243460 | None | 304 | The Leek group guide to data sharing  | 2024-04-05T08:19:19Z |
+| 2 | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) | 819 | 143371 | R | 194 | Repository for Programming Assignment 2 for R Programming on Coursera | 2024-05-30T00:45:43Z |
+| 3 | [Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 12325 | 143295 | HTML | 2116 | This repo is for demonstration purposes only. | 2024-06-09T15:00:10Z |
+| 4 | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2548 | 90156 | Groovy | 63 | SmartThings open-source DeviceType Handlers and SmartApps code | 2023-07-18T18:42:27Z |
+| 5 | [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | 26589 | 83784 | Jupyter Notebook | 127 | Course Files for Complete Python 3 Bootcamp Course on Udemy | 2024-06-05T19:55:17Z |
+| 6 | [gitignore](https://github.com/github/gitignore) | 158877 | 83225 | None | 0 | A collection of useful .gitignore templates | 2024-06-08T22:36:42Z |
+| 7 | [bootstrap](https://github.com/twbs/bootstrap) | 167827 | 78487 | JavaScript | 439 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2024-06-05T14:31:20Z |
+| 8 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 295427 | 74547 | None | 44 | A complete computer science study plan to become a software engineer. | 2024-06-09T21:21:37Z |
+| 9 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 43108 | 74468 | None | 39 | 🚀✨ Help beginners to contribute to open source projects | 2024-06-10T00:00:54Z |
+| 10 | [tensorflow](https://github.com/tensorflow/tensorflow) | 183354 | 74014 | C++ | 1919 | An Open Source Machine Learning Framework for Everyone | 2024-06-10T02:59:48Z |
+| 11 | [cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor) | 2342 | 71254 | JavaScript | 218 | nightscout web monitor | 2024-06-08T15:55:17Z |
+| 12 | [css-exercises](https://github.com/TheOdinProject/css-exercises) | 1516 | 61893 | HTML | 1 | None | 2024-06-09T09:28:13Z |
+| 13 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 323424 | 60227 | None | 26 | :books: Freely available programming books | 2024-06-09T06:48:01Z |
+| 14 | [docs](https://github.com/github/docs) | 15680 | 58336 | JavaScript | 32 | The open-source repo for docs.github.com | 2024-06-09T04:03:10Z |
+| 15 | [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 71334 | 57007 | TypeScript | 271 | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 | 2024-06-09T01:37:23Z |
+| 16 | [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) | 262 | 56657 | None | 76 | Plotting Assignment 1 for Exploratory Data Analysis | 2024-03-27T22:44:35Z |
+| 17 | [opencv](https://github.com/opencv/opencv) | 76401 | 55634 | C++ | 2446 | Open Source Computer Vision Library | 2024-06-09T09:22:15Z |
+| 18 | [tutorials](https://github.com/eugenp/tutorials) | 36175 | 54360 | Java | 20 | Just Announced - "Learn Spring Security OAuth":  | 2024-06-10T01:38:52Z |
+| 19 | [linux](https://github.com/torvalds/linux) | 172842 | 52249 | C | 0 | Linux kernel source tree | 2024-06-09T21:20:25Z |
+| 20 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 151478 | 51496 | Python | 527 | Python - 100天从新手到大师 | 2024-06-06T07:28:08Z |
+| 21 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 173109 | 50760 | None | 130 | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 | 2024-05-29T07:30:40Z |
+| 22 | [ant-design](https://github.com/ant-design/ant-design) | 90674 | 46928 | TypeScript | 1060 | An enterprise-class UI design language and React UI library | 2024-06-10T02:51:09Z |
+| 23 | [models](https://github.com/tensorflow/models) | 76727 | 45864 | Python | 1063 | Models and examples built with TensorFlow | 2024-06-07T23:39:22Z |
+| 24 | [react](https://github.com/facebook/react) | 224020 | 45635 | JavaScript | 725 | The library for web and native user interfaces. | 2024-06-10T03:00:02Z |
+| 25 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 144215 | 45355 | Java | 59 | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ | 2024-06-06T09:31:19Z |
+| 26 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 259939 | 44203 | Python | 202 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 2024-06-05T01:30:21Z |
+| 27 | [it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) | 841 | 43963 | Python | 99 | Google IT Automation with Python Professional Certificate - Practice files | 2024-06-09T15:28:37Z |
+| 28 | [Python](https://github.com/TheAlgorithms/Python) | 181251 | 43877 | Python | 26 | All Algorithms implemented in Python | 2024-06-10T01:27:41Z |
+| 29 | [DO180-apps](https://github.com/RedHatTraining/DO180-apps) | 274 | 43180 | JavaScript | 0 | DO180 Repository for Sample Applications | 2024-04-23T12:28:54Z |
+| 30 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 162889 | 43089 | Python | 64 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2024-06-09T23:28:03Z |
+| 31 | [patchwork](https://github.com/jlord/patchwork) | 1112 | 41158 | Rich Text Format | 26 | All the Git-it Workshop completers!  | 2024-06-10T00:40:04Z |
+| 32 | [spring-boot](https://github.com/spring-projects/spring-boot) | 73318 | 40198 | Java | 548 | Spring Boot | 2024-06-08T17:53:07Z |
+| 33 | [academicpages.github.io](https://github.com/academicpages/academicpages.github.io) | 10752 | 39230 | JavaScript | 38 | Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes | 2024-06-09T20:27:28Z |
+| 34 | [kubernetes](https://github.com/kubernetes/kubernetes) | 107768 | 38699 | Go | 1849 | Production-Grade Container Scheduling and Management | 2024-06-10T02:43:11Z |
+| 35 | [spring-framework](https://github.com/spring-projects/spring-framework) | 55457 | 37695 | Java | 259 | Spring Framework | 2024-06-09T13:42:44Z |
+| 36 | [qmk_firmware](https://github.com/qmk/qmk_firmware) | 17337 | 37421 | C | 295 | Open-source keyboard firmware for Atmel AVR and Arm USB families | 2024-06-10T02:10:44Z |
+| 37 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 279141 | 37347 | TypeScript | 5 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 2024-06-09T17:31:06Z |
+| 38 | [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) | 101 | 37109 | None | 7 | Peer Assessment 1 for Reproducible Research | 2024-05-16T17:26:07Z |
+| 39 | [JavaScript30](https://github.com/wesbos/JavaScript30) | 27069 | 36597 | HTML | 0 | 30 Day Vanilla JS Challenge | 2024-06-10T01:04:13Z |
+| 40 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 391248 | 35913 | TypeScript | 226 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 2024-06-09T20:35:45Z |
+| 41 | [bitcoin](https://github.com/bitcoin/bitcoin) | 76834 | 35487 | C++ | 367 | Bitcoin Core integration/staging tree | 2024-06-10T02:54:56Z |
+| 42 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8184 | 35189 | CSS | 148 | Build a Jekyll blog in minutes, without touching the command line. | 2024-06-01T19:39:14Z |
+| 43 | [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) | 4754 | 35167 | Jupyter Notebook | 2041 | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One. | 2024-06-10T02:29:25Z |
+| 44 | [three.js](https://github.com/mrdoob/three.js) | 99768 | 35164 | JavaScript | 369 | JavaScript 3D Library. | 2024-06-10T02:53:21Z |
+| 45 | [vue](https://github.com/vuejs/vue) | 207251 | 33634 | TypeScript | 356 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core | 2024-06-04T14:14:48Z |
+| 46 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 177340 | 33366 | None | 79 | A book series on JavaScript. @YDKJS on twitter. | 2024-02-20T18:11:09Z |
+| 47 | [public-apis](https://github.com/public-apis/public-apis) | 295743 | 32113 | Python | 2 | A collective list of free APIs | 2024-06-05T21:09:23Z |
+| 48 | [material-ui](https://github.com/mui/material-ui) | 92140 | 31690 | TypeScript | 1656 | Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design. | 2024-06-10T02:08:26Z |
+| 49 | [courses](https://github.com/DataScienceSpecialization/courses) | 4025 | 31430 | HTML | 26 | Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1 | 2021-03-30T06:51:57Z |
+| 50 | [django](https://github.com/django/django) | 77471 | 31112 | Python | 0 | The Web framework for perfectionists with deadlines. | 2024-06-09T23:12:28Z |
+| 51 | [javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) | 1191 | 30471 | JavaScript | 2 | None | 2024-06-04T11:00:24Z |
+| 52 | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 86826 | 30365 | Vue | 1231 | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 2024-05-11T06:52:46Z |
+| 53 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 47479 | 29868 | TypeScript | 543 | The repository for high quality TypeScript type definitions. | 2024-06-10T01:09:32Z |
+| 54 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 184374 | 29758 | JavaScript | 130 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | 2024-06-07T18:08:12Z |
+| 55 | [cpython](https://github.com/python/cpython) | 60414 | 29209 | Python | 7024 | The Python programming language | 2024-06-10T02:23:55Z |
+| 56 | [core](https://github.com/home-assistant/core) | 69355 | 28573 | Python | 2390 | :house_with_garden: Open source home automation that puts local control and privacy first. | 2024-06-10T02:40:48Z |
+| 57 | [mall](https://github.com/macrozheng/mall) | 76069 | 28435 | Java | 22 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 2024-06-03T09:19:50Z |
+| 58 | [node](https://github.com/nodejs/node) | 104672 | 28269 | JavaScript | 1575 | Node.js JavaScript runtime ✨🐢🚀✨ | 2024-06-10T02:23:08Z |
+| 59 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 109627 | 28113 | None | 0 | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 2024-05-05T12:56:06Z |
+| 60 | [spark](https://github.com/apache/spark) | 38662 | 28017 | Scala | 0 | Apache Spark - A unified analytics engine for large-scale data processing | 2024-06-10T02:52:04Z |
+| 61 | [vscode](https://github.com/microsoft/vscode) | 159614 | 27925 | TypeScript | 8366 | Visual Studio Code | 2024-06-09T20:41:17Z |
+| 62 | [simple-java-maven-app](https://github.com/jenkins-docs/simple-java-maven-app) | 430 | 27924 | Shell | 0 | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. | 2024-06-08T08:42:11Z |
+| 63 | [angular.js](https://github.com/angular/angular.js) | 58915 | 27551 | JavaScript | 391 | AngularJS - HTML enhanced for web apps! | 2024-04-12T17:43:16Z |
+| 64 | [streamlit-example](https://github.com/streamlit/streamlit-example) | 289 | 27082 | Python | 2 | Example Streamlit app that you can fork to test out share.streamlit.io | 2024-05-16T14:41:12Z |
+| 65 | [awesome](https://github.com/sindresorhus/awesome) | 306296 | 26921 | None | 12 | 😎 Awesome lists about all kinds of interesting topics | 2024-06-09T17:56:38Z |
+| 66 | [flutter](https://github.com/flutter/flutter) | 162640 | 26756 | Dart | 12491 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 2024-06-09T21:58:14Z |
+| 67 | [learning-area](https://github.com/mdn/learning-area) | 6774 | 26651 | HTML | 3 | GitHub repo for the MDN Learning Area.  | 2024-06-08T02:39:52Z |
+| 68 | [create-react-app](https://github.com/facebook/create-react-app) | 102076 | 26646 | JavaScript | 1731 | Set up a modern web app by running one command. | 2024-05-19T23:54:46Z |
+| 69 | [mslearn-tailspin-spacegame-web](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web) | 161 | 26359 | Shell | 17 | Code used in Microsoft Learn modules to support Azure DevOps | 2024-06-07T05:32:10Z |
+| 70 | [dubbo](https://github.com/apache/dubbo) | 40152 | 26313 | Java | 722 | The java implementation of Apache Dubbo. An RPC and microservice framework. | 2024-06-09T15:58:44Z |
+| 71 | [javascript](https://github.com/airbnb/javascript) | 142613 | 26249 | JavaScript | 91 | JavaScript Style Guide | 2024-06-06T19:50:25Z |
+| 72 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 87788 | 26118 | Java | 138 | Design patterns implemented in Java | 2024-06-09T11:58:03Z |
+| 73 | [next.js](https://github.com/vercel/next.js) | 122035 | 26115 | JavaScript | 2757 | The React Framework | 2024-06-10T02:07:39Z |
+| 74 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 170001 | 25662 | Shell | 127 | 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | 2024-06-09T06:43:02Z |
+| 75 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 271617 | 25644 | None | 183 | Master programming by recreating your favorite technologies from scratch. | 2024-06-06T16:11:18Z |
+| 76 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 133337 | 25576 | Python | 2107 | Stable Diffusion web UI | 2024-06-09T21:28:50Z |
+| 77 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 46861 | 25543 | Jupyter Notebook | 9 | 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ | 2024-06-08T13:49:07Z |
+| 78 | [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | 12406 | 25329 | C# | 519 | Documentation for ASP.NET Core | 2024-06-10T02:21:55Z |
+| 79 | [git](https://github.com/git/git) | 50684 | 25276 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2024-06-09T05:27:29Z |
+| 80 | [transformers](https://github.com/huggingface/transformers) | 127335 | 25237 | Python | 861 | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 2024-06-10T02:37:49Z |
+| 81 | [dotfiles](https://github.com/lewagon/dotfiles) | 20090 | 25145 | Shell | 1 | Default configuration for Le Wagon's students | 2024-05-07T13:00:08Z |
+| 82 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | 58583 | 25068 | Python | 1556 | scikit-learn: machine learning in Python | 2024-06-10T02:25:46Z |
+| 83 | [Curso.Prep.Henry](https://github.com/atralice/Curso.Prep.Henry) | 951 | 24829 | JavaScript | 0 | Curso de Preparación para Ingresar a Henry. | 2024-04-04T06:18:28Z |
+| 84 | [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 11976 | 24812 | HTML | 25 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. | 2024-06-09T21:41:48Z |
+| 85 | [angular](https://github.com/angular/angular) | 94935 | 24806 | TypeScript | 1359 | Deliver web apps with confidence 🚀 | 2024-06-10T01:16:14Z |
+| 86 | [awesome-python](https://github.com/vinta/awesome-python) | 209326 | 24567 | Python | 0 | An opinionated list of awesome Python frameworks, libraries, software and resources. | 2024-06-06T20:54:36Z |
+| 87 | [elasticsearch](https://github.com/elastic/elasticsearch) | 68300 | 24271 | Java | 3856 | Free and Open, Distributed, RESTful Search Engine | 2024-06-10T00:03:31Z |
+| 88 | [react-native](https://github.com/facebook/react-native) | 116592 | 24031 | C++ | 632 | A framework for building native applications using React | 2024-06-09T18:53:00Z |
+| 89 | [laravel](https://github.com/laravel/laravel) | 77177 | 23882 | PHP | 0 | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. | 2024-06-08T15:31:58Z |
+| 90 | [ansible](https://github.com/ansible/ansible) | 61560 | 23737 | Python | 533 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | 2024-06-09T15:00:49Z |
+| 91 | [redis](https://github.com/redis/redis) | 65289 | 23543 | C | 1996 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | 2024-06-07T07:42:06Z |
+| 92 | [SecLists](https://github.com/danielmiessler/SecLists) | 54679 | 23450 | PHP | 30 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | 2024-06-10T00:21:28Z |
+| 93 | [V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) | 8409 | 23336 | Dockerfile | 0 | The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng. | 2024-02-23T01:40:44Z |
+| 94 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 176135 | 23184 | None | 78 | Curated list of project-based tutorials | 2024-05-29T17:13:50Z |
+| 95 | [odoo](https://github.com/odoo/odoo) | 35500 | 23135 | Python | 2633 | Odoo. Open Source Apps To Grow Your Business. | 2024-06-10T02:59:00Z |
+| 96 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 123898 | 23129 | Markdown | 371 | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  | 2024-06-09T10:50:07Z |
+| 97 | [d3](https://github.com/d3/d3) | 107917 | 22895 | Shell | 6 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: | 2024-06-03T15:27:31Z |
+| 98 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 7337 | 22772 | CSS | 7 | A sample Spring-based application | 2024-06-08T03:13:56Z |
+| 99 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | 9215 | 22509 | Shell | 0 | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) | 2024-04-30T04:03:40Z |
+| 100 | [Best-README-Template](https://github.com/othneildrew/Best-README-Template) | 13328 | 22465 | None | 3 | An awesome README template to jumpstart your projects!  | 2024-06-06T16:55:32Z |
 
