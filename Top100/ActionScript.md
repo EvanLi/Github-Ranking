@@ -55,7 +55,7 @@
 | 48 | [as3-utils](https://github.com/as3/as3-utils) | 272 | 57 | ActionScript | 1 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 49 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 56 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
 | 50 | [flexunit](https://github.com/flexunit/flexunit) | 269 | 94 | ActionScript | 0 | Open source repository for FlexUnit project for Actionscript 3 and Flex projects. | 2014-01-16T19:35:45Z |
-| 51 | [skyui](https://github.com/schlangster/skyui) | 268 | 167 | ActionScript | 32 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
+| 51 | [skyui](https://github.com/schlangster/skyui) | 268 | 168 | ActionScript | 32 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 52 | [Flint](https://github.com/richardlord/Flint) | 258 | 57 | ActionScript | 0 | Actionscript 3 Particle Engine for Flash and Flex | 2017-04-16T17:59:55Z |
 | 53 | [DragonBonesAS](https://github.com/DragonBones/DragonBonesAS) | 251 | 117 | ActionScript | 18 | DragonBones ActionScript Runtime | 2017-08-30T09:09:03Z |
 | 54 | [SWFWire](https://github.com/magicalhobo/SWFWire) | 251 | 96 | ActionScript | 21 | Flash Development Tools | 2018-09-10T06:08:34Z |
