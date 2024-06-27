@@ -8,7 +8,7 @@
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7362 | 118 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6891 | 553 | ActionScript | 25 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-06-10T02:41:48Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2817 | 820 | ActionScript | 72 | The Cross Platform Game Engine | 2023-07-13T20:29:54Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2487 | 1110 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2488 | 1110 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1491 | 445 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1328 | 514 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1297 | 208 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
