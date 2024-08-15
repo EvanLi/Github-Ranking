@@ -6,9 +6,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7361 | 115 | ActionScript | 26 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6919 | 555 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-08-09T18:52:41Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 6921 | 555 | ActionScript | 23 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-08-09T18:52:41Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2832 | 821 | ActionScript | 72 | The Cross Platform Game Engine | 2024-07-25T07:39:07Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2494 | 1109 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2492 | 1109 | ActionScript | 151 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1493 | 446 | ActionScript | 104 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2015-08-31T21:13:33Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1332 | 512 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1300 | 210 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
