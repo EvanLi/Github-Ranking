@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 import pandas as pd
 from common import get_graphql_data, write_text, write_ranking_repo
@@ -190,7 +190,7 @@ class WriteFile(object):
     @staticmethod
     def write_head_contents():
         # write the head and contents of README.md
-        write_time = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+        write_time = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         head_contents = inspect.cleandoc("""[Github Ranking](./README.md)
             ==========
 
@@ -237,7 +237,7 @@ class WriteFile(object):
             df_repos = self.repo_to_df(repos=repo["data"], item=repo["item"])
             df_all = df_all.append(df_repos, ignore_index=True)
 
-        save_date = datetime.utcnow().strftime("%Y-%m-%d")
+        save_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         os.makedirs('../Data', exist_ok=True)
         df_all.to_csv('../Data/github-ranking-' + save_date + '.csv', index=False, encoding='utf-8')
         print('Save data to Data/github-ranking-' + save_date + '.csv')
