@@ -51,7 +51,7 @@
 | 44 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 285 | 89 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 45 | [flash](https://github.com/flowplayer/flash) | 283 | 183 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 46 | [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders) | 279 | 89 | ActionScript | 10 |   NOTE: Find the offical repo at http://github.com/robotlegs/swiftsuspenders | 2013-03-22T00:52:32Z |
-| 47 | [skyui](https://github.com/schlangster/skyui) | 274 | 169 | ActionScript | 32 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
+| 47 | [skyui](https://github.com/schlangster/skyui) | 274 | 168 | ActionScript | 32 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 48 | [as3-utils](https://github.com/as3/as3-utils) | 273 | 58 | ActionScript | 2 | reusable package-level functions that solve common problems | 2013-06-04T01:12:41Z |
 | 49 | [glassesfactory](https://github.com/glassesfactory/glassesfactory) | 270 | 25 | ActionScript | 0 | 俺々ライブラリ | 2016-08-07T10:39:48Z |
 | 50 | [BulkLoader](https://github.com/arthur-debert/BulkLoader) | 270 | 60 | ActionScript | 9 | A bulk loading library for Actionscript. | 2015-08-31T21:13:30Z |
