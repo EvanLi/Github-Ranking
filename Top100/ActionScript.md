@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7334 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7053 | 559 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-12-22T20:53:29Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2903 | 824 | ActionScript | 69 | The Cross Platform Game Engine | 2025-01-16T09:20:11Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2497 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7335 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7054 | 559 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2024-12-22T20:53:29Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2904 | 824 | ActionScript | 69 | The Cross Platform Game Engine | 2025-01-16T09:20:11Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2498 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1496 | 446 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1330 | 512 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1320 | 212 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24T04:32:19Z |
@@ -80,7 +80,7 @@
 | 73 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 61 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 74 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 186 | 53 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 75 | [books](https://github.com/zengfeng/books) | 184 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
-| 76 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 183 | 53 | ActionScript | 5 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-12-30T17:45:25Z |
+| 76 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 183 | 53 | ActionScript | 6 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2024-12-30T17:45:25Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 182 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
 | 78 | [osmf-hls-plugin](https://github.com/denivip/osmf-hls-plugin) | 180 | 93 | ActionScript | 31 | OSMF HLS Plugin | 2016-04-04T12:37:03Z |
 | 79 | [glitch-items](https://github.com/tinyspeck/glitch-items) | 178 | 96 | ActionScript | 1 | Items, Inhabitants, and other assorted things from www.glitchthegame.com | 2013-12-16T06:52:22Z |
@@ -97,7 +97,7 @@
 | 90 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 150 | 43 | ActionScript | 5 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 91 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 149 | 114 | ActionScript | 18 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2021-05-04T07:37:24Z |
 | 92 | [red-rogue](https://github.com/st33d/red-rogue) | 147 | 18 | ActionScript | 2 | flex roguelike | 2019-01-15T21:13:13Z |
-| 93 | [ElonaPlusCustom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX) | 146 | 19 | ActionScript | 20 | Elona+ variant based on Custom-G | 2023-01-24T22:49:30Z |
+| 93 | [ElonaPlusCustom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX) | 147 | 19 | ActionScript | 20 | Elona+ variant based on Custom-G | 2023-01-24T22:49:30Z |
 | 94 | [mockolate](https://github.com/drewbourne/mockolate) | 145 | 26 | ActionScript | 27 | fake chocolate, mock objects and test spies for AS3 | 2012-07-18T02:16:19Z |
 | 95 | [purePDF](https://github.com/sephiroth74/purePDF) | 141 | 62 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 96 | [StarlingPunk](https://github.com/asaia/StarlingPunk) | 140 | 30 | ActionScript | 4 | StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects.  As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port. | 2017-04-17T03:21:37Z |
