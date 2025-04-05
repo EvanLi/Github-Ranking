@@ -5,8 +5,8 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 21960 | 3378 | CoffeeScript | 781 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 18605 | 889 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2025-02-05T15:27:53Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 21959 | 3375 | CoffeeScript | 780 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 18604 | 889 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2025-02-05T15:27:53Z |
 | 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16552 | 1982 | CoffeeScript | 73 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 15350 | 954 | CoffeeScript | 108 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7575 | 413 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
@@ -45,7 +45,7 @@
 | 38 | [QuoJS](https://github.com/soyjavi/QuoJS) | 2065 | 233 | CoffeeScript | 23 | Micro #JavaScript Library for Mobile Devices | 2018-09-03T00:16:56Z |
 | 39 | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui) | 2004 | 1157 | CoffeeScript | 0 | Shadowsocks GUI client | 2018-09-24T04:39:12Z |
 | 40 | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux) | 1838 | 111 | CoffeeScript | 91 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility | 2022-07-19T20:35:10Z |
-| 41 | [camo](https://github.com/atmos/camo) | 1824 | 374 | CoffeeScript | 17 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
+| 41 | [camo](https://github.com/atmos/camo) | 1825 | 374 | CoffeeScript | 17 | :lock: an http proxy to route images through SSL | 2021-04-04T19:59:16Z |
 | 42 | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) | 1791 | 231 | CoffeeScript | 96 | Token based authentication module for angular.js. | 2022-12-06T18:43:58Z |
 | 43 | [BuckyClient](https://github.com/HubSpot/BuckyClient) | 1732 | 96 | CoffeeScript | 12 | Collect performance data from the client | 2016-08-05T20:07:08Z |
 | 44 | [dnschain](https://github.com/okTurtles/dnschain) | 1729 | 170 | CoffeeScript | 44 | A blockchain-based DNS + HTTP server that fixes HTTPS security, and more! | 2017-04-22T03:52:26Z |
