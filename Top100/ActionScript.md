@@ -6,9 +6,9 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7808 | 585 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-07-05T22:08:16Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7328 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2947 | 821 | ActionScript | 73 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2500 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7327 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2948 | 821 | ActionScript | 73 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2501 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1497 | 444 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1344 | 513 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1342 | 211 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -16,12 +16,12 @@
 | 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1060 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.  | 2025-05-19T18:05:34Z |
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 1011 | 92 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2025-04-17T12:18:05Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 966 | 259 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
-| 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 914 | 195 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
-| 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 385 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
+| 12 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 385 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
+| 13 | [malware-samples](https://github.com/InQuest/malware-samples) | 913 | 195 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 751 | 263 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 665 | 125 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
 | 16 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 640 | 273 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
-| 17 | [emulator](https://github.com/nesbox/emulator) | 623 | 255 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
+| 17 | [emulator](https://github.com/nesbox/emulator) | 622 | 255 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 18 | [minimalcomps](https://github.com/minimalcomps/minimalcomps) | 621 | 177 | ActionScript | 12 | Minimal ActionScript 3.0 UI Components for Flash | 2021-06-05T02:06:39Z |
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 593 | 71 | ActionScript | 50 | A simple music making program | 2024-07-11T20:05:39Z |
 | 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 554 | 196 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
@@ -47,7 +47,7 @@
 | 40 | [mBlock](https://github.com/Makeblock-official/mBlock) | 325 | 234 | ActionScript | 45 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 41 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 324 | 144 | ActionScript | 0 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2024-07-25T07:28:27Z |
 | 42 | [nd2d](https://github.com/lrrrs/nd2d) | 319 | 63 | ActionScript | 6 | A Flash Molehill (Stage3D) GPU accelerated 2D game engine | 2015-09-29T08:13:02Z |
-| 43 | [Spike](https://github.com/SpikeApp/Spike) | 317 | 211 | ActionScript | 42 | Get The Most Out Of Your CGM Transmitter | 2024-11-08T23:13:50Z |
+| 43 | [Spike](https://github.com/SpikeApp/Spike) | 317 | 212 | ActionScript | 42 | Get The Most Out Of Your CGM Transmitter | 2024-11-08T23:13:50Z |
 | 44 | [skyui](https://github.com/schlangster/skyui) | 287 | 169 | ActionScript | 33 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 45 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 285 | 86 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
 | 46 | [flash](https://github.com/flowplayer/flash) | 283 | 181 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
