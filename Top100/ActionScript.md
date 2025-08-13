@@ -5,10 +5,10 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7817 | 584 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-08-05T01:57:45Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7818 | 584 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-08-05T01:57:45Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7326 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2953 | 821 | ActionScript | 73 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2501 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2954 | 821 | ActionScript | 73 | The Cross Platform Game Engine | 2025-06-11T09:27:12Z |
+| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2500 | 1113 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1499 | 445 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1344 | 513 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor.  This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05T18:30:34Z |
 | 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1342 | 212 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -78,7 +78,7 @@
 | 71 | [avmplus](https://github.com/adobe-flash/avmplus) | 202 | 88 | ActionScript | 1 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
 | 72 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 199 | 27 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 73 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 61 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
-| 74 | [books](https://github.com/zengfeng/books) | 188 | 99 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
+| 74 | [books](https://github.com/zengfeng/books) | 189 | 99 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
 | 75 | [rtmp-streamer](https://github.com/chxj1992/rtmp-streamer) | 187 | 50 | ActionScript | 13 | 浏览器RTMP推流SDK (A javascript rtmp streamer library) | 2018-02-09T08:24:33Z |
 | 76 | [WebViewANE](https://github.com/tuarua/WebViewANE) | 186 | 53 | ActionScript | 7 | WebView Adobe Air Native Extension for macOS 10.10+, Windows Desktop, iOS 9.0+ and Android 19+. This ANE provides access to a more modern webview from AIR. | 2025-04-12T03:45:53Z |
 | 77 | [fzip](https://github.com/claus/fzip) | 183 | 62 | ActionScript | 4 | FZip is an Actionscript 3 class library to load, modify and create standard ZIP archives. | 2010-11-06T00:11:41Z |
