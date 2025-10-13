@@ -6,7 +6,7 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7829 | 586 | ActionScript | 29 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-10-08T17:15:35Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7321 | 110 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7320 | 110 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
 | 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2975 | 823 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2501 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1501 | 446 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
@@ -32,7 +32,7 @@
 | 25 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 419 | 143 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
 | 26 | [FlashPunk](https://github.com/useflashpunk/FlashPunk) | 395 | 136 | ActionScript | 61 | A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game.  | 2016-03-31T05:56:47Z |
 | 27 | [flump](https://github.com/tconkling/flump) | 386 | 72 | ActionScript | 34 | Exports Flash .FLAs to GPU-friendly formats | 2020-01-27T18:53:00Z |
-| 28 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 382 | 36 | ActionScript | 1 | Anodyne 1 Source Code | 2024-06-04T22:57:49Z |
+| 28 | [Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) | 383 | 36 | ActionScript | 1 | Anodyne 1 Source Code | 2024-06-04T22:57:49Z |
 | 29 | [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) | 379 | 127 | ActionScript | 9 | Alternativa3D Flash GPU accelerated 3D engine | 2024-05-03T15:09:55Z |
 | 30 | [royale-asjs](https://github.com/apache/royale-asjs) | 378 | 117 | ActionScript | 248 | Apache Royale ASJS | 2025-09-24T22:18:41Z |
 | 31 | [Weave](https://github.com/WeaveTeam/Weave) | 369 | 68 | ActionScript | 0 | Weave (Web-based Analysis and Visualization Environment) | 2019-01-06T02:11:59Z |
@@ -73,8 +73,8 @@
 | 66 | [GrindPlayer](https://github.com/kutu/GrindPlayer) | 208 | 63 | ActionScript | 7 | OSMF + Flex based flash video player, which provides most needed functionality in nowadays | 2014-10-02T17:32:44Z |
 | 67 | [Flashbang](https://github.com/cure53/Flashbang) | 205 | 47 | ActionScript | 14 | Project "Flashbang" - An open-source Flash-security helper | 2015-04-19T11:07:27Z |
 | 68 | [flexlib](https://github.com/flex-users/flexlib) | 205 | 88 | ActionScript | 283 | Open Source Flex components library. | 2017-05-29T20:06:55Z |
-| 69 | [kingdom](https://github.com/noio/kingdom) | 202 | 54 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
-| 70 | [avmplus](https://github.com/adobe-flash/avmplus) | 202 | 88 | ActionScript | 1 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
+| 69 | [avmplus](https://github.com/adobe-flash/avmplus) | 203 | 88 | ActionScript | 1 | Source code for the Actionscript virtual machine  | 2013-12-03T00:05:33Z |
+| 70 | [kingdom](https://github.com/noio/kingdom) | 202 | 54 | ActionScript | 2 | A minimal game. | 2021-01-20T08:45:52Z |
 | 71 | [grapefrukt-export](https://github.com/grapefrukt/grapefrukt-export) | 198 | 27 | ActionScript | 5 | a set of actionscript tools to export animations and graphic assets made in flash authoring to other formats. | 2013-02-27T07:29:51Z |
 | 72 | [FileReader](https://github.com/AVapps/FileReader) | 191 | 61 | ActionScript | 31 | A FileReader polyfill for Internet Explore and Safari using Flash | 2014-04-15T09:17:31Z |
 | 73 | [books](https://github.com/zengfeng/books) | 189 | 98 | ActionScript | 0 | books | 2012-11-24T11:06:49Z |
