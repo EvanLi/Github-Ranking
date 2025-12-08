@@ -1,6 +1,8 @@
 [Github Ranking](./README.md)
 ==========
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **A list of the most github stars and forks repositories.**
 
 *Last Automatic Update Time: 2025-12-08T04:07:05Z*
