@@ -6,8 +6,8 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7874 | 594 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-11-21T19:16:49Z |
-| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7319 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3000 | 822 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
+| 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7320 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3002 | 822 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2509 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1502 | 448 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [mapgen2](https://github.com/amitp/mapgen2) | 1355 | 213 | ActionScript | 1 | Map generator for games written in Flash. *There's an HTML5 version* on github/redblobgames/mapgen2 . Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -26,7 +26,7 @@
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 593 | 69 | ActionScript | 50 | A simple music making program | 2024-07-11T20:05:39Z |
 | 20 | [Fanvas](https://github.com/Tencent/Fanvas) | 554 | 195 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 21 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 553 | 225 | ActionScript | 65 | Modern AS3 Game Engine | 2022-10-30T18:52:29Z |
-| 22 | [as3swf](https://github.com/claus/as3swf) | 529 | 125 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
+| 22 | [as3swf](https://github.com/claus/as3swf) | 528 | 125 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 517 | 271 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2024-04-04T12:36:16Z |
 | 24 | [Ash](https://github.com/richardlord/Ash) | 451 | 96 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
 | 25 | [GreenSock-AS3](https://github.com/greensock/GreenSock-AS3) | 419 | 143 | ActionScript | 3 | Public repository for GreenSock's ActionScript 3 libraries like GSAP (TweenLite, TweenMax, etc.) and LoaderMax. For AS2, see the GreenSock-AS2 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com | 2019-05-29T16:49:47Z |
@@ -90,7 +90,7 @@
 | 83 | [GPUImage](https://github.com/inspirit/GPUImage) | 171 | 32 | ActionScript | 4 | AS3 framework for GPU-based image processing | 2012-09-14T18:53:31Z |
 | 84 | [AutoAni](https://github.com/LePtC/AutoAni) | 170 | 39 | ActionScript | 2 | 免编译自适应 swf 可视化模版 | 2019-11-05T03:43:46Z |
 | 85 | [promise-as3](https://github.com/CC-Archived/promise-as3) | 167 | 53 | ActionScript | 9 | Promises/A+ compliant implementation in ActionScript 3.0 | 2015-10-04T23:01:13Z |
-| 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 166 | 96 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
+| 86 | [Hungry-Hero](https://github.com/hsharma-design/Hungry-Hero) | 166 | 95 | ActionScript | 1 | Hungry Hero is an open source Flash game built on Starling Framework. | 2013-08-20T12:20:52Z |
 | 87 | [standingwave3](https://github.com/maxl0rd/standingwave3) | 161 | 24 | ActionScript | 18 | Flash ActionScript3 dynamic audio library | 2012-12-20T15:40:40Z |
 | 88 | [ElonaPlusCustom-GX](https://github.com/Ruin0x11/ElonaPlusCustom-GX) | 158 | 20 | ActionScript | 21 | Elona+ variant based on Custom-G | 2023-01-24T22:49:30Z |
 | 89 | [as3delaunay](https://github.com/nodename/as3delaunay) | 157 | 105 | ActionScript | 3 | Delaunay triangulation and Voronoi diagram for Flash (Flash Builder 4 project) | 2015-06-26T21:57:19Z |
@@ -103,6 +103,6 @@
 | 96 | [purePDF](https://github.com/sephiroth74/purePDF) | 139 | 62 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 97 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 137 | 49 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
 | 98 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 134 | 149 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
-| 99 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 133 | 78 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
-| 100 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 133 | 16 | ActionScript | 281 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2025-11-25T20:55:30Z |
+| 99 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 134 | 16 | ActionScript | 281 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2025-11-25T20:55:30Z |
+| 100 | [locomote-video-player](https://github.com/AxisCommunications/locomote-video-player) | 133 | 78 | ActionScript | 0 | Media Player in Adobe Flash with RTSP support. (THIS PROJECT IS NO LONGER MAINTAINED) | 2020-03-06T09:03:02Z |
 
