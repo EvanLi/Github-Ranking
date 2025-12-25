@@ -7,7 +7,7 @@
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7886 | 594 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-11-21T19:16:49Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7321 | 111 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3003 | 822 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3004 | 822 | ActionScript | 74 | The Cross Platform Game Engine | 2025-09-12T08:09:08Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2509 | 1112 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1502 | 447 | ActionScript | 106 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [mapgen2](https://github.com/amitp/mapgen2) | 1356 | 213 | ActionScript | 1 | Map generator for games written in Flash. *There's an HTML5 version* on github/redblobgames/mapgen2 . Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -17,7 +17,7 @@
 | 10 | [bfxr](https://github.com/increpare/bfxr) | 1020 | 90 | ActionScript | 10 | Flash + AIR sound effects generator.   Based on Sfxr. | 2025-04-17T12:18:05Z |
 | 11 | [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework) | 967 | 257 | ActionScript | 14 | An ActionScript 3 application framework for Flash and Flex | 2020-06-16T09:09:56Z |
 | 12 | [malware-samples](https://github.com/InQuest/malware-samples) | 927 | 202 | ActionScript | 0 | A collection of malware samples and relevant dissection information, most probably referenced from http://blog.inquest.net | 2024-03-26T03:51:41Z |
-| 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 913 | 385 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
+| 13 | [feathersui-starling](https://github.com/feathersui/feathersui-starling) | 914 | 385 | ActionScript | 165 | User interface components for Starling Framework, ActionScript 3, and Adobe AIR | 2025-03-14T19:22:04Z |
 | 14 | [flashls](https://github.com/mangui/flashls) | 749 | 262 | ActionScript | 167 | HLS Flash Plugin/Player (Chromeless,OSMF,FlowPlayer,mediaelement.js,video.js,Clappr) | 2018-11-19T15:02:08Z |
 | 15 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 700 | 49 | ActionScript | 31 | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | 2019-09-24T09:47:41Z |
 | 16 | [juicy-breakout](https://github.com/grapefrukt/juicy-breakout) | 672 | 126 | ActionScript | 0 | None | 2017-03-24T07:51:44Z |
