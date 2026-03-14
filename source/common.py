@@ -51,7 +51,7 @@ def get_api_repos(API_URL):
     s.keep_alive = False  # don't keep the session
     time.sleep(3)  # not get so fast
     # requests.packages.urllib3.disable_warnings() # disable InsecureRequestWarning of verify=False,
-    r = requests.get(API_URL, headers=headers)
+    r = requests.get(API_URL, headers=headers, timeout=10.0)
     if r.status_code != 200:
         raise ValueError('Can not retrieve from {}'.format(API_URL))
     repos_dict = json.loads(r.content)
