@@ -696,3 +696,6 @@ This is top 10, for more click **[Top 100 Stars in Vim script](Top100/Vim-script
 | 9 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17957 | 1100 | Vim Script | 35 | lean & mean status/tabline for vim that's light as air | 2026-06-07T17:20:46Z |
 | 10 | [vim-galore](https://github.com/mhinz/vim-galore) | 17890 | 630 | Vim Script | 4 | :mortar_board: All things Vim! | 2023-12-22T22:15:38Z |
 
+ 
+## Contributors 
+- [Arsiya Tasleem](https://github.com/ArsiyaTasleem90250) - KL University Student 
