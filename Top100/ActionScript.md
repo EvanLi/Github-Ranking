@@ -25,7 +25,7 @@
 | 18 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 641 | 266 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 596 | 69 | ActionScript | 50 | A simple music making program | 2024-07-11T20:05:39Z |
 | 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 552 | 220 | ActionScript | 65 | Modern AS3 Game Engine | 2026-03-06T06:53:50Z |
-| 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 551 | 193 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
+| 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 551 | 192 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 526 | 123 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 515 | 269 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2024-04-04T12:36:16Z |
 | 24 | [Ash](https://github.com/richardlord/Ash) | 452 | 97 | ActionScript | 5 | An Actionscript 3 entity system framework for game development | 2017-04-16T17:52:51Z |
@@ -45,7 +45,7 @@
 | 38 | [mBlock](https://github.com/Makeblock-official/mBlock) | 330 | 239 | ActionScript | 47 | base on scratch offline v2.0 by MIT, Learn more from Makeblock official website | 2017-02-27T12:06:22Z |
 | 39 | [restfulx_framework](https://github.com/dima/restfulx_framework) | 328 | 59 | ActionScript | 15 | The RESTful way to develop Adobe Flex and AIR applications. | 2011-09-19T14:22:50Z |
 | 40 | [Starling-Extension-Particle-System](https://github.com/Gamua/Starling-Extension-Particle-System) | 324 | 143 | ActionScript | 0 | A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com | 2024-07-25T07:28:27Z |
-| 41 | [Spike](https://github.com/SpikeApp/Spike) | 320 | 205 | ActionScript | 42 | Get The Most Out Of Your CGM Transmitter | 2024-11-08T23:13:50Z |
+| 41 | [Spike](https://github.com/SpikeApp/Spike) | 320 | 206 | ActionScript | 42 | Get The Most Out Of Your CGM Transmitter | 2024-11-08T23:13:50Z |
 | 42 | [skyui](https://github.com/schlangster/skyui) | 298 | 168 | ActionScript | 34 | SkyUI interface mod for Skyrim. | 2023-05-11T11:18:05Z |
 | 43 | [flash](https://github.com/flowplayer/flash) | 283 | 175 | ActionScript | 89 | Flowplayer Flash, the video player for the Web | 2016-01-30T06:52:46Z |
 | 44 | [Starling-Extension-Graphics](https://github.com/StarlingGraphics/Starling-Extension-Graphics) | 283 | 84 | ActionScript | 34 | flash.display.Graphics style extension for the Starling Flash GPU rendering framework | 2017-03-24T17:58:53Z |
@@ -100,7 +100,7 @@
 | 93 | [purePDF](https://github.com/sephiroth74/purePDF) | 141 | 62 | ActionScript | 8 | A complete actionscript PDF library | 2019-04-29T09:11:40Z |
 | 94 | [StarlingPunk](https://github.com/asaia/StarlingPunk) | 139 | 28 | ActionScript | 4 | StarlingPunk is a framework built on top the Starling library designed to add structure and organization to your 2D game projects. It’s perfect for rapidly prototyping ideas and promotes code reuse between projects.  As you may have been able to tell from the name, StarlingPunk is heavily inspired by the popular FlashPunk framework, although its not a direct port. | 2017-04-17T03:21:37Z |
 | 95 | [SoundAS](https://github.com/treefortress/SoundAS) | 139 | 45 | ActionScript | 8 | A modern lightweight sound manager for AS3.  | 2023-10-02T01:43:38Z |
-| 96 | [numeric-springing](https://github.com/TheAllenChou/numeric-springing) | 138 | 11 | ActionScript | 0 | Precise & designer-friendly numeric springing algorithms | 2020-04-18T19:20:48Z |
+| 96 | [numeric-springing](https://github.com/TheAllenChou/numeric-springing) | 138 | 12 | ActionScript | 0 | Precise & designer-friendly numeric springing algorithms | 2020-04-18T19:20:48Z |
 | 97 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 137 | 16 | ActionScript | 283 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2026-07-01T22:02:18Z |
 | 98 | [secure-swfupload](https://github.com/WordPress/secure-swfupload) | 137 | 47 | ActionScript | 2 | A fork of the long-abandoned SWFUpload project, maintained by WordPress and others to ensure that a secure version of SWFUpload exists. Report security vulnerabilities to swfupload-security@wordpress.org. | 2020-06-19T20:36:21Z |
 | 99 | [arcgis-viewer-flex](https://github.com/Esri/arcgis-viewer-flex) | 135 | 147 | ActionScript | 0 | Source code for ArcGIS Viewer for Flex - a great application framework for web applications. | 2014-11-25T19:06:55Z |
