@@ -5,17 +5,17 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22586 | 3610 | CoffeeScript | 802 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
-| 2 | [mojs](https://github.com/mojs/mojs) | 18728 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-04-14T13:51:01Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22587 | 3612 | CoffeeScript | 802 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 2 | [mojs](https://github.com/mojs/mojs) | 18729 | 888 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-04-14T13:51:01Z |
 | 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16599 | 1979 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
-| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16000 | 996 | CoffeeScript | 118 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
+| 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16002 | 996 | CoffeeScript | 118 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7550 | 405 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6880 | 1194 | CoffeeScript | 284 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
 | 7 | [At.js](https://github.com/ichord/At.js) | 5246 | 654 | CoffeeScript | 149 | Add Github like mentions autocomplete to your application. | 2021-11-18T12:53:24Z |
 | 8 | [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | 4965 | 604 | CoffeeScript | 205 | XML to JavaScript object converter. | 2026-04-30T09:04:18Z |
 | 9 | [aglio](https://github.com/danielgtaylor/aglio) | 4751 | 472 | CoffeeScript | 123 | An API Blueprint renderer with theme support that outputs static HTML | 2019-05-13T14:40:13Z |
-| 10 | [vibrant.js](https://github.com/jariz/vibrant.js) | 4592 | 227 | CoffeeScript | 0 | Extract prominent colors from an image. JS port of Android's Palette. | 2017-11-28T15:50:23Z |
-| 11 | [pivottable](https://github.com/nicolaskruchten/pivottable) | 4439 | 1079 | CoffeeScript | 371 | Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. | 2024-01-06T13:46:24Z |
+| 10 | [vibrant.js](https://github.com/jariz/vibrant.js) | 4592 | 226 | CoffeeScript | 0 | Extract prominent colors from an image. JS port of Android's Palette. | 2017-11-28T15:50:23Z |
+| 11 | [pivottable](https://github.com/nicolaskruchten/pivottable) | 4438 | 1079 | CoffeeScript | 371 | Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. | 2024-01-06T13:46:24Z |
 | 12 | [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | 4411 | 916 | CoffeeScript | 174 | Quick and easy product tours with Twitter Bootstrap Popovers | 2023-10-09T22:35:49Z |
 | 13 | [yakyak](https://github.com/yakyak/yakyak) | 3756 | 306 | CoffeeScript | 86 | Desktop chat client for Google Hangouts | 2025-09-30T16:44:14Z |
 | 14 | [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) | 3563 | 413 | CoffeeScript | 50 | Atom package - Activate POWER MODE to write your code in style. | 2019-05-24T15:52:02Z |
@@ -92,7 +92,7 @@
 | 85 | [buckets](https://github.com/bucketsio/buckets) | 1050 | 146 | CoffeeScript | 0 | [DEPRECATED] Manage content better. | 2015-05-31T04:57:37Z |
 | 86 | [stitch](https://github.com/sstephenson/stitch) | 1039 | 80 | CoffeeScript | 18 | Stitch your CommonJS modules together for the browser | 2012-11-02T14:08:32Z |
 | 87 | [jquery.turbolinks](https://github.com/kossnocorp/jquery.turbolinks) | 997 | 62 | CoffeeScript | 17 | 💀 Deprecated ⚠️ jQuery plugin for drop-in fix binded events problem caused by Turbolinks | 2017-09-03T12:15:16Z |
-| 88 | [sloc](https://github.com/flosse/sloc) | 971 | 81 | CoffeeScript | 38 | simple tool to count SLOC (source lines of code) | 2025-11-15T10:34:17Z |
+| 88 | [sloc](https://github.com/flosse/sloc) | 972 | 81 | CoffeeScript | 38 | simple tool to count SLOC (source lines of code) | 2025-11-15T10:34:17Z |
 | 89 | [dploy](https://github.com/lucasmotta/dploy) | 968 | 85 | CoffeeScript | 52 | ⛔️ currently unmaintained ⛔️ | 2019-02-05T16:21:33Z |
 | 90 | [zappa](https://github.com/mauricemach/zappa) | 943 | 78 | CoffeeScript | 24 | Node development for the lazy. | 2020-04-16T03:21:01Z |
 | 91 | [muplayer](https://github.com/BaiduMusic/muplayer) | 935 | 222 | CoffeeScript | 14 | An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms(百度音乐播放内核) | 2019-10-31T00:11:49Z |
