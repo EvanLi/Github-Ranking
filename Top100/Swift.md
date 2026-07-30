@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 108822 | 8242 | Swift | 153 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-07-28T07:56:28Z |
-| 2 | [swift](https://github.com/swiftlang/swift) | 70202 | 10778 | Swift | 7601 | The Swift Programming Language | 2026-07-29T04:07:02Z |
-| 3 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 52911 | 6985 | Swift | 0 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2026-06-24T14:58:10Z |
-| 4 | [container](https://github.com/apple/container) | 48382 | 1558 | Swift | 308 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | 2026-07-28T22:40:31Z |
-| 5 | [iina](https://github.com/iina/iina) | 45723 | 2878 | Swift | 1825 | The modern video player for macOS. | 2026-07-26T00:17:59Z |
-| 6 | [Alamofire](https://github.com/Alamofire/Alamofire) | 42410 | 7670 | Swift | 31 | Elegant HTTP Networking in Swift | 2026-07-27T19:25:57Z |
-| 7 | [stats](https://github.com/exelban/stats) | 40844 | 1448 | Swift | 23 | macOS system monitor in your menu bar | 2026-07-28T15:29:02Z |
-| 8 | [UTM](https://github.com/utmapp/UTM) | 34819 | 1769 | Swift | 1058 | Virtual machines for iOS and macOS | 2026-06-08T16:07:02Z |
-| 9 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 33846 | 987 | Swift | 19 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2026-04-19T06:37:34Z |
-| 10 | [bitchat](https://github.com/permissionlesstech/bitchat) | 33066 | 5218 | Swift | 29 | bluetooth mesh chat, IRC vibes | 2026-07-28T21:34:35Z |
-| 11 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 32895 | 7783 | Swift | 306 | Next Generation of ShadowsocksX | 2024-10-29T12:19:30Z |
-| 12 | [Rectangle](https://github.com/rxhanson/Rectangle) | 29583 | 966 | Swift | 108 | Move and resize windows on macOS with keyboard shortcuts and snap areas | 2026-07-29T02:12:35Z |
-| 13 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) | 29095 | 4950 | Swift | 32 | Algorithms and data structures in Swift, with explanations! | 2024-12-06T07:03:07Z |
-| 14 | [Ice](https://github.com/jordanbaird/Ice) | 29073 | 832 | Swift | 377 | Powerful menu bar manager for macOS | 2025-09-20T20:28:17Z |
-| 15 | [Charts](https://github.com/ChartsOrg/Charts) | 28005 | 5992 | Swift | 884 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 2026-03-07T05:36:26Z |
+| 1 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 108868 | 8248 | Swift | 153 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-07-29T04:24:32Z |
+| 2 | [swift](https://github.com/swiftlang/swift) | 70202 | 10779 | Swift | 7602 | The Swift Programming Language | 2026-07-30T03:56:09Z |
+| 3 | [awesome-ios](https://github.com/vsouza/awesome-ios) | 52921 | 6986 | Swift | 0 | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects  | 2026-06-24T14:58:10Z |
+| 4 | [container](https://github.com/apple/container) | 48423 | 1584 | Swift | 309 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  | 2026-07-28T22:40:31Z |
+| 5 | [iina](https://github.com/iina/iina) | 45743 | 2878 | Swift | 1825 | The modern video player for macOS. | 2026-07-26T00:17:59Z |
+| 6 | [Alamofire](https://github.com/Alamofire/Alamofire) | 42411 | 7669 | Swift | 31 | Elegant HTTP Networking in Swift | 2026-07-27T19:25:57Z |
+| 7 | [stats](https://github.com/exelban/stats) | 40862 | 1451 | Swift | 25 | macOS system monitor in your menu bar | 2026-07-29T18:52:22Z |
+| 8 | [UTM](https://github.com/utmapp/UTM) | 34829 | 1772 | Swift | 1058 | Virtual machines for iOS and macOS | 2026-07-29T16:59:45Z |
+| 9 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 33851 | 987 | Swift | 20 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | 2026-04-19T06:37:34Z |
+| 10 | [bitchat](https://github.com/permissionlesstech/bitchat) | 33336 | 5269 | Swift | 31 | bluetooth mesh chat, IRC vibes | 2026-07-30T00:43:45Z |
+| 11 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 32896 | 7781 | Swift | 306 | Next Generation of ShadowsocksX | 2024-10-29T12:19:30Z |
+| 12 | [Rectangle](https://github.com/rxhanson/Rectangle) | 29590 | 966 | Swift | 108 | Move and resize windows on macOS with keyboard shortcuts and snap areas | 2026-07-29T02:12:35Z |
+| 13 | [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) | 29095 | 4949 | Swift | 32 | Algorithms and data structures in Swift, with explanations! | 2024-12-06T07:03:07Z |
+| 14 | [Ice](https://github.com/jordanbaird/Ice) | 29082 | 832 | Swift | 376 | Powerful menu bar manager for macOS | 2025-09-20T20:28:17Z |
+| 15 | [Charts](https://github.com/ChartsOrg/Charts) | 28007 | 5991 | Swift | 884 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 2026-03-07T05:36:26Z |
 | 16 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 26809 | 3831 | Swift | 43 | An iOS library to natively render After Effects vector animations | 2026-07-08T13:57:38Z |
-| 17 | [vapor](https://github.com/vapor/vapor) | 26171 | 1517 | Swift | 90 | 💧 A server-side Swift HTTP web framework. | 2026-07-28T17:47:31Z |
-| 18 | [cmux](https://github.com/manaflow-ai/cmux) | 25281 | 2098 | Swift | 1579 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | 2026-07-29T04:06:38Z |
-| 19 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 24644 | 4158 | Swift | 14 | Reactive Programming in Swift | 2026-04-08T08:21:58Z |
-| 20 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 24383 | 2763 | Swift | 168 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2026-07-28T14:10:50Z |
-| 21 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 22959 | 1178 | Swift | 189 | 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | 2026-04-12T18:53:09Z |
-| 22 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 22949 | 3420 | Swift | 118 | The better way to deal with JSON data in Swift. | 2026-03-04T06:28:33Z |
-| 23 | [Hero](https://github.com/HeroTransitions/Hero) | 22484 | 1733 | Swift | 40 | Elegant transition library for iOS & tvOS | 2025-01-23T20:27:30Z |
-| 24 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | 22005 | 606 | Swift | 141 | AeroSpace is an i3-like tiling window manager for macOS | 2026-07-16T16:08:52Z |
-| 25 | [Mos](https://github.com/Caldis/Mos) | 21004 | 665 | Swift | 378 | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS | 2026-07-16T18:51:46Z |
+| 17 | [vapor](https://github.com/vapor/vapor) | 26172 | 1518 | Swift | 89 | 💧 A server-side Swift HTTP web framework. | 2026-07-29T17:11:08Z |
+| 18 | [cmux](https://github.com/manaflow-ai/cmux) | 25337 | 2109 | Swift | 1591 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | 2026-07-30T04:06:41Z |
+| 19 | [RxSwift](https://github.com/ReactiveX/RxSwift) | 24645 | 4158 | Swift | 14 | Reactive Programming in Swift | 2026-04-08T08:21:58Z |
+| 20 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 24384 | 2764 | Swift | 168 | A lightweight, pure-Swift library for downloading and caching images from the web. | 2026-07-28T14:10:50Z |
+| 21 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 22964 | 1178 | Swift | 189 | 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | 2026-04-12T18:53:09Z |
+| 22 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) | 22950 | 3420 | Swift | 118 | The better way to deal with JSON data in Swift. | 2026-03-04T06:28:33Z |
+| 23 | [Hero](https://github.com/HeroTransitions/Hero) | 22485 | 1733 | Swift | 40 | Elegant transition library for iOS & tvOS | 2025-01-23T20:27:30Z |
+| 24 | [AeroSpace](https://github.com/nikitabobko/AeroSpace) | 22029 | 607 | Swift | 141 | AeroSpace is an i3-like tiling window manager for macOS | 2026-07-16T16:08:52Z |
+| 25 | [Mos](https://github.com/Caldis/Mos) | 21008 | 666 | Swift | 378 | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS | 2026-07-16T18:51:46Z |
 | 26 | [Aerial](https://github.com/JohnCoates/Aerial) | 20969 | 1037 | Swift | 17 | Apple TV Aerial Screensaver for Mac | 2026-05-16T13:55:52Z |
-| 27 | [Maccy](https://github.com/p0deje/Maccy) | 20907 | 1074 | Swift | 137 | Lightweight clipboard manager for macOS | 2026-07-28T19:45:41Z |
-| 28 | [SnapKit](https://github.com/SnapKit/SnapKit) | 20347 | 2044 | Swift | 0 | A Swift Autolayout DSL for iOS & OS X | 2026-07-13T10:50:19Z |
-| 29 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19821 | 3411 | Swift | 4 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2025-09-12T03:55:10Z |
-| 30 | [SwiftLint](https://github.com/realm/SwiftLint) | 19672 | 2311 | Swift | 396 | A tool to enforce Swift style and conventions. | 2026-07-27T20:48:27Z |
-| 31 | [CodexBar](https://github.com/steipete/CodexBar) | 19268 | 1603 | Swift | 82 | Show usage stats for OpenAI Codex and Claude Code, without having to login. | 2026-07-29T02:56:42Z |
-| 32 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 17678 | 1354 | Swift | 408 | 🕹 Retro video game emulation for macOS | 2025-10-22T21:39:10Z |
-| 33 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 16632 | 2444 | Swift | 7 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2026-05-25T14:09:39Z |
-| 34 | [Amethyst](https://github.com/ianyh/Amethyst) | 16196 | 525 | Swift | 273 | Automatic tiling window manager for macOS à la xmonad. | 2026-04-05T01:20:10Z |
-| 35 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 16099 | 799 | Swift | 60 | Windows alt-tab on macOS  | 2026-07-09T13:42:44Z |
+| 27 | [Maccy](https://github.com/p0deje/Maccy) | 20921 | 1078 | Swift | 122 | Lightweight clipboard manager for macOS | 2026-07-29T20:44:54Z |
+| 28 | [SnapKit](https://github.com/SnapKit/SnapKit) | 20348 | 2044 | Swift | 0 | A Swift Autolayout DSL for iOS & OS X | 2026-07-13T10:50:19Z |
+| 29 | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19822 | 3411 | Swift | 4 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. | 2025-09-12T03:55:10Z |
+| 30 | [SwiftLint](https://github.com/realm/SwiftLint) | 19676 | 2311 | Swift | 394 | A tool to enforce Swift style and conventions. | 2026-07-29T12:34:59Z |
+| 31 | [CodexBar](https://github.com/steipete/CodexBar) | 19317 | 1609 | Swift | 81 | Show usage stats for OpenAI Codex and Claude Code, without having to login. | 2026-07-30T00:32:43Z |
+| 32 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 17682 | 1354 | Swift | 407 | 🕹 Retro video game emulation for macOS | 2025-10-22T21:39:10Z |
+| 33 | [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) | 16633 | 2444 | Swift | 7 | Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. | 2026-05-25T14:09:39Z |
+| 34 | [Amethyst](https://github.com/ianyh/Amethyst) | 16198 | 525 | Swift | 273 | Automatic tiling window manager for macOS à la xmonad. | 2026-04-05T01:20:10Z |
+| 35 | [alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 16103 | 799 | Swift | 60 | Windows alt-tab on macOS  | 2026-07-09T13:42:44Z |
 | 36 | [SwiftGuide](https://github.com/ipader/SwiftGuide) | 15993 | 3496 | Swift | 0 | Swift Featured Projects in brain Mapping | 2026-07-09T05:09:06Z |
-| 37 | [Moya](https://github.com/Moya/Moya) | 15360 | 1997 | Swift | 158 | Network abstraction layer written in Swift. | 2026-07-14T22:07:40Z |
+| 37 | [Moya](https://github.com/Moya/Moya) | 15361 | 1997 | Swift | 158 | Network abstraction layer written in Swift. | 2026-07-14T22:07:40Z |
 | 38 | [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 15259 | 1731 | Swift | 4 | 📖 Design Patterns implemented in Swift 5.0 | 2024-08-03T07:30:28Z |
 | 39 | [Carthage](https://github.com/Carthage/Carthage) | 15176 | 1549 | Swift | 193 | A simple, decentralized dependency manager for Cocoa | 2025-09-10T15:36:04Z |
-| 40 | [Whisky](https://github.com/Whisky-App/Whisky) | 15147 | 610 | Swift | 434 | A modern Wine wrapper for macOS built with SwiftUI | 2025-05-11T17:50:04Z |
-| 41 | [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | 15139 | 1662 | Swift | 20 | A handy collection of more than 500 native Swift extensions to boost your productivity. | 2026-07-21T09:33:39Z |
-| 42 | [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 14840 | 1676 | Swift | 16 | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. | 2026-07-24T14:53:59Z |
-| 43 | [hidden](https://github.com/dwarvesf/hidden) | 14489 | 442 | Swift | 83 | An ultra-light MacOS utility that helps hide menu bar icons | 2026-06-15T19:25:30Z |
-| 44 | [PromiseKit](https://github.com/mxcl/PromiseKit) | 14230 | 1455 | Swift | 10 | Promises for Swift & ObjC. | 2026-06-03T18:37:03Z |
-| 45 | [AltStore](https://github.com/altstoreio/AltStore) | 14105 | 1363 | Swift | 645 | AltStore is an alternative app store for non-jailbroken iOS devices. | 2026-07-14T19:06:27Z |
-| 46 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | 14103 | 350 | Swift | 65 | A free, source-available and fair-code licensed mac app cleaner | 2026-06-22T18:49:18Z |
-| 47 | [Spring](https://github.com/MengTo/Spring) | 14039 | 1806 | Swift | 132 | A library to simplify iOS animations in Swift. | 2023-07-03T14:28:34Z |
-| 48 | [Easydict](https://github.com/tisfeng/Easydict) | 14038 | 710 | Swift | 150 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  | 2026-07-28T05:34:13Z |
-| 49 | [WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | 13804 | 1654 | Swift | 110 | A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨 | 2026-02-08T13:28:22Z |
+| 40 | [Whisky](https://github.com/Whisky-App/Whisky) | 15148 | 613 | Swift | 434 | A modern Wine wrapper for macOS built with SwiftUI | 2025-05-11T17:50:04Z |
+| 41 | [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | 15140 | 1662 | Swift | 20 | A handy collection of more than 500 native Swift extensions to boost your productivity. | 2026-07-21T09:33:39Z |
+| 42 | [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 14842 | 1676 | Swift | 16 | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. | 2026-07-24T14:53:59Z |
+| 43 | [hidden](https://github.com/dwarvesf/hidden) | 14496 | 443 | Swift | 83 | An ultra-light MacOS utility that helps hide menu bar icons | 2026-06-15T19:25:30Z |
+| 44 | [PromiseKit](https://github.com/mxcl/PromiseKit) | 14231 | 1455 | Swift | 10 | Promises for Swift & ObjC. | 2026-06-03T18:37:03Z |
+| 45 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | 14114 | 350 | Swift | 65 | A free, source-available and fair-code licensed mac app cleaner | 2026-06-22T18:49:18Z |
+| 46 | [AltStore](https://github.com/altstoreio/AltStore) | 14105 | 1366 | Swift | 645 | AltStore is an alternative app store for non-jailbroken iOS devices. | 2026-07-14T19:06:27Z |
+| 47 | [Easydict](https://github.com/tisfeng/Easydict) | 14053 | 710 | Swift | 149 | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.  | 2026-07-30T03:01:44Z |
+| 48 | [Spring](https://github.com/MengTo/Spring) | 14040 | 1806 | Swift | 132 | A library to simplify iOS animations in Swift. | 2023-07-03T14:28:34Z |
+| 49 | [WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | 13807 | 1654 | Swift | 110 | A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨 | 2026-02-08T13:28:22Z |
 | 50 | [Perfect](https://github.com/PerfectlySoft/Perfect) | 13744 | 928 | Swift | 54 | Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…) | 2024-02-03T15:38:39Z |
-| 51 | [supertonic](https://github.com/supertone-inc/supertonic) | 13540 | 1427 | Swift | 93 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | 2026-07-24T04:00:17Z |
+| 51 | [supertonic](https://github.com/supertone-inc/supertonic) | 13552 | 1434 | Swift | 93 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | 2026-07-24T04:00:17Z |
 | 52 | [openhaystack](https://github.com/seemoo-lab/openhaystack) | 13185 | 665 | Swift | 130 | Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. | 2024-07-09T07:19:10Z |
-| 53 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13009 | 3250 | Swift | 1829 | Firefox for iOS | 2026-07-28T20:48:08Z |
+| 53 | [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13011 | 3250 | Swift | 1837 | Firefox for iOS | 2026-07-30T04:06:41Z |
 | 54 | [SkeletonView](https://github.com/Juanpe/SkeletonView) | 12887 | 1125 | Swift | 77 | ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting | 2026-06-23T17:39:57Z |
-| 55 | [palmier-pro](https://github.com/palmier-io/palmier-pro) | 12657 | 928 | Swift | 50 | macOS video editor built for AI | 2026-07-29T02:53:39Z |
-| 56 | [mas](https://github.com/mas-cli/mas) | 12272 | 296 | Swift | 81 | :package: Mac App Store command-line interface | 2026-07-25T14:20:59Z |
-| 57 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | 12170 | 3465 | Swift | 116 | A private messenger for iOS. | 2026-07-25T00:14:20Z |
-| 58 | [Material](https://github.com/CosmicMind/Material) | 12007 | 1257 | Swift | 32 | A UI/UX framework for creating beautiful applications. | 2022-05-16T17:39:01Z |
-| 59 | [Eureka](https://github.com/xmartlabs/Eureka) | 11809 | 1309 | Swift | 164 | Elegant iOS form builder in Swift | 2024-09-12T17:04:03Z |
-| 60 | [PlayCover](https://github.com/PlayCover/PlayCover) | 11577 | 950 | Swift | 541 | Community fork of PlayCover | 2026-06-07T16:01:18Z |
-| 61 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11479 | 2004 | Swift | 7 | A self-taught project to learn Swift. | 2022-05-21T17:40:30Z |
+| 55 | [palmier-pro](https://github.com/palmier-io/palmier-pro) | 12780 | 941 | Swift | 50 | macOS video editor built for AI | 2026-07-30T03:18:59Z |
+| 56 | [mas](https://github.com/mas-cli/mas) | 12275 | 296 | Swift | 81 | :package: Mac App Store command-line interface | 2026-07-29T14:11:56Z |
+| 57 | [Signal-iOS](https://github.com/signalapp/Signal-iOS) | 12172 | 3467 | Swift | 117 | A private messenger for iOS. | 2026-07-29T21:34:37Z |
+| 58 | [Material](https://github.com/CosmicMind/Material) | 12006 | 1257 | Swift | 32 | A UI/UX framework for creating beautiful applications. | 2022-05-16T17:39:01Z |
+| 59 | [Eureka](https://github.com/xmartlabs/Eureka) | 11809 | 1310 | Swift | 164 | Elegant iOS form builder in Swift | 2024-09-12T17:04:03Z |
+| 60 | [PlayCover](https://github.com/PlayCover/PlayCover) | 11580 | 949 | Swift | 542 | Community fork of PlayCover | 2026-06-07T16:01:18Z |
+| 61 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11478 | 2004 | Swift | 7 | A self-taught project to learn Swift. | 2022-05-21T17:40:30Z |
 | 62 | [AudioKit](https://github.com/AudioKit/AudioKit) | 11420 | 1617 | Swift | 1 | Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | 2026-07-26T06:33:02Z |
-| 63 | [Loop](https://github.com/mrkai77/Loop) | 11268 | 255 | Swift | 52 | Window management made elegant. | 2026-07-15T20:45:33Z |
+| 63 | [Loop](https://github.com/mrkai77/Loop) | 11272 | 255 | Swift | 52 | Window management made elegant. | 2026-07-15T20:45:33Z |
 | 64 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 11086 | 1306 | Swift | 10 | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion | 2022-01-26T02:40:50Z |
 | 65 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | 10706 | 1158 | Swift | 1 | A collection of awesome loading animations | 2026-03-18T02:19:26Z |
 | 66 | [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 10559 | 1799 | Swift | 0 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift | 2026-07-13T22:37:37Z |
-| 67 | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | 10268 | 822 | Swift | 38 | Run iOS apps without actually installing them! | 2026-07-28T08:17:41Z |
-| 68 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | 10239 | 727 | Swift | 674 | RSS reader for macOS and iOS. | 2026-07-28T19:25:08Z |
-| 69 | [swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10199 | 1499 | Swift | 1051 | The Package Manager for the Swift Programming Language | 2026-07-28T20:16:41Z |
-| 70 | [SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 10186 | 1611 | Swift | 134 | A type-safe, Swift-language layer over SQLite3. | 2026-06-26T14:39:37Z |
-| 71 | [folding-cell](https://github.com/Ramotion/folding-cell) | 10183 | 1136 | Swift | 7 | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion | 2024-04-28T23:42:52Z |
-| 72 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | 10179 | 883 | Swift | 244 | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | 2026-07-25T23:05:22Z |
+| 67 | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | 10284 | 824 | Swift | 38 | Run iOS apps without actually installing them! | 2026-07-28T08:17:41Z |
+| 68 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | 10244 | 727 | Swift | 661 | RSS reader for macOS and iOS. | 2026-07-29T21:22:10Z |
+| 69 | [swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10200 | 1499 | Swift | 1050 | The Package Manager for the Swift Programming Language | 2026-07-29T23:00:59Z |
+| 70 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | 10190 | 886 | Swift | 245 | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | 2026-07-29T19:18:04Z |
+| 71 | [SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 10187 | 1611 | Swift | 134 | A type-safe, Swift-language layer over SQLite3. | 2026-06-26T14:39:37Z |
+| 72 | [folding-cell](https://github.com/Ramotion/folding-cell) | 10183 | 1136 | Swift | 7 | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion | 2024-04-28T23:42:52Z |
 | 73 | [pock](https://github.com/pock/pock) | 10143 | 375 | Swift | 68 | Widgets manager for MacBook Touch Bar | 2022-11-12T18:15:22Z |
-| 74 | [eul](https://github.com/gao-sun/eul) | 9921 | 374 | Swift | 68 | 🖥️ macOS status monitoring app written in SwiftUI. | 2024-05-25T22:59:12Z |
-| 75 | [Quick](https://github.com/Quick/Quick) | 9832 | 895 | Swift | 35 | The Swift (and Objective-C) testing framework. | 2026-05-18T15:19:28Z |
+| 74 | [eul](https://github.com/gao-sun/eul) | 9919 | 374 | Swift | 68 | 🖥️ macOS status monitoring app written in SwiftUI. | 2024-05-25T22:59:12Z |
+| 75 | [Quick](https://github.com/Quick/Quick) | 9833 | 895 | Swift | 35 | The Swift (and Objective-C) testing framework. | 2026-05-18T15:19:28Z |
 | 76 | [FlappySwift](https://github.com/newlinedotco/FlappySwift) | 9690 | 2639 | Swift | 5 | swift implementation of flappy bird. More at fullstackedu.com | 2023-04-29T03:44:50Z |
-| 77 | [R.swift](https://github.com/mac-cain13/R.swift) | 9569 | 779 | Swift | 72 | Strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2025-04-01T13:18:36Z |
-| 78 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) | 9552 | 765 | Swift | 125 | The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs! | 2026-04-16T08:20:58Z |
+| 77 | [R.swift](https://github.com/mac-cain13/R.swift) | 9569 | 777 | Swift | 72 | Strong typed, autocompleted resources like images, fonts and segues in Swift projects | 2025-04-01T13:18:36Z |
+| 78 | [SwiftGen](https://github.com/SwiftGen/SwiftGen) | 9552 | 764 | Swift | 125 | The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs! | 2026-04-16T08:20:58Z |
 | 79 | [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) | 9532 | 2787 | Swift | 65 | iOS interview questions;iOS面试题集锦（附答案）  | 2026-01-27T10:11:18Z |
-| 80 | [DevToysMac](https://github.com/DevToys-app/DevToysMac) | 9211 | 371 | Swift | 71 | DevToys For mac | 2024-05-03T04:09:41Z |
-| 81 | [Thaw](https://github.com/thaw-app/Thaw) | 9203 | 217 | Swift | 52 | The menu bar manager for macOS | 2026-07-29T01:11:46Z |
+| 80 | [Thaw](https://github.com/thaw-app/Thaw) | 9250 | 220 | Swift | 51 | The menu bar manager for macOS | 2026-07-30T03:11:29Z |
+| 81 | [DevToysMac](https://github.com/DevToys-app/DevToysMac) | 9210 | 371 | Swift | 71 | DevToys For mac | 2024-05-03T04:09:41Z |
 | 82 | [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) | 9139 | 1027 | Swift | 56 | Simple JSON Object mapping written in Swift | 2024-05-02T13:32:48Z |
-| 83 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | 9129 | 333 | Swift | 129 | Menubar Tool to set Charge Limits and Prolong Battery Lifespan | 2026-07-01T20:00:11Z |
-| 84 | [TrackWeight](https://github.com/KrishKrosh/TrackWeight) | 9079 | 396 | Swift | 14 | Use your Mac trackpad as a weighing scale | 2025-07-27T02:34:55Z |
-| 85 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 9069 | 581 | Swift | 57 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. | 2026-07-29T04:07:04Z |
-| 86 | [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | 8869 | 692 | Swift | 292 | A command-line tool and Xcode Extension for formatting Swift code | 2026-07-26T19:27:44Z |
-| 87 | [containerization](https://github.com/apple/containerization) | 8849 | 333 | Swift | 34 | Containerization is a Swift package for running Linux containers on macOS. | 2026-07-28T20:11:37Z |
-| 88 | [Bark](https://github.com/Finb/Bark) | 8808 | 674 | Swift | 5 | Bark is an iOS App which allows you to push custom notifications to your iPhone | 2026-07-20T07:30:29Z |
-| 89 | [Clipy](https://github.com/Clipy/Clipy) | 8798 | 818 | Swift | 130 | Clipboard extension app for macOS. | 2026-07-28T05:50:43Z |
-| 90 | [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8774 | 2739 | Swift | 617 | Telegram-iOS | 2026-07-21T04:34:53Z |
+| 83 | [AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) | 9130 | 333 | Swift | 129 | Menubar Tool to set Charge Limits and Prolong Battery Lifespan | 2026-07-01T20:00:11Z |
+| 84 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 9116 | 585 | Swift | 57 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. | 2026-07-29T04:07:04Z |
+| 85 | [TrackWeight](https://github.com/KrishKrosh/TrackWeight) | 9079 | 396 | Swift | 14 | Use your Mac trackpad as a weighing scale | 2025-07-27T02:34:55Z |
+| 86 | [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | 8871 | 693 | Swift | 292 | A command-line tool and Xcode Extension for formatting Swift code | 2026-07-26T19:27:44Z |
+| 87 | [containerization](https://github.com/apple/containerization) | 8847 | 334 | Swift | 34 | Containerization is a Swift package for running Linux containers on macOS. | 2026-07-29T17:49:56Z |
+| 88 | [Bark](https://github.com/Finb/Bark) | 8813 | 675 | Swift | 5 | Bark is an iOS App which allows you to push custom notifications to your iPhone | 2026-07-20T07:30:29Z |
+| 89 | [Clipy](https://github.com/Clipy/Clipy) | 8799 | 819 | Swift | 130 | Clipboard extension app for macOS. | 2026-07-28T05:50:43Z |
+| 90 | [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8782 | 2745 | Swift | 620 | Telegram-iOS | 2026-07-21T04:34:53Z |
 | 91 | [WWDC](https://github.com/insidegui/WWDC) | 8756 | 769 | Swift | 20 | The unofficial WWDC app for macOS | 2026-06-17T20:11:54Z |
-| 92 | [gitignore.io](https://github.com/toptal/gitignore.io) | 8724 | 686 | Swift | 62 | Create useful .gitignore files for your project | 2024-12-23T15:12:40Z |
+| 92 | [gitignore.io](https://github.com/toptal/gitignore.io) | 8724 | 685 | Swift | 62 | Create useful .gitignore files for your project | 2024-12-23T15:12:40Z |
 | 93 | [Dozer](https://github.com/Mortennn/Dozer) | 8717 | 298 | Swift | 94 | Hide menu bar icons on macOS | 2023-11-30T13:45:27Z |
 | 94 | [secretive](https://github.com/maxgoedjen/secretive) | 8706 | 205 | Swift | 157 | Protect your SSH keys with your Mac's Secure Enclave | 2026-07-02T19:49:09Z |
-| 95 | [ios-oss](https://github.com/kickstarter/ios-oss) | 8671 | 1231 | Swift | 5 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2026-07-28T20:04:13Z |
-| 96 | [XcodeGen](https://github.com/yonaskolb/XcodeGen) | 8660 | 891 | Swift | 352 | A Swift command line tool for generating your Xcode project | 2026-07-16T06:42:48Z |
+| 95 | [ios-oss](https://github.com/kickstarter/ios-oss) | 8671 | 1231 | Swift | 5 | Kickstarter for iOS. Bring new ideas to life, anywhere. | 2026-07-29T19:02:34Z |
+| 96 | [XcodeGen](https://github.com/yonaskolb/XcodeGen) | 8664 | 892 | Swift | 352 | A Swift command line tool for generating your Xcode project | 2026-07-16T06:42:48Z |
 | 97 | [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | 8645 | 772 | Swift | 45 | Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. | 2023-02-21T11:14:59Z |
-| 98 | [Starscream](https://github.com/daltoniam/Starscream) | 8643 | 1260 | Swift | 146 | Websockets in swift for iOS and OSX | 2024-05-16T21:37:05Z |
+| 98 | [Starscream](https://github.com/daltoniam/Starscream) | 8644 | 1260 | Swift | 146 | Websockets in swift for iOS and OSX | 2024-05-16T21:37:05Z |
 | 99 | [Nuke](https://github.com/kean/Nuke) | 8638 | 567 | Swift | 11 | Image loading system | 2026-05-07T20:51:23Z |
-| 100 | [GRDB.swift](https://github.com/groue/GRDB.swift) | 8571 | 1001 | Swift | 4 | A toolkit for SQLite databases, with a focus on application development | 2026-06-18T12:13:40Z |
+| 100 | [GRDB.swift](https://github.com/groue/GRDB.swift) | 8570 | 1003 | Swift | 4 | A toolkit for SQLite databases, with a focus on application development | 2026-06-18T12:13:40Z |
 
