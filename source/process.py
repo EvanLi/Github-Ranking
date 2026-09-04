@@ -2,6 +2,7 @@
 from datetime import datetime
 import os
 import pandas as pd
+import argparse
 from common import get_graphql_data, write_text, write_ranking_repo
 import inspect
 
@@ -148,7 +149,7 @@ class ProcessorGQL(object):
 
 
 class WriteFile(object):
-    def __init__(self, repos_stars, repos_forks, repos_languages):
+    def __init__(self, repos_stars, repos_forks, repos_languages, min_stars=None):
         self.repos_stars = repos_stars
         self.repos_forks = repos_forks
         self.repos_languages = repos_languages
@@ -175,13 +176,19 @@ class WriteFile(object):
         for i in range(len(languages)):
             lang = languages[i]
             lang_md = languages_md[i]
+            if min_stars is not None:
+                if lang not in repos_languages or not repos_languages[lang]:
+                    continue
+                top_repo_stars = repos_languages[lang][0]['stargazers_count']
+                if top_repo_stars < min_stars:
+                    continue
             self.repo_list.append({
                 "desc": "Forks",
                 "desc_md": "Forks",
                 "title_readme": lang_md,
                 "title_100": f"Top 100 Stars in {lang_md}",
                 "file_100": f"{lang}.md",
-                "data": repos_languages[lang],
+                "data": repos_languages[lang] if lang in repos_languages else [],
                 "item": lang,
             })
 
@@ -247,20 +254,25 @@ class WriteFile(object):
         print('Save data to Data/github-ranking-' + save_date + '.csv')
 
 
-def run_by_gql():
+def run_by_gql(min_stars=None):
     ROOT_PATH = os.path.abspath(os.path.join(__file__, "../../"))
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
-    processor = ProcessorGQL()  # use Github GraphQL API v4
+    processor = ProcessorGQL()
     repos_stars, repos_forks, repos_languages = processor.get_all_repos()
-    wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
+    wt_obj = WriteFile(repos_stars, repos_forks, repos_languages, min_stars=min_stars)
     wt_obj.write_head_contents()
     wt_obj.write_readme_lang_md()
     wt_obj.save_to_csv()
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Generate GitHub ranking')
+    parser.add_argument('--min-stars', type=int, default=None,
+                        help='Minimum star count threshold for filtering languages')
+    args = parser.parse_args()
+
     t1 = datetime.now()
-    run_by_gql()
+    run_by_gql(min_stars=args.min_stars)
     print("Total time: {}s".format((datetime.now() - t1).total_seconds()))
 
