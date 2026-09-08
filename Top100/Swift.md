@@ -71,7 +71,7 @@
 | 64 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11473 | 2000 | Swift | 7 | A self-taught project to learn Swift. | 2022-05-21T17:40:30Z |
 | 65 | [AudioKit](https://github.com/AudioKit/AudioKit) | 11460 | 1621 | Swift | 2 | Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS | 2026-07-26T06:33:02Z |
 | 66 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 11314 | 800 | Swift | 47 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp | 2026-09-07T21:45:40Z |
-| 67 | [vphone-cli](https://github.com/Lakr233/vphone-cli) | 11157 | 1421 | Swift | 18 | None | 2026-09-07T08:28:02Z |
+| 67 | [vphone-cli](https://github.com/Lakr233/vphone-cli) | 11157 | 1421 | Swift | 18 | Virtual iPhone | 2026-09-07T08:28:02Z |
 | 68 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 11085 | 1305 | Swift | 10 | :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion | 2022-01-26T02:40:50Z |
 | 69 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | 10707 | 1156 | Swift | 1 | A collection of awesome loading animations | 2026-03-18T02:19:26Z |
 | 70 | [boring.notch](https://github.com/TheBoredTeam/boring.notch) | 10646 | 988 | Swift | 246 | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | 2026-09-05T19:23:14Z |
