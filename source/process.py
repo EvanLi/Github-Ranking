@@ -13,14 +13,14 @@ languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "C
              "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
              "Swift", "TeX", "TypeScript", "Vim-script"]
 # Escape characters in markdown like # + - etc
-languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
-                "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
+languages_md = ["ActionScript", "C", "C\\#", "C\\+\\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
+                "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective\\-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
                 "Swift", "TeX", "TypeScript", "Vim script"]
 table_of_contents = """
 * [ActionScript](#actionscript)
 * [C](#c)
-* [C\#](#c-1)
-* [C\+\+](#c-2)
+* [C\\#](#c-1)
+* [C\\+\\+](#c-2)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [CSS](#css)
@@ -37,7 +37,7 @@ table_of_contents = """
 * [Kotlin](#kotlin)
 * [Lua](#lua)
 * [MATLAB](#matlab)
-* [Objective\-C](#objective-c)
+* [Objective\\-C](#objective-c)
 * [Perl](#perl)
 * [PHP](#php)
 * [PowerShell](#powershell)
