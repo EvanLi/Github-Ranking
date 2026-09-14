@@ -28,7 +28,7 @@ def write_ranking_repo(file_name, method, repos):
         for idx, repo in enumerate(repos):
             repo_description = repo['description']
             if repo_description is not None:
-                repo_description = repo_description.replace('|', '\|')  # in case there is '|' in description
+                repo_description = repo_description.replace('|', '\\|')  # in case there is '|' in description
             f.write("| {} | [{}]({}) | {} | {} | {} | {} | {} | {} |\n".format(
                 idx + 1, repo['name'], repo['html_url'], repo['stargazers_count'], repo['forks_count'],
                 repo['language'], repo['open_issues_count'], repo_description, repo['pushed_at']
