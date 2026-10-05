@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22611 | 3638 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
+| 1 | [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 22613 | 3638 | CoffeeScript | 803 | No longer maintained, see pinned issues | 2024-12-27T12:00:30Z |
 | 2 | [mojs](https://github.com/mojs/mojs) | 18793 | 890 | CoffeeScript | 37 | The motion graphics toolbelt for the web | 2026-07-30T16:54:33Z |
-| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16596 | 1980 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
+| 3 | [coffeescript](https://github.com/jashkenas/coffeescript) | 16596 | 1979 | CoffeeScript | 75 | Unfancy JavaScript | 2024-03-22T14:04:00Z |
 | 4 | [zxcvbn](https://github.com/dropbox/zxcvbn) | 16069 | 1001 | CoffeeScript | 120 | Low-Budget Password Strength Estimation | 2024-08-19T09:54:34Z |
 | 5 | [dynamics.js](https://github.com/michaelvillar/dynamics.js) | 7534 | 402 | CoffeeScript | 8 | Javascript library to create physics-based animations | 2019-02-26T06:19:21Z |
 | 6 | [morris.js](https://github.com/morrisjs/morris.js) | 6872 | 1190 | CoffeeScript | 283 | Pretty time-series line graphs | 2021-10-07T12:56:12Z |
@@ -39,7 +39,7 @@
 | 32 | [hallo](https://github.com/bergie/hallo) | 2438 | 304 | CoffeeScript | 89 | Simple rich text editor (contentEditable) for jQuery UI | 2020-09-03T15:39:25Z |
 | 33 | [oriDomi](https://github.com/dmotz/oriDomi) | 2411 | 198 | CoffeeScript | 9 | 🪭 Fold up DOM elements like paper | 2024-08-13T03:33:46Z |
 | 34 | [node-cache](https://github.com/node-cache/node-cache) | 2373 | 146 | CoffeeScript | 56 | a node internal (in-memory) caching module | 2024-06-04T17:30:54Z |
-| 35 | [hubot-slack](https://github.com/slackapi/hubot-slack) | 2323 | 633 | CoffeeScript | 19 | Slack Developer Kit for Hubot | 2024-08-12T19:59:33Z |
+| 35 | [hubot-slack](https://github.com/slackapi/hubot-slack) | 2323 | 634 | CoffeeScript | 19 | Slack Developer Kit for Hubot | 2024-08-12T19:59:33Z |
 | 36 | [js2coffee](https://github.com/js2coffee/js2coffee) | 2080 | 195 | CoffeeScript | 88 | Compile JavaScript to CoffeeScript | 2023-11-13T11:44:31Z |
 | 37 | [QuoJS](https://github.com/soyjavi/QuoJS) | 2048 | 230 | CoffeeScript | 23 | Micro #JavaScript Library for Mobile Devices | 2018-09-03T00:16:56Z |
 | 38 | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui) | 1995 | 1123 | CoffeeScript | 0 | Shadowsocks GUI client | 2018-09-24T04:39:12Z |
@@ -74,7 +74,7 @@
 | 67 | [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) | 1243 | 712 | CoffeeScript | 3 | None | 2016-08-11T03:01:11Z |
 | 68 | [mondrian](https://github.com/artursapek/mondrian) | 1236 | 100 | CoffeeScript | 19 | Web-based vector graphics editor | 2017-10-30T03:18:15Z |
 | 69 | [tourist](https://github.com/easelinc/tourist) | 1218 | 95 | CoffeeScript | 10 | Simple, flexible tours for your app | 2018-10-11T04:33:53Z |
-| 70 | [coffeelint](https://github.com/clutchski/coffeelint) | 1209 | 168 | CoffeeScript | 73 | Lint your CoffeeScript. | 2021-10-19T04:14:19Z |
+| 70 | [coffeelint](https://github.com/clutchski/coffeelint) | 1210 | 168 | CoffeeScript | 73 | Lint your CoffeeScript. | 2021-10-19T04:14:19Z |
 | 71 | [badges](https://github.com/boennemann/badges) | 1203 | 726 | CoffeeScript | 3 | :flower_playing_cards: Readme Badges – Gotta catch 'em all | 2019-04-05T16:27:49Z |
 | 72 | [json-diff](https://github.com/andreyvit/json-diff) | 1202 | 135 | CoffeeScript | 28 | Structural diff for JSON files | 2024-04-10T14:05:29Z |
 | 73 | [octonode](https://github.com/pksunkara/octonode) | 1184 | 233 | CoffeeScript | 25 | github api v3 in nodejs | 2022-12-06T18:33:48Z |
