@@ -696,3 +696,9 @@ This is top 10, for more click **[Top 100 Stars in Vim script](Top100/Vim-script
 | 9 | [vim-galore](https://github.com/mhinz/vim-galore) | 18012 | 626 | Vim Script | 6 | :mortar_board: All things Vim! | 2023-12-22T22:15:38Z |
 | 10 | [vim-airline](https://github.com/vim-airline/vim-airline) | 17972 | 1100 | Vim Script | 36 | lean & mean status/tabline for vim that's light as air | 2026-09-09T07:11:25Z |
 
+
+## 📌 How This Works
+This repository tracks and ranks GitHub repositories based on stars and forks. The data is automatically updated.
+
+## 🤝 Contributions
+Contributions are welcome! You can help by improving documentation, fixing typos, or suggesting enhancements.
