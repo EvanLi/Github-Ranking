@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 37816 | 9147 | TeX | 66 | Deep Learning Book Chinese Translation | 2019-12-03T04:25:44Z |
-| 2 | [libpku](https://github.com/lib-pku/libpku) | 34115 | 8187 | TeX | 11 | 贵校课程资料民间整理 | 2022-01-05T04:09:27Z |
-| 3 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | 28759 | 5295 | TeX | 55 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | 2026-10-20T16:16:56Z |
-| 4 | [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | 26195 | 4406 | TeX | 18 | The most cited deep learning papers | 2024-01-18T13:29:44Z |
-| 5 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 25041 | 3057 | TeX | 70 | Latex code for making neural networks diagrams | 2023-08-21T17:47:04Z |
-| 6 | [whitepaper](https://github.com/unicitynetwork/whitepaper) | 20099 | 626 | TeX | 0 | None | 2026-09-22T11:38:34Z |
+| 1 | [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 37839 | 9153 | TeX | 66 | Deep Learning Book Chinese Translation | 2019-12-03T04:25:44Z |
+| 2 | [libpku](https://github.com/lib-pku/libpku) | 34125 | 8184 | TeX | 11 | 贵校课程资料民间整理 | 2022-01-05T04:09:27Z |
+| 3 | [Awesome-CV](https://github.com/posquit0/Awesome-CV) | 28766 | 5285 | TeX | 55 | :page_facing_up: Awesome CV is LaTeX template for your outstanding job application | 2026-10-21T05:39:58Z |
+| 4 | [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | 26197 | 4406 | TeX | 18 | The most cited deep learning papers | 2024-01-18T13:29:44Z |
+| 5 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | 25041 | 3056 | TeX | 70 | Latex code for making neural networks diagrams | 2023-08-21T17:47:04Z |
+| 6 | [whitepaper](https://github.com/unicitynetwork/whitepaper) | 20101 | 626 | TeX | 0 | None | 2026-09-22T11:38:34Z |
 | 7 | [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) | 14676 | 2310 | TeX | 6 | A technical report on convolution arithmetic in the context of deep learning | 2023-06-08T21:06:47Z |
-| 8 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 13767 | 966 | TeX | 11 | Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. | 2026-10-11T02:56:34Z |
-| 9 | [os01](https://github.com/tuhdo/os01) | 13753 | 796 | TeX | 63 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2024-03-26T16:21:49Z |
-| 10 | [MathModel](https://github.com/zhanwen/MathModel) | 12368 | 2331 | TeX | 24 | 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT | 2025-09-20T03:38:22Z |
-| 11 | [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) | 12339 | 4097 | TeX | 28 | 谷歌全新开源人工智能系统TensorFlow官方文档中文版 | 2019-08-04T08:55:50Z |
-| 12 | [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) | 11700 | 646 | TeX | 44 | Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source | 2026-07-10T19:34:51Z |
-| 13 | [resume](https://github.com/billryan/resume) | 11513 | 2870 | TeX | 44 | An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git | 2024-03-15T08:48:48Z |
+| 8 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 13799 | 968 | TeX | 11 | Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. | 2026-10-11T02:56:34Z |
+| 9 | [os01](https://github.com/tuhdo/os01) | 13752 | 796 | TeX | 63 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2024-03-26T16:21:49Z |
+| 10 | [MathModel](https://github.com/zhanwen/MathModel) | 12372 | 2330 | TeX | 24 | 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT | 2025-09-20T03:38:22Z |
+| 11 | [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) | 12340 | 4097 | TeX | 28 | 谷歌全新开源人工智能系统TensorFlow官方文档中文版 | 2019-08-04T08:55:50Z |
+| 12 | [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) | 11701 | 646 | TeX | 44 | Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source | 2026-07-10T19:34:51Z |
+| 13 | [resume](https://github.com/billryan/resume) | 11514 | 2870 | TeX | 44 | An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git | 2024-03-15T08:48:48Z |
 | 14 | [leetcode](https://github.com/soulmachine/leetcode) | 11328 | 3354 | TeX | 41 | LeetCode题解，151道题完整版。 | 2024-07-10T22:02:14Z |
-| 15 | [lkmpg](https://github.com/sysprog21/lkmpg) | 8621 | 624 | TeX | 8 | The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) | 2026-09-07T18:07:29Z |
+| 15 | [lkmpg](https://github.com/sysprog21/lkmpg) | 8623 | 623 | TeX | 8 | The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) | 2026-09-07T18:07:29Z |
 | 16 | [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) | 8044 | 1327 | TeX | 9 | Classical equations and diagrams in machine learning | 2024-07-30T22:02:41Z |
-| 17 | [resume](https://github.com/sb2nov/resume) | 7048 | 1890 | TeX | 21 | Software developer resume in Latex | 2026-05-17T20:07:31Z |
-| 18 | [mtheme](https://github.com/matze/mtheme) | 6910 | 859 | TeX | 84 | A modern LaTeX Beamer theme | 2022-11-23T10:26:55Z |
+| 17 | [resume](https://github.com/sb2nov/resume) | 7049 | 1891 | TeX | 21 | Software developer resume in Latex | 2026-05-17T20:07:31Z |
+| 18 | [mtheme](https://github.com/matze/mtheme) | 6909 | 859 | TeX | 84 | A modern LaTeX Beamer theme | 2022-11-23T10:26:55Z |
 | 19 | [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) | 6772 | 596 | TeX | 0 | A curated list of awesome neural radiance fields papers | 2025-01-06T11:03:37Z |
 | 20 | [cheatsheets](https://github.com/rstudio/cheatsheets) | 6434 | 1944 | TeX | 13 | Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/. | 2026-09-10T17:22:27Z |
-| 21 | [vimtex](https://github.com/lervag/vimtex) | 6397 | 415 | TeX | 1 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2026-10-18T09:56:55Z |
+| 21 | [vimtex](https://github.com/lervag/vimtex) | 6397 | 415 | TeX | 2 | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | 2026-10-18T09:56:55Z |
 | 22 | [AlgoXY](https://github.com/liuxinyu95/AlgoXY) | 6328 | 761 | TeX | 1 | Book of Elementary Functional Algorithms and Data structures | 2025-12-15T08:32:49Z |
-| 23 | [MathModelAgent](https://github.com/jihe520/MathModelAgent) | 6225 | 444 | TeX | 33 | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. | 2026-10-03T07:04:06Z |
-| 24 | [thuthesis](https://github.com/tuna/thuthesis) | 5468 | 1168 | TeX | 7 | LaTeX Thesis Template for Tsinghua University | 2026-08-18T12:01:12Z |
+| 23 | [MathModelAgent](https://github.com/jihe520/MathModelAgent) | 6229 | 445 | TeX | 33 | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. | 2026-10-03T07:04:06Z |
+| 24 | [thuthesis](https://github.com/tuna/thuthesis) | 5469 | 1168 | TeX | 7 | LaTeX Thesis Template for Tsinghua University | 2026-08-18T12:01:12Z |
 | 25 | [Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) | 5458 | 759 | TeX | 8 | A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between. | 2023-03-15T22:16:54Z |
 | 26 | [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) | 5085 | 1093 | TeX | 2 | Course materials for Georgia Tech CS 4650 and 7650, "Natural Language" | 2023-01-31T05:37:16Z |
 | 27 | [Deedy-Resume](https://github.com/deedy/Deedy-Resume) | 5063 | 1289 | TeX | 31 | A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student | 2022-09-18T07:22:40Z |
-| 28 | [openmlsys](https://github.com/openmlsys/openmlsys) | 4869 | 475 | TeX | 79 | 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon） | 2026-03-15T21:51:18Z |
-| 29 | [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) | 4862 | 870 | TeX | 128 | RISC-V Instruction Set Manual | 2026-10-20T21:10:25Z |
-| 30 | [slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) | 4659 | 301 | TeX | 13 | Release repo for our SLAM Handbook | 2026-05-28T00:31:38Z |
+| 28 | [openmlsys](https://github.com/openmlsys/openmlsys) | 4868 | 475 | TeX | 79 | 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon） | 2026-03-15T21:51:18Z |
+| 29 | [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) | 4863 | 870 | TeX | 129 | RISC-V Instruction Set Manual | 2026-10-21T23:41:34Z |
+| 30 | [slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) | 4661 | 301 | TeX | 13 | Release repo for our SLAM Handbook | 2026-05-28T00:31:38Z |
 | 31 | [DeepLearning](https://github.com/wangshusen/DeepLearning) | 4225 | 893 | TeX | 16 | None | 2021-05-12T01:14:30Z |
-| 32 | [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4176 | 623 | TeX | 504 | None | 2026-08-27T12:23:45Z |
-| 33 | [ucasthesis](https://github.com/mohuangrui/ucasthesis) | 3919 | 945 | TeX | 20 | LaTeX Thesis Template for the University of Chinese Academy of Sciences  | 2024-02-29T13:15:36Z |
+| 32 | [my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4176 | 622 | TeX | 503 | None | 2026-08-27T12:23:45Z |
+| 33 | [ucasthesis](https://github.com/mohuangrui/ucasthesis) | 3917 | 945 | TeX | 20 | LaTeX Thesis Template for the University of Chinese Academy of Sciences  | 2024-02-29T13:15:36Z |
 | 34 | [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) | 3904 | 210 | TeX | 0 | Examples of how to create colorful, annotated equations in Latex using Tikz. | 2022-07-12T23:11:07Z |
-| 35 | [SJTUThesis](https://github.com/sjtug/SJTUThesis) | 3885 | 791 | TeX | 8 | 上海交通大学 LaTeX 论文模板 \| Shanghai Jiao Tong University LaTeX Thesis Template | 2026-05-20T03:31:44Z |
-| 36 | [coursebook](https://github.com/cs341-illinois/coursebook) | 3840 | 327 | TeX | 46 | Open Source Introductory Systems Programming Textbook for the University of Illinois | 2026-10-06T17:50:25Z |
+| 35 | [SJTUThesis](https://github.com/sjtug/SJTUThesis) | 3886 | 791 | TeX | 8 | 上海交通大学 LaTeX 论文模板 \| Shanghai Jiao Tong University LaTeX Thesis Template | 2026-05-20T03:31:44Z |
+| 36 | [coursebook](https://github.com/cs341-illinois/coursebook) | 3855 | 329 | TeX | 46 | Open Source Introductory Systems Programming Textbook for the University of Illinois | 2026-10-06T17:50:25Z |
 | 37 | [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) | 3837 | 409 | TeX | 0 | Tips for Writing a Research Paper using LaTeX | 2023-05-04T15:51:42Z |
-| 38 | [lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) | 3785 | 455 | TeX | 5 | A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε | 2026-04-25T11:48:11Z |
-| 39 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 3784 | 753 | TeX | 32 | Zhejiang University Graduation Thesis LaTeX Template | 2025-12-08T05:41:41Z |
-| 40 | [resume](https://github.com/hijiangtao/resume) | 3711 | 741 | TeX | 0 | 个人中文简历 Latex 源码 https://hijiangtao.github.io/ | 2024-09-04T03:15:27Z |
-| 41 | [perf-book](https://github.com/dendibakh/perf-book) | 3679 | 257 | TeX | 19 | The book "Performance Analysis and Tuning on Modern CPU" | 2025-06-09T19:19:54Z |
+| 38 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 3789 | 754 | TeX | 32 | Zhejiang University Graduation Thesis LaTeX Template | 2025-12-08T05:41:41Z |
+| 39 | [lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) | 3785 | 455 | TeX | 5 | A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε | 2026-04-25T11:48:11Z |
+| 40 | [resume](https://github.com/hijiangtao/resume) | 3715 | 743 | TeX | 0 | 个人中文简历 Latex 源码 https://hijiangtao.github.io/ | 2024-09-04T03:15:27Z |
+| 41 | [perf-book](https://github.com/dendibakh/perf-book) | 3680 | 257 | TeX | 19 | The book "Performance Analysis and Tuning on Modern CPU" | 2025-06-09T19:19:54Z |
 | 42 | [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) | 3638 | 189 | TeX | 21 | Open source book dedicated to helping you to make the best possible sourdough bread at home. | 2026-10-12T09:33:56Z |
 | 43 | [Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 3527 | 784 | TeX | 9 | Introduction to Autonomous Robots | 2026-02-11T23:38:22Z |
-| 44 | [cphb](https://github.com/pllk/cphb) | 3518 | 408 | TeX | 21 | Competitive Programmer's Handbook | 2024-08-01T00:35:22Z |
-| 45 | [archbase](https://github.com/foxsen/archbase) | 3372 | 321 | TeX | 3 | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 | 2025-11-20T01:47:45Z |
+| 44 | [cphb](https://github.com/pllk/cphb) | 3517 | 408 | TeX | 21 | Competitive Programmer's Handbook | 2024-08-01T00:35:22Z |
+| 45 | [archbase](https://github.com/foxsen/archbase) | 3373 | 321 | TeX | 3 | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 | 2025-11-20T01:47:45Z |
 | 46 | [latexcv](https://github.com/jankapunkt/latexcv) | 3355 | 636 | TeX | 1 | :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported! | 2026-10-16T10:40:29Z |
 | 47 | [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) | 3211 | 337 | TeX | 39 | Project overview, general documentation, and white papers. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information: | 2023-03-17T11:44:47Z |
-| 48 | [CCFA-Skills](https://github.com/mikubaka88/CCFA-Skills) | 3185 | 136 | TeX | 4 | A skill family for shaping the research storyline of CCF-A papers. | 2026-10-20T11:32:09Z |
+| 48 | [CCFA-Skills](https://github.com/mikubaka88/CCFA-Skills) | 3200 | 136 | TeX | 4 | A skill family for shaping the research storyline of CCF-A papers. | 2026-10-20T11:32:09Z |
 | 49 | [probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet) | 3170 | 695 | TeX | 2 | A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. | 2022-06-15T17:35:54Z |
-| 50 | [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) | 2994 | 347 | TeX | 6 | List of articles related to deep learning applied to music | 2023-12-15T16:51:26Z |
-| 51 | [language](https://github.com/dart-lang/language) | 2936 | 239 | TeX | 1261 | Design of the Dart language | 2026-10-19T23:25:32Z |
+| 50 | [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) | 2996 | 347 | TeX | 6 | List of articles related to deep learning applied to music | 2023-12-15T16:51:26Z |
+| 51 | [language](https://github.com/dart-lang/language) | 2936 | 239 | TeX | 1261 | Design of the Dart language | 2026-10-21T18:36:10Z |
 | 52 | [tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) | 2889 | 571 | TeX | 18 | It is open source ebook about TensorFlow kernel and implementation mechanism. | 2023-05-05T09:00:03Z |
 | 53 | [resume](https://github.com/jakegut/resume) | 2827 | 730 | TeX | 0 | LaTeX template for my personal resume | 2024-08-10T10:34:04Z |
 | 54 | [MTBook](https://github.com/NiuTrans/MTBook) | 2794 | 747 | TeX | 3 | 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models | 2024-09-14T11:26:32Z |
-| 55 | [mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) | 2712 | 848 | TeX | 14 | A Nice-looking CV template made into LaTeX | 2024-05-10T15:00:38Z |
-| 56 | [ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | 2691 | 237 | TeX | 2 | Pen and paper exercises in machine learning | 2024-05-21T20:05:42Z |
+| 55 | [mcdowell-cv](https://github.com/dnl-blkv/mcdowell-cv) | 2713 | 848 | TeX | 14 | A Nice-looking CV template made into LaTeX | 2024-05-10T15:00:38Z |
+| 56 | [ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | 2690 | 237 | TeX | 2 | Pen and paper exercises in machine learning | 2024-05-21T20:05:42Z |
 | 57 | [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) | 2651 | 1668 | TeX | 1 | LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey. | 2026-10-19T14:25:28Z |
 | 58 | [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) | 2629 | 470 | TeX | 43 | Elegant LaTeX Template for Books | 2026-05-02T03:29:09Z |
-| 59 | [Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) | 2570 | 607 | TeX | 5 | None | 2022-09-18T14:59:37Z |
+| 59 | [Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) | 2571 | 607 | TeX | 5 | None | 2022-09-18T14:59:37Z |
 | 60 | [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial) | 2555 | 490 | TeX | 12 | 《迁移学习简明手册》LaTex源码 | 2023-05-02T02:20:59Z |
 | 61 | [NRLPapers](https://github.com/thunlp/NRLPapers) | 2512 | 632 | TeX | 0 | Must-read papers on network representation learning (NRL) / network embedding (NE) | 2020-08-03T10:53:46Z |
-| 62 | [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) | 2493 | 139 | TeX | 5 | A Survey of Reinforcement Learning for Large Reasoning Models | 2026-09-14T10:42:59Z |
-| 63 | [latex2e](https://github.com/latex3/latex2e) | 2492 | 324 | TeX | 165 | The LaTeX2e kernel | 2026-10-20T22:03:43Z |
-| 64 | [hithesis](https://github.com/hithesis/hithesis) | 2462 | 406 | TeX | 25 | 嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板 | 2026-10-16T12:19:18Z |
-| 65 | [adv-r](https://github.com/hadley/adv-r) | 2461 | 1684 | TeX | 97 | Advanced R: a book | 2025-03-13T02:10:32Z |
+| 62 | [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) | 2494 | 139 | TeX | 5 | A Survey of Reinforcement Learning for Large Reasoning Models | 2026-09-14T10:42:59Z |
+| 63 | [latex2e](https://github.com/latex3/latex2e) | 2492 | 324 | TeX | 165 | The LaTeX2e kernel | 2026-10-22T01:31:29Z |
+| 64 | [hithesis](https://github.com/hithesis/hithesis) | 2465 | 406 | TeX | 25 | 嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板 | 2026-10-16T12:19:18Z |
+| 65 | [adv-r](https://github.com/hadley/adv-r) | 2461 | 1683 | TeX | 97 | Advanced R: a book | 2025-03-13T02:10:32Z |
 | 66 | [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) | 2431 | 440 | TeX | 2 | A machine translation reading list maintained by Tsinghua Natural Language Processing Group | 2024-08-09T14:48:06Z |
-| 67 | [the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2344 | 274 | TeX | 8 | None | 2026-07-31T09:37:05Z |
+| 67 | [the-little-go-book](https://github.com/karlseguin/the-little-go-book) | 2343 | 274 | TeX | 8 | None | 2026-07-31T09:37:05Z |
 | 68 | [python-coding-interview](https://github.com/liyin2015/python-coding-interview) | 2324 | 474 | TeX | 5 | A middle-to-high level open source algorithm book designed with coding interview at heart! | 2024-02-27T18:14:39Z |
-| 69 | [stat-cookbook](https://github.com/mavam/stat-cookbook) | 2310 | 345 | TeX | 0 | :orange_book: The probability and statistics cookbook | 2023-02-20T06:43:02Z |
-| 70 | [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) | 2287 | 566 | TeX | 1 | Bayesian Data Analysis course at Aalto | 2026-10-20T07:19:22Z |
+| 69 | [stat-cookbook](https://github.com/mavam/stat-cookbook) | 2311 | 345 | TeX | 0 | :orange_book: The probability and statistics cookbook | 2023-02-20T06:43:02Z |
+| 70 | [BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto) | 2287 | 566 | TeX | 1 | Bayesian Data Analysis course at Aalto | 2026-10-21T08:46:31Z |
 | 71 | [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) | 2261 | 679 | TeX | 4 | Repo for Yale Applied Empirical Methods PHD Course | 2026-04-30T18:40:48Z |
 | 72 | [the-turing-way](https://github.com/the-turing-way/the-turing-way) | 2193 | 783 | TeX | 491 | Book repository for The Turing Way: a how to guide for reproducible, ethical and collaborative data science | 2026-10-20T09:28:14Z |
 | 73 | [ixy-languages](https://github.com/ixy-languages/ixy-languages) | 2185 | 54 | TeX | 0 | A high-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python | 2024-06-11T22:55:02Z |
 | 74 | [book](https://github.com/HoTT/book) | 2172 | 379 | TeX | 78 | A textbook on informal homotopy type theory | 2026-06-18T16:22:21Z |
 | 75 | [ustcthesis](https://github.com/ustctug/ustcthesis) | 2131 | 452 | TeX | 1 | LaTeX template for USTC thesis | 2026-09-27T15:14:02Z |
-| 76 | [latex3](https://github.com/latex3/latex3) | 2129 | 215 | TeX | 141 | The expl3 (LaTeX3) Development Repository | 2026-10-20T14:56:48Z |
+| 76 | [latex3](https://github.com/latex3/latex3) | 2129 | 215 | TeX | 141 | The expl3 (LaTeX3) Development Repository | 2026-10-22T01:50:41Z |
 | 77 | [CleverAlgorithms](https://github.com/Jason2Brownlee/CleverAlgorithms) | 2122 | 340 | TeX | 0 | Clever Algorithms: Nature-Inspired Programming Recipes | 2024-12-20T03:55:29Z |
-| 78 | [machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized) | 2076 | 195 | TeX | 1 | ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy | 2026-08-19T03:16:18Z |
+| 78 | [machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized) | 2078 | 197 | TeX | 1 | ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy | 2026-08-19T03:16:18Z |
 | 79 | [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) | 2065 | 192 | TeX | 1 | Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX. | 2025-05-26T00:13:06Z |
 | 80 | [napkin](https://github.com/vEnhance/napkin) | 1983 | 188 | TeX | 15 | An Infinitely Large Napkin | 2026-10-20T18:14:09Z |
-| 81 | [debian-media-box](https://github.com/moesoha/debian-media-box) | 1943 | 78 | TeX | 6 | “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。 | 2025-08-10T02:53:48Z |
+| 81 | [debian-media-box](https://github.com/moesoha/debian-media-box) | 1944 | 78 | TeX | 6 | “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。 | 2025-08-10T02:53:48Z |
 | 82 | [moderncv](https://github.com/xdanaux/moderncv) | 1941 | 610 | TeX | 53 | A modern curriculum vitae class for LaTeX | 2024-06-13T14:36:53Z |
 | 83 | [slambook-en](https://github.com/gaoxiang12/slambook-en) | 1929 | 317 | TeX | 25 | The English version of 14 lectures on visual SLAM. | 2025-07-07T03:07:24Z |
 | 84 | [dlbook_notation](https://github.com/goodfeli/dlbook_notation) | 1925 | 384 | TeX | 3 | LaTeX files for the Deep Learning book notation | 2023-05-08T16:32:31Z |
-| 85 | [tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) | 1893 | 323 | TeX | 97 | A Tufte-inspired LaTeX class for producing handouts, papers, and books | 2024-07-14T22:12:26Z |
-| 86 | [minted](https://github.com/gpoore/minted) | 1864 | 131 | TeX | 48 | minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb. | 2026-03-04T04:04:54Z |
-| 87 | [arviz](https://github.com/arviz-devs/arviz) | 1861 | 511 | TeX | 107 | Exploratory analysis of Bayesian models with Python | 2026-10-12T05:57:25Z |
+| 85 | [tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) | 1894 | 323 | TeX | 97 | A Tufte-inspired LaTeX class for producing handouts, papers, and books | 2024-07-14T22:12:26Z |
+| 86 | [minted](https://github.com/gpoore/minted) | 1865 | 131 | TeX | 48 | minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb. | 2026-03-04T04:04:54Z |
+| 87 | [arviz](https://github.com/arviz-devs/arviz) | 1862 | 512 | TeX | 108 | Exploratory analysis of Bayesian models with Python | 2026-10-21T18:55:00Z |
 | 88 | [pandoc_resume](https://github.com/mszep/pandoc_resume) | 1777 | 757 | TeX | 28 | The Markdown Resume | 2024-02-28T17:35:05Z |
 | 89 | [WebLaTex](https://github.com/sanjib-sen/WebLaTex) | 1755 | 472 | TeX | 11 | A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container. | 2024-05-23T01:16:42Z |
 | 90 | [Cpp17](https://github.com/MeouSker77/Cpp17) | 1750 | 272 | TeX | 1 | 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删 | 2026-03-23T07:52:37Z |
-| 91 | [resume-template](https://github.com/devcelio/resume-template) | 1727 | 143 | TeX | 1 | The best LaTeX resume template. | 2026-03-12T03:47:51Z |
-| 92 | [beamer](https://github.com/josephwright/beamer) | 1723 | 165 | TeX | 120 | A LaTeX class for producing presentations and slides | 2026-08-21T13:28:25Z |
+| 91 | [resume-template](https://github.com/devcelio/resume-template) | 1729 | 143 | TeX | 1 | The best LaTeX resume template. | 2026-03-12T03:47:51Z |
+| 92 | [beamer](https://github.com/josephwright/beamer) | 1725 | 165 | TeX | 120 | A LaTeX class for producing presentations and slides | 2026-08-21T13:28:25Z |
 | 93 | [yellowpaper](https://github.com/ethereum/yellowpaper) | 1716 | 534 | TeX | 91 | The "Yellow Paper": Ethereum's formal specification | 2025-02-26T11:00:49Z |
 | 94 | [acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet) | 1715 | 530 | TeX | 12 | Acm Cheat Sheet | 2022-09-11T09:04:06Z |
 | 95 | [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) | 1705 | 1902 | TeX | 9 | Code repository for Think Bayes. | 2026-10-07T18:03:19Z |
 | 96 | [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) | 1701 | 166 | TeX | 2 | A compilation of the best multi-agent papers | 2026-10-21T02:01:45Z |
 | 97 | [LaTeX-Template-Cn](https://github.com/DeathKing/LaTeX-Template-Cn) | 1699 | 824 | TeX | 1 | \LaTeX 中文模版收集。 | 2018-03-11T13:49:31Z |
-| 98 | [Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1693 | 308 | TeX | 1 | A selection of state-of-the-art research materials on trajectory prediction | 2026-08-24T20:28:47Z |
+| 98 | [Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1694 | 308 | TeX | 1 | A selection of state-of-the-art research materials on trajectory prediction | 2026-08-24T20:28:47Z |
 | 99 | [LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples) | 1692 | 413 | TeX | 2 | Examples for the usage of LaTeX | 2026-09-28T08:23:49Z |
-| 100 | [thesisuestc](https://github.com/bdebye/thesisuestc) | 1689 | 354 | TeX | 40 | ThesisUESTC-电子科技大学毕业论文模板 | 2026-07-16T10:36:12Z |
+| 100 | [thesisuestc](https://github.com/bdebye/thesisuestc) | 1688 | 353 | TeX | 40 | ThesisUESTC-电子科技大学毕业论文模板 | 2026-07-16T10:36:12Z |
 
