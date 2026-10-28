@@ -5,68 +5,68 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [tgstation](https://github.com/tgstation/tgstation) | 1943 | 5342 | DM | 2370 | The /tg/station branch of SS13. | 2026-10-27T01:13:53Z |
-| 2 | [Paradise](https://github.com/ParadiseSS13/Paradise) | 448 | 1330 | DM | 881 | Paradise Station's GitHub main repository. | 2026-10-27T02:30:12Z |
+| 1 | [tgstation](https://github.com/tgstation/tgstation) | 1943 | 5342 | DM | 2368 | The /tg/station branch of SS13. | 2026-10-28T02:36:18Z |
+| 2 | [Paradise](https://github.com/ParadiseSS13/Paradise) | 448 | 1329 | DM | 884 | Paradise Station's GitHub main repository. | 2026-10-28T02:38:41Z |
 | 3 | [Baystation12](https://github.com/Baystation12/Baystation12) | 425 | 1684 | DM | 106 | Baystation's flavor of Space Station 13 | 2026-10-26T16:34:04Z |
-| 4 | [goonstation](https://github.com/goonstation/goonstation) | 410 | 1833 | DM | 3356 | Repository for the Goonstation branch of SS13 | 2026-10-26T14:36:15Z |
+| 4 | [goonstation](https://github.com/goonstation/goonstation) | 410 | 1834 | DM | 3357 | Repository for the Goonstation branch of SS13 | 2026-10-27T16:34:05Z |
 | 5 | [vgstation13](https://github.com/vgstation-coders/vgstation13) | 275 | 552 | DM | 3239 | Butts | 2026-10-23T14:09:54Z |
-| 6 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 217 | 730 | DM | 357 | 99.95% station. 0.05% bees | 2026-10-26T20:55:04Z |
+| 6 | [BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | 217 | 730 | DM | 360 | 99.95% station. 0.05% bees | 2026-10-27T17:55:08Z |
 | 7 | [blog](https://github.com/erbing/blog) | 204 | 40 | DM | 0 | 前端基础积累 / 新技术 / Vue / React / H5 / 奇怪的BUG / 面试 / 招聘 | 2020-04-01T16:58:50Z |
-| 8 | [TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps) | 190 | 925 | DM | 162 | TGMC: TerraGov Marine Corps, a SS13 mod | 2026-10-27T03:31:16Z |
-| 9 | [cmss13](https://github.com/cmss13-devs/cmss13) | 172 | 948 | DM | 701 | Contains the code for CM-SS13 | 2026-10-27T01:36:10Z |
-| 10 | [Aurora.3](https://github.com/Aurorastation/Aurora.3) | 162 | 563 | DM | 83 | The code for Aurorastation's new base, forked from Baystation12. | 2026-10-26T04:22:00Z |
+| 8 | [TerraGov-Marine-Corps](https://github.com/tgstation/TerraGov-Marine-Corps) | 190 | 925 | DM | 160 | TGMC: TerraGov Marine Corps, a SS13 mod | 2026-10-28T03:46:52Z |
+| 9 | [cmss13](https://github.com/cmss13-devs/cmss13) | 172 | 948 | DM | 701 | Contains the code for CM-SS13 | 2026-10-28T02:44:53Z |
+| 10 | [Aurora.3](https://github.com/Aurorastation/Aurora.3) | 162 | 563 | DM | 82 | The code for Aurorastation's new base, forked from Baystation12. | 2026-10-28T04:03:05Z |
 | 11 | [TauCetiClassic](https://github.com/TauCetiStation/TauCetiClassic) | 162 | 443 | DM | 1443 | Франкенштейн жив | 2026-10-25T01:10:21Z |
 | 12 | [CEV-Eris](https://github.com/discordia-space/CEV-Eris) | 158 | 530 | DM | 371 | Death is our destination | 2026-05-22T12:23:10Z |
 | 13 | [Yogstation](https://github.com/yogstation13/Yogstation) | 146 | 457 | DM | 698 | Discord: https://discord.gg/yogs13 Forums: https://forums.yogstation.net | 2025-05-22T03:20:58Z |
-| 14 | [Shiptest](https://github.com/shiptest-ss13/Shiptest) | 128 | 670 | DM | 258 | The Shiptest Codebase | 2026-10-27T03:25:15Z |
+| 14 | [Shiptest](https://github.com/shiptest-ss13/Shiptest) | 128 | 670 | DM | 260 | The Shiptest Codebase | 2026-10-28T03:58:14Z |
 | 15 | [NSV13](https://github.com/BeeStation/NSV13) | 124 | 279 | DM | 86 | NSV13, a Ship-to-ship Combat SS13 Server | 2026-10-22T13:27:49Z |
-| 16 | [Skyrat-tg](https://github.com/Skyrat-SS13/Skyrat-tg) | 116 | 641 | DM | 272 | A Skyrat downstream of /tg/station SS13. | 2026-10-24T12:59:28Z |
+| 16 | [Skyrat-tg](https://github.com/Skyrat-SS13/Skyrat-tg) | 116 | 641 | DM | 272 | A Skyrat downstream of /tg/station SS13. | 2026-10-28T03:54:37Z |
 | 17 | [VOREStation](https://github.com/VOREStation/VOREStation) | 108 | 463 | DM | 190 | The codebase used by the VORE SS13 server, based on Polaris SS13. | 2026-10-26T06:23:51Z |
 | 18 | [OnyxBay](https://github.com/ChaoticOnyx/OnyxBay) | 101 | 223 | DM | 1645 | Main repository with actual Space Station 13 sources. Branch of Baystation 12. | 2026-06-19T09:03:09Z |
-| 19 | [Monkestation2.0](https://github.com/Monkestation/Monkestation2.0) | 97 | 538 | DM | 1926 | A monkestation rebase to TG code | 2026-10-26T22:39:19Z |
-| 20 | [Paradise](https://github.com/ss220-space/Paradise) | 96 | 493 | DM | 0 | Основной репозиторий SS1984 | 2026-10-26T22:14:33Z |
-| 21 | [Bubberstation](https://github.com/Bubberstation/Bubberstation) | 86 | 537 | DM | 432 | Bubberstation SS13 | 2026-10-27T03:57:14Z |
+| 19 | [Monkestation2.0](https://github.com/Monkestation/Monkestation2.0) | 97 | 538 | DM | 1929 | A monkestation rebase to TG code | 2026-10-28T00:25:24Z |
+| 20 | [Paradise](https://github.com/ss220-space/Paradise) | 96 | 493 | DM | 0 | Основной репозиторий SS1984 | 2026-10-27T06:12:20Z |
+| 21 | [Bubberstation](https://github.com/Bubberstation/Bubberstation) | 86 | 536 | DM | 433 | Bubberstation SS13 | 2026-10-27T22:36:21Z |
 | 22 | [EventStoryLine](https://github.com/tommasoc80/EventStoryLine) | 83 | 23 | DM | 3 | Event StoryLine Corpus - annotated data, baselines and evaluation scripts, evaluation data. | 2023-09-23T17:01:26Z |
 | 23 | [goonstation-2016](https://github.com/goonstation/goonstation-2016) | 79 | 243 | DM | 1 | Public release of Goonstation from March 2016 (Archived) | 2020-02-19T14:54:01Z |
-| 24 | [citadel-main](https://github.com/citadel-station/citadel-main) | 78 | 379 | DM | 281 | Repo for the original Citadel Station build that originated from /tg/ code. | 2026-07-25T18:54:45Z |
+| 24 | [citadel-main](https://github.com/citadel-station/citadel-main) | 79 | 379 | DM | 281 | Repo for the original Citadel Station build that originated from /tg/ code. | 2026-07-25T18:54:45Z |
 | 25 | [Polaris](https://github.com/PolarisSS13/Polaris) | 73 | 302 | DM | 289 |  Polaris - A version of Spacestation13, forked from Baystation12. | 2026-07-03T09:02:42Z |
 | 26 | [FTL13](https://github.com/FTL13/FTL13) | 65 | 160 | DM | 1 | FTL in SS13! | 2019-05-10T21:04:26Z |
-| 27 | [S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | 64 | 417 | DM | 92 | SPLURT but with tgcode, basically | 2026-10-26T23:50:04Z |
-| 28 | [Azure-Peak](https://github.com/Azure-Peak/Azure-Peak) | 63 | 735 | DM | 111 | Medieval Fantasy Game based on SS13. | 2026-10-27T03:54:26Z |
-| 29 | [Nebula](https://github.com/NebulaSS13/Nebula) | 60 | 255 | DM | 25 | A general purpose SS13/Baystation12 fork. | 2026-10-27T03:21:46Z |
-| 30 | [NovaSector](https://github.com/NovaSector/NovaSector) | 59 | 570 | DM | 558 | A Nova Sector downstream of /tg/station SS13. | 2026-10-24T21:12:31Z |
+| 27 | [S.P.L.U.R.T-tg](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg) | 64 | 417 | DM | 92 | SPLURT but with tgcode, basically | 2026-10-27T23:10:10Z |
+| 28 | [Azure-Peak](https://github.com/Azure-Peak/Azure-Peak) | 63 | 735 | DM | 112 | Medieval Fantasy Game based on SS13. | 2026-10-28T03:15:35Z |
+| 29 | [Nebula](https://github.com/NebulaSS13/Nebula) | 60 | 255 | DM | 26 | A general purpose SS13/Baystation12 fork. | 2026-10-27T22:10:27Z |
+| 30 | [NovaSector](https://github.com/NovaSector/NovaSector) | 59 | 571 | DM | 558 | A Nova Sector downstream of /tg/station SS13. | 2026-10-27T22:38:49Z |
 | 31 | [sojourn-station](https://github.com/sojourn-13/sojourn-station) | 53 | 285 | DM | 25 | None | 2026-10-23T14:05:13Z |
 | 32 | [fulpstation](https://github.com/fulpstation/fulpstation) | 49 | 162 | DM | 3 | Fulp downstream of TG | 2026-10-15T12:53:44Z |
-| 33 | [Civ13](https://github.com/Civ13/Civ13) | 49 | 177 | DM | 20 | Historical SS13 | 2026-10-27T03:39:44Z |
+| 33 | [Civ13](https://github.com/Civ13/Civ13) | 49 | 177 | DM | 20 | Historical SS13 | 2026-10-28T03:55:32Z |
 | 34 | [learningai](https://github.com/JackBlogs/learningai) | 48 | 6 | DM | 0 | 完备的AI学习路线 | 2026-06-16T16:39:13Z |
 | 35 | [burgerstation](https://github.com/BurgerLUA/burgerstation) | 45 | 126 | DM | 50 | My main project. This is the repository for the upcoming BYOND game Burgerstation. Currently in development. | 2026-08-17T01:03:37Z |
 | 36 | [Foundation-19](https://github.com/Foundation-19/Foundation-19) | 44 | 187 | DM | 102 | SCP themed version of SS13. Contains technical debt and legacy code. | 2026-05-14T07:24:50Z |
 | 37 | [Ratwood-Keep](https://github.com/Rotwood-Vale/Ratwood-Keep) | 43 | 360 | DM | 5 | Ratwood \| Anthro-Allowed Renaissance-Punk Roleplay | 2025-08-15T23:42:57Z |
-| 38 | [CHOMPStation2](https://github.com/CHOMPStation2/CHOMPStation2) | 43 | 217 | DM | 21 | An update of Space Station 13 CHOMPStation using code derived from YawnWider, which is derived from VOREStation, which is derived from Polaris | 2026-10-26T02:24:34Z |
+| 38 | [CHOMPStation2](https://github.com/CHOMPStation2/CHOMPStation2) | 43 | 217 | DM | 21 | An update of Space Station 13 CHOMPStation using code derived from YawnWider, which is derived from VOREStation, which is derived from Polaris | 2026-10-28T03:55:22Z |
 | 39 | [dom5inspector](https://github.com/larzm42/dom5inspector) | 43 | 32 | DM | 6 | Dominions 5 data and mod browser. | 2024-01-15T18:26:58Z |
 | 40 | [cmss13-pve](https://github.com/cmss13-devs/cmss13-pve) | 40 | 263 | DM | 26 | None | 2026-09-18T01:51:20Z |
 | 41 | [lobotomy-corp13](https://github.com/vlggms/lobotomy-corp13) | 40 | 189 | DM | 28 | None | 2026-10-11T16:33:57Z |
 | 42 | [EuropaStation](https://github.com/Yonaguni/EuropaStation) | 39 | 64 | DM | 11 | A planet-based SS13 codebase. | 2019-03-26T03:00:10Z |
-| 43 | [citadel-rp](https://github.com/citadel-station/citadel-rp) | 39 | 287 | DM | 6 | Code for the Citadel Station RP server that originated from Virgo/Polaris. | 2026-10-27T03:13:49Z |
+| 43 | [citadel-rp](https://github.com/citadel-station/citadel-rp) | 39 | 287 | DM | 6 | Code for the Citadel Station RP server that originated from Virgo/Polaris. | 2026-10-28T02:53:19Z |
 | 44 | [HippieStationdeprecated2020](https://github.com/HippieStation/HippieStationdeprecated2020) | 39 | 43 | DM | 175 | The Hippie Station branch of SS13 | 2022-03-11T23:30:08Z |
-| 45 | [yogstation-2017-](https://github.com/yogstation13/yogstation-2017-) | 37 | 111 | DM | 0 | Yogstation13's master code source. [OLD - GO TO https://github.com/yogstation13/Yogstation-TG FOR THE NEW VERSION] | 2019-05-20T11:11:03Z |
-| 46 | [Ratwood-2.0](https://github.com/Rotwood-Vale/Ratwood-2.0) | 37 | 336 | DM | 107 | None | 2026-10-27T03:49:22Z |
+| 45 | [Ratwood-2.0](https://github.com/Rotwood-Vale/Ratwood-2.0) | 38 | 337 | DM | 107 | None | 2026-10-28T03:37:45Z |
+| 46 | [yogstation-2017-](https://github.com/yogstation13/yogstation-2017-) | 37 | 111 | DM | 0 | Yogstation13's master code source. [OLD - GO TO https://github.com/yogstation13/Yogstation-TG FOR THE NEW VERSION] | 2019-05-20T11:11:03Z |
 | 47 | [Baystation12](https://github.com/infinitystation/Baystation12) | 36 | 174 | DM | 49 | None | 2023-03-29T13:14:26Z |
 | 48 | [NTstation13](https://github.com/NTStation/NTstation13) | 36 | 199 | DM | 47 | NTstation13 - A version of Spacestation13, forked from /tg/station13. | 2017-10-04T15:42:12Z |
 | 49 | [BLACKSTONE](https://github.com/Blackstone-SS13/BLACKSTONE) | 33 | 173 | DM | 79 | None | 2024-06-24T08:17:41Z |
 | 50 | [Pre-Open-SS13-Host-Files-and-Source](https://github.com/Glloyd/Pre-Open-SS13-Host-Files-and-Source) | 33 | 15 | DM | 0 | SS13 host files and source from before Open SS13. More info in the ReadMe | 2017-03-30T02:55:57Z |
-| 51 | [OpenKeep](https://github.com/Darkrp-community/OpenKeep) | 31 | 548 | DM | 33 | Open source repository for StoneKeep | 2026-10-20T17:06:16Z |
+| 51 | [OpenKeep](https://github.com/Darkrp-community/OpenKeep) | 31 | 549 | DM | 33 | Open source repository for StoneKeep | 2026-10-20T17:06:16Z |
 | 52 | [daedalusdock](https://github.com/DaedalusDock/daedalusdock) | 30 | 85 | DM | 52 | Daedalus Dock's gameserver code | 2026-09-29T05:05:42Z |
 | 53 | [mojave-sun-13](https://github.com/Mojave-Sun/mojave-sun-13) | 29 | 111 | DM | 23 | Join our Discord at: https://discord.gg/ms13 for tests, questions, or to help with development | 2025-10-18T01:48:38Z |
 | 54 | [Agents](https://github.com/SoarGroup/Agents) | 29 | 12 | DM | 0 | A large collection of example and demo Soar agents for a variety of domains and problems. | 2026-09-14T18:15:38Z |
 | 55 | [Persistent-Bay](https://github.com/Persistent-SS13/Persistent-Bay) | 29 | 94 | DM | 1 | A fork of baycode that saves and loads characters and the station. | 2023-10-03T15:22:00Z |
 | 56 | [onesaitplatform-revolution](https://github.com/onesaitplatform/onesaitplatform-revolution) | 29 | 128 | DM | 0 | Onesait Platform revolution is an initiative of MINSAIT to activate the group of developers of its staff through a competition consisting of 2 phases: an initial that is developed individually and one in teams. | 2019-09-15T21:27:54Z |
 | 57 | [IS12-Warfare](https://github.com/Project-IS12/IS12-Warfare) | 29 | 104 | DM | 3 | The official IS12 Warfare repo. | 2026-09-13T18:58:11Z |
-| 58 | [FluffySTG](https://github.com/Fluffy-Frontier/FluffySTG) | 28 | 85 | DM | 0 | None | 2026-10-26T05:37:53Z |
+| 58 | [FluffySTG](https://github.com/Fluffy-Frontier/FluffySTG) | 28 | 86 | DM | 0 | None | 2026-10-26T05:37:53Z |
 | 59 | [nvmrc](https://github.com/dgjklh/nvmrc) | 28 | 1 | DM | 0 | None | 2025-02-14T21:04:44Z |
-| 60 | [HippieStation13-1](https://github.com/HippieStationArchive/HippieStation13-1) | 28 | 91 | DM | 140 | https://github.com/HippieStation/HippieStation13 | 2017-05-25T05:51:32Z |
-| 61 | [Lili-station](https://github.com/Derven/Lili-station) | 28 | 10 | DM | 3 | Isometric space station 13 | 2020-09-08T14:47:15Z |
-| 62 | [goonstation-2020](https://github.com/goonstation/goonstation-2020) | 27 | 63 | DM | 0 | Public release of Goonstation from January 2020 (Archived) | 2020-04-01T15:05:48Z |
+| 60 | [Lili-station](https://github.com/Derven/Lili-station) | 28 | 10 | DM | 3 | Isometric space station 13 | 2020-09-08T14:47:15Z |
+| 61 | [goonstation-2020](https://github.com/goonstation/goonstation-2020) | 27 | 63 | DM | 0 | Public release of Goonstation from January 2020 (Archived) | 2020-04-01T15:05:48Z |
+| 62 | [HippieStation13-1](https://github.com/HippieStationArchive/HippieStation13-1) | 27 | 91 | DM | 139 | https://github.com/HippieStation/HippieStation13 | 2017-05-25T05:51:32Z |
 | 63 | [Hyper-Station-13](https://github.com/quotefox/Hyper-Station-13) | 26 | 141 | DM | 1 | Hyper Station 13 | 2024-05-25T21:35:03Z |
 | 64 | [ApolloStation](https://github.com/Apollo-Community/ApolloStation) | 26 | 54 | DM | 43 | The best code this side of the galaxy! | 2017-02-13T00:51:56Z |
 | 65 | [PsychonautStation](https://github.com/psychonaut-station/PsychonautStation) | 25 | 54 | DM | 0 | PsychonautStation is a branch of tgstation which is a branch of SS13 | 2026-10-26T02:51:37Z |
@@ -80,10 +80,10 @@
 | 73 | [Procfile](https://github.com/barrydunikow/Procfile) | 22 | 1 | DM | 0 | None | 2025-02-14T20:22:26Z |
 | 74 | [application](https://github.com/JohannWojcik/application) | 21 | 1 | DM | 1 | None | 2025-02-12T18:38:45Z |
 | 75 | [UngaMarines-13](https://github.com/UngaCo/UngaMarines-13) | 21 | 65 | DM | 0 | Русскоязычный билд по мотивам вселенной "Aliens" | 2026-01-06T11:43:52Z |
-| 76 | [OpenSourceWeb](https://github.com/SS13-Special-Codebases-Archive/OpenSourceWeb) | 21 | 43 | DM | 0 | An open-source release of previously closed-source Farweb. | 2022-03-23T04:20:13Z |
-| 77 | [coolstation](https://github.com/coolstation/coolstation) | 20 | 73 | DM | 44 | Repository for the COOLEST branch of SS13 | 2026-10-20T23:37:05Z |
-| 78 | [Drymouth-Gulch](https://github.com/BadDeathclaw/Drymouth-Gulch) | 20 | 115 | DM | 0 | Bad Deathclaw SS13 server NEW TG | 2022-12-02T05:28:40Z |
-| 79 | [contributorsrc](https://github.com/fuxrunternexmen/contributorsrc) | 20 | 1 | DM | 0 | None | 2025-01-13T15:48:39Z |
+| 76 | [contributorsrc](https://github.com/fuxrunternexmen/contributorsrc) | 21 | 1 | DM | 0 | None | 2025-01-13T15:48:39Z |
+| 77 | [OpenSourceWeb](https://github.com/SS13-Special-Codebases-Archive/OpenSourceWeb) | 21 | 43 | DM | 0 | An open-source release of previously closed-source Farweb. | 2022-03-23T04:20:13Z |
+| 78 | [coolstation](https://github.com/coolstation/coolstation) | 20 | 73 | DM | 44 | Repository for the COOLEST branch of SS13 | 2026-10-27T14:23:26Z |
+| 79 | [Drymouth-Gulch](https://github.com/BadDeathclaw/Drymouth-Gulch) | 20 | 115 | DM | 0 | Bad Deathclaw SS13 server NEW TG | 2022-12-02T05:28:40Z |
 | 80 | [World-of-Darkness-13](https://github.com/WorldOfDarknessXIII/World-of-Darkness-13) | 20 | 136 | DM | 57 | The WoD13 server on Byond, based on Space Station 13 code. | 2026-05-04T02:06:22Z |
 | 81 | [austation](https://github.com/austation/austation) | 19 | 48 | DM | 0 | AuStation is an Australian SS13 server run by Australians, for Australians. | 2024-01-22T22:05:53Z |
 | 82 | [OracleStation](https://github.com/OracleStation/OracleStation) | 19 | 92 | DM | 139 | Repository for OracleStation SS13 project | 2018-10-06T23:55:56Z |
@@ -99,7 +99,7 @@
 | 92 | [pylintrc](https://github.com/damdonik/pylintrc) | 16 | 1 | DM | 0 | None | 2025-02-14T20:57:26Z |
 | 93 | [SS13-SCP13](https://github.com/SS13-SCP13/SS13-SCP13) | 16 | 64 | DM | 12 | SCP13 is a full conversion of Baystation12 towards the malleable universe of the SCP Foundation. | 2018-12-26T17:22:59Z |
 | 94 | [Jenkinsfile](https://github.com/damdonik/Jenkinsfile) | 16 | 3 | DM | 0 | None | 2025-03-13T19:37:38Z |
-| 95 | [map_depot](https://github.com/tgstation/map_depot) | 16 | 48 | DM | 0 | Store unused /tg/station maps here, so we can learn from our mistakes and hope for the future. | 2026-10-26T18:37:27Z |
+| 95 | [map_depot](https://github.com/tgstation/map_depot) | 16 | 48 | DM | 0 | Store unused /tg/station maps here, so we can learn from our mistakes and hope for the future. | 2026-10-27T17:53:48Z |
 | 96 | [ProcessScheduler](https://github.com/goonstation/ProcessScheduler) | 15 | 10 | DM | 3 | A BYOND SS13 Process Scheduler | 2020-03-22T03:44:19Z |
 | 97 | [40K-Eipharius](https://github.com/WoodenTucker/40K-Eipharius) | 15 | 98 | DM | 4 | None | 2026-07-18T17:39:47Z |
 | 98 | [coyote-bayou](https://github.com/ARF-SS13/coyote-bayou) | 15 | 151 | DM | 0 | None | 2026-06-23T16:29:04Z |
