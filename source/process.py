@@ -9,15 +9,16 @@ import inspect
 # languages_md = ['Python']  # For test
 # table_of_contents = """
 # * [Python](#python)"""  # For test
-languages = ["ActionScript", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
+languages = ["ActionScript", "Assembly", "C", "CSharp", "CPP", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
              "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
              "Swift", "TeX", "TypeScript", "Vim-script"]
 # Escape characters in markdown like # + - etc
-languages_md = ["ActionScript", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
+languages_md = ["ActionScript", "Assembly", "C", "C\#", "C\+\+", "Clojure", "CoffeeScript", "CSS", "Dart", "DM", "Elixir", "Go", "Groovy", "Haskell", "HTML", "Java",
                 "JavaScript", "Julia", "Kotlin", "Lua", "MATLAB", "Objective\-C", "Perl", "PHP", "PowerShell", "Python", "R", "Ruby", "Rust", "Scala", "Shell",
                 "Swift", "TeX", "TypeScript", "Vim script"]
 table_of_contents = """
 * [ActionScript](#actionscript)
+* [Assembly](#assembly)
 * [C](#c)
 * [C\#](#c-1)
 * [C\+\+](#c-2)
