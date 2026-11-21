@@ -5,104 +5,104 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [animate.css](https://github.com/animate-css/animate.css) | 83031 | 15964 | CSS | 48 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
-| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 65261 | 4001 | CSS | 25 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2026-10-17T22:06:24Z |
-| 3 | [hallmark](https://github.com/Nutlope/hallmark) | 58127 | 3166 | CSS | 29 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-11T11:56:16Z |
-| 4 | [normalize.css](https://github.com/necolas/normalize.css) | 53477 | 10251 | CSS | 56 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
-| 5 | [bulma](https://github.com/jgthms/bulma) | 50034 | 3855 | CSS | 350 | Modern CSS framework based on Flexbox | 2026-09-21T09:56:34Z |
-| 6 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45485 | 5554 | CSS | 240 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 2026-11-02T16:17:44Z |
-| 7 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 40635 | 9698 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2025-02-26T13:49:39Z |
-| 8 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 39665 | 3315 | CSS | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2026-11-19T21:29:25Z |
-| 9 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37785 | 1414 | CSS | 143 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
+| 1 | [animate.css](https://github.com/animate-css/animate.css) | 83044 | 15942 | CSS | 49 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | 2024-07-29T19:34:21Z |
+| 2 | [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 65266 | 3983 | CSS | 25 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 2026-10-17T22:06:24Z |
+| 3 | [hallmark](https://github.com/Nutlope/hallmark) | 58672 | 3196 | CSS | 29 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 2026-11-11T11:56:16Z |
+| 4 | [normalize.css](https://github.com/necolas/normalize.css) | 53482 | 10251 | CSS | 56 | A modern alternative to CSS resets | 2024-06-12T20:36:06Z |
+| 5 | [bulma](https://github.com/jgthms/bulma) | 50035 | 3854 | CSS | 350 | Modern CSS framework based on Flexbox | 2026-09-21T09:56:34Z |
+| 6 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45485 | 5553 | CSS | 240 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 2026-11-02T16:17:44Z |
+| 7 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 40637 | 9696 | CSS | 0 | 50+ mini web projects using HTML, CSS & JS | 2025-02-26T13:49:39Z |
+| 8 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 39703 | 3321 | CSS | 0 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 | 2026-11-19T21:29:25Z |
+| 9 | [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37787 | 1414 | CSS | 143 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. | 2023-07-16T16:48:59Z |
 | 10 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26850 | 5151 | CSS | 98 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. | 2022-02-28T10:57:30Z |
-| 11 | [codex-auth-helper](https://github.com/zhishile/codex-auth-helper) | 21044 | 870 | CSS | 91 | Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。 | 2026-06-07T07:58:54Z |
-| 12 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20462 | 1641 | CSS | 85 | Monospaced font family for user interface and coding environments | 2025-10-28T23:34:52Z |
-| 13 | [community-skeleton](https://github.com/uvdesk/community-skeleton) | 19648 | 560 | CSS | 75 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. | 2026-10-07T09:36:25Z |
-| 14 | [Skeleton](https://github.com/dhg/Skeleton) | 19340 | 3044 | CSS | 80 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
+| 11 | [codex-auth-helper](https://github.com/zhishile/codex-auth-helper) | 21084 | 871 | CSS | 92 | Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。 | 2026-06-07T07:58:54Z |
+| 12 | [source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20461 | 1641 | CSS | 85 | Monospaced font family for user interface and coding environments | 2025-10-28T23:34:52Z |
+| 13 | [community-skeleton](https://github.com/uvdesk/community-skeleton) | 19650 | 560 | CSS | 75 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. | 2026-10-07T09:36:25Z |
+| 14 | [Skeleton](https://github.com/dhg/Skeleton) | 19337 | 3044 | CSS | 80 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development | 2023-11-14T19:22:32Z |
 | 15 | [SpinKit](https://github.com/tobiasahlin/SpinKit) | 19309 | 1751 | CSS | 6 | A collection of loading indicators animated with CSS | 2020-08-01T09:04:59Z |
-| 16 | [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17496 | 2824 | CSS | 6 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation | 2026-11-17T21:01:28Z |
-| 17 | [pico](https://github.com/picocss/pico) | 16812 | 519 | CSS | 93 | Minimal CSS Framework for semantic HTML | 2026-10-04T04:00:49Z |
+| 16 | [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17498 | 2825 | CSS | 6 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation | 2026-11-20T08:02:02Z |
+| 17 | [pico](https://github.com/picocss/pico) | 16811 | 519 | CSS | 93 | Minimal CSS Framework for semantic HTML | 2026-10-04T04:00:49Z |
 | 18 | [30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) | 15958 | 990 | CSS | 0 | Short CSS code snippets for all your development needs | 2023-05-07T17:09:56Z |
-| 19 | [ratchet](https://github.com/twbs/ratchet) | 14718 | 1404 | CSS | 202 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2025-03-18T16:40:18Z |
-| 20 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13980 | 3080 | CSS | 0 | Tomorrow Theme | 2022-07-09T10:34:23Z |
+| 19 | [ratchet](https://github.com/twbs/ratchet) | 14719 | 1404 | CSS | 202 | Build mobile apps with simple HTML, CSS, and JavaScript components.  | 2025-03-18T16:40:18Z |
+| 20 | [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13981 | 3080 | CSS | 0 | Tomorrow Theme | 2022-07-09T10:34:23Z |
 | 21 | [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12903 | 975 | CSS | 24 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. | 2022-12-03T06:36:29Z |
 | 22 | [dalai](https://github.com/cocktailpeanut/dalai) | 12864 | 1304 | CSS | 291 | The simplest way to run LLaMA on your local machine | 2024-06-18T20:29:46Z |
-| 23 | [devicon](https://github.com/devicons/devicon) | 11877 | 2444 | CSS | 335 | Set of icons representing programming languages, designing & development tools | 2026-11-19T12:30:44Z |
-| 24 | [plex](https://github.com/IBM/plex) | 11783 | 624 | CSS | 72 | The package of IBM’s typeface, IBM Plex. | 2026-11-19T19:24:32Z |
+| 23 | [devicon](https://github.com/devicons/devicon) | 11879 | 2444 | CSS | 335 | Set of icons representing programming languages, designing & development tools | 2026-11-19T12:30:44Z |
+| 24 | [plex](https://github.com/IBM/plex) | 11784 | 625 | CSS | 72 | The package of IBM’s typeface, IBM Plex. | 2026-11-19T19:24:32Z |
 | 25 | [tachyons](https://github.com/tachyons-css/tachyons) | 11730 | 659 | CSS | 75 | Functional css for humans | 2026-07-20T15:11:15Z |
-| 26 | [98.css](https://github.com/jdan/98.css) | 11633 | 383 | CSS | 30 | A design system for building faithful recreations of old UIs | 2025-09-07T13:40:43Z |
-| 27 | [spectre](https://github.com/picturepan2/spectre) | 11304 | 775 | CSS | 162 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2024-04-11T16:20:19Z |
-| 28 | [_s](https://github.com/Automattic/_s) | 10946 | 2982 | CSS | 0 | Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes. | 2025-09-05T23:48:15Z |
+| 26 | [98.css](https://github.com/jdan/98.css) | 11634 | 383 | CSS | 30 | A design system for building faithful recreations of old UIs | 2025-09-07T13:40:43Z |
+| 27 | [spectre](https://github.com/picturepan2/spectre) | 11304 | 776 | CSS | 162 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | 2024-04-11T16:20:19Z |
+| 28 | [_s](https://github.com/Automattic/_s) | 10945 | 2982 | CSS | 0 | Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes. | 2025-09-05T23:48:15Z |
 | 29 | [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) | 10834 | 992 | CSS | 368 | CSS Inspiration，在这里找到写 CSS 的灵感！ | 2025-02-13T04:13:01Z |
 | 30 | [Effeckt.css](https://github.com/h5bp/Effeckt.css) | 10803 | 1340 | CSS | 0 | This repo is archived. Thanks! | 2019-03-01T16:28:55Z |
-| 31 | [wstg](https://github.com/OWASP/wstg) | 10327 | 1752 | CSS | 9 | The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. | 2026-11-19T19:30:10Z |
-| 32 | [seeker](https://github.com/thewhiteh4t/seeker) | 10320 | 2335 | CSS | 13 | Accurately Locate Smartphones using Social Engineering  | 2026-10-31T06:21:42Z |
-| 33 | [loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10218 | 1182 | CSS | 9 | Delightful, performance-focused pure css loading animations. | 2023-05-03T19:08:55Z |
+| 31 | [wstg](https://github.com/OWASP/wstg) | 10347 | 1753 | CSS | 10 | The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. | 2026-11-21T02:28:43Z |
+| 32 | [seeker](https://github.com/thewhiteh4t/seeker) | 10324 | 2336 | CSS | 13 | Accurately Locate Smartphones using Social Engineering  | 2026-10-31T06:21:42Z |
+| 33 | [loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10219 | 1182 | CSS | 9 | Delightful, performance-focused pure css loading animations. | 2023-05-03T19:08:55Z |
 | 34 | [photon](https://github.com/connors/photon) | 10114 | 565 | CSS | 64 | The fastest way to build beautiful Electron apps using simple HTML and CSS | 2026-04-03T21:34:36Z |
-| 35 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 10013 | 639 | CSS | 15 | :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks | 2026-11-10T17:07:18Z |
+| 35 | [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 10014 | 639 | CSS | 15 | :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks | 2026-11-10T17:07:18Z |
 | 36 | [jupyter-themes](https://github.com/dunovank/jupyter-themes) | 9817 | 1019 | CSS | 196 | Custom Jupyter Notebook Themes | 2025-06-22T15:37:46Z |
-| 37 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9668 | 31200 | CSS | 3 | A sample Spring-based application | 2026-09-29T15:37:54Z |
-| 38 | [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9598 | 498 | CSS | 1 | List of awesome CSS frameworks in 2026 | 2026-11-07T21:20:23Z |
-| 39 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 9549 | 415 | CSS | 9 | 🕶️ Awesome stuff for Obsidian | 2024-04-06T05:47:06Z |
-| 40 | [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | 9457 | 736 | CSS | 548 | MacOS like theme for all gtk based desktops | 2026-09-11T08:07:05Z |
-| 41 | [colors](https://github.com/mrmrs/colors) | 9437 | 508 | CSS | 4 | Smarter defaults for colors on the web. | 2023-07-20T09:56:41Z |
+| 37 | [spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9671 | 31221 | CSS | 3 | A sample Spring-based application | 2026-09-29T15:37:54Z |
+| 38 | [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9599 | 498 | CSS | 1 | List of awesome CSS frameworks in 2026 | 2026-11-07T21:20:23Z |
+| 39 | [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 9548 | 415 | CSS | 9 | 🕶️ Awesome stuff for Obsidian | 2024-04-06T05:47:06Z |
+| 40 | [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | 9458 | 737 | CSS | 548 | MacOS like theme for all gtk based desktops | 2026-09-11T08:07:05Z |
+| 41 | [colors](https://github.com/mrmrs/colors) | 9438 | 508 | CSS | 4 | Smarter defaults for colors on the web. | 2023-07-20T09:56:41Z |
 | 42 | [php-the-right-way](https://github.com/codeguy/php-the-right-way) | 9244 | 3170 | CSS | 26 | An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web | 2026-09-30T13:07:01Z |
-| 43 | [spin.js](https://github.com/fgnass/spin.js) | 9236 | 995 | CSS | 11 | A spinning activity indicator | 2024-07-19T20:53:58Z |
+| 43 | [spin.js](https://github.com/fgnass/spin.js) | 9235 | 995 | CSS | 11 | A spinning activity indicator | 2024-07-19T20:53:58Z |
 | 44 | [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) | 9033 | 3367 | CSS | 0 | 🏗 forkable Ethereum dev stack focused on fast product iterations  | 2024-06-04T15:20:23Z |
 | 45 | [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | 8953 | 2063 | CSS | 2 | The minimal amount of CSS to replicate the GitHub Markdown style | 2026-09-18T19:25:49Z |
 | 46 | [easings.net](https://github.com/ai/easings.net) | 8728 | 698 | CSS | 23 | Easing Functions Cheat Sheet | 2026-04-07T06:03:38Z |
-| 47 | [water.css](https://github.com/kognise/water.css) | 8656 | 496 | CSS | 47 | A drop-in collection of CSS styles to make simple websites just a little nicer | 2024-02-11T14:50:20Z |
+| 47 | [water.css](https://github.com/kognise/water.css) | 8657 | 496 | CSS | 47 | A drop-in collection of CSS styles to make simple websites just a little nicer | 2024-02-11T14:50:20Z |
 | 48 | [offline](https://github.com/HubSpot/offline) | 8553 | 816 | CSS | 104 | Automatically display online/offline indication to your users | 2023-02-26T00:19:50Z |
-| 49 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 8464 | 814 | CSS | 3 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. | 2025-12-15T06:30:06Z |
+| 49 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 8496 | 816 | CSS | 3 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. | 2025-12-15T06:30:06Z |
 | 50 | [hint.css](https://github.com/chinchang/hint.css) | 8416 | 678 | CSS | 43 | A CSS only tooltip library for your lovely websites. | 2024-10-17T14:08:37Z |
-| 51 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8401 | 34623 | CSS | 156 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
-| 52 | [primereact](https://github.com/primefaces/primereact) | 8313 | 1233 | CSS | 282 | The Most Complete React UI Component Library | 2026-11-02T14:48:49Z |
-| 53 | [arc-theme](https://github.com/horst3180/arc-theme) | 8232 | 600 | CSS | 173 | A flat theme with transparent elements | 2021-02-22T01:52:31Z |
+| 51 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 8402 | 34622 | CSS | 156 | Build a Jekyll blog in minutes, without touching the command line. | 2024-08-19T16:05:35Z |
+| 52 | [primereact](https://github.com/primefaces/primereact) | 8314 | 1233 | CSS | 282 | The Most Complete React UI Component Library | 2026-11-02T14:48:49Z |
+| 53 | [arc-theme](https://github.com/horst3180/arc-theme) | 8231 | 600 | CSS | 173 | A flat theme with transparent elements | 2021-02-22T01:52:31Z |
 | 54 | [thejsway](https://github.com/thejsway/thejsway) | 7881 | 785 | CSS | 2 | The JavaScript Way book | 2025-01-30T10:47:23Z |
 | 55 | [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | 7844 | 1498 | CSS | 2 | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | 2022-10-06T01:16:28Z |
 | 56 | [purecss-francine](https://github.com/cyanharlow/purecss-francine) | 7755 | 492 | CSS | 46 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. | 2023-11-06T06:50:37Z |
-| 57 | [json-api](https://github.com/json-api/json-api) | 7712 | 948 | CSS | 119 | A specification for building JSON APIs | 2026-10-04T09:41:48Z |
-| 58 | [tabula](https://github.com/tabulapdf/tabula) | 7496 | 698 | CSS | 0 | Tabula is a tool for liberating data tables trapped inside PDF files | 2025-03-14T14:04:33Z |
-| 59 | [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 7441 | 699 | CSS | 11 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. | 2026-11-19T04:19:16Z |
+| 57 | [json-api](https://github.com/json-api/json-api) | 7713 | 949 | CSS | 119 | A specification for building JSON APIs | 2026-10-04T09:41:48Z |
+| 58 | [tabula](https://github.com/tabulapdf/tabula) | 7498 | 698 | CSS | 0 | Tabula is a tool for liberating data tables trapped inside PDF files | 2025-03-14T14:04:33Z |
+| 59 | [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 7452 | 700 | CSS | 11 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. | 2026-11-20T04:07:20Z |
 | 60 | [DataTables](https://github.com/DataTables/DataTables) | 7390 | 2085 | CSS | 0 | DataTables - legacy repo | 2026-01-30T17:51:17Z |
-| 61 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 7365 | 2159 | CSS | 78 | ❤️静态响应式网址导航网站 - webstack.cc | 2024-05-04T07:39:42Z |
+| 61 | [WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) | 7368 | 2159 | CSS | 78 | ❤️静态响应式网址导航网站 - webstack.cc | 2024-05-04T07:39:42Z |
 | 62 | [odometer](https://github.com/HubSpot/odometer) | 7285 | 692 | CSS | 78 | Smoothly transitions numbers with ease. #hubspot-open-source | 2018-06-30T03:01:51Z |
-| 63 | [icheck](https://github.com/drgullin/icheck) | 7278 | 1573 | CSS | 165 | Highly customizable checkboxes and radio buttons (jQuery & Zepto) | 2020-12-19T03:59:54Z |
-| 64 | [guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com) | 7263 | 765 | CSS | 10 | Rails Girls Guides | 2026-11-13T16:51:02Z |
-| 65 | [weather-icons](https://github.com/erikflowers/weather-icons) | 7173 | 847 | CSS | 90 | 215 Weather Themed Icons and CSS | 2023-03-19T16:35:03Z |
+| 63 | [icheck](https://github.com/drgullin/icheck) | 7277 | 1572 | CSS | 165 | Highly customizable checkboxes and radio buttons (jQuery & Zepto) | 2020-12-19T03:59:54Z |
+| 64 | [guides.railsgirls.com](https://github.com/railsgirls/guides.railsgirls.com) | 7265 | 765 | CSS | 10 | Rails Girls Guides | 2026-11-13T16:51:02Z |
+| 65 | [weather-icons](https://github.com/erikflowers/weather-icons) | 7175 | 847 | CSS | 90 | 215 Weather Themed Icons and CSS | 2023-03-19T16:35:03Z |
 | 66 | [css-loaders](https://github.com/lukehaas/css-loaders) | 7046 | 997 | CSS | 12 | A collection of loading spinners animated with CSS | 2025-02-21T15:13:22Z |
 | 67 | [vex](https://github.com/HubSpot/vex) | 6859 | 479 | CSS | 50 | A modern dialog library which is highly configurable and easy to style. #hubspot-open-source | 2023-02-26T00:28:34Z |
 | 68 | [magic-of-css](https://github.com/adamschwartz/magic-of-css) | 6675 | 400 | CSS | 8 | A CSS course to turn you into a magician. | 2025-05-28T20:38:33Z |
 | 69 | [compass](https://github.com/Compass/compass) | 6650 | 1156 | CSS | 407 | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | 2023-04-24T17:45:42Z |
-| 70 | [progit2](https://github.com/progit/progit2) | 6633 | 2127 | CSS | 174 | Pro Git 2nd Edition | 2026-05-25T08:09:13Z |
-| 71 | [interpy-zh](https://github.com/eastlakeside/interpy-zh) | 6467 | 1301 | CSS | 8 | 📘《Python进阶》（Intermediate Python - Chinese Version） | 2022-07-11T07:57:49Z |
+| 70 | [progit2](https://github.com/progit/progit2) | 6633 | 2128 | CSS | 174 | Pro Git 2nd Edition | 2026-05-25T08:09:13Z |
+| 71 | [interpy-zh](https://github.com/eastlakeside/interpy-zh) | 6467 | 1300 | CSS | 8 | 📘《Python进阶》（Intermediate Python - Chinese Version） | 2022-07-11T07:57:49Z |
 | 72 | [sorry](https://github.com/xtyxtyx/sorry) | 6403 | 765 | CSS | 19 | 在线制作`sorry 为所欲为`的gif | 2023-04-11T12:44:58Z |
 | 73 | [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) | 6401 | 651 | CSS | 1 | A maintained collection of useful & free unity scripts / library's / plugins and extensions | 2026-11-01T15:43:47Z |
-| 74 | [micro-app](https://github.com/jd-opensource/micro-app) | 6262 | 643 | CSS | 3 | A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 | 2026-10-13T08:45:06Z |
-| 75 | [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) | 6245 | 298 | CSS | 145 | High-quality PNGs for logos I made for fun  | 2024-06-03T14:28:49Z |
-| 76 | [missing-semester](https://github.com/missing-semester/missing-semester) | 6218 | 1523 | CSS | 2 | The Missing Semester of Your CS Education 📚 | 2026-10-08T16:45:54Z |
-| 77 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | 6156 | 1336 | CSS | 15 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli | 2026-11-09T01:48:09Z |
-| 78 | [bounce.js](https://github.com/tictail/bounce.js) | 6145 | 404 | CSS | 10 | Create beautiful CSS3 powered animations in no time. | 2020-09-03T08:17:21Z |
+| 74 | [micro-app](https://github.com/jd-opensource/micro-app) | 6262 | 643 | CSS | 4 | A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架 | 2026-11-20T11:14:16Z |
+| 75 | [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) | 6244 | 298 | CSS | 145 | High-quality PNGs for logos I made for fun  | 2024-06-03T14:28:49Z |
+| 76 | [missing-semester](https://github.com/missing-semester/missing-semester) | 6222 | 1522 | CSS | 2 | The Missing Semester of Your CS Education 📚 | 2026-10-08T16:45:54Z |
+| 77 | [spicetify-themes](https://github.com/spicetify/spicetify-themes) | 6158 | 1336 | CSS | 15 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli | 2026-11-09T01:48:09Z |
+| 78 | [bounce.js](https://github.com/tictail/bounce.js) | 6146 | 404 | CSS | 10 | Create beautiful CSS3 powered animations in no time. | 2020-09-03T08:17:21Z |
 | 79 | [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) | 6140 | 1141 | CSS | 66 | http://learnopengl.com 系列教程的简体中文翻译 | 2026-03-20T02:14:39Z |
-| 80 | [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) | 6128 | 2228 | CSS | 3 | :dolphin: A comprehensive tutorial on getting started with Docker! | 2026-10-23T13:35:04Z |
-| 81 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 6122 | 430 | CSS | 4 | 程序员工作中常见的英语词汇 | 2026-04-08T10:42:28Z |
-| 82 | [basscss](https://github.com/basscss/basscss) | 5899 | 293 | CSS | 17 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library | 2022-12-30T17:37:47Z |
-| 83 | [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5812 | 575 | CSS | 7 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. | 2026-03-30T18:26:09Z |
+| 80 | [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) | 6128 | 2227 | CSS | 3 | :dolphin: A comprehensive tutorial on getting started with Docker! | 2026-10-23T13:35:04Z |
+| 81 | [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 6123 | 430 | CSS | 4 | 程序员工作中常见的英语词汇 | 2026-04-08T10:42:28Z |
+| 82 | [basscss](https://github.com/basscss/basscss) | 5898 | 293 | CSS | 17 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library | 2022-12-30T17:37:47Z |
+| 83 | [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5817 | 576 | CSS | 7 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. | 2026-03-30T18:26:09Z |
 | 84 | [learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) | 5769 | 905 | CSS | 0 | A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline | 2026-02-14T03:23:22Z |
-| 85 | [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 5697 | 308 | CSS | 173 | A distraction-free and highly customizable theme for Obsidian. | 2026-11-12T18:09:03Z |
-| 86 | [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) | 5639 | 956 | CSS | 59 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes. | 2026-11-13T10:52:49Z |
-| 87 | [oat](https://github.com/knadh/oat) | 5614 | 264 | CSS | 1 | Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz. | 2026-11-01T11:40:16Z |
+| 85 | [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 5698 | 308 | CSS | 173 | A distraction-free and highly customizable theme for Obsidian. | 2026-11-12T18:09:03Z |
+| 86 | [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) | 5641 | 956 | CSS | 60 | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes. | 2026-11-13T10:52:49Z |
+| 87 | [oat](https://github.com/knadh/oat) | 5614 | 263 | CSS | 1 | Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz. | 2026-11-01T11:40:16Z |
 | 88 | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 5443 | 616 | CSS | 53 | 💄CSS tricks for web developers~ | 2024-07-28T04:37:15Z |
 | 89 | [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) | 5392 | 3 | CSS | 395 | The next generation Javascript WYSIWYG HTML Editor. | 2026-11-18T08:14:56Z |
-| 90 | [plt](https://github.com/steshaw/plt) | 5374 | 344 | CSS | 0 | Programming Language Theory λΠ | 2024-12-02T01:47:27Z |
+| 90 | [plt](https://github.com/steshaw/plt) | 5375 | 344 | CSS | 0 | Programming Language Theory λΠ | 2024-12-02T01:47:27Z |
 | 91 | [jstutorial](https://github.com/ruanyf/jstutorial) | 5362 | 1269 | CSS | 1 | Javascript tutorial book | 2023-04-01T08:50:14Z |
-| 92 | [sanitize.css](https://github.com/csstools/sanitize.css) | 5311 | 295 | CSS | 18 | A best-practices CSS foundation | 2026-03-26T11:31:36Z |
-| 93 | [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) | 5298 | 1176 | CSS | 131 | Synthwave inspired colour theme for VS Code 🌅🕶  | 2025-07-17T14:44:13Z |
-| 94 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | 5298 | 390 | CSS | 15 | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 2023-09-17T02:06:16Z |
+| 92 | [sanitize.css](https://github.com/csstools/sanitize.css) | 5312 | 295 | CSS | 18 | A best-practices CSS foundation | 2026-03-26T11:31:36Z |
+| 93 | [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) | 5299 | 390 | CSS | 15 | Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included! | 2023-09-17T02:06:16Z |
+| 94 | [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) | 5297 | 1176 | CSS | 131 | Synthwave inspired colour theme for VS Code 🌅🕶  | 2025-07-17T14:44:13Z |
 | 95 | [blueprint-css](https://github.com/joshuaclayton/blueprint-css) | 5267 | 579 | CSS | 0 | A CSS framework that aims to cut down on your CSS development time | 2016-06-27T05:08:49Z |
-| 96 | [sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) | 5234 | 1451 | CSS | 10 | :book: [译] scikit-learn（sklearn） 中文文档 | 2026-08-27T10:41:41Z |
-| 97 | [youtube](https://github.com/safak/youtube) | 5231 | 5435 | CSS | 96 | None | 2024-05-30T23:04:41Z |
-| 98 | [hass-config](https://github.com/matt8707/hass-config) | 5207 | 664 | CSS | 4 | ✨ A different take on designing a Lovelace UI (Dashboard) | 2024-08-13T14:01:16Z |
+| 96 | [sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) | 5233 | 1451 | CSS | 10 | :book: [译] scikit-learn（sklearn） 中文文档 | 2026-08-27T10:41:41Z |
+| 97 | [youtube](https://github.com/safak/youtube) | 5232 | 5435 | CSS | 96 | None | 2024-05-30T23:04:41Z |
+| 98 | [hass-config](https://github.com/matt8707/hass-config) | 5206 | 664 | CSS | 4 | ✨ A different take on designing a Lovelace UI (Dashboard) | 2024-08-13T14:01:16Z |
 | 99 | [mvvm](https://github.com/DMQ/mvvm) | 5184 | 1219 | CSS | 11 | 剖析vue实现原理，自己动手实现mvvm | 2023-03-08T02:36:19Z |
-| 100 | [popcorn-app](https://github.com/popcorn-time/popcorn-app) | 5142 | 1621 | CSS | 0 | An experiment using the peerflix module of nodejs and connecting a bunch of APIs. | 2020-10-01T13:17:09Z |
+| 100 | [LapisCV](https://github.com/BingyanStudio/LapisCV) | 5143 | 320 | CSS | 12 | 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian | 2026-07-16T02:09:06Z |
 
