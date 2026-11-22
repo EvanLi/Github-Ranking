@@ -5,9 +5,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8062 | 607 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-11-19T15:23:30Z |
+| 1 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 8063 | 607 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2026-11-19T15:23:30Z |
 | 2 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7315 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24T08:44:01Z |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3126 | 813 | ActionScript | 77 | The Cross Platform Game Engine | 2026-10-10T18:06:19Z |
+| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 3127 | 813 | ActionScript | 77 | The Cross Platform Game Engine | 2026-10-10T18:06:19Z |
 | 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2510 | 1093 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22T07:50:12Z |
 | 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1505 | 451 | ActionScript | 107 |  An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs. | 2024-08-18T20:22:14Z |
 | 6 | [mapgen2](https://github.com/amitp/mapgen2) | 1379 | 210 | ActionScript | 2 | Map generator for games written in Flash. *There's an HTML5 version* on github/redblobgames/mapgen2 . Generates island maps with a focus on mountains, rivers, coastlines. | 2025-05-07T23:38:10Z |
@@ -24,7 +24,7 @@
 | 17 | [emulator](https://github.com/nesbox/emulator) | 660 | 255 | ActionScript | 90 | Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles | 2015-08-02T12:15:51Z |
 | 18 | [away3d-core-fp11](https://github.com/away3d/away3d-core-fp11) | 642 | 263 | ActionScript | 100 | Away3D engine for Flash Player 11 | 2024-06-03T14:06:14Z |
 | 19 | [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) | 596 | 68 | ActionScript | 49 | A simple music making program | 2024-07-11T20:05:39Z |
-| 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 553 | 219 | ActionScript | 65 | Modern AS3 Game Engine | 2026-03-06T06:53:50Z |
+| 20 | [Citrus-Engine](https://github.com/DaVikingCode/Citrus-Engine) | 554 | 219 | ActionScript | 65 | Modern AS3 Game Engine | 2026-03-06T06:53:50Z |
 | 21 | [Fanvas](https://github.com/Tencent/Fanvas) | 552 | 192 | ActionScript | 0 | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash into canvas animation with just one key! | 2019-10-24T03:48:59Z |
 | 22 | [as3swf](https://github.com/claus/as3swf) | 522 | 124 | ActionScript | 13 | Low level Actionscript 3 library to parse, create, modify and publish SWF files. | 2018-02-21T01:19:53Z |
 | 23 | [jQuery-webcam](https://github.com/infusion/jQuery-webcam) | 514 | 268 | ActionScript | 34 | A webcam wrapper plugin for jQuery | 2024-04-04T12:36:16Z |
@@ -95,7 +95,7 @@
 | 88 | [signals-extensions-CommandSignal](https://github.com/joelhooks/signals-extensions-CommandSignal) | 150 | 41 | ActionScript | 4 | Robotlegs extension to facilitate the use of AS3-Signals with Robotlegs commands | 2011-09-07T20:42:38Z |
 | 89 | [red-rogue](https://github.com/st33d/red-rogue) | 149 | 16 | ActionScript | 2 | flex roguelike | 2019-01-15T21:13:13Z |
 | 90 | [django-filebrowser-no-grappelli](https://github.com/wardi/django-filebrowser-no-grappelli) | 149 | 109 | ActionScript | 18 | django-filebrowser for default Django admin site.  Based on https://github.com/sehmaschine/django-filebrowser v3.1 (before it was in git)  Consider using https://github.com/smacker/django-filebrowser-no-grappelli which is based on a newer version | 2021-05-04T07:37:24Z |
-| 91 | [backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) | 145 | 56 | ActionScript | 13 | The Backyard Monsters preservation project 🎮 | 2026-11-14T17:43:20Z |
+| 91 | [backyard-monsters-refitted](https://github.com/bym-refitted/backyard-monsters-refitted) | 145 | 58 | ActionScript | 13 | The Backyard Monsters preservation project 🎮 | 2026-11-14T17:43:20Z |
 | 92 | [mockolate](https://github.com/drewbourne/mockolate) | 144 | 25 | ActionScript | 27 | fake chocolate, mock objects and test spies for AS3 | 2012-07-18T02:16:19Z |
 | 93 | [numeric-springing](https://github.com/TheAllenChou/numeric-springing) | 143 | 12 | ActionScript | 0 | Precise & designer-friendly numeric springing algorithms | 2020-04-18T19:20:48Z |
 | 94 | [Moonshine-IDE](https://github.com/Moonshine-IDE/Moonshine-IDE) | 139 | 16 | ActionScript | 284 | Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support. | 2026-08-19T11:32:48Z |
